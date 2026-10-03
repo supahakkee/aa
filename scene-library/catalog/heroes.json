@@ -3,10 +3,11 @@
     "film": "Aliens",
     "year": 1986,
     "scene": "Ripley in the power loader vs. the Alien Queen",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA/UK",
+    "query": "Aliens power loader vs alien queen get away from her scene",
+    "what_happens": "Ripley strides out of the Sulaco's hangar bay strapped into a yellow industrial power loader and grapples the Alien Queen, trading blows with its hydraulic arms before shoving the creature toward an open airlock.",
+    "why": "A full-size hydraulic Queen puppet and a practical power-loader rig put actor and creature in the same physical space; study how Cameron alternates wide scale shots with tight mechanical inserts to sell weight and leverage.",
     "director": "James Cameron",
+    "country": "USA/UK",
     "craft": [
       "Creature effects: Stan Winston Studio",
       "DP: Adrian Biddle",
@@ -17,23 +18,73 @@
       "Oscar: Best Visual Effects",
       "Oscar: Best Sound Effects Editing"
     ],
-    "techniques": [
-      "practical effects",
-      "duel",
-      "single location",
-      "sound design"
+    "scene_type": "fight.creature",
+    "format": [
+      "duel"
     ],
-    "why": "A full-size hydraulic Queen puppet and a practical power-loader rig put actor and creature in the same physical space; study how Cameron alternates wide scale shots with tight mechanical inserts to sell weight and leverage.",
-    "query": "Aliens power loader vs alien queen get away from her scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action",
+      "horror"
+    ],
+    "era": "far_future",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fog_mist"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "aliens",
+      "creatures",
+      "astronauts"
+    ],
+    "weapons": [
+      "improvised",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "mech_walker"
+    ],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "wide_framing",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Hangar bay of the Sulaco, orbiting LV-426, 2179",
+    "keywords": [
+      "power loader",
+      "alien queen",
+      "xenomorph",
+      "exosuit",
+      "airlock",
+      "hangar bay",
+      "hydraulic puppet"
+    ]
   },
   {
     "film": "Alien",
     "year": 1979,
     "scene": "The chestburster at the dinner table",
-    "category": "creature",
-    "medium": "film",
-    "country": "UK/USA",
+    "query": "Alien 1979 chestburster scene",
+    "what_happens": "During a relaxed meal aboard the Nostromo, Kane chokes and convulses on the mess table while the crew pin him down; a small creature bursts bloodily from his chest and darts away.",
+    "why": "Multiple cameras capture the cast's raw reactions in a single practical take; study how mundane, overlapping dinner chatter lulls the audience before the puppet bursts through, and how restraint beforehand amplifies the gore.",
     "director": "Ridley Scott",
+    "country": "UK/USA",
     "craft": [
       "Creature design: H.R. Giger",
       "DP: Derek Vanlint",
@@ -42,48 +93,143 @@
     "accolades": [
       "Oscar: Best Visual Effects"
     ],
-    "techniques": [
-      "practical effects",
-      "single location",
-      "sound design"
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush"
     ],
-    "why": "Multiple cameras capture the cast's raw reactions in a single practical take; study how mundane, overlapping dinner chatter lulls the audience before the puppet bursts through, and how restraint beforehand amplifies the gore.",
-    "query": "Alien 1979 chestburster scene",
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "sci_fi"
+    ],
+    "era": "far_future",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "terrifying",
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "aliens",
+      "creatures",
+      "astronauts"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Mess hall of the towing ship Nostromo, deep space, 2122",
+    "keywords": [
+      "chestburster",
+      "dinner table",
+      "blood spray",
+      "cast reactions",
+      "body horror",
+      "nostromo",
+      "puppet"
+    ],
     "video": "UxqVFmig5AA"
   },
   {
     "film": "Predator",
     "year": 1987,
     "scene": "Dutch's mud-camouflage finale vs. the Predator",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Predator mud scene Dutch vs Predator final fight",
+    "what_happens": "Caked in cold mud that hides him from thermal vision, Dutch hunts the Predator through the night jungle with a homemade bow, torches and traps, then slugs it out with the unmasked creature by firelight.",
+    "why": "A stripped-down duel built on point-of-view logic: thermal-vision POV shots establish the hunter's rules, then mud, torchlight and booby traps flip them. Study how silence, the war cry and sparse score carry the final hunt.",
     "director": "John McTiernan",
+    "country": "USA",
     "craft": [
       "Creature effects: Stan Winston Studio",
       "DP: Donald McAlpine",
       "Composer: Alan Silvestri"
     ],
     "accolades": [],
-    "techniques": [
-      "practical effects",
-      "jungle",
-      "night",
-      "fire",
-      "improvised weapons",
-      "duel"
+    "scene_type": "fight.creature",
+    "format": [
+      "duel",
+      "stealth_infiltration"
     ],
-    "why": "A stripped-down duel built on point-of-view logic: thermal-vision POV shots establish the hunter's rules, then mud, torchlight and booby traps flip them. Study how silence, the war cry and sparse score carry the final hunt.",
-    "query": "Predator mud scene Dutch vs Predator final fight"
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "sci_fi",
+      "horror"
+    ],
+    "era": "late_20th_century",
+    "region": "latin_america",
+    "environment": [
+      "jungle"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "mud",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "gritty"
+    ],
+    "combatants": [
+      "aliens",
+      "special_forces"
+    ],
+    "weapons": [
+      "improvised",
+      "bow_arrow",
+      "fists_feet",
+      "energy_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "pov",
+      "practical_effects",
+      "silence",
+      "sound_design",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Val Verde jungle, Central America, 1980s",
+    "keywords": [
+      "mud camouflage",
+      "thermal vision",
+      "booby trap",
+      "log trap",
+      "war cry",
+      "torch",
+      "homemade bow",
+      "cloaking"
+    ]
   },
   {
     "film": "Pacific Rim",
     "year": 2013,
     "scene": "Battle of Hong Kong: Gipsy Danger vs. Otachi and Leatherback",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Pacific Rim Hong Kong battle Gipsy Danger ship scene",
+    "what_happens": "In rain and neon, the giant robot Gipsy Danger brawls with the winged kaiju Otachi through Hong Kong's towers, swinging a cargo ship like a club, then unfolds a chain sword as the monster carries it skyward.",
+    "why": "ILM's rain-soaked, neon-lit night battle sells colossal scale through slow, heavy mech animation, water interaction and falling debris; a lesson in readable kaiju geography and in turning a cargo ship into a giant-scale weapon.",
     "director": "Guillermo del Toro",
+    "country": "USA",
     "craft": [
       "VFX: Industrial Light & Magic",
       "VFX supervisor: John Knoll",
@@ -91,24 +237,77 @@
       "Composer: Ramin Djawadi"
     ],
     "accolades": [],
-    "techniques": [
-      "cgi",
-      "night",
-      "rain",
-      "urban combat",
-      "sound design"
+    "scene_type": "battle.giants",
+    "format": [
+      "duel"
     ],
-    "why": "ILM's rain-soaked, neon-lit night battle sells colossal scale through slow, heavy mech animation, water interaction and falling debris; a lesson in readable kaiju geography and in turning a cargo ship into a giant-scale weapon.",
-    "query": "Pacific Rim Hong Kong battle Gipsy Danger ship scene"
+    "scale": "city_scale",
+    "genre": [
+      "sci_fi",
+      "action",
+      "monster"
+    ],
+    "era": "near_future",
+    "region": "hong_kong",
+    "environment": [
+      "city_street",
+      "skyscraper_exterior",
+      "sky"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "rain",
+      "neon",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "chaotic"
+    ],
+    "combatants": [
+      "mechs",
+      "kaiju_giant_monsters"
+    ],
+    "weapons": [
+      "improvised",
+      "european_sword",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "mech_walker"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "wide_framing",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Hong Kong, 2025 (Kaiju War)",
+    "keywords": [
+      "jaeger",
+      "kaiju",
+      "cargo ship",
+      "chain sword",
+      "elbow rocket",
+      "otachi",
+      "gipsy danger",
+      "harbour"
+    ]
   },
   {
     "film": "Jaws",
     "year": 1975,
     "scene": "The Orca sinks: Quint's death and the 'Smile, you son of a...' finale",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Jaws final scene Orca sinking shark explodes",
+    "what_happens": "As the Orca sinks, Brody clings to the half-submerged mast while the great white charges; he wedges a scuba tank in its jaws and fires his rifle until the tank explodes the shark.",
+    "why": "Shot on the open ocean with a temperamental mechanical shark, the finale pays off a film-long strategy of withholding the creature; study how the sinking boat, Williams' score and close coverage carry the terror.",
     "director": "Steven Spielberg",
+    "country": "USA",
     "craft": [
       "Editor: Verna Fields",
       "DP: Bill Butler",
@@ -119,179 +318,579 @@
       "Oscar: Best Original Score",
       "Oscar: Best Sound"
     ],
-    "techniques": [
-      "practical effects",
-      "real location",
-      "practical explosions",
-      "score-driven"
+    "scene_type": "fight.creature",
+    "format": [
+      "duel",
+      "last_stand"
     ],
-    "why": "Shot on the open ocean with a temperamental mechanical shark, the finale pays off a film-long strategy of withholding the creature; study how the sinking boat, Williams' score and close coverage carry the terror.",
-    "query": "Jaws final scene Orca sinking shark explodes"
+    "scale": "one_on_one",
+    "genre": [
+      "thriller",
+      "horror",
+      "adventure"
+    ],
+    "era": "mid_20th_century",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "heroic"
+    ],
+    "combatants": [
+      "creatures",
+      "police"
+    ],
+    "weapons": [
+      "rifle",
+      "explosives",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "practical_effects",
+      "real_location",
+      "score_driven",
+      "tight_framing",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Waters off Amity Island, New England, mid-1970s",
+    "keywords": [
+      "great white shark",
+      "sinking boat",
+      "scuba tank",
+      "mast",
+      "mechanical shark",
+      "orca",
+      "shark explodes"
+    ]
   },
   {
     "film": "King Kong",
     "year": 1933,
     "scene": "Kong atop the Empire State Building vs. the biplanes",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "King Kong 1933 Empire State Building biplanes scene",
+    "what_happens": "Clutching Ann Darrow, Kong climbs to the top of the Empire State Building, sets her on a ledge and swats at circling biplanes as their machine guns riddle him with bullets.",
+    "why": "Willis O'Brien's stop-motion Kong is composited with miniatures, live-action cockpit inserts and rear projection; study how cross-cutting between pilots, Ann and Kong builds the template every creature finale still follows.",
     "director": "Merian C. Cooper, Ernest B. Schoedsack",
+    "country": "USA",
     "craft": [
       "Stop-motion animation: Willis O'Brien",
       "Composer: Max Steiner"
     ],
     "accolades": [],
-    "techniques": [
-      "stop motion",
-      "miniatures",
-      "rear projection",
-      "cross-cutting"
+    "scene_type": "battle.giants",
+    "format": [
+      "last_stand"
     ],
-    "why": "Willis O'Brien's stop-motion Kong is composited with miniatures, live-action cockpit inserts and rear projection; study how cross-cutting between pilots, Ann and Kong builds the template every creature finale still follows.",
-    "query": "King Kong 1933 Empire State Building biplanes scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "monster",
+      "adventure",
+      "horror"
+    ],
+    "era": "early_20th_century",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "epic",
+      "awe"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "pilots"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "biplane"
+    ],
+    "technique": [
+      "practical_effects",
+      "miniatures",
+      "rear_projection",
+      "cross_cutting",
+      "black_and_white"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Manhattan, New York City, 1933",
+    "keywords": [
+      "empire state building",
+      "stop motion",
+      "biplanes",
+      "skyscraper climb",
+      "ann darrow",
+      "beauty and the beast",
+      "willis o'brien"
+    ]
   },
   {
     "film": "The Thing",
     "year": 1982,
     "scene": "The defibrillator scene (Norris's chest opens)",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Thing 1982 defibrillator scene",
+    "what_happens": "As Dr. Copper presses defibrillator paddles to Norris, his chest splits into jaws that bite off Copper's arms; MacReady torches the mutating body, and its severed head sprouts spider legs and scuttles away.",
+    "why": "Rob Bottin's animatronic chest jaws and an amputee double fitted with prosthetic arms deliver escalating practical horror in one room; study the pacing that alternates appalled reaction shots with ever-stranger effects reveals.",
     "director": "John Carpenter",
+    "country": "USA",
     "craft": [
       "Special makeup effects: Rob Bottin",
       "DP: Dean Cundey",
       "Composer: Ennio Morricone"
     ],
     "accolades": [],
-    "techniques": [
-      "practical effects",
-      "single location",
-      "fire",
-      "sound design"
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush"
     ],
-    "why": "Rob Bottin's animatronic chest jaws and an amputee double fitted with prosthetic arms deliver escalating practical horror in one room; study the pacing that alternates appalled reaction shots with ever-stranger effects reveals.",
-    "query": "The Thing 1982 defibrillator scene"
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "sci_fi"
+    ],
+    "era": "late_20th_century",
+    "region": "polar",
+    "environment": [
+      "building_interior",
+      "hospital"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "surreal",
+      "brutal"
+    ],
+    "combatants": [
+      "aliens",
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "flamethrower"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "U.S. Outpost 31, Antarctica, winter 1982",
+    "keywords": [
+      "defibrillator",
+      "chest jaws",
+      "spider head",
+      "animatronic",
+      "body horror",
+      "rob bottin",
+      "outpost 31"
+    ]
   },
   {
     "film": "Kong: Skull Island",
     "year": 2017,
     "scene": "Kong swats the helicopter squadron out of the sky",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Kong Skull Island helicopter attack scene",
+    "what_happens": "Silhouetted against the setting sun, Kong rises above the jungle and tears a squadron of Huey helicopters out of the sky, hurling a tree, crushing cockpits and flinging soldiers to their deaths.",
+    "why": "The Apocalypse Now-inflected sunset attack silhouettes Kong against the sun before ILM's animation tears through the formation; study cockpit POVs, spinning-rotor inserts and slow beats that keep the chaos spatially readable.",
     "director": "Jordan Vogt-Roberts",
+    "country": "USA",
     "craft": [
       "DP: Larry Fong",
       "VFX: Industrial Light & Magic",
       "Composer: Henry Jackman"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "battle.giants",
+    "format": [
+      "ambush",
+      "rampage"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "monster",
+      "action",
+      "adventure"
+    ],
+    "era": "mid_20th_century",
+    "region": "oceania",
+    "environment": [
+      "sky",
+      "jungle"
+    ],
+    "time_of_day": "golden_hour",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "awe",
+      "terrifying"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "cold_war_soldiers",
+      "pilots"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "improvised",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
       "cgi",
       "silhouette",
       "pov",
-      "one vs many"
+      "slow_motion"
     ],
-    "why": "The Apocalypse Now-inflected sunset attack silhouettes Kong against the sun before ILM's animation tears through the formation; study cockpit POVs, spinning-rotor inserts and slow beats that keep the chaos spatially readable.",
-    "query": "Kong Skull Island helicopter attack scene"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Skull Island, South Pacific, 1973",
+    "keywords": [
+      "huey helicopters",
+      "sunset silhouette",
+      "tree throw",
+      "rotor blades",
+      "apocalypse now homage",
+      "vietnam era",
+      "cockpit pov"
+    ]
   },
   {
     "film": "Edge of Tomorrow",
     "year": 2014,
     "scene": "The beach landing (Cage's first drop into battle)",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Edge of Tomorrow beach landing scene",
+    "what_happens": "Dropped onto a French beach in an exosuit he barely knows how to work, Cage stumbles through explosions as burrowing Mimics slaughter soldiers around him, then kills a large Mimic with a mine and dies in its blood.",
+    "why": "Practical exosuits worn by the cast add genuine weight and fatigue, while the dropship crash and Mimic attacks blend handheld chaos with clear geography; the beach replays later, so study how it's built to reward repetition.",
     "director": "Doug Liman",
+    "country": "USA",
     "craft": [
       "DP: Dion Beebe",
       "Editor: James Herbert",
       "Composer: Christophe Beck"
     ],
     "accolades": [],
-    "techniques": [
-      "beach landing",
-      "practical effects",
-      "cgi",
-      "handheld",
-      "practical explosions"
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "ambush"
     ],
-    "why": "Practical exosuits worn by the cast add genuine weight and fatigue, while the dropship crash and Mimic attacks blend handheld chaos with clear geography; the beach replays later, so study how it's built to reward repetition.",
-    "query": "Edge of Tomorrow beach landing scene"
+    "scale": "army",
+    "genre": [
+      "sci_fi",
+      "action",
+      "war"
+    ],
+    "era": "near_future",
+    "region": "western_europe",
+    "environment": [
+      "beach",
+      "battlefield",
+      "aircraft"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "modern_soldiers",
+      "aliens"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "explosives",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
+      "handheld",
+      "practical_effects",
+      "practical_explosions",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Normandy coast, France, near-future alien invasion",
+    "keywords": [
+      "exosuit",
+      "mimics",
+      "dropship",
+      "beach landing",
+      "d-day homage",
+      "time loop",
+      "claymore mine"
+    ]
   },
   {
     "film": "The Host",
     "year": 2006,
     "scene": "The creature's daylight rampage along the Han River",
-    "category": "creature",
-    "medium": "film",
-    "country": "South Korea",
+    "query": "The Host 2006 Han River monster attack scene",
+    "what_happens": "A huge amphibious mutant gallops out of the Han River into a sunny riverside park, trampling and swallowing picnickers; snack-bar owner Gang-du flees, grabs the wrong girl's hand, and the creature snatches his daughter.",
+    "why": "Bong stages the monster in flat daylight among ordinary picnickers, with lateral tracking shots that let the creature crash through the crowd in frame; study the blend of slapstick and terror and the wrong-hand-grab beat.",
     "director": "Bong Joon-ho",
+    "country": "South Korea",
     "craft": [
       "VFX: The Orphanage",
       "DP: Kim Hyung-koo"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "creature.attack",
+    "format": [
+      "rampage",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "monster",
+      "horror",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "region": "korea",
+    "environment": [
+      "river_lake",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
       "cgi",
-      "tracking shot",
-      "real location",
+      "tracking_shot",
+      "real_location",
       "handheld"
     ],
-    "why": "Bong stages the monster in flat daylight among ordinary picnickers, with lateral tracking shots that let the creature crash through the crowd in frame; study the blend of slapstick and terror and the wrong-hand-grab beat.",
-    "query": "The Host 2006 Han River monster attack scene"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "korean",
+    "period": "Han River park, Seoul, 2006",
+    "keywords": [
+      "han river",
+      "mutant amphibian",
+      "picnickers",
+      "wrong hand",
+      "tail grab",
+      "daylight monster",
+      "bong joon-ho"
+    ]
   },
   {
     "film": "Train to Busan",
     "year": 2016,
     "scene": "Fighting through the infected carriages to reach car 9",
-    "category": "creature",
-    "medium": "film",
-    "country": "South Korea",
+    "query": "Train to Busan fighting through train cars scene",
+    "what_happens": "Seok-woo, Sang-hwa and a student batter their way car by car through a speeding train packed with infected passengers, using tunnel blackouts and taped forearms, while the horde floods a carriage and devours those inside.",
+    "why": "Contortion-trained zombie performers and a narrow carriage set turn each car into a choreographed gauntlet; study how tunnel darkness, taped forearms and sound cues become the scene's rules of engagement.",
     "director": "Yeon Sang-ho",
+    "country": "South Korea",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "practical stunts",
-      "improvised weapons",
-      "one vs many",
-      "single location"
+    "scene_type": "fight.creature",
+    "format": [
+      "one_vs_many",
+      "rescue"
     ],
-    "why": "Contortion-trained zombie performers and a narrow carriage set turn each car into a choreographed gauntlet; study how tunnel darkness, taped forearms and sound cues become the scene's rules of engagement.",
-    "query": "Train to Busan fighting through train cars scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "horror",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "korea",
+    "environment": [
+      "train"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "relentless",
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "civilians"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "practical_stunts",
+      "single_location",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "korean",
+    "period": "KTX bullet train from Seoul to Busan, present day",
+    "keywords": [
+      "zombie",
+      "ktx",
+      "taped forearms",
+      "tunnel darkness",
+      "baseball bat",
+      "luggage rack",
+      "carriage door"
+    ]
   },
   {
     "film": "World War Z",
     "year": 2013,
     "scene": "The Jerusalem wall zombie pyramid",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "World War Z Jerusalem wall scene",
+    "what_happens": "Drawn by amplified singing, thousands of infected pile onto each other in a living pyramid that tops Jerusalem's security wall, then pour into the streets as soldiers fire and residents scatter.",
+    "why": "MPC's crowd simulation turns the undead into a fluid, swarming mass that climbs over itself like water; study how wide aerials establish the wall and scale before handheld street-level chaos takes over.",
     "director": "Marc Forster",
+    "country": "USA",
     "craft": [
       "VFX: Moving Picture Company (MPC)",
       "DP: Ben Seresin",
       "Composer: Marco Beltrami"
     ],
     "accolades": [],
-    "techniques": [
-      "crowd simulation",
-      "cgi",
-      "aerial photography",
-      "siege"
+    "scene_type": "creature.attack",
+    "format": [
+      "siege",
+      "rampage"
     ],
-    "why": "MPC's crowd simulation turns the undead into a fluid, swarming mass that climbs over itself like water; study how wide aerials establish the wall and scale before handheld street-level chaos takes over.",
-    "query": "World War Z Jerusalem wall scene"
+    "scale": "city_scale",
+    "genre": [
+      "horror",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "middle_east",
+    "environment": [
+      "castle_fortress",
+      "city_street",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "epic"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "modern_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "cgi",
+      "crane_aerial",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Jerusalem, Israel, during a global zombie pandemic",
+    "keywords": [
+      "zombie pyramid",
+      "jerusalem wall",
+      "crowd simulation",
+      "swarm",
+      "human ladder",
+      "quarantine zone"
+    ]
   },
   {
     "film": "Shin Godzilla",
     "year": 2016,
     "scene": "Godzilla's first atomic breath destroys Tokyo at night",
-    "category": "creature",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Shin Godzilla atomic breath scene Tokyo",
+    "what_happens": "Wounded by bunker-busting bombers, Godzilla's back glows purple; it spews black smoke, then fire, then a focused atomic beam that slices through Tokyo skyscrapers, downs the bombers and sets the city ablaze.",
+    "why": "A Noh performer's motion-captured Godzilla, bureaucratic cutaways and Sagisu's elegiac 'Who Will Know' turn destruction into tragedy; study the escalation from smoke to flame to purple beam, and the detached, observational camera.",
     "director": "Hideaki Anno, Shinji Higuchi",
+    "country": "Japan",
     "craft": [
       "Composer: Shirō Sagisu",
       "Godzilla motion capture: Mansai Nomura"
@@ -299,48 +898,151 @@
     "accolades": [
       "Japan Academy Prize: Picture of the Year"
     ],
-    "techniques": [
-      "cgi",
-      "motion capture",
-      "night",
-      "fire",
-      "score-driven"
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "catastrophe"
     ],
-    "why": "A Noh performer's motion-captured Godzilla, bureaucratic cutaways and Sagisu's elegiac 'Who Will Know' turn destruction into tragedy; study the escalation from smoke to flame to purple beam, and the detached, observational camera.",
-    "query": "Shin Godzilla atomic breath scene Tokyo"
+    "scale": "city_scale",
+    "genre": [
+      "monster",
+      "sci_fi",
+      "disaster"
+    ],
+    "era": "contemporary",
+    "region": "japan",
+    "environment": [
+      "city_street",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "tragic",
+      "awe",
+      "terrifying"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "pilots",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "cgi",
+      "motion_capture",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "period": "Tokyo, Japan, present day",
+    "keywords": [
+      "atomic breath",
+      "purple beam",
+      "dorsal beams",
+      "b-2 bombers",
+      "tokyo in flames",
+      "who will know",
+      "jaw splits"
+    ]
   },
   {
     "film": "Godzilla (Gojira)",
     "year": 1954,
     "scene": "Godzilla's night attack on Tokyo",
-    "category": "creature",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Godzilla 1954 Tokyo attack scene",
+    "what_happens": "Godzilla stomps through nighttime Tokyo, breathing white-hot vapour that sets buildings ablaze and toppling towers while crowds flee and a mother huddles with her children, telling them they will soon join their father.",
+    "why": "Tsuburaya's suitmation and detailed miniature city, lit by flame, carry post-Hiroshima dread; study how small human vignettes, like the mother comforting her children, ground the spectacle in grief.",
     "director": "Ishirō Honda",
+    "country": "Japan",
     "craft": [
       "Special effects: Eiji Tsuburaya",
       "Suit performer: Haruo Nakajima",
       "Composer: Akira Ifukube"
     ],
     "accolades": [],
-    "techniques": [
-      "miniatures",
-      "practical effects",
-      "night",
-      "fire"
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "catastrophe"
     ],
-    "why": "Tsuburaya's suitmation and detailed miniature city, lit by flame, carry post-Hiroshima dread; study how small human vignettes, like the mother comforting her children, ground the spectacle in grief.",
-    "query": "Godzilla 1954 Tokyo attack scene",
+    "scale": "city_scale",
+    "genre": [
+      "monster",
+      "sci_fi",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "japan",
+    "environment": [
+      "city_street",
+      "ruined_city"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "tragic",
+      "terrifying",
+      "epic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "tank_armour"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "miniatures",
+      "practical_effects",
+      "practical_explosions",
+      "black_and_white"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "period": "Tokyo, Japan, 1954",
+    "keywords": [
+      "suitmation",
+      "atomic breath",
+      "miniature city",
+      "hiroshima allegory",
+      "mother and children",
+      "eiji tsuburaya",
+      "radiation"
+    ],
     "video": "EjNYWCH-fJw"
   },
   {
     "film": "Godzilla Minus One",
     "year": 2023,
     "scene": "Godzilla's Ginza attack and atomic blast",
-    "category": "creature",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Godzilla Minus One Ginza attack scene",
+    "what_happens": "Godzilla wrecks postwar Ginza, biting into a crowded commuter train from which Noriko dangles, then fires an atomic beam whose mushroom-cloud shockwave levels the district as Shikishima looks on from the street.",
+    "why": "Shirogumi's modestly budgeted VFX gain enormous weight from street-level camera placement, the train-in-jaws beat and a mushroom-cloud shockwave; study how the sequence stays locked to the protagonist's eye line to keep the horror human.",
     "director": "Takashi Yamazaki",
+    "country": "Japan",
     "craft": [
       "VFX: Shirogumi",
       "Composer: Naoki Satō"
@@ -348,24 +1050,76 @@
     "accolades": [
       "Oscar: Best Visual Effects"
     ],
-    "techniques": [
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "monster",
+      "drama",
+      "sci_fi"
+    ],
+    "era": "mid_20th_century",
+    "region": "japan",
+    "environment": [
+      "city_street",
+      "train"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "tank_armour"
+    ],
+    "vehicles": [
+      "train",
+      "tank_armoured"
+    ],
+    "technique": [
       "cgi",
-      "sound design",
-      "urban combat",
+      "sound_design",
       "pov"
     ],
-    "why": "Shirogumi's modestly budgeted VFX gain enormous weight from street-level camera placement, the train-in-jaws beat and a mushroom-cloud shockwave; study how the sequence stays locked to the protagonist's eye line to keep the horror human.",
-    "query": "Godzilla Minus One Ginza attack scene",
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Ginza, Tokyo, 1947",
+    "keywords": [
+      "train in jaws",
+      "mushroom cloud",
+      "shockwave",
+      "black rain",
+      "postwar tokyo",
+      "atomic breath",
+      "dorsal plates"
+    ],
     "video": "9jBhM0B78-4"
   },
   {
     "film": "RoboCop",
     "year": 1987,
     "scene": "ED-209 boardroom demonstration",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "RoboCop ED-209 boardroom scene",
+    "what_happens": "In an OCP boardroom, a hulking ED-209 enforcement robot is tested on a junior executive told to aim a pistol at it; it ignores his surrender and riddles him with bullets as colleagues dive for cover.",
+    "why": "Phil Tippett's stop-motion ED-209 shares a corporate boardroom with live-action squibs; study the satirical rhythm of polite executive dialogue snapping into grotesque overkill, and the robot's growling sound design as character.",
     "director": "Paul Verhoeven",
+    "country": "USA",
     "craft": [
       "ED-209 stop-motion: Phil Tippett",
       "DP: Jost Vacano",
@@ -374,23 +1128,69 @@
     "accolades": [
       "Oscar: Special Achievement Award (Sound Effects Editing)"
     ],
-    "techniques": [
-      "stop motion",
-      "practical effects",
-      "single location",
-      "sound design"
+    "scene_type": "creature.attack",
+    "format": [
+      "demonstration",
+      "rampage"
     ],
-    "why": "Phil Tippett's stop-motion ED-209 shares a corporate boardroom with live-action squibs; study the satirical rhythm of polite executive dialogue snapping into grotesque overkill, and the robot's growling sound design as character.",
-    "query": "RoboCop ED-209 boardroom scene"
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "action",
+      "crime"
+    ],
+    "era": "near_future",
+    "region": "usa",
+    "environment": [
+      "office_tower"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "playful"
+    ],
+    "combatants": [
+      "robots_androids",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "miniatures",
+      "single_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "OCP headquarters, Detroit, near future",
+    "keywords": [
+      "ed-209",
+      "stop motion",
+      "boardroom",
+      "malfunction",
+      "squibs",
+      "corporate satire",
+      "phil tippett"
+    ]
   },
   {
     "film": "Terminator 2: Judgment Day",
     "year": 1991,
     "scene": "Opening Future War sequence (Los Angeles, 2029)",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "Terminator 2 future war opening scene",
+    "what_happens": "Across a skull-strewn wasteland of ruined Los Angeles, a robot tank tread crushes a human skull as Hunter-Killer tanks and aircraft trade laser fire with human resistance fighters amid explosions.",
+    "why": "Miniature Hunter-Killer tanks and aerials, practical pyro and laser blasts build an apocalyptic battlefield in a few minutes; study the skull-crushing tread insert and slow-motion pans that establish world and stakes economically.",
     "director": "James Cameron",
+    "country": "USA",
     "craft": [
       "VFX: Industrial Light & Magic",
       "Special effects: Stan Winston",
@@ -403,47 +1203,148 @@
       "Oscar: Best Makeup",
       "Oscar: Best Sound Effects Editing"
     ],
-    "techniques": [
-      "miniatures",
-      "practical explosions",
-      "night",
-      "slow motion"
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle"
     ],
-    "why": "Miniature Hunter-Killer tanks and aerials, practical pyro and laser blasts build an apocalyptic battlefield in a few minutes; study the skull-crushing tread insert and slow-motion pans that establish world and stakes economically.",
-    "query": "Terminator 2 future war opening scene"
+    "scale": "army",
+    "genre": [
+      "sci_fi",
+      "action"
+    ],
+    "era": "near_future",
+    "region": "usa",
+    "environment": [
+      "ruined_city",
+      "battlefield"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "robots_androids",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "tank_armour",
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "tank_armoured",
+      "jet_aircraft"
+    ],
+    "technique": [
+      "miniatures",
+      "practical_explosions",
+      "slow_motion",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Los Angeles, 2029, after Judgment Day",
+    "keywords": [
+      "hunter-killer",
+      "skull crush",
+      "laser fire",
+      "machine war",
+      "resistance",
+      "skeletons",
+      "judgment day"
+    ]
   },
   {
     "film": "War of the Worlds",
     "year": 2005,
     "scene": "The first tripod emerges in Bayonne",
-    "category": "creature",
-    "medium": "film",
-    "country": "USA",
+    "query": "War of the Worlds 2005 tripod first attack scene",
+    "what_happens": "In a Bayonne intersection the street splits open and a towering alien tripod rises, blares its horn, then vaporises fleeing people into ash with heat rays as Ray runs through the panicking crowd.",
+    "why": "Spielberg and Kamiński keep the camera at civilian eye height as the street cracks open; study the slow reveal of the tripod, its foghorn-like sound design and the ash-like disintegrations shot from inside the fleeing crowd.",
     "director": "Steven Spielberg",
+    "country": "USA",
     "craft": [
       "DP: Janusz Kamiński",
       "VFX: Industrial Light & Magic",
       "Composer: John Williams"
     ],
     "accolades": [],
-    "techniques": [
-      "cgi",
-      "handheld",
-      "sound design",
-      "real location"
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "escape"
     ],
-    "why": "Spielberg and Kamiński keep the camera at civilian eye height as the street cracks open; study the slow reveal of the tripod, its foghorn-like sound design and the ash-like disintegrations shot from inside the fleeing crowd.",
-    "query": "War of the Worlds 2005 tripod first attack scene",
+    "scale": "city_scale",
+    "genre": [
+      "sci_fi",
+      "thriller",
+      "horror"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "dust_sand"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "awe"
+    ],
+    "combatants": [
+      "aliens",
+      "civilians"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "mech_walker"
+    ],
+    "technique": [
+      "handheld",
+      "sound_design",
+      "cgi",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Bayonne, New Jersey, present day",
+    "keywords": [
+      "tripod",
+      "heat ray",
+      "disintegration",
+      "foghorn",
+      "street cracks",
+      "alien invasion",
+      "ash"
+    ],
     "video": "pgcQd60sXso"
   },
   {
     "film": "Spider-Man 2",
     "year": 2004,
     "scene": "Spider-Man vs. Doc Ock on the elevated train",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Spider-Man 2 train fight scene Doc Ock",
+    "what_happens": "Spider-Man and Doctor Octopus fight down a building facade and onto a speeding elevated train; Ock wrecks the controls, and an unmasked Peter strains with webs to halt it before the track ends.",
+    "why": "Live-action plates on a train rig blend with digital doubles and a swooping virtual camera; study how the fight escalates from building side to train roof to interior, ending with Peter physically braking the train.",
     "director": "Sam Raimi",
+    "country": "USA",
     "craft": [
       "VFX supervisor: John Dykstra",
       "DP: Bill Pope",
@@ -452,274 +1353,869 @@
     "accolades": [
       "Oscar: Best Visual Effects"
     ],
-    "techniques": [
-      "cgi",
-      "wire work",
-      "practical stunts",
-      "duel"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "duel",
+      "rescue"
     ],
-    "why": "Live-action plates on a train rig blend with digital doubles and a swooping virtual camera; study how the fight escalates from building side to train roof to interior, ending with Peter physically braking the train.",
-    "query": "Spider-Man 2 train fight scene Doc Ock"
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "train",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "heroic",
+      "relentless",
+      "epic"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "cgi",
+      "wire_work",
+      "practical_stunts",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Elevated train line, New York City, 2004",
+    "keywords": [
+      "elevated train",
+      "doc ock tentacles",
+      "train stopping",
+      "unmasked",
+      "web brake",
+      "train roof",
+      "runaway train"
+    ]
   },
   {
     "film": "Captain America: The Winter Soldier",
     "year": 2014,
     "scene": "The elevator fight",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Captain America Winter Soldier elevator fight scene",
+    "what_happens": "Sealed in a glass elevator as a dozen STRIKE agents quietly crowd in, Steve Rogers fights them all at once, breaking a magnetic cuff and shrugging off shock batons in the cramped space.",
+    "why": "A tension build in a confined glass box: silent glances and shifting bodies before an explosion of grapples and magnetic cuffs. Study close-quarters blocking that keeps every attacker readable in a tiny space.",
     "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
     "craft": [
       "DP: Trent Opaloch",
       "Editors: Jeffrey Ford, Matthew Schmidt",
       "Composer: Henry Jackman"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "one vs many",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "ambush"
     ],
-    "why": "A tension build in a confined glass box: silent glances and shifting bodies before an explosion of grapples and magnetic cuffs. Study close-quarters blocking that keeps every attacker readable in a tiny space.",
-    "query": "Captain America Winter Soldier elevator fight scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "spy"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "office_tower"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes",
+      "special_forces"
+    ],
+    "weapons": [
+      "fists_feet",
+      "staff_stick",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "tight_framing",
+      "practical_stunts",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Triskelion elevator, Washington D.C., present day",
+    "keywords": [
+      "elevator",
+      "magnetic cuff",
+      "shock baton",
+      "strike team",
+      "confined space",
+      "glass elevator"
+    ]
   },
   {
     "film": "Captain America: The Winter Soldier",
     "year": 2014,
     "scene": "Winter Soldier's highway ambush",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Captain America Winter Soldier highway fight scene",
+    "what_happens": "On a D.C. causeway, the Winter Soldier lands on the heroes' SUV and tears out its steering wheel; a street battle with rifles, grenade launchers and knives ends when Steve unmasks his old friend Bucky.",
+    "why": "Grounded, Heat-inspired street combat with real vehicles, close handheld coverage and percussive sound; study how the Winter Soldier's entrances are staged for menace and how the action resolves on a character reveal.",
     "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
     "craft": [
       "DP: Trent Opaloch",
       "Editors: Jeffrey Ford, Matthew Schmidt",
       "Composer: Henry Jackman"
     ],
     "accolades": [],
-    "techniques": [
-      "practical stunts",
-      "vehicle stunts",
-      "urban combat",
-      "handheld"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "ambush",
+      "small_group_fight"
     ],
-    "why": "Grounded, Heat-inspired street combat with real vehicles, close handheld coverage and percussive sound; study how the Winter Soldier's entrances are staged for menace and how the action resolves on a character reveal.",
-    "query": "Captain America Winter Soldier highway fight scene"
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "spy"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "highway",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "gritty"
+    ],
+    "combatants": [
+      "superheroes",
+      "assassins_hitmen",
+      "special_forces"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "shield",
+      "knife",
+      "rocket_missile",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "practical_stunts",
+      "vehicle_stunts",
+      "handheld",
+      "sound_design",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Washington D.C., present day",
+    "keywords": [
+      "winter soldier",
+      "steering wheel",
+      "metal arm",
+      "unmasking",
+      "shield throw",
+      "heat homage",
+      "grenade launcher"
+    ]
   },
   {
     "film": "Captain America: Civil War",
     "year": 2016,
     "scene": "The airport battle",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Captain America Civil War airport battle scene",
+    "what_happens": "The two hero factions sprint at each other across an empty German airport apron, then split into match-ups: Spider-Man webs Cap's shield, Ant-Man rides an arrow and Black Panther hunts Bucky.",
+    "why": "A dozen heroes are choreographed so each power pairing reads clearly; study the wide establishing geography, the deliberate hero-vs-hero match-ups, and how humor is cut into the action rhythm without deflating it.",
     "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
     "craft": [
       "DP: Trent Opaloch",
       "Editors: Jeffrey Ford, Matthew Schmidt",
       "Composer: Henry Jackman"
     ],
     "accolades": [],
-    "techniques": [
-      "cgi",
-      "wire work",
-      "wide-angle choreography",
-      "practical stunts"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "team_vs_team"
     ],
-    "why": "A dozen heroes are choreographed so each power pairing reads clearly; study the wide establishing geography, the deliberate hero-vs-hero match-ups, and how humor is cut into the action rhythm without deflating it.",
-    "query": "Captain America Civil War airport battle scene"
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "western_europe",
+    "environment": [
+      "airfield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes"
+    ],
+    "weapons": [
+      "superpowers",
+      "shield",
+      "bow_arrow",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wire_work",
+      "wide_framing",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Leipzig/Halle Airport, Germany, 2016",
+    "keywords": [
+      "team iron man",
+      "team cap",
+      "hero vs hero",
+      "tarmac charge",
+      "ant-man",
+      "spider-man debut",
+      "giant-man"
+    ]
   },
   {
     "film": "Avengers: Endgame",
     "year": 2019,
     "scene": "Portals open: the final 'Avengers assemble' battle",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Avengers Endgame portals scene final battle",
+    "what_happens": "Battered and alone before Thanos's army, Captain America hears a voice in his earpiece; sorcerers' portals open and returning heroes and armies pour through, then charge across the ruined Avengers compound.",
+    "why": "A payoff built on score and staging: Silvestri's theme returns as portals open across a vast simulated battlefield; study how focus is handed between heroes while one clear objective, the gauntlet, keeps the chaos legible.",
     "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
     "craft": [
       "DP: Trent Opaloch",
       "Editors: Jeffrey Ford, Matthew Schmidt",
       "Composer: Alan Silvestri"
     ],
     "accolades": [],
-    "techniques": [
-      "cgi",
-      "imax",
-      "crowd simulation",
-      "motion capture",
-      "score-driven"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "massed_battle",
+      "spectacle"
     ],
-    "why": "A payoff built on score and staging: Silvestri's theme returns as portals open across a vast simulated battlefield; study how focus is handed between heroes while one clear objective, the gauntlet, keeps the chaos legible.",
-    "query": "Avengers Endgame portals scene final battle"
+    "scale": "army",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "dust_sand"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "awe"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens",
+      "supervillains"
+    ],
+    "weapons": [
+      "superpowers",
+      "axe_mace",
+      "shield",
+      "energy_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "imax_large_format",
+      "large_crowds",
+      "motion_capture",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Ruins of the Avengers compound, upstate New York, 2023",
+    "keywords": [
+      "portals",
+      "avengers assemble",
+      "mjolnir",
+      "infinity gauntlet",
+      "wakandan army",
+      "sling ring",
+      "hero charge"
+    ]
   },
   {
     "film": "Logan",
     "year": 2017,
     "scene": "Forest finale: Logan and Laura vs. the Reavers",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Logan forest fight scene Reavers",
+    "what_happens": "Strength restored by a serum, Logan tears through Reaver mercenaries among the pines with his claws while Laura and the mutant children leap and slash beside him in a savage running fight.",
+    "why": "R-rated, close-quarters claw choreography in real forest terrain; study how Mangold frames Laura and Logan as mirrored fighters and keeps the camera on exhausted, wounded bodies rather than superhero spectacle.",
     "director": "James Mangold",
+    "country": "USA",
     "craft": [
       "DP: John Mathieson",
       "Composer: Marco Beltrami"
     ],
     "accolades": [],
-    "techniques": [
-      "practical stunts",
-      "one vs many",
-      "real location",
-      "handheld"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "R-rated, close-quarters claw choreography in real forest terrain; study how Mangold frames Laura and Logan as mirrored fighters and keeps the camera on exhausted, wounded bodies rather than superhero spectacle.",
-    "query": "Logan forest fight scene Reavers"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "drama"
+    ],
+    "era": "near_future",
+    "region": "usa",
+    "environment": [
+      "forest",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless",
+      "tragic"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "mercenaries"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "superpowers",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "handheld",
+      "real_location",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Forest near the Canadian border, North Dakota, 2029",
+    "keywords": [
+      "adamantium claws",
+      "berserker rage",
+      "serum",
+      "reavers",
+      "x-23",
+      "child fighter",
+      "pine forest"
+    ]
   },
   {
     "film": "Wonder Woman",
     "year": 2017,
     "scene": "No Man's Land",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Wonder Woman No Man's Land scene",
+    "what_happens": "Diana climbs out of a muddy trench and strides into no man's land, deflecting machine-gun fire with her bracers and shield until Steve and the Allied soldiers charge across behind her.",
+    "why": "A character-defining set piece: the shield-first climb out of the trench is framed in rising compositions and speed-ramped slow motion, with the theme swelling on each beat. Study how a war landscape becomes heroic iconography.",
     "director": "Patty Jenkins",
+    "country": "USA",
     "craft": [
       "DP: Matthew Jensen",
       "Composer: Rupert Gregson-Williams"
     ],
     "accolades": [],
-    "techniques": [
-      "trench",
-      "slow motion",
-      "wire work",
-      "cgi",
-      "score-driven"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many",
+      "assault_raid"
     ],
-    "why": "A character-defining set piece: the shield-first climb out of the trench is framed in rising compositions and speed-ramped slow motion, with the theme swelling on each beat. Study how a war landscape becomes heroic iconography.",
-    "query": "Wonder Woman No Man's Land scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "war"
+    ],
+    "era": "early_20th_century",
+    "region": "western_europe",
+    "environment": [
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "mud",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "awe"
+    ],
+    "combatants": [
+      "superheroes",
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "shield",
+      "superpowers",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "wire_work",
+      "cgi",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Western Front, Belgium, 1918",
+    "keywords": [
+      "no man's land",
+      "bracers",
+      "deflecting bullets",
+      "trench climb",
+      "shield",
+      "wonder woman theme"
+    ]
   },
   {
     "film": "Man of Steel",
     "year": 2013,
     "scene": "Battle of Smallville: Superman vs. Faora and Nam-Ek",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Man of Steel Smallville fight scene Faora",
+    "what_happens": "On Smallville's main street, Superman trades blows with the Kryptonians Faora and Nam-Ek, smashing through storefronts and a gas station as soldiers open fire and attack jets streak overhead.",
+    "why": "Superhuman speed is conveyed through documentary-style handheld framing and snap zooms applied to digital characters; study how impacts are sold by debris, collateral damage and camera shake rather than clean choreography.",
     "director": "Zack Snyder",
+    "country": "USA",
     "craft": [
       "DP: Amir Mokri",
       "Composer: Hans Zimmer"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.superpowered",
+    "format": [
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "town_main_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks",
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet",
+      "automatic_weapons",
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
       "cgi",
       "handheld",
-      "urban combat",
-      "practical explosions"
+      "practical_explosions",
+      "fast_cutting"
     ],
-    "why": "Superhuman speed is conveyed through documentary-style handheld framing and snap zooms applied to digital characters; study how impacts are sold by debris, collateral damage and camera shake rather than clean choreography.",
-    "query": "Man of Steel Smallville fight scene Faora"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Smallville, Kansas, present day",
+    "keywords": [
+      "kryptonians",
+      "faora",
+      "snap zoom",
+      "gas station explosion",
+      "super speed",
+      "ihop",
+      "a-10 jets"
+    ]
   },
   {
     "film": "Deadpool",
     "year": 2016,
     "scene": "Freeway fight and the 'twelve bullets' countdown",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Deadpool highway fight scene 12 bullets",
+    "what_happens": "Deadpool drops from an overpass into a convoy of SUVs, then fights Ajax's goons across the freeway with pistols and katanas, counting down his remaining bullets as bodies fly.",
+    "why": "Freeze-frames and speed ramps turn the freeway brawl into comic-book panels; study how fourth-wall narration is cut against the action and how the on-screen bullet countdown turns gun-fu into a running gag.",
     "director": "Tim Miller",
+    "country": "USA",
     "craft": [
       "DP: Ken Seng",
       "Composer: Junkie XL"
     ],
     "accolades": [],
-    "techniques": [
-      "slow motion",
-      "vehicle stunts",
-      "gun-fu",
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many",
+      "ambush"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "region": "unspecified_city",
+    "environment": [
+      "highway",
+      "car_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "superheroes",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "katana",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "slow_motion",
+      "gun_fu",
+      "vehicle_stunts",
       "cgi"
     ],
-    "why": "Freeze-frames and speed ramps turn the freeway brawl into comic-book panels; study how fourth-wall narration is cut against the action and how the on-screen bullet countdown turns gun-fu into a running gag.",
-    "query": "Deadpool highway fight scene 12 bullets"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Elevated freeway in an unnamed North American city, present day",
+    "keywords": [
+      "twelve bullets",
+      "bullet countdown",
+      "freeze frame",
+      "fourth wall",
+      "overpass drop",
+      "dual pistols",
+      "suv convoy"
+    ]
   },
   {
     "film": "The Batman",
     "year": 2022,
     "scene": "Batmobile vs. the Penguin highway chase",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Batman Batmobile chase scene Penguin",
+    "what_happens": "The roaring Batmobile hunts the Penguin's car down a rain-soaked Gotham freeway, ploughing through traffic and trucks until Penguin, flipped upside down, watches it burst out of a wall of flame.",
+    "why": "Muscle-car realism at ground level: tight in-car angles, the Batmobile's engine roar and rain-smeared lenses build pressure; study the upside-down POV of the Batmobile bursting through the fireball as a horror-style payoff.",
     "director": "Matt Reeves",
+    "country": "USA",
     "craft": [
       "DP: Greig Fraser",
       "Composer: Michael Giacchino"
     ],
     "accolades": [],
-    "techniques": [
-      "vehicle stunts",
-      "practical stunts",
-      "night",
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "highway"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
       "rain",
       "fire",
-      "sound design"
+      "explosions"
     ],
-    "why": "Muscle-car realism at ground level: tight in-car angles, the Batmobile's engine roar and rain-smeared lenses build pressure; study the upside-down POV of the Batmobile bursting through the fireball as a horror-style payoff.",
-    "query": "The Batman Batmobile chase scene Penguin"
+    "mood": [
+      "tense",
+      "relentless",
+      "gritty"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters"
+    ],
+    "weapons": [
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "practical_stunts",
+      "sound_design",
+      "tight_framing",
+      "pov"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Gotham City freeway, present day",
+    "keywords": [
+      "batmobile",
+      "muscle car",
+      "fireball",
+      "upside-down pov",
+      "rain-smeared lens",
+      "engine roar",
+      "tanker crash"
+    ]
   },
   {
     "film": "X-Men: Days of Future Past",
     "year": 2014,
     "scene": "Quicksilver's Pentagon kitchen rescue ('Time in a Bottle')",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "X-Men Days of Future Past Quicksilver kitchen scene",
+    "what_happens": "As Pentagon guards open fire in a kitchen, Quicksilver zips through frozen time, nudging bullets off course, rearranging punches and tasting a pot's contents before everyone drops at once.",
+    "why": "High-frame-rate photography, props on rigs and VFX freeze the room while Quicksilver plays inside it; study how the needle drop sets a comic tempo and how each gag is staged for one clean read.",
     "director": "Bryan Singer",
+    "country": "USA",
     "craft": [
       "DP: Newton Thomas Sigel",
       "VFX: Rising Sun Pictures",
       "Composer/Editor: John Ottman"
     ],
     "accolades": [],
-    "techniques": [
-      "slow motion",
-      "cgi",
-      "score-driven",
-      "single location"
+    "scene_type": "vfx.showcase",
+    "format": [
+      "rescue",
+      "demonstration"
     ],
-    "why": "High-frame-rate photography, props on rigs and VFX freeze the room while Quicksilver plays inside it; study how the needle drop sets a comic tempo and how each gag is staged for one clean read.",
-    "query": "X-Men Days of Future Past Quicksilver kitchen scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "water_spray",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "stylish"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "police"
+    ],
+    "weapons": [
+      "superpowers",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Pentagon kitchen, Washington area, 1973",
+    "keywords": [
+      "time in a bottle",
+      "frozen time",
+      "super speed",
+      "bullets in midair",
+      "headphones",
+      "high frame rate",
+      "needle drop"
+    ]
   },
   {
     "film": "X2",
     "year": 2003,
     "scene": "Nightcrawler's attack on the White House",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "X2 Nightcrawler White House attack scene",
+    "what_happens": "Nightcrawler teleports through the White House in puffs of smoke, flipping off walls and ceilings as Secret Service agents fire blindly, then pins the president at his desk with a dagger.",
+    "why": "Teleport puffs and acrobatic wire work turn White House corridors into a one-vs-many showcase; study how the Mozart Requiem and guards' panicked POVs make the attacker feel uncatchable.",
     "director": "Bryan Singer",
+    "country": "USA",
     "craft": [
       "DP: Newton Thomas Sigel",
       "Composer: John Ottman"
     ],
     "accolades": [],
-    "techniques": [
-      "wire work",
-      "cgi",
-      "one vs many",
-      "single location",
-      "score-driven"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many",
+      "assault_raid"
     ],
-    "why": "Teleport puffs and acrobatic wire work turn White House corridors into a one-vs-many showcase; study how the Mozart Requiem and guards' panicked POVs make the attacker feel uncatchable.",
-    "query": "X2 Nightcrawler White House attack scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "corridor",
+      "palace_mansion"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "tense",
+      "graceful"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "federal_agents"
+    ],
+    "weapons": [
+      "superpowers",
+      "handgun",
+      "automatic_weapons",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "cgi",
+      "score_driven",
+      "pov"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "The White House, Washington D.C., early 2000s",
+    "keywords": [
+      "teleportation",
+      "mozart requiem",
+      "acrobatics",
+      "secret service",
+      "blue smoke",
+      "oval office"
+    ]
   },
   {
     "film": "Black Panther",
     "year": 2018,
     "scene": "Ritual challenge at Warrior Falls (T'Challa vs. Killmonger)",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Black Panther Killmonger challenge waterfall fight scene",
+    "what_happens": "On the cliff ledge at Warrior Falls, Killmonger fights T'Challa with spear, shield and blade before chanting tribes, kills the elder Zuri when he intervenes, then throws the beaten king over the waterfall.",
+    "why": "A built cliffside set, chanting onlookers and Göransson's drums turn a brutal grappling duel into ritual theatre; study how the crowd frames the fighters and how the score shifts as the challenge turns.",
     "director": "Ryan Coogler",
+    "country": "USA",
     "craft": [
       "DP: Rachel Morrison",
       "Composer: Ludwig Göransson",
@@ -730,90 +2226,292 @@
       "Oscar: Best Costume Design",
       "Oscar: Best Production Design"
     ],
-    "techniques": [
+    "scene_type": "fight.blades",
+    "format": [
       "duel",
-      "score-driven",
-      "practical stunts"
+      "bout"
     ],
-    "why": "A built cliffside set, chanting onlookers and Göransson's drums turn a brutal grappling duel into ritual theatre; study how the crowd frames the fighters and how the score shifts as the challenge turns.",
-    "query": "Black Panther Killmonger challenge waterfall fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "sub_saharan_africa",
+    "environment": [
+      "cliff_canyon",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "epic"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "shield",
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "score_driven",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Warrior Falls, Wakanda, present day",
+    "keywords": [
+      "warrior falls",
+      "ritual combat",
+      "challenge for the throne",
+      "waterfall",
+      "chanting crowd",
+      "cliff ledge",
+      "zuri"
+    ]
   },
   {
     "film": "Guardians of the Galaxy Vol. 3",
     "year": 2023,
     "scene": "Hallway oner ('No Sleep Till Brooklyn')",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Guardians of the Galaxy Vol 3 hallway fight scene No Sleep Till Brooklyn",
+    "what_happens": "In one gliding take, the Guardians battle down a corridor of the High Evolutionary's ship, each landing a signature move, from Groot's spikes to Nebula's arm cannon, as the camera passes from fighter to fighter.",
+    "why": "A stitched single-take tracking shot glides down a corridor as each Guardian gets a signature move; study choreography designed around the camera path and how the needle drop paces the handoffs.",
     "director": "James Gunn",
+    "country": "USA",
     "craft": [
       "DP: Henry Braham",
       "Composer: John Murphy"
     ],
     "accolades": [],
-    "techniques": [
-      "oner",
-      "long take",
-      "tracking shot",
-      "cgi",
-      "score-driven"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "assault_raid",
+      "one_vs_many"
     ],
-    "why": "A stitched single-take tracking shot glides down a corridor as each Guardian gets a signature move; study choreography designed around the camera path and how the needle drop paces the handoffs.",
-    "query": "Guardians of the Galaxy Vol 3 hallway fight scene No Sleep Till Brooklyn"
+    "scale": "medium",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "region": "deep_space",
+    "environment": [
+      "corridor",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "heroic",
+      "playful"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "tracking_shot",
+      "score_driven",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "The Arete, the High Evolutionary's starship, 2026",
+    "keywords": [
+      "hallway oner",
+      "no sleep till brooklyn",
+      "beastie boys",
+      "corridor fight",
+      "team handoff",
+      "groot",
+      "rocket raccoon"
+    ]
   },
   {
     "film": "Blade",
     "year": 1998,
     "scene": "The blood rave opening",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Blade 1998 blood rave scene",
+    "what_happens": "At a vampire rave hidden in a meatpacking plant, sprinklers drench the dancers in blood; Blade steps out of the crowd and dispatches the vampires with a shotgun, pistol, silver stakes and kicks.",
+    "why": "Sprinklers raining blood set the tone before the hero is revealed; study the techno-driven editing tempo, the mix of martial arts and gunplay, and how Blade's entrance is withheld for maximum impact.",
     "director": "Stephen Norrington",
+    "country": "USA",
     "craft": [
       "Composer: Mark Isham"
     ],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "one vs many",
-      "single location",
-      "score-driven",
-      "practical effects"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Sprinklers raining blood set the tone before the hero is revealed; study the techno-driven editing tempo, the mix of martial arts and gunplay, and how Blade's entrance is withheld for maximum impact.",
-    "query": "Blade 1998 blood rave scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "horror"
+    ],
+    "era": "late_20th_century",
+    "region": "usa",
+    "environment": [
+      "nightclub_bar",
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash",
+      "neon",
+      "water_spray"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "terrifying"
+    ],
+    "combatants": [
+      "superheroes",
+      "creatures"
+    ],
+    "weapons": [
+      "shotgun",
+      "handgun",
+      "fists_feet",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "score_driven",
+      "practical_effects",
+      "fast_cutting",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Vampire rave in a meatpacking plant, Los Angeles, 1998",
+    "keywords": [
+      "blood rave",
+      "blood sprinklers",
+      "techno",
+      "silver stakes",
+      "vampires",
+      "daywalker",
+      "meatpacking plant"
+    ]
   },
   {
     "film": "The Avengers",
     "year": 2012,
     "scene": "Battle of New York: the team-wide tracking shot",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Avengers 2012 battle of New York long take scene",
+    "what_happens": "One continuous camera move sweeps through midtown Manhattan from Black Widow on the street to Iron Man, Captain America, Hawkeye, Thor and Hulk, each smashing Chitauri invaders as the team fights together.",
+    "why": "A continuous virtual camera move links every Avenger across Manhattan in one shot; study how it establishes teamwork spatially and stitches live-action plates into digital environments without losing orientation.",
     "director": "Joss Whedon",
+    "country": "USA",
     "craft": [
       "DP: Seamus McGarvey",
       "VFX: Industrial Light & Magic",
       "Composer: Alan Silvestri"
     ],
     "accolades": [],
-    "techniques": [
-      "tracking shot",
-      "oner",
-      "cgi",
-      "urban combat"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "massed_battle"
     ],
-    "why": "A continuous virtual camera move links every Avenger across Manhattan in one shot; study how it establishes teamwork spatially and stitches live-action plates into digital environments without losing orientation.",
-    "query": "The Avengers 2012 battle of New York long take scene"
+    "scale": "army",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "skyscraper_exterior",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "chaotic"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens"
+    ],
+    "weapons": [
+      "superpowers",
+      "energy_weapons",
+      "shield",
+      "bow_arrow",
+      "axe_mace"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "long_take",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Midtown Manhattan, New York City, 2012",
+    "keywords": [
+      "chitauri",
+      "battle of new york",
+      "team-wide shot",
+      "virtual camera",
+      "leviathan",
+      "stark tower",
+      "hulk"
+    ]
   },
   {
     "film": "Superman",
     "year": 1978,
     "scene": "Superman's first rescue: Lois and the Daily Planet helicopter",
-    "category": "superhero",
-    "medium": "film",
-    "country": "UK/USA",
+    "query": "Superman 1978 helicopter rescue scene",
+    "what_happens": "A helicopter crashes on the Daily Planet roof and Lois dangles from it; Clark changes in a revolving door, soars up to catch her as she falls, then catches the plunging helicopter too.",
+    "why": "Front projection, wire flying and Williams' fanfare made audiences believe a man could fly; study the escalating reveal (revolving-door change, ascent, catch) and the comic button of the dialogue that releases the tension.",
     "director": "Richard Donner",
+    "country": "UK/USA",
     "craft": [
       "DP: Geoffrey Unsworth",
       "Composer: John Williams"
@@ -821,88 +2519,285 @@
     "accolades": [
       "Oscar: Special Achievement Award (Visual Effects)"
     ],
-    "techniques": [
-      "wire work",
-      "practical effects",
-      "score-driven"
+    "scene_type": "vfx.showcase",
+    "format": [
+      "rescue",
+      "spectacle"
     ],
-    "why": "Front projection, wire flying and Williams' fanfare made audiences believe a man could fly; study the escalating reveal (revolving-door change, ascent, catch) and the comic button of the dialogue that releases the tension.",
-    "query": "Superman 1978 helicopter rescue scene"
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "adventure",
+      "action"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "rooftops",
+      "sky"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "awe",
+      "playful"
+    ],
+    "combatants": [
+      "superheroes",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
+      "wire_work",
+      "rear_projection",
+      "practical_effects",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "period": "Metropolis (New York City), late 1970s",
+    "keywords": [
+      "first flight",
+      "revolving door",
+      "helipad",
+      "catch",
+      "daily planet",
+      "front projection",
+      "flying man"
+    ]
   },
   {
     "film": "Shang-Chi and the Legend of the Ten Rings",
     "year": 2021,
     "scene": "San Francisco bus fight",
-    "category": "superhero",
-    "medium": "film",
-    "country": "USA",
+    "query": "Shang-Chi bus fight scene",
+    "what_happens": "Ten Rings thugs ambush Shaun on a San Francisco city bus; he fights them along the aisle and outside the windows using poles, seats and a backpack while Katy steers the brakeless bus down steep hills.",
+    "why": "Jackie Chan-school choreography from Brad Allan's team uses the bus's poles, windows and seats as props; study how comic rhythm and stunt work integrate with the runaway vehicle as a moving, shrinking arena.",
     "director": "Destin Daniel Cretton",
+    "country": "USA",
     "craft": [
       "Second unit director: Brad Allan",
       "DP: Bill Pope"
     ],
     "accolades": [],
-    "techniques": [
-      "practical stunts",
-      "wire work",
-      "improvised weapons",
-      "vehicle stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "ambush"
     ],
-    "why": "Jackie Chan-school choreography from Brad Allan's team uses the bus's poles, windows and seats as props; study how comic rhythm and stunt work integrate with the runaway vehicle as a moving, shrinking arena.",
-    "query": "Shang-Chi bus fight scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "martial_arts",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "bus",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "relentless",
+      "stylish"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "thugs_henchmen",
+      "civilians"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "knife"
+    ],
+    "vehicles": [
+      "bus"
+    ],
+    "technique": [
+      "practical_stunts",
+      "wire_work",
+      "vehicle_stunts",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "San Francisco, present day",
+    "keywords": [
+      "bus fight",
+      "jackie chan homage",
+      "razor fist",
+      "steep hills",
+      "runaway bus",
+      "brad allan",
+      "aisle fight"
+    ]
   },
   {
     "film": "Akira",
     "year": 1988,
     "scene": "Opening highway chase vs. the Clowns (Kaneda's bike slide)",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Akira bike chase scene opening",
+    "what_happens": "Kaneda's biker gang roars across Neo-Tokyo's elevated highways hunting the rival Clowns, clubbing them off their bikes at speed, while Kaneda's red motorcycle skids sideways to a halt with taillights streaking.",
+    "why": "Hand-drawn light trails, dense backgrounds and Geinoh Yamashirogumi's percussive score set a benchmark; study the endlessly imitated sideways bike slide and how persistent taillights become motion design.",
     "director": "Katsuhiro Otomo",
+    "country": "Japan",
     "craft": [
       "Animation: Tokyo Movie Shinsha",
       "Music: Geinoh Yamashirogumi"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "night",
-      "score-driven",
-      "tracking shot"
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit"
     ],
-    "why": "Hand-drawn light trails, dense backgrounds and Geinoh Yamashirogumi's percussive score set a benchmark; study the endlessly imitated sideways bike slide and how persistent taillights become motion design.",
-    "query": "Akira bike chase scene opening",
+    "scale": "medium",
+    "genre": [
+      "cyberpunk",
+      "sci_fi",
+      "action"
+    ],
+    "era": "near_future",
+    "region": "japan",
+    "environment": [
+      "highway",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "stylish",
+      "relentless",
+      "chaotic"
+    ],
+    "combatants": [
+      "gangsters",
+      "drivers_racers"
+    ],
+    "weapons": [
+      "improvised",
+      "staff_stick",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "motorcycle"
+    ],
+    "technique": [
+      "animation_2d",
+      "score_driven",
+      "tracking_shot"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Neo-Tokyo, 2019",
+    "keywords": [
+      "bike slide",
+      "red motorcycle",
+      "light trails",
+      "taillights",
+      "biker gang",
+      "the clowns",
+      "kaneda"
+    ],
     "video": "rubRpPgbY_w"
   },
   {
     "film": "Ghost in the Shell",
     "year": 1995,
     "scene": "The Major's thermoptic-camouflage fight in the flooded square",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Ghost in the Shell 1995 water fight scene thermoptic",
+    "what_happens": "Invisible in thermoptic camouflage, Major Kusanagi chases a gunman into a flooded market plaza; only her splashes betray her as she kicks and pummels him in the ankle-deep water.",
+    "why": "Invisibility is drawn through splashes and refraction, so the water does the choreography; study how sparse sound, stillness and the environment turn a brief chase-and-beatdown into a mood piece.",
     "director": "Mamoru Oshii",
+    "country": "Japan",
     "craft": [
       "Studio: Production I.G",
       "Composer: Kenji Kawai"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
+    "scene_type": "fight.hand_to_hand",
+    "format": [
       "duel",
-      "sound design"
+      "pursuit"
     ],
-    "why": "Invisibility is drawn through splashes and refraction, so the water does the choreography; study how sparse sound, stillness and the environment turn a brief chase-and-beatdown into a mood piece.",
-    "query": "Ghost in the Shell 1995 water fight scene thermoptic"
+    "scale": "one_on_one",
+    "genre": [
+      "cyberpunk",
+      "sci_fi",
+      "action"
+    ],
+    "era": "near_future",
+    "region": "japan",
+    "environment": [
+      "plaza_square",
+      "market_bazaar"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "robots_androids",
+      "special_forces",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "sound_design",
+      "silence"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "New Port City, Japan, 2029",
+    "keywords": [
+      "thermoptic camouflage",
+      "invisibility",
+      "flooded plaza",
+      "water splashes",
+      "cyborg",
+      "major kusanagi",
+      "refraction"
+    ]
   },
   {
     "film": "Princess Mononoke",
     "year": 1997,
     "scene": "Opening: Ashitaka vs. Nago the demon boar",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Princess Mononoke opening demon scene",
+    "what_happens": "A boar god swarming with writhing demon tendrils bursts from the forest toward Ashitaka's village; riding his red elk Yakul, Ashitaka gallops alongside and kills it with an arrow, but a tendril curses his arm.",
+    "why": "Writhing hand-drawn demon tendrils, mounted archery and rapid lateral tracking through the forest; study how Miyazaki lays out a chase on horseback with clear direction of travel and climaxes on a single arrow.",
     "director": "Hayao Miyazaki",
+    "country": "Japan",
     "craft": [
       "Studio: Studio Ghibli",
       "Composer: Joe Hisaishi"
@@ -910,109 +2805,354 @@
     "accolades": [
       "Japan Academy Prize: Picture of the Year"
     ],
-    "techniques": [
-      "2d animation",
-      "cavalry",
-      "score-driven"
+    "scene_type": "fight.creature",
+    "format": [
+      "pursuit",
+      "rescue"
     ],
-    "why": "Writhing hand-drawn demon tendrils, mounted archery and rapid lateral tracking through the forest; study how Miyazaki lays out a chase on horseback with clear direction of travel and climaxes on a single arrow.",
-    "query": "Princess Mononoke opening demon scene"
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "medieval",
+    "region": "japan",
+    "environment": [
+      "forest",
+      "village",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "terrifying",
+      "heroic"
+    ],
+    "combatants": [
+      "creatures",
+      "native_warriors"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "animation_2d",
+      "score_driven",
+      "tracking_shot"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "period": "Emishi village, Muromachi-period Japan (mythic)",
+    "keywords": [
+      "demon boar",
+      "writhing tendrils",
+      "mounted archery",
+      "red elk",
+      "cursed arm",
+      "watchtower",
+      "tatarigami"
+    ]
   },
   {
     "film": "Ninja Scroll",
     "year": 1993,
     "scene": "Jubei vs. Tessai, the stone-skinned giant",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Ninja Scroll Jubei vs Tessai fight scene",
+    "what_happens": "The hulking, stone-skinned demon Tessai pounds the wandering swordsman Jubei, whose blade glances off his rock-hard body, until Jubei slips past his guard and kills him with one precise strike.",
+    "why": "Kawajiri's sharp silhouettes, speed lines and graphic violence defined 90s anime action; study how the hero's speed is implied by what is cut away rather than drawn, and how the weaker fighter wins through precision.",
     "director": "Yoshiaki Kawajiri",
+    "country": "Japan",
     "craft": [
       "Studio: Madhouse",
       "Composer: Kaoru Wada"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "duel",
-      "silhouette"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Kawajiri's sharp silhouettes, speed lines and graphic violence defined 90s anime action; study how the hero's speed is implied by what is cut away rather than drawn, and how the weaker fighter wins through precision.",
-    "query": "Ninja Scroll Jubei vs Tessai fight scene",
+    "scale": "one_on_one",
+    "genre": [
+      "samurai_jidaigeki",
+      "fantasy",
+      "action"
+    ],
+    "era": "early_modern",
+    "region": "japan",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "ronin",
+      "ninja",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "katana",
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "silhouette",
+      "fast_cutting"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Feudal Japan, Edo period (mythic)",
+    "keywords": [
+      "stone skin",
+      "eight devils of kimon",
+      "speed lines",
+      "jubei kibagami",
+      "giant vs swordsman",
+      "precision strike"
+    ],
     "video": "wd1lLXbSADc"
   },
   {
     "film": "Redline",
     "year": 2009,
     "scene": "The final Redline race on Roboworld",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Redline final race scene",
+    "what_happens": "JP and Sonoshee's souped-up TransAm hurtles toward the finish of the Redline across hostile Roboworld, rival racers and military weapons erupting around them as the hand-drawn car stretches with impossible speed.",
+    "why": "Seven years of hand-drawn production yield extreme forced perspective and squash-and-stretch speed; study how heavy black shadows, lens-like distortion and impact holds sell velocity without CG.",
     "director": "Takeshi Koike",
+    "country": "Japan",
     "craft": [
       "Studio: Madhouse",
       "Composer: James Shimoji"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "score-driven"
+    "scene_type": "race",
+    "format": [
+      "race"
     ],
-    "why": "Seven years of hand-drawn production yield extreme forced perspective and squash-and-stretch speed; study how heavy black shadows, lens-like distortion and impact holds sell velocity without CG.",
-    "query": "Redline final race scene",
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "action",
+      "sports"
+    ],
+    "era": "far_future",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "military_base"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "relentless",
+      "stylish",
+      "epic"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "aliens"
+    ],
+    "weapons": [
+      "rocket_missile",
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "animation_2d",
+      "stylised_animation",
+      "score_driven"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "period": "Roboworld, a militarised alien planet, far future",
+    "keywords": [
+      "transam",
+      "nitro boost",
+      "forced perspective",
+      "squash and stretch",
+      "hand-drawn cars",
+      "finish line",
+      "sweet jp"
+    ],
     "video": "vloKqx2qGAk"
   },
   {
     "film": "Attack on Titan",
     "year": 2019,
     "scene": "Erwin's charge and Levi vs. the Beast Titan (Season 3 Part 2)",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Attack on Titan Levi vs Beast Titan scene",
+    "what_happens": "Erwin leads recruits on horseback in a suicidal charge as the Beast Titan hurls crushed rock like grapeshot; using them as decoys, Levi grapples across a field of titans and slices the Beast Titan apart.",
+    "why": "3D-assisted camera moves follow Levi's ODM-gear arcs through a field of titans, alternating extreme speed with stillness; study how Erwin's doomed charge and Sawano's score build stakes before Levi's release.",
     "director": "Tetsurō Araki (chief), Masashi Koizuka",
+    "country": "Japan",
     "craft": [
       "Studio: Wit Studio",
       "Composer: Hiroyuki Sawano"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "3d animation",
-      "one vs many",
-      "score-driven"
+    "scene_type": "battle.giants",
+    "format": [
+      "last_stand",
+      "bombardment"
     ],
-    "why": "3D-assisted camera moves follow Levi's ODM-gear arcs through a field of titans, alternating extreme speed with stillness; study how Erwin's doomed charge and Sawano's score build stakes before Levi's release.",
-    "query": "Attack on Titan Levi vs Beast Titan scene"
+    "scale": "medium",
+    "genre": [
+      "action",
+      "fantasy",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "ruined_city",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tragic",
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "cavalry"
+    ],
+    "weapons": [
+      "european_sword",
+      "improvised"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "animation_2d",
+      "animation_3d",
+      "score_driven",
+      "slow_motion"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Shiganshina District, Paradis Island (fictional)",
+    "keywords": [
+      "odm gear",
+      "beast titan",
+      "rock barrage",
+      "suicide charge",
+      "grappling hooks",
+      "levi ackerman",
+      "erwin smith"
+    ]
   },
   {
     "film": "Demon Slayer: Kimetsu no Yaiba",
     "year": 2019,
     "scene": "Episode 19 'Hinokami': Tanjiro and Nezuko vs. Rui",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Demon Slayer episode 19 Hinokami Kagura Tanjiro vs Rui",
+    "what_happens": "Trapped in the spider demon Rui's razor threads in a moonlit forest, Tanjiro recalls his father's fire dance and switches to flaming sword strokes while his sister Nezuko ignites the threads with her blood.",
+    "why": "ufotable composites hand-drawn characters with ukiyo-e-styled digital water and fire effects; study the switch from water to Hinokami Kagura flames and the insert song timed to the emotional peak.",
     "director": "Haruo Sotozaki",
+    "country": "Japan",
     "craft": [
       "Studio: ufotable",
       "Composers: Go Shiina, Yuki Kajiura"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "3d animation",
-      "fire",
-      "score-driven"
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "ufotable composites hand-drawn characters with ukiyo-e-styled digital water and fire effects; study the switch from water to Hinokami Kagura flames and the insert song timed to the emotional peak.",
-    "query": "Demon Slayer episode 19 Hinokami Kagura Tanjiro vs Rui"
+    "scale": "small_group",
+    "genre": [
+      "fantasy",
+      "action",
+      "horror"
+    ],
+    "era": "early_20th_century",
+    "region": "japan",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "low_light"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "tragic"
+    ],
+    "combatants": [
+      "creatures",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "katana",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "animation_3d",
+      "stylised_animation",
+      "score_driven"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Mount Natagumo forest, Taisho-era Japan",
+    "keywords": [
+      "hinokami kagura",
+      "water breathing",
+      "blood demon art",
+      "spider threads",
+      "nezuko",
+      "rui",
+      "ufotable",
+      "insert song"
+    ]
   },
   {
     "film": "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
     "year": 2020,
     "scene": "Rengoku vs. Akaza",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Mugen Train Rengoku vs Akaza fight scene",
+    "what_happens": "Beside a derailed train before dawn, Flame Hashira Rengoku trades blazing sword forms with the demon Akaza's shockwave punches, refusing to yield even after a fist pierces his body as sunrise approaches.",
+    "why": "A pre-dawn duel with orbiting 3D camera moves and flame effects layered over drawn animation; study how impact frames, speed lines and the approaching sunrise as a ticking clock pace an unwinnable fight.",
     "director": "Haruo Sotozaki",
+    "country": "Japan",
     "craft": [
       "Studio: ufotable",
       "Composers: Yuki Kajiura, Go Shiina"
@@ -1020,43 +3160,134 @@
     "accolades": [
       "Japan Academy Prize: Animation of the Year"
     ],
-    "techniques": [
-      "2d animation",
-      "3d animation",
-      "fire",
-      "duel",
-      "night"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "A pre-dawn duel with orbiting 3D camera moves and flame effects layered over drawn animation; study how impact frames, speed lines and the approaching sunrise as a ticking clock pace an unwinnable fight.",
-    "query": "Mugen Train Rengoku vs Akaza fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "action"
+    ],
+    "era": "early_20th_century",
+    "region": "japan",
+    "environment": [
+      "grassland"
+    ],
+    "time_of_day": "twilight",
+    "atmosphere": [
+      "fire",
+      "dust_sand"
+    ],
+    "mood": [
+      "tragic",
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "creatures",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "katana",
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "animation_3d",
+      "stylised_animation"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Beside the derailed Mugen Train, Taisho-era Japan",
+    "keywords": [
+      "flame breathing",
+      "upper moon three",
+      "sunrise",
+      "rengoku",
+      "akaza",
+      "punch through",
+      "derailed train"
+    ]
   },
   {
     "film": "Jujutsu Kaisen",
     "year": 2021,
     "scene": "Yuji and Todo vs. Hanami (Black Flash)",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Jujutsu Kaisen Yuji Todo vs Hanami Black Flash scene",
+    "what_happens": "In the wooded grounds of a sorcery-school contest, Yuji and Todo tag-team the tree-like cursed spirit Hanami; Todo's clap swaps their positions mid-attack as Yuji lands crackling Black Flash punches.",
+    "why": "Tag-team choreography built around Todo's position-swapping clap means staging and editing must keep every swap legible; study the impact frames and color inversions that mark each Black Flash.",
     "director": "Sunghoo Park",
+    "country": "Japan",
     "craft": [
       "Studio: MAPPA"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "sound design"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "Tag-team choreography built around Todo's position-swapping clap means staging and editing must keep every swap legible; study the impact frames and color inversions that mark each Black Flash.",
-    "query": "Jujutsu Kaisen Yuji Todo vs Hanami Black Flash scene"
+    "scale": "small_group",
+    "genre": [
+      "fantasy",
+      "action",
+      "horror"
+    ],
+    "era": "contemporary",
+    "region": "japan",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "heroic",
+      "relentless"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "creatures"
+    ],
+    "weapons": [
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "sound_design",
+      "stylised_animation"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Kyoto Jujutsu High exchange event, Japan, 2018",
+    "keywords": [
+      "black flash",
+      "boogie woogie",
+      "clap swap",
+      "cursed energy",
+      "impact frames",
+      "color inversion",
+      "todo aoi",
+      "triple kick"
+    ]
   },
   {
     "film": "Spider-Man: Into the Spider-Verse",
     "year": 2018,
     "scene": "'What's Up Danger' leap of faith",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "Into the Spider-Verse leap of faith scene",
+    "what_happens": "In his new homemade suit, Miles Morales climbs a Manhattan skyscraper and leaps; shot upside down, the plunge reads as a rise until his first web-swing carries him across the night skyline.",
+    "why": "An inverted camera makes the fall read as a rise, while animating on twos and halftone textures give CG a printed-comic feel; study how the needle drop and visual language mark Miles' transformation.",
     "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "country": "USA",
     "craft": [
       "Animation: Sony Pictures Imageworks",
       "Composer: Daniel Pemberton"
@@ -1067,22 +3298,67 @@
       "BAFTA: Best Animated Film",
       "Annie: Best Animated Feature"
     ],
-    "techniques": [
-      "3d animation",
-      "2d animation",
-      "score-driven"
+    "scene_type": "stunt.set_piece",
+    "format": [
+      "spectacle"
     ],
-    "why": "An inverted camera makes the fall read as a rise, while animating on twos and halftone textures give CG a printed-comic feel; study how the needle drop and visual language mark Miles' transformation.",
-    "query": "Into the Spider-Verse leap of faith scene"
+    "scale": "solo",
+    "genre": [
+      "superhero",
+      "action",
+      "adventure"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "sky",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "heroic",
+      "awe",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "stunt_hero"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "animation_3d",
+      "stylised_animation",
+      "score_driven"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "period": "New York City, present day",
+    "keywords": [
+      "leap of faith",
+      "what's up danger",
+      "upside-down shot",
+      "first web swing",
+      "halftone",
+      "animating on twos",
+      "skyscraper jump"
+    ]
   },
   {
     "film": "Spider-Man: Across the Spider-Verse",
     "year": 2023,
     "scene": "Miles escapes the Spider-Society",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "Across the Spider-Verse Miles escapes Spider Society chase scene",
+    "what_happens": "Defying Miguel O'Hara, Miles bolts from Spider-Society headquarters with hundreds of Spider-People in pursuit, slinging webs through futuristic Nueva York and fighting free aboard a speeding train.",
+    "why": "Hundreds of Spider-People are differentiated by clashing art styles while Miles' line of flight stays readable; study color-coded staging, per-character frame rates and how the chase escalates through Spider-Society spaces.",
     "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "country": "USA",
     "craft": [
       "Animation: Sony Pictures Imageworks",
       "Composer: Daniel Pemberton"
@@ -1090,44 +3366,143 @@
     "accolades": [
       "Annie: Best Feature"
     ],
-    "techniques": [
-      "3d animation",
-      "2d animation",
-      "one vs many"
+    "scene_type": "chase.foot",
+    "format": [
+      "escape",
+      "pursuit"
     ],
-    "why": "Hundreds of Spider-People are differentiated by clashing art styles while Miles' line of flight stays readable; study color-coded staging, per-character frame rates and how the chase escalates through Spider-Society spaces.",
-    "query": "Across the Spider-Verse Miles escapes Spider Society chase scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "near_future",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "train",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "tense"
+    ],
+    "combatants": [
+      "superheroes"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "animation_3d",
+      "stylised_animation",
+      "color_grading"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Nueva York, Earth-928, 2099",
+    "keywords": [
+      "spider-society",
+      "miguel o'hara",
+      "hundreds of spider-people",
+      "web-swinging",
+      "art-style clash",
+      "canon event",
+      "multiverse"
+    ]
   },
   {
     "film": "Kung Fu Panda",
     "year": 2008,
     "scene": "Tai Lung's escape from Chorh-Gom Prison",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "Kung Fu Panda Tai Lung prison escape scene",
+    "what_happens": "Freed by a falling feather, the snow leopard Tai Lung slips his shackles and bounds up a vast vertical prison shaft, dodging crossbow bolts and collapsing walkways as rhino guards fall away and explosions erupt.",
+    "why": "A vertical prison lets the choreography run along a single axis of crumbling bridges, crossbow bolts and chains; study how the camera rides Tai Lung's momentum upward while the guards fall away.",
     "director": "Mark Osborne, John Stevenson",
+    "country": "USA",
     "craft": [
       "Composers: Hans Zimmer, John Powell"
     ],
     "accolades": [
       "Annie: Best Animated Feature"
     ],
-    "techniques": [
-      "3d animation",
-      "one vs many",
-      "score-driven"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "escape",
+      "one_vs_many"
     ],
-    "why": "A vertical prison lets the choreography run along a single axis of crumbling bridges, crossbow bolts and chains; study how the camera rides Tai Lung's momentum upward while the guards fall away.",
-    "query": "Kung Fu Panda Tai Lung prison escape scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "martial_arts",
+      "action",
+      "comedy"
+    ],
+    "era": "fantasy_world",
+    "region": "china",
+    "environment": [
+      "prison",
+      "hills_mountains"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "relentless",
+      "epic",
+      "stylish"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "apes_animals"
+    ],
+    "weapons": [
+      "fists_feet",
+      "bow_arrow",
+      "explosives",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_3d",
+      "score_driven",
+      "tracking_shot"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Chorh-Gom Prison, mythic ancient China",
+    "keywords": [
+      "snow leopard",
+      "feather",
+      "crossbow bolts",
+      "rhino guards",
+      "vertical prison",
+      "shackles",
+      "tai lung"
+    ]
   },
   {
     "film": "The Incredibles",
     "year": 2004,
     "scene": "Dash's jungle chase on Nomanisan Island",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "The Incredibles Dash running jungle chase scene",
+    "what_happens": "Chased through the island jungle by Syndrome's guards on flying saucer-like velocipods, Dash discovers his top speed, tricking pursuers into crashes and sprinting across the surface of the water.",
+    "why": "Giacchino's brassy spy score and a low tracking camera sell Dash's speed through foliage and across water; study how Bird stages chase geography and character gags at the same tempo.",
     "director": "Brad Bird",
+    "country": "USA",
     "craft": [
       "Studio: Pixar Animation Studios",
       "Composer: Michael Giacchino"
@@ -1136,164 +3511,542 @@
       "Oscar: Best Animated Feature",
       "Oscar: Best Sound Editing"
     ],
-    "techniques": [
-      "3d animation",
-      "jungle",
-      "tracking shot",
-      "score-driven"
+    "scene_type": "chase.foot",
+    "format": [
+      "pursuit",
+      "escape"
     ],
-    "why": "Giacchino's brassy spy score and a low tracking camera sell Dash's speed through foliage and across water; study how Bird stages chase geography and character gags at the same tempo.",
-    "query": "The Incredibles Dash running jungle chase scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "mid_20th_century",
+    "region": "oceania",
+    "environment": [
+      "jungle",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "playful",
+      "relentless",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_3d",
+      "tracking_shot",
+      "score_driven"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Nomanisan Island (fictional Pacific island), early 1960s",
+    "keywords": [
+      "velocipods",
+      "running on water",
+      "super speed",
+      "dash parr",
+      "syndrome's guards",
+      "100 mile dash",
+      "jungle run"
+    ]
   },
   {
     "film": "Arcane",
     "year": 2021,
     "scene": "Vi vs. Sevika (Act 1)",
-    "category": "animation",
-    "medium": "animation",
-    "country": "France/USA",
+    "query": "Arcane Vi vs Sevika fight scene",
+    "what_happens": "Vi squares off against Silco's enforcer Sevika in an undercity bar, swapping heavy gauntleted punches and slams across tables and floor in a bruising brawl that leaves both fighters bloodied.",
+    "why": "Fortiche's painterly hybrid places hand-drawn smears and effects inside a CG brawl; study the weighty gauntlet-punch staging, speed ramps on key hits and how the fight expresses character more than spectacle.",
     "director": "Pascal Charrue, Arnaud Delord",
+    "country": "France/USA",
     "craft": [
       "Studio: Fortiche"
     ],
     "accolades": [
       "Emmy: Outstanding Animated Program"
     ],
-    "techniques": [
-      "3d animation",
-      "2d animation",
-      "duel",
-      "slow motion"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Fortiche's painterly hybrid places hand-drawn smears and effects inside a CG brawl; study the weighty gauntlet-punch staging, speed ramps on key hits and how the fight expresses character more than spectacle.",
-    "query": "Arcane Vi vs Sevika fight scene",
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "action",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "neon"
+    ],
+    "mood": [
+      "brutal",
+      "gritty",
+      "stylish"
+    ],
+    "combatants": [
+      "gangsters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_3d",
+      "stylised_animation",
+      "slow_motion"
+    ],
+    "look": "animation_3d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Zaun undercity, Piltover and Zaun (fictional)",
+    "keywords": [
+      "gauntlets",
+      "zaun",
+      "undercity",
+      "vi",
+      "sevika",
+      "painterly",
+      "bar brawl"
+    ],
     "video": "kUNMucznycE"
   },
   {
     "film": "Puss in Boots: The Last Wish",
     "year": 2022,
     "scene": "Puss vs. Death: the final duel",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "Puss in Boots The Last Wish Puss vs Death final fight",
+    "what_happens": "Puss in Boots faces the hooded wolf Death in a duel beside the fallen wishing star, rapier against twin sickles; outmatched but unafraid, he fights on until Death acknowledges his choice to live and withdraws.",
+    "why": "Painterly 3D animated at lower frame rates during action gives each sword stroke an illustrative snap; study how the duel is staged as character resolution, ending on a choice rather than a kill.",
     "director": "Joel Crawford",
+    "country": "USA",
     "craft": [
       "Studio: DreamWorks Animation",
       "Composer: Heitor Pereira"
     ],
     "accolades": [],
-    "techniques": [
-      "3d animation",
-      "2d animation",
+    "scene_type": "fight.blades",
+    "format": [
       "duel"
     ],
-    "why": "Painterly 3D animated at lower frame rates during action gives each sword stroke an illustrative snap; study how the duel is staged as character resolution, ending on a choice rather than a kill.",
-    "query": "Puss in Boots The Last Wish Puss vs Death final fight"
+    "scale": "one_on_one",
+    "genre": [
+      "adventure",
+      "comedy",
+      "fantasy"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "apes_animals"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_3d",
+      "stylised_animation",
+      "silhouette"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "The Dark Forest, fairy-tale world (fictional)",
+    "keywords": [
+      "death wolf",
+      "twin sickles",
+      "rapier",
+      "low frame rate",
+      "painterly",
+      "last life",
+      "wishing star"
+    ]
   },
   {
     "film": "Sword of the Stranger",
     "year": 2007,
     "scene": "Final duel: Nanashi vs. Luo-Lang",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Sword of the Stranger final fight Nanashi vs Luo Lang",
+    "what_happens": "Nanashi finally draws his long-bound sword against the Ming army's foreign swordsman Luo-Lang inside a fortress, the two circling, clashing and closing distance across wooden structures in a fast, bloody fight to the death.",
+    "why": "Often cited as anime's finest sword fight: believable weight, footwork and blade contact animated at high drawing counts; study how tension is built through shifting distance, brief stillness and environment use.",
     "director": "Masahiro Andō",
+    "country": "Japan",
     "craft": [
       "Studio: Bones",
       "Composer: Naoki Satō"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
+    "scene_type": "fight.blades",
+    "format": [
       "duel"
     ],
-    "why": "Often cited as anime's finest sword fight: believable weight, footwork and blade contact animated at high drawing counts; study how tension is built through shifting distance, brief stillness and environment use.",
-    "query": "Sword of the Stranger final fight Nanashi vs Luo Lang",
+    "scale": "one_on_one",
+    "genre": [
+      "samurai_jidaigeki",
+      "action"
+    ],
+    "era": "early_modern",
+    "region": "japan",
+    "environment": [
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "graceful",
+      "brutal"
+    ],
+    "combatants": [
+      "ronin",
+      "mercenaries"
+    ],
+    "weapons": [
+      "katana",
+      "chinese_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "wide_framing",
+      "sound_design"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Sengoku-period Japan, a Ming envoys' fortress",
+    "keywords": [
+      "nanashi",
+      "luo-lang",
+      "sakuga",
+      "footwork",
+      "blade contact",
+      "bound sword",
+      "fight to the death"
+    ],
     "video": "xT66YPk0Q5w"
   },
   {
     "film": "Cowboy Bebop",
     "year": 1998,
     "scene": "'Ballad of Fallen Angels': Spike vs. Vicious in the cathedral",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Cowboy Bebop Ballad of Fallen Angels church fight scene",
+    "what_happens": "In a gothic Martian cathedral, Spike shoots it out with Red Dragon gangsters and duels his katana-wielding rival Vicious, then tumbles backward through a stained-glass window in slow motion as a grenade blooms.",
+    "why": "Gunplay in a gothic cathedral climaxes with Spike's slow-motion fall through stained glass over Yoko Kanno's choral 'Green Bird'; study how music overrides diegetic sound to make action elegiac.",
     "director": "Shinichirō Watanabe",
+    "country": "Japan",
     "craft": [
       "Studio: Sunrise",
       "Composer: Yoko Kanno"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "gun-fu",
-      "slow motion",
-      "score-driven"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "duel",
+      "one_vs_many"
     ],
-    "why": "Gunplay in a gothic cathedral climaxes with Spike's slow-motion fall through stained glass over Yoko Kanno's choral 'Green Bird'; study how music overrides diegetic sound to make action elegiac.",
-    "query": "Cowboy Bebop Ballad of Fallen Angels church fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "noir",
+      "action"
+    ],
+    "era": "far_future",
+    "region": "alien_world",
+    "environment": [
+      "temple_church"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "melancholic",
+      "stylish",
+      "tragic"
+    ],
+    "combatants": [
+      "cowboys_gunslingers",
+      "triads_yakuza"
+    ],
+    "weapons": [
+      "handgun",
+      "katana",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "gun_fu",
+      "slow_motion",
+      "score_driven"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Mars, 2071",
+    "keywords": [
+      "stained glass",
+      "cathedral",
+      "slow-motion fall",
+      "green bird",
+      "spike spiegel",
+      "vicious",
+      "red dragon syndicate"
+    ]
   },
   {
     "film": "One Punch Man",
     "year": 2015,
     "scene": "Saitama vs. Boros (season 1 finale)",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "One Punch Man Saitama vs Boros fight",
+    "what_happens": "The alien warlord Boros unleashes ever-greater powers on the bald hero Saitama, kicking him to the Moon and firing a planet-scale energy beam, before Saitama answers with one serious punch.",
+    "why": "Sakuga-heavy exchanges escalate the villain's power again and again, only for Saitama's deadpan to undercut it; study how comedic timing and spectacle share a single build-and-release structure.",
     "director": "Shingo Natsume",
+    "country": "Japan",
     "craft": [
       "Studio: Madhouse",
       "Chief animation director: Chikashi Kubota"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
+    "scene_type": "fight.superpowered",
+    "format": [
       "duel"
     ],
-    "why": "Sakuga-heavy exchanges escalate the villain's power again and again, only for Saitama's deadpan to undercut it; study how comedic timing and spectacle share a single build-and-release structure.",
-    "query": "One Punch Man Saitama vs Boros fight",
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "comedy",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "unspecified_city",
+    "environment": [
+      "spacecraft_interior",
+      "ruined_city",
+      "planet_surface"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "playful",
+      "awe"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens",
+      "supervillains"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "stylised_animation",
+      "fast_cutting"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Boros's mothership above the ruins of City A",
+    "keywords": [
+      "serious punch",
+      "collapsing star roaring cannon",
+      "kicked to the moon",
+      "sakuga",
+      "deadpan",
+      "bald hero",
+      "boros"
+    ],
     "video": "ErXfj3sbIfU"
   },
   {
     "film": "Avatar: The Last Airbender",
     "year": 2008,
     "scene": "'Sozin's Comet': Aang vs. Fire Lord Ozai",
-    "category": "animation",
-    "medium": "animation",
-    "country": "USA",
+    "query": "Avatar Last Airbender Aang vs Ozai final battle",
+    "what_happens": "Empowered by Sozin's Comet, Fire Lord Ozai rains fire on Aang among towering rock pillars until Aang enters the glowing Avatar State and commands all four elements in a swirling sphere.",
+    "why": "Bending styles derived from real martial arts give each element its own movement vocabulary; study how the fight travels through rock pillars and sky, using terrain and the Avatar State as escalation beats.",
     "director": "Michael Dante DiMartino, Bryan Konietzko (creators)",
+    "country": "USA",
     "craft": [
       "Composers: The Track Team (Jeremy Zuckerman, Benjamin Wynn)"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "duel",
-      "fire",
-      "score-driven"
+    "scene_type": "fight.superpowered",
+    "format": [
+      "duel"
     ],
-    "why": "Bending styles derived from real martial arts give each element its own movement vocabulary; study how the fight travels through rock pillars and sky, using terrain and the Avatar State as escalation beats.",
-    "query": "Avatar Last Airbender Aang vs Ozai final battle"
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "adventure",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "hills_mountains",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "debris_sparks",
+      "storm_wind"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "awe"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "supervillains"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "period": "Wulong Forest, Earth Kingdom (fictional world)",
+    "keywords": [
+      "bending",
+      "avatar state",
+      "firebending",
+      "sozin's comet",
+      "rock pillars",
+      "element sphere",
+      "fire lord ozai"
+    ]
   },
   {
     "film": "The End of Evangelion",
     "year": 1997,
     "scene": "Asuka's Unit-02 vs. the Mass Production Evangelions",
-    "category": "animation",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "End of Evangelion Asuka vs Mass Production Evas fight",
+    "what_happens": "Asuka's red Unit-02 rises from a lake and rips apart the winged white Mass Production Evangelions on internal battery power, until it runs dry and they skewer it with lance replicas and feast on its body.",
+    "why": "Hand-drawn mecha combat set against classical music swings from triumphant to horrifying; study how framing, held frames and sound design flip a hero's comeback into a gruesome defeat.",
     "director": "Hideaki Anno, Kazuya Tsurumaki",
+    "country": "Japan",
     "craft": [
       "Studios: Gainax, Production I.G",
       "Composer: Shirō Sagisu"
     ],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "one vs many",
-      "score-driven"
+    "scene_type": "battle.giants",
+    "format": [
+      "one_vs_many",
+      "last_stand"
     ],
-    "why": "Hand-drawn mecha combat set against classical music swings from triumphant to horrifying; study how framing, held frames and sound design flip a hero's comeback into a gruesome defeat.",
-    "query": "End of Evangelion Asuka vs Mass Production Evas fight"
+    "scale": "one_vs_many",
+    "genre": [
+      "sci_fi",
+      "action",
+      "horror"
+    ],
+    "era": "near_future",
+    "region": "japan",
+    "environment": [
+      "river_lake",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "explosions"
+    ],
+    "mood": [
+      "tragic",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "mechs"
+    ],
+    "weapons": [
+      "fists_feet",
+      "knife",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "mech_walker"
+    ],
+    "technique": [
+      "animation_2d",
+      "score_driven",
+      "sound_design"
+    ],
+    "look": "animation_2d",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "The Geofront beneath Tokyo-3, Japan, 2016",
+    "keywords": [
+      "unit-02",
+      "mass production evas",
+      "lance of longinus",
+      "umbilical cable",
+      "battery countdown",
+      "asuka",
+      "classical music"
+    ]
   }
 ]

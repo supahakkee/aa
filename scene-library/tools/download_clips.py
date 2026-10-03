@@ -129,6 +129,7 @@ def main():
     ap.add_argument("filters", nargs="*", help="facet=value filters, e.g. scene_type=chase.vehicle era=contemporary")
     ap.add_argument("--ids", nargs="+", help="only these scene ids")
     ap.add_argument("--text", help="only scenes whose text mentions this")
+    ap.add_argument("--limit", type=int, help="only the first N matching scenes (for a trial run)")
     ap.add_argument("--height", type=int, default=1080, help="maximum video height (default 1080)")
     ap.add_argument("--pad", type=int, default=0, help="extra seconds before and after the window")
     ap.add_argument("--workers", type=int, default=3, help="parallel downloads (default 3)")
@@ -140,6 +141,7 @@ def main():
     args = ap.parse_args()
 
     scenes = select(load_scenes(), parse_filters(args.filters), text=args.text, ids=args.ids)
+    scenes = scenes[: args.limit] if args.limit else scenes
     if not scenes:
         sys.exit("no scenes match")
     if args.dry_run:

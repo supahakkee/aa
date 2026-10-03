@@ -5,6 +5,11 @@ chases, stunts, disasters, space). Each scene is a **30-second clip** described 
 **facets**, every one drawn from a controlled vocabulary. Use the facets to find scenes; don't guess
 from film titles.
 
+**Easiest way in: the MCP server.** `LOCAL_SETUP.md` sets everything up and connects it. Its tools
+(`list_tags`, `search_scenes`, `get_scene`, `get_clip`, `get_contact_sheet`, `find_similar`) wrap
+everything below, validate tag values for you, and return images you can look at. Without MCP, use
+the files and command-line tools described here.
+
 ## Files
 
 | Path | What it is |
@@ -15,6 +20,11 @@ from film titles.
 | `clips/<scene_type>/<id>.mp4` | The 30-second clip, once downloaded with `tools/download_clips.py`. |
 | `clips/<scene_type>/<id>.json` | The scene's record plus `local_file` and download details. |
 | `clips/index.jsonl` | Every downloaded clip's record, one per line. |
+| `clips/<scene_type>/<id>.sheet.jpg` | Contact sheet: 12 frames from the clip in a 4x3 grid (after analysis). |
+| `clips/<scene_type>/<id>.frames/` | Those 12 frames as separate JPEGs. |
+| `data/analysis.json` | Measured data per downloaded clip (below), keyed by scene id. |
+| `data/embeddings.npz` | CLIP vectors for "find similar" and plain-language search. |
+| `mcp_server.py` | The MCP server. |
 | `tools/query.py` | Command-line search by facet (below). |
 
 ## A record
@@ -124,15 +134,41 @@ for s in rain_duels:
     print(s["film"], s["year"], s["scene"], s["clip"]["file"], s["clip"]["youtube_url"])
 ```
 
+## Measured clip data
+
+After `tools/analyze_clips.py` runs (setup does this), every downloaded clip also has measured
+facts under `measured` in its sidecar and in `data/analysis.json`:
+
+| Field | Meaning |
+|---|---|
+| `shots`, `avg_shot_seconds`, `cuts_per_minute`, `cut_times` | Editing pace from shot detection. |
+| `pace` | `long_take` (no cut), `slow` (>6 s per shot), `moderate` (3-6 s), `fast` (1.5-3 s), `rapid` (<1.5 s). |
+| `aspect_ratio`, `aspect_name` | The picture's real shape with letterbox bars removed (`2.39:1`, `1.85:1`, `16:9`…). |
+| `brightness`, `contrast`, `lighting_key` | 0-1 values; `low_key`, `mid_key`, `high_key`. |
+| `saturation`, `colour` | `monochrome`, `muted`, `natural`, `vivid`. |
+| `warmth`, `temperature` | `warm`, `neutral`, `cool`. |
+| `palette` | Six dominant colours with their share of the frame. |
+| `motion`, `motion_level`, `motion_curve` | How much changes on screen: `calm`, `moderate`, `intense`, `frenetic`; per-second curve 0-9. |
+
+Filter on them with `tools/query.py --pace rapid --lighting-key low_key --max-avg-shot 2`, or the
+matching `search_scenes` parameters.
+
+## Plain-language and visual search
+
+`find_similar` (MCP) and `tools/semantic.py` use CLIP: each scene has an image vector (its frames,
+or YouTube thumbnails until downloaded) and a text vector (its description and tags). Use it when
+no tag fits: "foggy forest ambush at dawn", "lone figure walking out of an explosion", or "scenes
+that look like this one". Combine with tags for precision: search semantically, then check the
+returned scenes' facets.
+
 ## Getting the clips
 
 `clip.file` is where the MP4 lives once downloaded. Check that it exists; if not, use
 `clip.youtube_url` (opens YouTube at the window start; watch until `clip.end`). To download:
 
 ```bash
-pip install -U yt-dlp            # and ffmpeg
-python3 tools/download_clips.py                              # all 377
-python3 tools/download_clips.py scene_type=fight.blades      # same filters as query.py
+python3 setup_local.py                                       # everything (see LOCAL_SETUP.md)
+python3 tools/download_clips.py scene_type=fight.blades      # or only some, same filters as query.py
 python3 tools/download_clips.py --cookies-from-browser chrome  # if YouTube asks to sign in
 ```
 
@@ -141,7 +177,8 @@ YouTube blocks downloads from cloud servers, so run it on a desktop or home conn
 ## Notes
 
 - `clip.window`: `most_replayed` means the 30 seconds come from YouTube's replay graph (the part
-  viewers rewatch most); `estimated` means about a third of the way into the upload;
+  viewers rewatch most); `motion_peak` means the busiest 30 seconds by motion and cutting
+  (`setup_local.py --repick`); `estimated` means about a third of the way into the upload;
   `hand_picked` means set by hand.
 - `what_happens` and `what_to_study` are original descriptions, not dialogue or script.
 - `awards` are wins for the film or episode, not the clip; absence does not mean none.

@@ -450,6 +450,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   const DETAIL_FACETS = ["scene_type", "format", "scale", "genre", "era", "region", "environment", "time_of_day", "atmosphere",
     "mood", "combatants", "weapons", "vehicles", "technique", "look", "violence", "language", "medium"];
   const ERA_ORDER = Object.keys(TAX.era ? TAX.era.values : {});
+  const WINDOW_LABEL = { most_replayed: "Most-replayed window", motion_peak: "Busiest 30 s by motion", hand_picked: "Hand-picked window", estimated: "Estimated window" };
   const LABEL = {
     ww2: "WW2", usa: "USA", "19th_century": "19th century", early_20th_century: "Early 20th century", mid_20th_century: "Mid 20th century",
     late_20th_century: "Late 20th century", cgi: "CGI", pov: "POV", imax_large_format: "IMAX / large format", animation_2d: "2D animation",
@@ -459,7 +460,72 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     hong_kong: "Hong Kong", eastern_europe: "Eastern Europe", western_europe: "Western Europe", southern_europe: "Southern Europe",
     northern_europe: "Northern Europe", british_isles: "British Isles", latin_america: "Latin America", middle_east: "Middle East",
     north_africa: "North Africa", sub_saharan_africa: "Sub-Saharan Africa", south_asia: "South Asia", southeast_asia: "Southeast Asia",
-    central_asia: "Central Asia", american_frontier: "American frontier", earth_orbit: "Earth orbit", dj: "DJ",
+    central_asia: "Central Asia", american_frontier: "American frontier", earth_orbit: "Earth orbit",
+    apartment_house: "Apartment / house",
+    apes_animals: "Apes / animals",
+    artillery_cannon: "Artillery / cannon",
+    ashigaru_japanese_army: "Ashigaru / Japanese army",
+    assassins_hitmen: "Assassins / hitmen",
+    axe_mace: "Axe / mace",
+    bow_arrow: "Bow / arrow",
+    boxers_fighters: "Boxers / fighters",
+    castle_fortress: "Castle / fortress",
+    chariot_carriage: "Chariot / carriage",
+    claws_teeth: "Claws / teeth",
+    cliff_canyon: "Cliff / canyon",
+    cold_war_soldiers: "Cold War soldiers",
+    cowboys_gunslingers: "Cowboys / gunslingers",
+    crusaders_saracens: "Crusaders / saracens",
+    dam_industrial: "Dam / industrial",
+    debris_sparks: "Debris / sparks",
+    dojo_gym: "Dojo / gym",
+    drivers_racers: "Drivers / racers",
+    dust_sand: "Dust / sand",
+    fog_mist: "Fog / mist",
+    heat_sun: "Heat / sun",
+    hills_mountains: "Hills / mountains",
+    imperial_chinese_army: "Imperial Chinese army",
+    kaiju_giant_monsters: "Kaiju / giant monsters",
+    kung_fu_fighters: "Kung fu fighters",
+    mall_store: "Mall / store",
+    market_bazaar: "Market / bazaar",
+    martial_artists_modern: "Modern martial artists",
+    mech_walker: "Mech / walker",
+    mongol_steppe_warriors: "Mongol / steppe warriors",
+    musket_flintlock: "Musket / flintlock",
+    mutants_superpowered: "Mutants / superpowered",
+    native_warriors: "Indigenous warriors",
+    nightclub_bar: "Nightclub / bar",
+    outlaws_bandits: "Outlaws / bandits",
+    palace_mansion: "Palace / mansion",
+    parachute_wingsuit: "Parachute / wingsuit",
+    plaza_square: "Plaza / square",
+    restaurant_kitchen: "Restaurant / kitchen",
+    river_lake: "River / lake",
+    robots_androids: "Robots / androids",
+    rocket_missile: "Rocket / missile",
+    sabre_rapier: "Sabre / rapier",
+    sailors_navy: "Sailors / navy",
+    slum_shantytown: "Slum / shantytown",
+    snow_ice: "Snow / ice",
+    spear_polearm: "Spear / polearm",
+    spies_secret_agents: "Spies / secret agents",
+    stadium_racetrack: "Stadium / racetrack",
+    staff_stick: "Staff / stick",
+    storm_wind: "Storm / wind",
+    strobe_flash: "Strobe / flash",
+    stunt_hero: "Stunt hero",
+    swamp_mud: "Swamp / mud",
+    tank_armour: "Tank guns",
+    tank_armoured: "Tanks / armoured vehicles",
+    temple_church: "Temple / church",
+    thugs_henchmen: "Thugs / henchmen",
+    torpedo_depth_charge: "Torpedoes / depth charges",
+    triads_yakuza: "Triads / yakuza",
+    tunnel_sewer: "Tunnel / sewer",
+    warehouse_factory: "Warehouse / factory",
+    wuxia_swordsmen: "Wuxia swordsmen",
+    zombies_infected: "Zombies / infected",
   };
   const label = (facet, v) => facet === "scene_type" ? TYPE_LABEL[v] || v : LABEL[v] || (v.charAt(0).toUpperCase() + v.slice(1)).replace(/_/g, " ");
   const describe = (facet, v) => (TAX[facet] && TAX[facet].values[v]) || "";
@@ -602,7 +668,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
         <img loading="lazy" decoding="async" src="${esc(thumbOf(s.clip.youtube_id))}" alt="">
         <span class="tag mono"><i></i>${esc(TYPE_LABEL[s.scene_type])}</span>
         ${LOCAL[s.id] ? `<span class="disk mono">On disk</span>` : ""}
-        <span class="tc mono"><span class="pick${s.clip.window === "most_replayed" ? " hot" : ""}" title="${s.clip.window === "most_replayed" ? "Most-replayed window" : "Estimated window"}"></span>${clock(s.clip.start)}–${clock(s.clip.end)}</span>
+        <span class="tc mono"><span class="pick${s.clip.window === "estimated" ? "" : " hot"}" title="${WINDOW_LABEL[s.clip.window]}"></span>${clock(s.clip.start)}–${clock(s.clip.end)}</span>
         <span class="play-ico">${PLAY}</span>
       </button>
       <div class="card-body">
@@ -899,7 +965,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
               <path d="M${pts.join(" L")}" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.7"/>`;
     }
     const x0 = d ? (V.start / d) * W : 0, x1 = d ? (Math.min(V.end, d) / d) * W : W;
-    const kind = V.local ? "downloaded clip" : heat ? "most-replayed window" : s.clip.window === "hand_picked" && V.video === s.clip.youtube_id ? "hand-picked window" : "estimated window";
+    const kind = V.local ? "downloaded clip" : V.video === s.clip.youtube_id ? WINDOW_LABEL[s.clip.window].toLowerCase() : "estimated window";
     $("#timeline").innerHTML = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true">
         <line x1="0" x2="${W}" y1="${base}" y2="${base}" stroke="currentColor" stroke-width="1" opacity="0.5"/>
         ${area}

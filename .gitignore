@@ -1,3 +1,6 @@
 scan-output/
 __pycache__/
 scene-library/clips/
+scene-library/.venv/
+scene-library/mcp-config.json
+scene-library/setup_report.json

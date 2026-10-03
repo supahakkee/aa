@@ -1,93 +1,87 @@
 # Set-Piece Vault
 
-A browsable reference library of **377 great action set-pieces** in 18 scene types: fight
-choreography, gunfights, sword duels, boxing, westerns, car and foot chases, practical stunts,
-modern war, epic battles, dogfights, naval combat, space battles, space travel, VFX spectacle,
-creatures, superheroes and anime. Films from 1923 to 2025 and 20+ countries, plus landmark series
-(Band of Brothers, Game of Thrones, Shōgun, The Expanse, Arcane). Every scene is cut to a
-**30-second window** of a YouTube upload (3 hours 8 minutes of reference in total), and each one
-carries notes on what to study, its key crew, its awards and technique tags.
+A reference library of great action set-pieces from film and TV, built for filmmakers and for the
+AI agents that help them. Every scene is a **30-second clip** with notes on what happens and what
+to study, its crew and awards, and **18 tag facets** from a controlled vocabulary: scene type,
+action format, scale, genre, story era and exact period, region, environment, time of day,
+atmosphere, mood, who is fighting, weapons, vehicles, filmmaking technique, look, release format,
+violence level and language.
 
-| Group | Scene types |
+The tags keep similar-looking scenes apart: a samurai duel in the rain (`fight.blades`, `japan`,
+`samurai`, `katana`, `rain`) never mixes with a medieval army clash (`battle.pre_gunpowder`,
+`british_isles`, `knights`, `european_sword`).
+
+<!-- counts -->
+**377 scenes** from 334 films and series, 1923-2025, made in 23 countries; 3 h 8 min of clips.
+
+| Family | Scenes | Scene types |
+|---|---|---|
+| Fight | 135 | `fight.gunfight` 40 · `fight.hand_to_hand` 31 · `fight.blades` 28 · `fight.superpowered` 16 · `fight.ring_sport` 13 · `fight.creature` 7 |
+| Battle | 120 | `battle.modern_ground` 31 · `battle.pre_gunpowder` 22 · `battle.space` 20 · `battle.air` 15 · `battle.giants` 12 · `battle.black_powder` 10 · `battle.naval` 10 |
+| Chase & race | 51 | `chase.vehicle` 29 · `chase.foot` 16 · `race` 5 · `chase.air` 1 |
+| Stunts & spectacle | 71 | `stunt.set_piece` 27 · `space.travel` 20 · `vfx.showcase` 9 · `creature.attack` 8 · `disaster` 7 |
+<!-- /counts -->
+
+## Get it running
+
+| You want to… | Read |
 |---|---|
-| Fight | Hand-to-hand & martial arts (25) · Swords & blades (20) · Gunfights (24) · Boxing (13) · Westerns (20) |
-| Pursuit & Stunts | Vehicle chases (30) · Foot chases & parkour (14) · Practical stunts (25) |
-| War | Modern war (31) · Epic battles (29) · Aerial combat (13) · Naval & submarine (11) |
-| Space | Space battles (22) · Space travel & cosmic (23) |
-| Spectacle | VFX spectacle & disaster (21) · Creatures, kaiju & mechs (18) · Superhero (18) · Anime & animation (20) |
+| Download every clip, measure it, index it and connect your agent | [`LOCAL_SETUP.md`](LOCAL_SETUP.md): one command, `python3 setup_local.py` |
+| Have an agent use the library | [`AGENTS.md`](AGENTS.md): files, record format, facets, MCP tools, queries |
+| See every tag and what it means | [`taxonomy.json`](taxonomy.json) |
+| Add or fix scenes | [`catalog/SPEC.md`](catalog/SPEC.md) |
 
 ## Browse
 
 ```bash
-./serve.sh            # then open http://localhost:8000
+./serve.sh            # http://localhost:8000
 ```
 
-The page needs to be served over HTTP (not opened as a file) for YouTube to allow the built-in
-player. Opened as a file it still works, but clips open on YouTube at the window's start.
+A filter rail on the left covers every facet, with counts that update as you filter; active
+filters show as removable chips. Click any tag in a scene's details to see every scene tagged the
+same way. The viewer loops the 30-second window (`−5s`/`+5s` slide it, `←`/`→` step through
+results, `R` replays, `S` stars), **Play reel** runs the current results back to back, and the
+**Pull list** keeps your starred scenes. Downloaded clips play from disk; the rest stream from
+YouTube.
 
-- **Bins** on the left group scenes by type: Fight, Pursuit & Stunts, War, Space and Spectacle.
-- **Filters**: medium (film, series, anime, animation), era, award winners only, and technique
-  chips such as *long take*, *practical stunts*, *wire work*, *imax* or *miniatures*. Chips combine.
-- **Search** matches film, scene, director, crew (choreographers, DPs, editors, VFX supervisors),
-  awards, country and the study notes. Press `/` to jump to it.
-- **Viewer**: the 30-second window loops. `−5s` / `+5s` slide the window, `←` / `→` step through the
-  current results, `R` replays, `S` adds the scene to your pull list.
-- **Play reel** plays everything in the current view back to back, 30 seconds each. Filter to
-  *Space Battles* + *practical effects* and press it for an instant mood reel.
-- **Pull list** keeps the scenes you star (stored in your browser). *Copy pull list* gives you the
-  titles with timestamped YouTube links, ready for a treatment, a shot list or `cut_clips.py`.
+## What's in the folder
 
-### How the 30 seconds are chosen
-
-YouTube publishes a "most replayed" graph for popular videos. The resolver slides a 30-second
-window along that graph and keeps the stretch viewers rewatch most, starting 2 seconds early. Those
-clips show a filled dot (●) next to their timecode and the graph is drawn under the player. Clips
-without the graph get an estimated window about a third of the way in (○); nudge it if it misses.
-
-## Save clips for offline use
-
-For editing mood reels or pre-vis, you can save the windows as MP4 files on your own machine:
-
-```bash
-pip install yt-dlp                                  # ffmpeg must be installed too
-python3 tools/cut_clips.py --category gunfights     # one bin
-python3 tools/cut_clips.py --list pull-list.txt     # paste "Copy pull list" into a file
-python3 tools/cut_clips.py --all --height 720 --pad 3
-```
-
-Files go to `clips/<category>/<scene-id>.mp4`, which git ignores. The footage belongs to its rights
-holders: keep the files for personal study and don't publish or redistribute them.
+| Path | What it is |
+|---|---|
+| `catalog/*.json` | The source of truth: scenes, their tags and notes. |
+| `taxonomy.json` | The controlled vocabulary with a definition for every value. |
+| `data/scenes.json`, `data/scenes.jsonl` | Built records, one per scene (what agents read). |
+| `data/resolved.json` | Which YouTube upload and 30-second window each scene uses. |
+| `data/embeddings.npz` | CLIP vectors for "find similar" and plain-language search. |
+| `index.html`, `data/scenes.js` | The browser. |
+| `mcp_server.py` | MCP server: `list_tags`, `search_scenes`, `get_scene`, `get_clip`, `get_contact_sheet`, `find_similar`. |
+| `setup_local.py` | Installs, downloads, analyses, indexes, connects the MCP server and verifies. |
+| `tools/download_clips.py` | Saves the windows as MP4s in `clips/<scene_type>/` with metadata sidecars. |
+| `tools/analyze_clips.py` | Shots and pace, true aspect ratio, light, colour, motion, contact sheets; `--repick` improves estimated windows. |
+| `tools/embed.py` | Builds the CLIP index from clip frames (or thumbnails before download). |
+| `tools/query.py` | Command-line search by facet and measured data. |
+| `tools/resolve.py` | Finds a YouTube upload for each scene and picks the window from the "most replayed" graph. |
+| `tools/validate.py` | Checks every tag against the taxonomy. |
+| `tools/build.py` | Builds `data/`; `--standalone` writes a self-contained page. |
 
 ## Add or fix scenes
 
-1. Add entries to a file in `catalog/` following [`catalog/SPEC.md`](catalog/SPEC.md).
-2. `python3 tools/resolve.py` searches YouTube for the new scenes, skips trailers, reactions, fan
-   edits and uploads that refuse embedding, and picks the window. Results are cached in
-   `data/resolved.json`; only new or changed scenes are fetched.
-3. `python3 tools/build.py` writes `data/scenes.json` and `data/scenes.js`, which the page loads.
+1. Add entries to a file in `catalog/` following [`catalog/SPEC.md`](catalog/SPEC.md), tags included.
+2. `python3 tools/resolve.py` finds the clips (it skips trailers, reactions, fan edits, re-scores
+   and uploads that refuse embedding) and picks the windows.
+3. `python3 tools/validate.py` checks the tags; `python3 tools/build.py` rebuilds `data/`.
+4. `python3 tools/embed.py` refreshes the search index.
 
-If the resolver picks the wrong upload, set `"video": "<YouTube id>"` on the catalog entry (the
-runners-up it found are listed under `candidates` in `data/resolved.json`). Add `"start": <seconds>`
-to set the window by hand. Re-run steps 2 and 3.
+If a clip shows the wrong scene, set `"video": "<YouTube id>"` on the entry (the resolver's
+runners-up are under `candidates` in `data/resolved.json`), `"start": <seconds>` to fix the window,
+or `"range": [from, to]` to search only part of a long upload. Every pick in the library was
+checked against its upload title and corrected where it showed the wrong scene.
 
-Every pick was checked by hand against its upload title, and wrong scenes, trailers, fan edits and
-re-scored versions were swapped for the right clip. Uploads still disappear from YouTube over time. `python3 tools/resolve.py --refresh` re-resolves
-everything; the viewer also offers the alternate uploads it found and a YouTube search for any
-clip that stops playing.
+## Notes
 
-`python3 tools/build.py --standalone vault.html` writes a single self-contained page with
-thumbnails embedded, for places where YouTube embeds are not allowed. Its clips open on YouTube.
-
-## Host it
-
-The folder is a static site. To publish it on GitHub Pages, enable Pages for the repository and
-serve the `scene-library` folder (for example with a Pages workflow that uploads it as the
-artifact). YouTube embeds work there because the page is served over HTTPS.
-
-## Notes on the data
-
-- Awards are wins for the film or episode (Oscars, BAFTAs, Emmys, Hong Kong Film Awards, Taurus
-  World Stunt Awards and so on), not for the clip itself. They were checked conservatively and left
-  out where uncertain, so a scene without awards listed may still have won some.
-- Crew lists name the people most relevant to the scene (fight or stunt coordinator, DP, editor,
-  VFX supervisor), not the full credits.
+- The 30-second windows come from YouTube's "most replayed" graph where it exists (filled dot ●),
+  otherwise about a third of the way in (○). `setup_local.py --repick` replaces those estimates
+  with the busiest 30 seconds by motion and cutting.
+- Awards are wins for the film or episode, checked conservatively. Crew lists name the people most
+  relevant to the scene.
+- The clips are for internal reference and study. The footage belongs to its rights holders.

@@ -7,6 +7,7 @@
     python3 tools/query.py genre=space_opera --text "trench run" --format json
     python3 tools/query.py --facets                 # list every facet and value with counts
     python3 tools/query.py --facets region          # one facet
+    python3 tools/query.py scene_type=fight --max-avg-shot 2 --lighting-key low_key   # needs analysed clips
 
 Filters: facet=value. Several values separated by commas match any of them (OR). Several filters
 must all match (AND). For list facets (format, genre, environment, mood, combatants, weapons,
@@ -30,6 +31,42 @@ TAXONOMY = json.loads((ROOT / "taxonomy.json").read_text())["facets"]
 
 def load_scenes():
     return json.loads((ROOT / "data" / "scenes.json").read_text())["scenes"]
+
+
+# Measured by tools/analyze_clips.py once clips are downloaded (data/analysis.json).
+MEASURED = {
+    "pace": ["long_take", "slow", "moderate", "fast", "rapid"],
+    "lighting_key": ["low_key", "mid_key", "high_key"],
+    "motion_level": ["calm", "moderate", "intense", "frenetic"],
+    "aspect_name": ["4:3", "1.37:1", "1.66:1", "16:9", "1.85:1", "2:1", "2.20:1", "2.39:1", "2.76:1"],
+    "colour": ["monochrome", "muted", "natural", "vivid"],
+    "temperature": ["warm", "neutral", "cool"],
+}
+
+
+def load_analysis():
+    path = ROOT / "data" / "analysis.json"
+    return json.loads(path.read_text()) if path.exists() else {}
+
+
+def measured_select(scenes, analysis, want=None, min_avg_shot=None, max_avg_shot=None):
+    """Keep scenes whose measured clip data matches; unmeasured scenes drop out when any is asked for."""
+    want = {k: set(v) for k, v in (want or {}).items() if v}
+    if not want and min_avg_shot is None and max_avg_shot is None:
+        return scenes
+    out = []
+    for s in scenes:
+        m = analysis.get(s["id"])
+        if not m:
+            continue
+        if any(m.get(k) not in vals for k, vals in want.items()):
+            continue
+        if min_avg_shot is not None and m["avg_shot_seconds"] < min_avg_shot:
+            continue
+        if max_avg_shot is not None and m["avg_shot_seconds"] > max_avg_shot:
+            continue
+        out.append(s)
+    return out
 
 
 def fold(s):
@@ -99,6 +136,11 @@ def main():
     ap.add_argument("--text", help="free-text words that must all appear in the record")
     ap.add_argument("--ids", nargs="+")
     ap.add_argument("--local", action="store_true", help="only scenes whose clip is downloaded")
+    for key, values in MEASURED.items():
+        ap.add_argument(f"--{key.replace('_', '-')}", nargs="+", choices=values, metavar="VALUE",
+                        help=f"measured {key} (after analyze_clips.py): {', '.join(values)}")
+    ap.add_argument("--min-avg-shot", type=float, metavar="SECONDS", help="measured average shot length at least")
+    ap.add_argument("--max-avg-shot", type=float, metavar="SECONDS", help="measured average shot length at most")
     ap.add_argument("--format", default="jsonl", choices=["jsonl", "json", "ids", "paths", "urls", "table"])
     ap.add_argument("--limit", type=int)
     ap.add_argument("--facets", nargs="*", metavar="FACET", help="list facet values with counts and exit")
@@ -111,6 +153,12 @@ def main():
     found = select(scenes, parse_filters(args.filters), text=args.text, ids=args.ids)
     if args.local:
         found = [s for s in found if (ROOT / s["clip"]["file"]).exists()]
+    analysis = load_analysis()
+    found = measured_select(found, analysis, {k: getattr(args, k) for k in MEASURED},
+                            args.min_avg_shot, args.max_avg_shot)
+    for s in found:
+        if s["id"] in analysis:
+            s["measured"] = analysis[s["id"]]
     found = found[: args.limit] if args.limit else found
 
     if args.format == "json":

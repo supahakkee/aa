@@ -3,198 +3,598 @@
     "film": "The Raid",
     "year": 2011,
     "scene": "Mad Dog vs. Rama and Andi",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Indonesia",
+    "query": "The Raid Mad Dog fight scene Rama Andi",
+    "what_happens": "In a bare room of a gang-held tower block, SWAT officer Rama and his brother Andi fight the tireless enforcer Mad Dog two against one, until they finish him with a broken fluorescent tube.",
+    "why": "A two-on-one fight sustained for minutes in a bare room: study how mobile handheld framing follows each impact, how exhaustion is written into the choreography, and how Yayan Ruhian's relentless pressure keeps a long fight escalating.",
     "director": "Gareth Evans",
+    "country": "Indonesia",
     "craft": [
       "Fight choreographers: Iko Uwais & Yayan Ruhian",
       "DP: Matt Flannery"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "handheld",
-      "practical stunts",
-      "wide-angle choreography"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "A two-on-one fight sustained for minutes in a bare room: study how mobile handheld framing follows each impact, how exhaustion is written into the choreography, and how Yayan Ruhian's relentless pressure keeps a long fight escalating.",
-    "query": "The Raid Mad Dog fight scene Rama Andi"
+    "scale": "small_group",
+    "genre": [
+      "martial_arts",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "southeast_asia",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless",
+      "gritty"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "police",
+      "thugs_henchmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "single_location",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "indonesian",
+    "period": "Jakarta tower block, present day",
+    "keywords": [
+      "silat",
+      "two on one",
+      "fluorescent tube",
+      "exhaustion",
+      "mad dog",
+      "tower block",
+      "iko uwais"
+    ]
   },
   {
     "film": "The Raid 2",
     "year": 2014,
     "scene": "Kitchen fight: Rama vs. The Assassin",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Indonesia",
+    "query": "The Raid 2 kitchen fight scene Assassin karambit",
+    "what_happens": "Undercover cop Rama fights a silent assassin wielding twin karambits among the steel counters of a restaurant kitchen, both men bleeding from slashes until Rama turns a blade on him.",
+    "why": "Karambit against improvised blades in a steel kitchen: study how the camera threads through gaps between counters, how slash geography stays readable at speed, and how the duel is built in clear phases that each raise the cost.",
     "director": "Gareth Evans",
+    "country": "Indonesia",
     "craft": [
       "Fight choreographers: Iko Uwais & Yayan Ruhian",
       "DP: Matt Flannery"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "single location",
-      "improvised weapons",
-      "handheld",
-      "practical stunts"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Karambit against improvised blades in a steel kitchen: study how the camera threads through gaps between counters, how slash geography stays readable at speed, and how the duel is built in clear phases that each raise the cost.",
-    "query": "The Raid 2 kitchen fight scene Assassin karambit"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "southeast_asia",
+    "environment": [
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "tense",
+      "relentless"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "assassins_hitmen",
+      "police"
+    ],
+    "weapons": [
+      "knife",
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_stunts",
+      "single_location",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "indonesian",
+    "period": "Jakarta gang war, present day",
+    "keywords": [
+      "karambit",
+      "kitchen fight",
+      "steel counters",
+      "knife duel",
+      "slash wounds",
+      "the assassin",
+      "silat"
+    ]
   },
   {
     "film": "John Wick: Chapter 3 – Parabellum",
     "year": 2019,
     "scene": "Glass room fight vs. Zero's Shinobi",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "John Wick 3 Shinobi glass fight scene",
+    "what_happens": "John Wick fights two of Zero's silat-trained students in a room of glass walls and display cases, the three crashing through panes in wide, unbroken exchanges until he leaves both beaten but alive.",
+    "why": "Wide, stable masters let full-body choreography by Yayan Ruhian and Cecep Arif Rahman play out in long takes, while glass walls multiply reflections. Note how mutual respect between fighters is expressed through pauses inside the choreography.",
     "director": "Chad Stahelski",
+    "country": "USA",
     "craft": [
       "DP: Dan Laustsen"
     ],
     "accolades": [],
-    "techniques": [
-      "wide-angle choreography",
-      "practical stunts",
-      "color grading",
-      "single location"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "Wide, stable masters let full-body choreography by Yayan Ruhian and Cecep Arif Rahman play out in long takes, while glass walls multiply reflections. Note how mutual respect between fighters is expressed through pauses inside the choreography.",
-    "query": "John Wick 3 Shinobi glass fight scene"
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "hotel",
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "stylish",
+      "graceful",
+      "brutal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "long_take",
+      "practical_stunts",
+      "color_grading",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "New York Continental Hotel, present day",
+    "keywords": [
+      "glass room",
+      "shattering glass",
+      "reflections",
+      "silat",
+      "two on one",
+      "mutual respect",
+      "yayan ruhian"
+    ]
   },
   {
     "film": "Drunken Master II",
     "year": 1994,
     "scene": "Final factory fight vs. Ken Lo",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Drunken Master 2 final fight Ken Lo scene",
+    "what_happens": "In a steel foundry, Wong Fei-hung gulps industrial alcohol and turns drunken boxing against a henchman's whipping kicks, both men dragged across beds of glowing coals before Wong overwhelms him.",
+    "why": "Ken Lo's whipping kicks against Chan's drunken boxing: rhythm built from speed contrasts, comic beats inside brutal exchanges, and hot coals as a set-piece payoff. Wide frames and minimal cutting prove the performers did it.",
     "director": "Lau Kar-leung",
+    "country": "Hong Kong",
     "craft": [
       "Action choreography: Lau Kar-leung & Jackie Chan Stunt Team"
     ],
     "accolades": [
       "Hong Kong Film Award: Best Action Choreography"
     ],
-    "techniques": [
-      "duel",
-      "practical stunts",
-      "fire",
-      "wide-angle choreography"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Ken Lo's whipping kicks against Chan's drunken boxing: rhythm built from speed contrasts, comic beats inside brutal exchanges, and hot coals as a set-piece payoff. Wide frames and minimal cutting prove the performers did it.",
-    "query": "Drunken Master 2 final fight Ken Lo scene"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "comedy",
+      "action"
+    ],
+    "era": "early_20th_century",
+    "region": "china",
+    "environment": [
+      "warehouse_factory"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "practical_effects",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "period": "Late Qing-dynasty Canton steel foundry, early 1900s",
+    "keywords": [
+      "drunken boxing",
+      "zui quan",
+      "hot coals",
+      "industrial alcohol",
+      "kicking specialist",
+      "ken lo",
+      "jackie chan"
+    ]
   },
   {
     "film": "Wheels on Meals",
     "year": 1984,
     "scene": "Jackie Chan vs. Benny 'The Jet' Urquidez",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Wheels on Meals Jackie Chan vs Benny Urquidez fight scene",
+    "what_happens": "In a candlelit castle hall, Jackie Chan's cook trades blistering kicks and punches with a champion kickboxer, absorbing early punishment, adjusting his footwork and finally outlasting him.",
+    "why": "Often called the greatest screen fight between two real fighters: a kickboxing champion's footwork against Chan's acrobatics, with tactical adjustments, breathing and real speed. Study how pacing gives a duel a story arc.",
     "director": "Sammo Hung",
+    "country": "Hong Kong",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "wide-angle choreography",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Often called the greatest screen fight between two real fighters: a kickboxing champion's footwork against Chan's acrobatics, with tactical adjustments, breathing and real speed. Study how pacing gives a duel a story arc.",
-    "query": "Wheels on Meals Jackie Chan vs Benny Urquidez fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "comedy",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "region": "southern_europe",
+    "environment": [
+      "castle_fortress"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "graceful",
+      "relentless",
+      "playful"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "kung_fu_fighters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "cantonese",
+    "period": "Spanish castle near Barcelona, mid-1980s",
+    "keywords": [
+      "kickboxing",
+      "candle kick",
+      "footwork",
+      "speed kicks",
+      "benny urquidez",
+      "jackie chan"
+    ]
   },
   {
     "film": "The Way of the Dragon",
     "year": 1972,
     "scene": "Colosseum fight vs. Chuck Norris",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Way of the Dragon Bruce Lee vs Chuck Norris Colosseum fight",
+    "what_happens": "Inside the ruins of the Colosseum, Tang Lung and the American karate champion Colt warm up, then fight; Tang loses the early exchanges before switching to bouncing footwork and taking control.",
+    "why": "A fight structured as a narrative: Lee loses early exchanges, adapts with footwork and rhythm, and wins by strategy. Study the ritual warm-up, the cutaway to the watching cat, and framing that keeps both fighters full-figure.",
     "director": "Bruce Lee",
+    "country": "Hong Kong",
     "craft": [
       "Fight choreography: Bruce Lee"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "wide-angle choreography",
-      "sound design"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "A fight structured as a narrative: Lee loses early exchanges, adapts with footwork and rhythm, and wins by strategy. Study the ritual warm-up, the cutaway to the watching cat, and framing that keeps both fighters full-figure.",
-    "query": "Way of the Dragon Bruce Lee vs Chuck Norris Colosseum fight"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action"
+    ],
+    "era": "mid_20th_century",
+    "region": "southern_europe",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "heroic",
+      "graceful"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "sound_design",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "mandarin",
+    "period": "Colosseum, Rome, early 1970s",
+    "keywords": [
+      "colosseum",
+      "bruce lee",
+      "chuck norris",
+      "warm-up ritual",
+      "footwork",
+      "watching cat",
+      "chest hair"
+    ]
   },
   {
     "film": "Enter the Dragon",
     "year": 1973,
     "scene": "Hall of mirrors finale vs. Han",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong/USA",
+    "query": "Enter the Dragon hall of mirrors fight scene",
+    "what_happens": "Lee hunts the claw-handed crime lord Han through a maze of mirrors, losing him among endless reflections until he smashes the glass panels to find his real opponent.",
+    "why": "Mirrors fracture space: infinite reflections disorient the hero and the audience, and smashing them becomes the tactical solution. Study how the set itself is the choreography's main obstacle.",
     "director": "Robert Clouse",
+    "country": "Hong Kong/USA",
     "craft": [
       "Fight choreography: Bruce Lee",
       "Composer: Lalo Schifrin"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "single location",
-      "practical effects",
-      "score-driven"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Mirrors fracture space: infinite reflections disorient the hero and the audience, and smashing them becomes the tactical solution. Study how the set itself is the choreography's main obstacle.",
-    "query": "Enter the Dragon hall of mirrors fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "spy"
+    ],
+    "era": "mid_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "palace_mansion"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks",
+      "low_light"
+    ],
+    "mood": [
+      "surreal",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "practical_effects",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Han's island fortress near Hong Kong, 1970s",
+    "keywords": [
+      "hall of mirrors",
+      "reflections",
+      "claw hand",
+      "smashing mirrors",
+      "maze",
+      "bruce lee"
+    ]
   },
   {
     "film": "Fist of Legend",
     "year": 1994,
-    "scene": "Chen Zhen vs. Funakoshi (blindfold fight)",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "scene": "Chen Zhen takes on the Hongkou dojo",
+    "query": "Fist of Legend dojo fight scene",
+    "what_happens": "Chen Zhen walks into a Japanese karate dojo in Shanghai and takes on its students one after another, breaking their attacks with fast, economical strikes, kicks and throws across the wooden floor.",
+    "why": "Yuen Woo-ping lets Jet Li dismantle a room of karateka with minimal, precise moves. Study how wide framing, clean geography and steadily tougher opponents build a one-vs-many fight with no wasted motion.",
     "director": "Gordon Chan",
+    "country": "Hong Kong",
     "craft": [
       "Action choreography: Yuen Woo-ping"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "wire work",
-      "wide-angle choreography"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Yuen Woo-ping builds the duel around ideas (distance, rhythm, fighting blind) rather than moves alone. Jet Li's speed and economy show the modern hybrid style that Hollywood later borrowed for The Matrix.",
-    "query": "Fist of Legend Jet Li blindfold fight Funakoshi"
+    "scale": "one_vs_many",
+    "genre": [
+      "martial_arts",
+      "action"
+    ],
+    "era": "early_20th_century",
+    "region": "china",
+    "environment": [
+      "dojo_gym"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "graceful",
+      "brutal"
+    ],
+    "combatants": [
+      "kung_fu_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "wire_work",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "cantonese",
+    "period": "Hongkou district, Shanghai, 1937",
+    "keywords": [
+      "dojo challenge",
+      "karate students",
+      "chen zhen",
+      "economy of motion",
+      "jet li",
+      "yuen woo-ping"
+    ],
+    "video": "DaCozyuf-j4"
   },
   {
     "film": "Once Upon a Time in China",
     "year": 1991,
     "scene": "Ladder fight: Wong Fei-hung vs. Master Yim",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Once Upon a Time in China ladder fight scene Jet Li",
+    "what_happens": "Wong Fei-hung and the rival master Iron Robe Yim duel on and between tall wooden ladders in a warehouse, balancing, climbing and swinging the ladders at each other high above the floor.",
+    "why": "Wire work used for vertical choreography: ladders become weapons, platforms and shifting terrain. Study how Tsui Hark uses the warehouse's height to escalate a duel and cuts on impact to keep it kinetic.",
     "director": "Tsui Hark",
+    "country": "Hong Kong",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "wire work",
-      "improvised weapons",
-      "single location"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Wire work used for vertical choreography: ladders become weapons, platforms and shifting terrain. Study how Tsui Hark uses the warehouse's height to escalate a duel and cuts on impact to keep it kinetic.",
-    "query": "Once Upon a Time in China ladder fight scene Jet Li"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "historical_epic"
+    ],
+    "era": "19th_century",
+    "region": "china",
+    "environment": [
+      "warehouse_factory"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "graceful",
+      "heroic"
+    ],
+    "combatants": [
+      "kung_fu_fighters"
+    ],
+    "weapons": [
+      "improvised",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "fast_cutting",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "cantonese",
+    "period": "Late Qing-dynasty Foshan, nineteenth century",
+    "keywords": [
+      "ladder fight",
+      "ladders",
+      "iron robe yim",
+      "wong fei-hung",
+      "vertical choreography",
+      "jet li",
+      "tsui hark"
+    ]
   },
   {
     "film": "Ip Man",
     "year": 2008,
     "scene": "\"I want to fight ten\" dojo fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Ip Man I want to fight 10 scene",
+    "what_happens": "Wing Chun master Ip Man faces ten Japanese karate black belts at once in an occupation-army dojo, breaking their circle and battering them with rapid chain punches while Japanese officers watch.",
+    "why": "Wing Chun as catharsis: a restrained build, a wide shot of encirclement, then rapid chain-punch inserts. Study how the style's centerline logic stays readable while the cutting expresses controlled rage.",
     "director": "Wilson Yip",
+    "country": "Hong Kong",
     "craft": [
       "Action choreography: Sammo Hung",
       "Composer: Kenji Kawai"
@@ -203,66 +603,200 @@
       "Hong Kong Film Award: Best Film",
       "Hong Kong Film Award: Best Action Choreography"
     ],
-    "techniques": [
-      "one vs many",
-      "single location",
-      "slow motion"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Wing Chun as catharsis: a restrained build, a wide shot of encirclement, then rapid chain-punch inserts. Study how the style's centerline logic stays readable while the cutting expresses controlled rage.",
-    "query": "Ip Man I want to fight 10 scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "martial_arts",
+      "action",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "region": "china",
+    "environment": [
+      "dojo_gym"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "heroic",
+      "relentless"
+    ],
+    "combatants": [
+      "kung_fu_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "slow_motion",
+      "fast_cutting",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "period": "Japanese-occupied Foshan, China, 1938",
+    "keywords": [
+      "wing chun",
+      "chain punches",
+      "ten opponents",
+      "karate black belts",
+      "centerline",
+      "controlled rage",
+      "donnie yen"
+    ]
   },
   {
     "film": "Flash Point",
     "year": 2007,
     "scene": "Final fight: Ma Jun vs. Tony (Collin Chou)",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Flash Point Donnie Yen vs Collin Chou final fight",
+    "what_happens": "Detective Ma Jun and gang boss Tony brawl through a village house and out onto the grass, mixing kicks with takedowns, armbars and ground-and-pound as they slam each other through walls.",
+    "why": "An early MMA-influenced screen fight mixing strikes with takedowns, armbars and ground-and-pound. Study how Yen finds clear angles for grappling, which is notoriously hard to film, and how unwired slams carry weight.",
     "director": "Wilson Yip",
+    "country": "Hong Kong",
     "craft": [
       "Action choreography: Donnie Yen"
     ],
     "accolades": [
       "Hong Kong Film Award: Best Action Choreography"
     ],
-    "techniques": [
-      "duel",
-      "practical stunts",
-      "wide-angle choreography"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "An early MMA-influenced screen fight mixing strikes with takedowns, armbars and ground-and-pound. Study how Yen finds clear angles for grappling, which is notoriously hard to film, and how unwired slams carry weight.",
-    "query": "Flash Point Donnie Yen vs Collin Chou final fight"
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "martial_arts",
+      "crime"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "apartment_house",
+      "village"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "relentless",
+      "gritty"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "period": "New Territories, Hong Kong, 1997",
+    "keywords": [
+      "mma",
+      "armbar",
+      "ground and pound",
+      "takedowns",
+      "suplex",
+      "wall slam",
+      "donnie yen"
+    ]
   },
   {
     "film": "Tom-Yum-Goong (The Protector)",
     "year": 2005,
     "scene": "Spiral staircase one-take fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Thailand",
+    "query": "Tom Yum Goong one take staircase fight scene",
+    "what_happens": "Kham climbs a restaurant's spiral ramp floor by floor in a single unbroken shot, kicking, kneeing and hurling a stream of henchmen over the railings as the camera rises with him.",
+    "why": "A roughly four-minute single take climbing a restaurant's spiral ramp: choreography designed around the camera's ascent, attackers fed into frame on cue and thrown over railings. A lesson in blocking a oner vertically.",
     "director": "Prachya Pinkaew",
+    "country": "Thailand",
     "craft": [
       "Fight choreography: Panna Rittikrai"
     ],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "oner",
-      "tracking shot",
-      "one vs many",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A roughly four-minute single take climbing a restaurant's spiral ramp: choreography designed around the camera's ascent, attackers fed into frame on cue and thrown over railings. A lesson in blocking a oner vertically.",
-    "query": "Tom Yum Goong one take staircase fight scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "martial_arts",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "oceania",
+    "environment": [
+      "restaurant_kitchen",
+      "stairwell"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "relentless",
+      "brutal",
+      "stylish"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "thugs_henchmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "steadicam",
+      "tracking_shot",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "thai",
+    "period": "Gang-run Thai restaurant, Sydney, present day",
+    "keywords": [
+      "spiral staircase",
+      "oner",
+      "muay thai",
+      "railings",
+      "elbows and knees",
+      "ascending camera",
+      "tony jaa"
+    ]
   },
   {
     "film": "Oldboy",
     "year": 2003,
     "scene": "Corridor hammer fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "South Korea",
+    "query": "Oldboy hallway hammer fight scene",
+    "what_happens": "Oh Dae-su fights down a narrow corridor against a mob of club-wielding thugs, swinging a claw hammer, taking a knife in the back and staggering on while the camera tracks sideways.",
+    "why": "A lateral tracking shot in one take that flattens the fight into a side-scrolling tableau. Study the messy, exhausted choreography, the knife left in his back, and the strings that give brutality a tragic register.",
     "director": "Park Chan-wook",
+    "country": "South Korea",
     "craft": [
       "DP: Chung Chung-hoon",
       "Composer: Jo Yeong-wook"
@@ -270,24 +804,70 @@
     "accolades": [
       "Cannes: Grand Prix"
     ],
-    "techniques": [
-      "long take",
-      "tracking shot",
-      "one vs many",
-      "improvised weapons",
-      "single location"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A lateral tracking shot in one take that flattens the fight into a side-scrolling tableau. Study the messy, exhausted choreography, the knife left in his back, and the strings that give brutality a tragic register.",
-    "query": "Oldboy hallway hammer fight scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "thriller",
+      "noir",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "korea",
+    "environment": [
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "axe_mace",
+      "fists_feet",
+      "improvised",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "tracking_shot",
+      "single_location",
+      "wide_framing",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "korean",
+    "period": "Private prison building, Seoul, 2003",
+    "keywords": [
+      "corridor hammer",
+      "claw hammer",
+      "side-scrolling",
+      "lateral tracking",
+      "knife in back",
+      "hallway fight",
+      "one take"
+    ]
   },
   {
     "film": "The Matrix",
     "year": 1999,
     "scene": "Subway fight: Neo vs. Agent Smith",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA/Australia",
+    "query": "The Matrix subway fight Neo vs Agent Smith",
+    "what_happens": "On an empty subway platform, Neo and Agent Smith trade rapid punches, kicks and blocks, smashing each other into walls and pillars, with slow-motion strikes punctuating the speed.",
+    "why": "Western-standoff staging married to Hong Kong wire work: study how the empty platform sets clean geography, how slow-motion punch exchanges punctuate the speed, and how layered impact sound gives a digital-era fight physical weight.",
     "director": "The Wachowskis",
+    "country": "USA/Australia",
     "craft": [
       "Fight choreographer: Yuen Woo-ping",
       "DP: Bill Pope",
@@ -299,24 +879,69 @@
       "Oscar: Best Sound",
       "Oscar: Best Sound Effects Editing"
     ],
-    "techniques": [
-      "duel",
-      "wire work",
-      "slow motion",
-      "cgi",
-      "sound design"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Western-standoff staging married to Hong Kong wire work: study how the empty platform sets clean geography, how slow-motion punch exchanges punctuate the speed, and how layered impact sound gives a digital-era fight physical weight.",
-    "query": "The Matrix subway fight Neo vs Agent Smith"
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action",
+      "cyberpunk"
+    ],
+    "era": "late_20th_century",
+    "region": "unspecified_city",
+    "environment": [
+      "train_station"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "stylish",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "federal_agents"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "slow_motion",
+      "sound_design",
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Simulated 1999 city inside the Matrix",
+    "keywords": [
+      "subway platform",
+      "wall slam",
+      "kung fu",
+      "slow motion punch",
+      "neo",
+      "agent smith",
+      "wire work"
+    ]
   },
   {
     "film": "The Bourne Ultimatum",
     "year": 2007,
     "scene": "Tangier apartment fight vs. Desh",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Bourne Ultimatum Tangier fight scene Desh",
+    "what_happens": "Jason Bourne and the assassin Desh crash through a cramped Tangier apartment, Bourne fending off a knife with a hardback book before choking his opponent to death on the bathroom floor.",
+    "why": "Defined 2000s fight grammar: handheld, fragmentary coverage cut for impact and disorientation, with a book and a towel as weapons. Study how sparse scoring lets breathing and impacts carry the scene.",
     "director": "Paul Greengrass",
+    "country": "USA",
     "craft": [
       "Fight coordinator: Jeff Imada",
       "DP: Oliver Wood",
@@ -327,241 +952,757 @@
       "Oscar: Best Sound Editing",
       "Oscar: Best Sound Mixing"
     ],
-    "techniques": [
-      "handheld",
-      "shaky cam",
-      "improvised weapons",
-      "single location"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Defined 2000s fight grammar: handheld, fragmentary coverage cut for impact and disorientation, with a book and a towel as weapons. Study how sparse scoring lets breathing and impacts carry the scene.",
-    "query": "Bourne Ultimatum Tangier fight scene Desh"
+    "scale": "one_on_one",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "north_africa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "gritty",
+      "chaotic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "improvised",
+      "fists_feet",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "fast_cutting",
+      "single_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Tangier, Morocco, present day",
+    "keywords": [
+      "book as weapon",
+      "towel",
+      "shaky cam",
+      "strangling",
+      "tangier",
+      "paul greengrass",
+      "matt damon"
+    ]
   },
   {
     "film": "Daredevil",
     "year": 2015,
     "scene": "Hallway fight (S1E2 'Cut Man')",
-    "category": "hand-to-hand",
-    "medium": "series",
-    "country": "USA",
+    "query": "Daredevil hallway fight scene season 1",
+    "what_happens": "A wounded masked vigilante fights a stream of Russian thugs along a dim hallway, the camera drifting between doorways as he staggers, leans on walls and keeps knocking men down to reach a kidnapped boy.",
+    "why": "A TV-budget oner that sells exhaustion: Murdock stumbles, leans on walls and absorbs hits while the camera tracks along the corridor and doorways feed in attackers. Character told through fatigue.",
     "director": "Phil Abraham",
+    "country": "USA",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "oner",
-      "single location",
-      "one vs many",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "rescue"
     ],
-    "why": "A TV-budget oner that sells exhaustion: Murdock stumbles, leans on walls and absorbs hits while the camera tracks along the corridor and doorways feed in attackers. Character told through fatigue.",
-    "query": "Daredevil hallway fight scene season 1"
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "corridor",
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "gritty",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "tracking_shot",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Hell's Kitchen, New York City, present day",
+    "keywords": [
+      "hallway fight",
+      "oner",
+      "exhaustion",
+      "russian mob",
+      "masked vigilante",
+      "doorways",
+      "kidnapped boy"
+    ]
   },
   {
     "film": "Atomic Blonde",
     "year": 2017,
     "scene": "Stairwell fight 'single take'",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA/Germany",
+    "query": "Atomic Blonde stairwell fight scene one take",
+    "what_happens": "British agent Lorraine Broughton fights down an East Berlin stairwell and through an apartment against several attackers, every fighter slowing, gasping and staggering as fists, knives and guns change hands.",
+    "why": "A stitched continuous take through stairwell and apartment where fatigue accumulates: both fighters slow, gasp and stagger. Study the hidden stitches, a camera that travels between floors, and choreography built on desperation.",
     "director": "David Leitch",
+    "country": "USA/Germany",
     "craft": [
       "DP: Jonathan Sela",
       "Stunt coordinator: Sam Hargrave"
     ],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "oner",
-      "handheld",
-      "improvised weapons",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "escape"
     ],
-    "why": "A stitched continuous take through stairwell and apartment where fatigue accumulates: both fighters slow, gasp and stagger. Study the hidden stitches, a camera that travels between floors, and choreography built on desperation.",
-    "query": "Atomic Blonde stairwell fight scene one take"
+    "scale": "one_vs_many",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "western_europe",
+    "environment": [
+      "stairwell",
+      "apartment_house"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "gritty",
+      "relentless"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "knife",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "handheld",
+      "practical_stunts",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "East Berlin apartment block, November 1989",
+    "keywords": [
+      "stairwell fight",
+      "stitched oner",
+      "exhaustion",
+      "east berlin",
+      "cold war",
+      "charlize theron"
+    ]
   },
   {
     "film": "Haywire",
     "year": 2011,
     "scene": "Dublin hotel room fight: Mallory vs. Paul",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Haywire hotel fight scene Gina Carano Fassbender",
+    "what_happens": "In a Dublin hotel room, Mallory's fake husband suddenly attacks her; they grapple and smash each other through furniture and glass until she locks him in a leg choke and shoots him.",
+    "why": "Soderbergh drops the score and holds wide, stable frames so Gina Carano's real MMA technique reads in full; furniture and body impacts become the soundtrack. A pointed counterexample to shaky-cam fight coverage.",
     "director": "Steven Soderbergh",
+    "country": "USA",
     "craft": [
       "DP: Peter Andrews (Steven Soderbergh)",
       "Composer: David Holmes"
     ],
     "accolades": [],
-    "techniques": [
-      "wide-angle choreography",
-      "single location",
-      "practical stunts",
-      "sound design"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Soderbergh drops the score and holds wide, stable frames so Gina Carano's real MMA technique reads in full; furniture and body impacts become the soundtrack. A pointed counterexample to shaky-cam fight coverage.",
-    "query": "Haywire hotel fight scene Gina Carano Fassbender"
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "spy",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "british_isles",
+    "environment": [
+      "hotel"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "gritty",
+      "intimate"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "mercenaries"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "sound_design",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Dublin hotel, present day",
+    "keywords": [
+      "mma",
+      "triangle choke",
+      "grappling",
+      "no score",
+      "furniture smash",
+      "hotel room",
+      "gina carano"
+    ]
   },
   {
     "film": "The Night Comes for Us",
     "year": 2018,
     "scene": "Final fight: Ito vs. Arian",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "Indonesia",
+    "query": "The Night Comes for Us final fight Joe Taslim Iko Uwais",
+    "what_happens": "Former friends and triad enforcers Ito and Arian tear into each other in a cramped interior with box cutters, broken objects and bare fists, slicing and battering until both are drenched in blood.",
+    "why": "Box cutters, broken objects and fists in a close-quarters duel between Joe Taslim and Iko Uwais: study how each new improvised weapon opens a new phase, and how extreme practical gore makes every exchange cost something.",
     "director": "Timo Tjahjanto",
+    "country": "Indonesia",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "improvised weapons",
-      "practical effects",
-      "single location"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
     ],
-    "why": "Box cutters, broken objects and fists in a close-quarters duel between Joe Taslim and Iko Uwais: study how each new improvised weapon opens a new phase, and how extreme practical gore makes every exchange cost something.",
-    "query": "The Night Comes for Us final fight Joe Taslim Iko Uwais"
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "martial_arts",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "southeast_asia",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless",
+      "tragic"
+    ],
+    "combatants": [
+      "triads_yakuza",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "knife",
+      "improvised",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "handheld",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "indonesian",
+    "period": "Jakarta triad underworld, present day",
+    "keywords": [
+      "box cutter",
+      "friends turned enemies",
+      "gore",
+      "knife fight",
+      "silat",
+      "joe taslim",
+      "iko uwais"
+    ]
   },
   {
     "film": "Kill Bill: Volume 1",
     "year": 2003,
     "scene": "The House of Blue Leaves: Crazy 88 fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Kill Bill Crazy 88 fight scene House of Blue Leaves",
+    "what_happens": "The Bride cuts through dozens of masked yakuza with a katana in a Tokyo restaurant's main hall, severing limbs amid geysers of blood as the image switches to black and white, then to blue silhouettes.",
+    "why": "A genre-mixing set piece: the switch to black-and-white, then blue-backed silhouettes, an overhead glass-floor shot, and practical blood geysers. Study how a one-vs-many fight is paced like a sequence of musical movements.",
     "director": "Quentin Tarantino",
+    "country": "USA",
     "craft": [
       "Fight choreographer: Yuen Woo-ping",
       "DP: Robert Richardson",
       "Editor: Sally Menke"
     ],
     "accolades": [],
-    "techniques": [
-      "one vs many",
-      "color grading",
-      "silhouette",
-      "practical effects",
-      "wire work"
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A genre-mixing set piece: the switch to black-and-white, then blue-backed silhouettes, an overhead glass-floor shot, and practical blood geysers. Study how a one-vs-many fight is paced like a sequence of musical movements.",
-    "query": "Kill Bill Crazy 88 fight scene House of Blue Leaves"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "martial_arts",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "japan",
+    "environment": [
+      "nightclub_bar",
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "triads_yakuza",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "silhouette",
+      "practical_effects",
+      "wire_work",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Tokyo restaurant-nightclub, present day",
+    "keywords": [
+      "crazy 88",
+      "blood geysers",
+      "black and white switch",
+      "blue silhouettes",
+      "glass floor",
+      "severed limbs",
+      "yellow jumpsuit"
+    ]
   },
   {
     "film": "Kingsman: The Secret Service",
     "year": 2014,
     "scene": "Church massacre",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "UK/USA",
+    "query": "Kingsman church fight scene Free Bird",
+    "what_happens": "Driven by a rage-inducing signal, gentleman spy Harry Hart and a hate-group congregation tear into each other inside a small church as he shoots, stabs and bludgeons everyone around him in a whip-panning frenzy.",
+    "why": "Cut to 'Free Bird', the scene fakes a continuous take with whip-pans and digital stitches. Study how speed ramps and choreography sync to the guitar solo, turning chaos into rhythm.",
     "director": "Matthew Vaughn",
+    "country": "UK/USA",
     "craft": [
       "Fight choreographer: Brad Allan",
       "DP: George Richmond",
       "Editor: Eddie Hamilton"
     ],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "score-driven",
-      "cgi",
-      "one vs many",
-      "improvised weapons"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "rampage"
     ],
-    "why": "Cut to 'Free Bird', the scene fakes a continuous take with whip-pans and digital stitches. Study how speed ramps and choreography sync to the guitar solo, turning chaos into rhythm.",
-    "query": "Kingsman church fight scene Free Bird"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "spy",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "temple_church"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "chaotic",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "civilians"
+    ],
+    "weapons": [
+      "improvised",
+      "fists_feet",
+      "handgun",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "score_driven",
+      "cgi",
+      "slow_motion",
+      "gun_fu"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Kentucky hate-group church, present day",
+    "keywords": [
+      "free bird",
+      "church massacre",
+      "whip pans",
+      "speed ramping",
+      "fake oner",
+      "guitar solo",
+      "colin firth"
+    ]
   },
   {
     "film": "Eastern Promises",
     "year": 2007,
     "scene": "Bathhouse fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "UK/Canada",
+    "query": "Eastern Promises bathhouse fight scene",
+    "what_happens": "Naked in a London Turkish bathhouse, Nikolai is jumped by two hitmen with curved carpet knives and fights them barehanded across the hard tiles, taking deep slashes before killing both.",
+    "why": "Nakedness as vulnerability: Viggo Mortensen fights two knife-armed men unclothed on hard tile. Cronenberg shoots clear mid-shots with little music, so wet skin, blades and impacts make it unbearably physical.",
     "director": "David Cronenberg",
+    "country": "UK/Canada",
     "craft": [
       "DP: Peter Suschitzky",
       "Composer: Howard Shore"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "practical effects",
-      "sound design"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight",
+      "ambush"
     ],
-    "why": "Nakedness as vulnerability: Viggo Mortensen fights two knife-armed men unclothed on hard tile. Cronenberg shoots clear mid-shots with little music, so wet skin, blades and impacts make it unbearably physical.",
-    "query": "Eastern Promises bathhouse fight scene",
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "region": "british_isles",
+    "environment": [
+      "bathhouse"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "intimate",
+      "gritty"
+    ],
+    "combatants": [
+      "gangsters",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "sound_design",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Russian-mob London, mid-2000s",
+    "keywords": [
+      "naked fight",
+      "bathhouse",
+      "linoleum knives",
+      "tattoos",
+      "tile floor",
+      "two on one",
+      "viggo mortensen"
+    ],
     "video": "-JBot7oQuKM"
   },
   {
     "film": "Nobody",
     "year": 2021,
     "scene": "Bus fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Nobody bus fight scene Bob Odenkirk",
+    "what_happens": "Mild-mannered Hutch takes on five drunk thugs on a night bus, getting battered in the narrow aisle while improvising with handrails, a knife and his belt, leaving the men broken and choking on the floor.",
+    "why": "A confined fight that tells character: Hutch is rusty, gets hurt and improvises. Study how the narrow aisle dictates blocking, how mistakes are written into the choreography, and how small props pay off.",
     "director": "Ilya Naishuller",
+    "country": "USA",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "improvised weapons",
-      "one vs many",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A confined fight that tells character: Hutch is rusty, gets hurt and improvises. Study how the narrow aisle dictates blocking, how mistakes are written into the choreography, and how small props pay off.",
-    "query": "Nobody bus fight scene Bob Odenkirk"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "bus"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "playful",
+      "gritty"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "knife"
+    ],
+    "vehicles": [
+      "bus"
+    ],
+    "technique": [
+      "single_location",
+      "practical_stunts",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Night bus in an American city, present day",
+    "keywords": [
+      "bus fight",
+      "narrow aisle",
+      "rusty fighter",
+      "tourniquet",
+      "straw tracheotomy",
+      "bob odenkirk"
+    ]
   },
   {
     "film": "Extraction",
     "year": 2020,
     "scene": "Dhaka 'one-take' chase and fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Extraction one take scene Dhaka",
+    "what_happens": "In one apparently unbroken shot, mercenary Tyler Rake races a car through Dhaka traffic under fire with a rescued boy, crashes, then fights on foot through a crowded apartment block as gangs and police close in.",
+    "why": "A stitched multi-minute 'oner' moving from car chase to foot pursuit to hand-to-hand: study the hidden stitches, a camera that passes between vehicles, and choreography adapted to stay inside a single moving lens.",
     "director": "Sam Hargrave",
+    "country": "USA",
     "craft": [
       "DP: Newton Thomas Sigel"
     ],
     "accolades": [],
-    "techniques": [
-      "oner",
-      "long take",
-      "vehicle stunts",
-      "handheld",
-      "practical stunts"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "pursuit"
     ],
-    "why": "A stitched multi-minute 'oner' moving from car chase to foot pursuit to hand-to-hand: study the hidden stitches, a camera that passes between vehicles, and choreography adapted to stay inside a single moving lens.",
-    "query": "Extraction one take scene Dhaka"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "south_asia",
+    "environment": [
+      "city_street",
+      "apartment_house",
+      "car_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "mercenaries",
+      "gangsters",
+      "police"
+    ],
+    "weapons": [
+      "fists_feet",
+      "rifle",
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "long_take",
+      "handheld",
+      "vehicle_stunts",
+      "practical_stunts",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Dhaka, Bangladesh, present day",
+    "keywords": [
+      "stitched oner",
+      "car to foot",
+      "camera through car",
+      "dhaka",
+      "rescue mission",
+      "chris hemsworth",
+      "sam hargrave"
+    ]
   },
   {
     "film": "Mission: Impossible – Fallout",
     "year": 2018,
     "scene": "Grand Palais bathroom fight",
-    "category": "hand-to-hand",
-    "medium": "film",
-    "country": "USA",
+    "query": "Mission Impossible Fallout bathroom fight scene",
+    "what_happens": "Ethan Hunt and CIA man August Walker struggle to overpower a lethal young fighter in a white-tiled bathroom, smashing sinks, mirrors and cubicles as the three trade punches, kicks and holds.",
+    "why": "A three-way fight in a tiled bathroom where fighting styles reveal personality: Walker's brute force, Hunt's scrappiness, the opponent's precision. Study how breaking fixtures escalates stakes and how the edit keeps three bodies legible.",
     "director": "Christopher McQuarrie",
+    "country": "USA",
     "craft": [
       "DP: Rob Hardy",
       "Editor: Eddie Hamilton",
       "Stunt coordinator: Wade Eastwood"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "practical stunts",
-      "improvised weapons",
-      "sound design"
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "A three-way fight in a tiled bathroom where fighting styles reveal personality: Walker's brute force, Hunt's scrappiness, the opponent's precision. Study how breaking fixtures escalates stakes and how the edit keeps three bodies legible.",
-    "query": "Mission Impossible Fallout bathroom fight scene"
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "spy",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "western_europe",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "relentless",
+      "playful"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "federal_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "single_location",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Grand Palais, Paris, present day",
+    "keywords": [
+      "bathroom brawl",
+      "white tiles",
+      "smashed porcelain",
+      "three-way fight",
+      "arm reload",
+      "henry cavill",
+      "tom cruise"
+    ]
   },
   {
     "film": "Seven Samurai",
     "year": 1954,
     "scene": "Final battle in the rain",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Seven Samurai final battle rain scene",
+    "what_happens": "In pouring rain, the surviving samurai and armed farmers fight the last mounted bandits through flooded, muddy village lanes, spearing riders and loosing arrows while gunfire cuts down defenders and horses thrash in the mud.",
+    "why": "Multiple cameras with long lenses compress mud, rain and horses into chaos that still reads. Study how Kurosawa intercuts strategy with fragmentary violence, and how the established village map anchors the geography.",
     "director": "Akira Kurosawa",
+    "country": "Japan",
     "craft": [
       "DP: Asakazu Nakai",
       "Composer: Fumio Hayasaka"
@@ -569,24 +1710,78 @@
     "accolades": [
       "Venice: Silver Lion"
     ],
-    "techniques": [
-      "rain",
-      "siege",
-      "cavalry",
-      "multi-camera",
-      "telephoto"
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "siege"
     ],
-    "why": "Multiple cameras with long lenses compress mud, rain and horses into chaos that still reads. Study how Kurosawa intercuts strategy with fragmentary violence, and how the established village map anchors the geography.",
-    "query": "Seven Samurai final battle rain scene"
+    "scale": "medium",
+    "genre": [
+      "samurai_jidaigeki",
+      "action",
+      "drama"
+    ],
+    "era": "early_modern",
+    "region": "japan",
+    "environment": [
+      "village",
+      "swamp_mud"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "rain",
+      "mud"
+    ],
+    "mood": [
+      "chaotic",
+      "epic",
+      "tragic"
+    ],
+    "combatants": [
+      "ronin",
+      "outlaws_bandits",
+      "civilians"
+    ],
+    "weapons": [
+      "katana",
+      "spear_polearm",
+      "bow_arrow",
+      "musket_flintlock"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "black_and_white",
+      "practical_effects",
+      "fast_cutting",
+      "real_location"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Sengoku-period Japan, 1586",
+    "keywords": [
+      "rain battle",
+      "mud",
+      "bamboo spears",
+      "telephoto lens",
+      "multi-camera",
+      "arquebus",
+      "village defence",
+      "kurosawa"
+    ]
   },
   {
     "film": "Yojimbo",
     "year": 1961,
     "scene": "\"Two coffins... maybe three\" first swordfight",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Yojimbo two coffins scene Mifune sword fight",
+    "what_happens": "A scruffy ronin strolls up to a line of swaggering gang thugs on a windswept town street, goads them, then draws and cuts down three in a few strokes before turning back to the watching coffin maker.",
+    "why": "Violence as punctuation: a long build of stillness, swagger and wind, then a fight lasting seconds. Study the widescreen composition, the blunt cutting sound, and the dry-humor payoff with the coffin maker.",
     "director": "Akira Kurosawa",
+    "country": "Japan",
     "craft": [
       "DP: Kazuo Miyagawa",
       "Composer: Masaru Sato"
@@ -594,42 +1789,133 @@
     "accolades": [
       "Venice: Volpi Cup for Best Actor"
     ],
-    "techniques": [
-      "one vs many",
-      "sound design",
-      "telephoto"
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "standoff"
     ],
-    "why": "Violence as punctuation: a long build of stillness, swagger and wind, then a fight lasting seconds. Study the widescreen composition, the blunt cutting sound, and the dry-humor payoff with the coffin maker.",
-    "query": "Yojimbo two coffins scene Mifune sword fight"
+    "scale": "one_vs_many",
+    "genre": [
+      "samurai_jidaigeki",
+      "action",
+      "comedy"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "town_main_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "playful"
+    ],
+    "combatants": [
+      "ronin",
+      "gangsters"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "sound_design",
+      "black_and_white"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Rural post town, Japan, 1860",
+    "keywords": [
+      "coffin maker",
+      "severed arm",
+      "wind",
+      "swagger",
+      "quick draw",
+      "telephoto",
+      "toshiro mifune"
+    ]
   },
   {
     "film": "Sanjuro",
     "year": 1962,
     "scene": "Final duel: Sanjuro vs. Hanbei",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Sanjuro final duel blood scene",
+    "what_happens": "Sanjuro and the rival samurai Hanbei face each other motionless at close range while young clansmen watch; after a long silence, one lightning draw ends it in a spray of arterial blood.",
+    "why": "A long motionless staredown, then a single draw and a pressurized blood geyser. The definitive lesson in tension through stillness and a practical effect timed for shock.",
     "director": "Akira Kurosawa",
+    "country": "Japan",
     "craft": [
       "Composer: Masaru Sato"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.blades",
+    "format": [
       "duel",
-      "practical effects",
-      "long take"
+      "standoff"
     ],
-    "why": "A long motionless staredown, then a single draw and a pressurized blood geyser. The definitive lesson in tension through stillness and a practical effect timed for shock.",
-    "query": "Sanjuro final duel blood scene"
+    "scale": "one_on_one",
+    "genre": [
+      "samurai_jidaigeki",
+      "drama",
+      "action"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "brutal",
+      "melancholic"
+    ],
+    "combatants": [
+      "ronin",
+      "samurai"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "long_take",
+      "silence",
+      "black_and_white"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Castle town, late Edo-period Japan",
+    "keywords": [
+      "blood geyser",
+      "quick draw",
+      "iaido",
+      "staredown",
+      "stillness",
+      "arterial spray",
+      "toshiro mifune"
+    ]
   },
   {
     "film": "Harakiri",
     "year": 1962,
     "scene": "Tsugumo vs. Omodaka duel in the windswept field",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Harakiri 1962 duel scene field wind",
+    "what_happens": "On a hilltop of wind-whipped grass under racing clouds, the ronin Tsugumo and the clan's master swordsman Omodaka circle and cross blades until Tsugumo prevails and slices off his opponent's topknot.",
+    "why": "A duel where the environment does the dramatic work: wind-whipped grass, racing clouds, formal compositions and Takemitsu's percussive score. Study how Kobayashi uses camera movement and weather to externalize tension.",
     "director": "Masaki Kobayashi",
+    "country": "Japan",
     "craft": [
       "DP: Yoshio Miyajima",
       "Composer: Toru Takemitsu"
@@ -637,43 +1923,133 @@
     "accolades": [
       "Cannes: Jury Special Prize"
     ],
-    "techniques": [
-      "duel",
-      "real location",
-      "tracking shot",
-      "sound design"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "A duel where the environment does the dramatic work: wind-whipped grass, racing clouds, formal compositions and Takemitsu's percussive score. Study how Kobayashi uses camera movement and weather to externalize tension.",
-    "query": "Harakiri 1962 duel scene field wind"
+    "scale": "one_on_one",
+    "genre": [
+      "samurai_jidaigeki",
+      "drama"
+    ],
+    "era": "early_modern",
+    "region": "japan",
+    "environment": [
+      "grassland",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "storm_wind"
+    ],
+    "mood": [
+      "tense",
+      "epic",
+      "melancholic"
+    ],
+    "combatants": [
+      "ronin",
+      "samurai"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "real_location",
+      "tracking_shot",
+      "sound_design",
+      "black_and_white",
+      "wide_framing"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "period": "Edo-period Japan, 1630",
+    "keywords": [
+      "windswept grass",
+      "topknot",
+      "racing clouds",
+      "takemitsu",
+      "formal composition",
+      "masaki kobayashi"
+    ]
   },
   {
     "film": "The Sword of Doom",
     "year": 1966,
     "scene": "Shimada's swordfight in the snow",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Sword of Doom Mifune snow fight scene",
+    "what_happens": "On a snowy night street, swordmaster Shimada is surrounded by a band of assassins and stands calm and still, cutting them down one by one as they rush him while Ryunosuke watches from the shadows.",
+    "why": "Toshiro Mifune cuts through a band of assassins in falling snow with a still, centered calm. Study how Okamoto stages a group attack around one immovable figure, and how the watching Ryunosuke reframes the violence.",
     "director": "Kihachi Okamoto",
+    "country": "Japan",
     "craft": [
       "Composer: Masaru Sato"
     ],
     "accolades": [],
-    "techniques": [
-      "snow",
-      "one vs many",
-      "duel"
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "ambush"
     ],
-    "why": "Toshiro Mifune cuts through a band of assassins in falling snow with a still, centered calm. Study how Okamoto stages a group attack around one immovable figure, and how the watching Ryunosuke reframes the violence.",
-    "query": "Sword of Doom Mifune snow fight scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "samurai_jidaigeki",
+      "drama",
+      "action"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "snow"
+    ],
+    "mood": [
+      "tense",
+      "graceful",
+      "brutal"
+    ],
+    "combatants": [
+      "samurai",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "center_framing",
+      "wide_framing"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Bakumatsu-era Japan, early 1860s",
+    "keywords": [
+      "snow fight",
+      "falling snow",
+      "stillness",
+      "surrounded",
+      "toshiro mifune",
+      "kihachi okamoto"
+    ]
   },
   {
     "film": "Zatoichi",
     "year": 2003,
     "scene": "Zatoichi vs. Hattori duel",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Zatoichi 2003 final duel Hattori Tadanobu Asano",
+    "what_happens": "Blind swordsman Zatoichi faces the ronin bodyguard Hattori, who pictures the fight in advance; Ichi reverses his grip and kills him in one stroke, then cuts through the gang's remaining men with single blood-spurting slashes.",
+    "why": "Kitano shows the duel as imagined anticipation before the real thing, so the lesson is how prediction becomes action. Study ultra-economical single-stroke kills, stylized digital blood, and rhythmic sound design.",
     "director": "Takeshi Kitano",
+    "country": "Japan",
     "craft": [
       "DP: Katsumi Yanagijima",
       "Composer: Keiichi Suzuki"
@@ -681,84 +2057,269 @@
     "accolades": [
       "Venice: Silver Lion for Best Director"
     ],
-    "techniques": [
-      "duel",
-      "cgi",
-      "sound design"
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "duel"
     ],
-    "why": "Kitano shows the duel as imagined anticipation before the real thing, so the lesson is how prediction becomes action. Study ultra-economical single-stroke kills, stylized digital blood, and rhythmic sound design.",
-    "query": "Zatoichi 2003 final duel Hattori Tadanobu Asano"
+    "scale": "one_vs_many",
+    "genre": [
+      "samurai_jidaigeki",
+      "action",
+      "drama"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "village",
+      "building_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "ronin",
+      "gangsters"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Rural town, late Edo-period Japan",
+    "keywords": [
+      "cane sword",
+      "blind swordsman",
+      "reverse grip",
+      "imagined duel",
+      "digital blood",
+      "single stroke",
+      "takeshi kitano"
+    ]
   },
   {
     "film": "13 Assassins",
     "year": 2010,
     "scene": "Ochiai village battle",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan/UK",
+    "query": "13 Assassins final battle scene",
+    "what_happens": "Thirteen samurai spring a trap on a cruel lord's 200-man escort inside a fortified village, sealing streets with barricades, blasting them with explosives and arrows, then wading in with swords for a long, exhausting melee.",
+    "why": "A battle sustained for most of an act through clear spatial design: a booby-trapped village, traps that mark escalating phases, and attrition that turns fatigue into drama. Study how Miike rotates characters to keep stakes legible.",
     "director": "Takashi Miike",
+    "country": "Japan/UK",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "one vs many",
-      "siege",
-      "practical effects",
-      "fire"
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "ambush",
+      "massed_battle"
     ],
-    "why": "A battle sustained for most of an act through clear spatial design: a booby-trapped village, traps that mark escalating phases, and attrition that turns fatigue into drama. Study how Miike rotates characters to keep stakes legible.",
-    "query": "13 Assassins final battle scene"
+    "scale": "army",
+    "genre": [
+      "samurai_jidaigeki",
+      "action",
+      "drama"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "village",
+      "town_main_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "epic",
+      "brutal"
+    ],
+    "combatants": [
+      "samurai",
+      "ronin"
+    ],
+    "weapons": [
+      "katana",
+      "explosives",
+      "bow_arrow",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "practical_explosions",
+      "large_crowds",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "japanese",
+    "period": "Ochiai post town, Japan, 1844",
+    "keywords": [
+      "booby-trapped village",
+      "flaming bulls",
+      "barricades",
+      "kill zone",
+      "attrition",
+      "takashi miike"
+    ]
   },
   {
     "film": "Rurouni Kenshin: The Legend Ends",
     "year": 2014,
     "scene": "Shipboard finale vs. Shishio",
-    "category": "blades",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Rurouni Kenshin The Legend Ends Shishio final fight",
+    "what_happens": "Aboard a burning ironclad, Kenshin and his allies take turns attacking the bandaged swordsman Shishio, whose blade ignites as it strikes; the heroes sprint, run along walls and trade lightning-fast sword exchanges through smoke and flame.",
+    "why": "Kenji Tanigaki fuses Hong Kong speed with Japanese sword forms: study the burning ship set, four heroes entering the fight in phases, and Takeru Satoh's sprinting, wall-running style that redefined live-action sword choreography.",
     "director": "Keishi Ōtomo",
+    "country": "Japan",
     "craft": [
       "Action director: Kenji Tanigaki"
     ],
     "accolades": [],
-    "techniques": [
-      "wire work",
-      "fire",
-      "practical stunts",
-      "one vs many"
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "Kenji Tanigaki fuses Hong Kong speed with Japanese sword forms: study the burning ship set, four heroes entering the fight in phases, and Takeru Satoh's sprinting, wall-running style that redefined live-action sword choreography.",
-    "query": "Rurouni Kenshin The Legend Ends Shishio final fight"
+    "scale": "small_group",
+    "genre": [
+      "samurai_jidaigeki",
+      "action",
+      "martial_arts"
+    ],
+    "era": "19th_century",
+    "region": "japan",
+    "environment": [
+      "ship_deck"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "relentless",
+      "heroic",
+      "epic"
+    ],
+    "combatants": [
+      "ronin",
+      "samurai",
+      "ninja"
+    ],
+    "weapons": [
+      "katana",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "practical_stunts",
+      "fast_cutting",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Ironclad warship, Meiji-era Japan, 1878",
+    "keywords": [
+      "burning ship",
+      "flaming sword",
+      "reverse-blade sword",
+      "wall run",
+      "bandaged villain",
+      "four vs one",
+      "kenji tanigaki"
+    ]
   },
   {
     "film": "A Touch of Zen",
     "year": 1971,
     "scene": "Bamboo forest fight",
-    "category": "blades",
-    "medium": "film",
-    "country": "Taiwan",
+    "query": "A Touch of Zen bamboo forest fight scene",
+    "what_happens": "Swordswoman Yang and her allies clash with imperial agents in a sunlit bamboo grove, leaping off trunks and diving down from the canopy in fragmented, rapidly cut shots that make the fighters seem to fly.",
+    "why": "King Hu builds flight through editing: fragmented shots, trampoline leaps and fast cuts through a real bamboo grove create weightlessness. The direct ancestor of every wuxia bamboo duel that followed.",
     "director": "King Hu",
+    "country": "Taiwan",
     "craft": [
       "Action choreography: Han Ying-chieh"
     ],
     "accolades": [
       "Cannes: Technical Grand Prize"
     ],
-    "techniques": [
-      "wire work",
-      "real location",
-      "montage"
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "King Hu builds flight through editing: fragmented shots, trampoline leaps and fast cuts through a real bamboo grove create weightlessness. The direct ancestor of every wuxia bamboo duel that followed.",
-    "query": "A Touch of Zen bamboo forest fight scene"
+    "scale": "small_group",
+    "genre": [
+      "wuxia",
+      "martial_arts"
+    ],
+    "era": "early_modern",
+    "region": "china",
+    "environment": [
+      "bamboo_forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "graceful",
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "wuxia_swordsmen"
+    ],
+    "weapons": [
+      "chinese_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "fast_cutting",
+      "real_location",
+      "practical_stunts",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "mandarin",
+    "period": "Late Ming-dynasty China, seventeenth century",
+    "keywords": [
+      "bamboo grove",
+      "trampoline leaps",
+      "canopy dive",
+      "fragmented editing",
+      "bamboo duel",
+      "king hu"
+    ]
   },
   {
     "film": "Crouching Tiger, Hidden Dragon",
     "year": 2000,
     "scene": "Yu Shu Lien vs. Jen Yu courtyard weapons duel",
-    "category": "blades",
-    "medium": "film",
-    "country": "Taiwan/China/Hong Kong/USA",
+    "query": "Crouching Tiger Hidden Dragon Shu Lien vs Jen fight scene",
+    "what_happens": "In a security company's training hall, Shu Lien attacks the arrogant Jen with one weapon after another, sabre, hook swords, spear and staff, while Jen breaks or deflects each with the Green Destiny sword.",
+    "why": "Character through weapons: Shu Lien cycles through sabre, spear, hook swords and more while Jen's Green Destiny defeats each, so props tell the story. Study the percussive score and clean geography of the training hall.",
     "director": "Ang Lee",
+    "country": "Taiwan/China/Hong Kong/USA",
     "craft": [
       "Fight choreographer: Yuen Woo-ping",
       "DP: Peter Pau",
@@ -770,130 +2331,396 @@
       "Oscar: Best Art Direction",
       "Oscar: Best Original Score"
     ],
-    "techniques": [
-      "duel",
-      "wire work",
-      "score-driven"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Character through weapons: Shu Lien cycles through sabre, spear, hook swords and more while Jen's Green Destiny defeats each, so props tell the story. Study the percussive score and clean geography of the training hall.",
-    "query": "Crouching Tiger Hidden Dragon Shu Lien vs Jen fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "wuxia",
+      "martial_arts",
+      "drama"
+    ],
+    "era": "early_modern",
+    "region": "china",
+    "environment": [
+      "dojo_gym",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "graceful",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "wuxia_swordsmen"
+    ],
+    "weapons": [
+      "chinese_sword",
+      "spear_polearm",
+      "staff_stick"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "mandarin",
+    "period": "Qing-dynasty China, 1779",
+    "keywords": [
+      "green destiny",
+      "weapon switching",
+      "hook swords",
+      "broken blades",
+      "percussive drums",
+      "michelle yeoh",
+      "zhang ziyi"
+    ]
   },
   {
     "film": "Hero",
     "year": 2002,
     "scene": "Flying Snow vs. Moon in the autumn forest",
-    "category": "blades",
-    "medium": "film",
-    "country": "China/Hong Kong",
+    "query": "Hero 2002 Flying Snow vs Moon fight autumn leaves",
+    "what_happens": "Flying Snow and her vengeful apprentice Moon duel in a golden autumn forest, gliding on wires through swirling yellow leaves until Moon falls and the whole grove turns blood red.",
+    "why": "Color as structure: swirling yellow leaves become part of the choreography, and the palette turns red at the climax. Study how Doyle and Zhang design an entire duel around color, wind and slow motion.",
     "director": "Zhang Yimou",
+    "country": "China/Hong Kong",
     "craft": [
       "DP: Christopher Doyle",
       "Action choreography: Ching Siu-tung",
       "Composer: Tan Dun"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "color grading",
-      "wire work",
-      "slow motion"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Color as structure: swirling yellow leaves become part of the choreography, and the palette turns red at the climax. Study how Doyle and Zhang design an entire duel around color, wind and slow motion.",
-    "query": "Hero 2002 Flying Snow vs Moon fight autumn leaves"
+    "scale": "one_on_one",
+    "genre": [
+      "wuxia",
+      "martial_arts",
+      "historical_epic"
+    ],
+    "era": "ancient",
+    "region": "china",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "graceful",
+      "tragic",
+      "awe"
+    ],
+    "combatants": [
+      "wuxia_swordsmen"
+    ],
+    "weapons": [
+      "chinese_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "color_grading",
+      "wire_work",
+      "slow_motion",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "mandarin",
+    "period": "Warring States China, third century BC",
+    "keywords": [
+      "yellow leaves",
+      "red palette shift",
+      "autumn forest",
+      "swirling leaves",
+      "colour structure",
+      "maggie cheung",
+      "zhang yimou"
+    ]
   },
   {
     "film": "Kill Bill: Volume 1",
     "year": 2003,
     "scene": "O-Ren Ishii snow garden duel",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA",
+    "query": "Kill Bill O-Ren Ishii snow fight scene",
+    "what_happens": "In a snow-covered Japanese garden at night, the Bride and O-Ren Ishii face off with katanas, circle and trade measured strikes, until a single stroke slices off the top of O-Ren's head.",
+    "why": "After the frenzy of the Crazy 88, Tarantino resets to stillness and falling snow: a formal duel in a Japanese garden, a flamenco-disco drive on the soundtrack, and a single decisive stroke. A lesson in tonal contrast.",
     "director": "Quentin Tarantino",
+    "country": "USA",
     "craft": [
       "DP: Robert Richardson",
       "Editor: Sally Menke"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "snow",
-      "score-driven"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "After the frenzy of the Crazy 88, Tarantino resets to stillness and falling snow: a formal duel in a Japanese garden, a flamenco-disco drive on the soundtrack, and a single decisive stroke. A lesson in tonal contrast.",
-    "query": "Kill Bill O-Ren Ishii snow fight scene",
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "martial_arts",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "japan",
+    "environment": [
+      "plaza_square",
+      "snow_ice"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "snow"
+    ],
+    "mood": [
+      "graceful",
+      "tense",
+      "melancholic"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "triads_yakuza"
+    ],
+    "weapons": [
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "wide_framing",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Tokyo restaurant garden, present day",
+    "keywords": [
+      "snow garden",
+      "japanese garden",
+      "falling snow",
+      "scalping",
+      "flamenco disco",
+      "single stroke",
+      "o-ren ishii"
+    ],
     "video": "LdyEhWuNtNE"
   },
   {
     "film": "The Duellists",
     "year": 1977,
     "scene": "D'Hubert vs. Feraud sabre duels",
-    "category": "blades",
-    "medium": "film",
-    "country": "UK",
+    "query": "The Duellists sword fight scene Ridley Scott",
+    "what_happens": "Two French hussar officers hack at each other with heavy cavalry sabres, lunging and parrying until exhaustion turns precise fencing into clumsy, gasping, desperate swings.",
+    "why": "William Hobbs's historically grounded fencing shows duels exhausting the men: lunges get sloppy, breath runs short. Scott frames it with painterly natural light so period authenticity becomes part of the choreography.",
     "director": "Ridley Scott",
+    "country": "UK",
     "craft": [
       "Fight arranger: William Hobbs",
       "DP: Frank Tidy"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "real location",
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "historical_epic",
+      "drama"
+    ],
+    "era": "19th_century",
+    "region": "western_europe",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
       "cavalry"
     ],
-    "why": "William Hobbs's historically grounded fencing shows duels exhausting the men: lunges get sloppy, breath runs short. Scott frames it with painterly natural light so period authenticity becomes part of the choreography.",
-    "query": "The Duellists sword fight scene Ridley Scott"
+    "weapons": [
+      "sabre_rapier"
+    ],
+    "vehicles": [],
+    "technique": [
+      "natural_light",
+      "real_location",
+      "wide_framing",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Napoleonic-era France, 1800-1816",
+    "keywords": [
+      "cavalry sabre",
+      "hussars",
+      "exhaustion",
+      "period fencing",
+      "honour duel",
+      "william hobbs",
+      "ridley scott"
+    ]
   },
   {
     "film": "Rob Roy",
     "year": 1995,
     "scene": "Final duel: Rob Roy vs. Cunningham",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA/UK",
+    "query": "Rob Roy final sword fight Cunningham",
+    "what_happens": "Watched by nobles in a hall, the nimble swordsman Cunningham slices the heavier Rob Roy again and again until, beaten and at his mercy, Rob Roy grabs the blade barehanded and cleaves him with a broadsword.",
+    "why": "Broadsword against smallsword: Hobbs builds the fight on weapon contrast, Cunningham's speed versus Rob Roy's weight, and lets the hero lose almost the whole fight so the final reversal is earned.",
     "director": "Michael Caton-Jones",
+    "country": "USA/UK",
     "craft": [
       "Fight arranger: William Hobbs"
     ],
     "accolades": [
       "BAFTA: Best Actor in a Supporting Role"
     ],
-    "techniques": [
-      "duel",
-      "practical stunts"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Broadsword against smallsword: Hobbs builds the fight on weapon contrast, Cunningham's speed versus Rob Roy's weight, and lets the hero lose almost the whole fight so the final reversal is earned.",
-    "query": "Rob Roy final sword fight Cunningham"
+    "scale": "one_on_one",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "swashbuckler"
+    ],
+    "era": "early_modern",
+    "region": "british_isles",
+    "environment": [
+      "building_interior",
+      "palace_mansion"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "outlaws_bandits"
+    ],
+    "weapons": [
+      "european_sword",
+      "sabre_rapier"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Scottish Highlands, 1713",
+    "keywords": [
+      "broadsword",
+      "smallsword",
+      "highlander",
+      "blade grab",
+      "underdog reversal",
+      "liam neeson",
+      "tim roth"
+    ]
   },
   {
     "film": "The Princess Bride",
     "year": 1987,
-    "scene": "Inigo vs. the Man in Black on the Cliffs of Insanity",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA",
+    "scene": "Inigo Montoya vs. Count Rugen",
+    "query": "Princess Bride Inigo Montoya vs Count Rugen scene",
+    "what_happens": "In the castle halls, Inigo Montoya corners the six-fingered Count Rugen; wounded by a thrown dagger, he staggers up, repeats his vow and fences the count back across a dining room until he runs him through.",
+    "why": "Revenge staged as choreography: a wounded Inigo recovers and drives the count back beat by beat. Study how a duel can escalate emotionally rather than technically, with the actors doing their own fencing.",
     "director": "Rob Reiner",
+    "country": "USA",
     "craft": [
       "Sword master: Bob Anderson"
     ],
     "accolades": [
       "Hugo: Best Dramatic Presentation"
     ],
-    "techniques": [
-      "duel",
-      "real location"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Dialogue-driven swordplay: the actors do their own fencing (doubles only for the flips) while discussing fencing masters, and each hand switch is a story beat. Comedy, character and technique share every exchange.",
-    "query": "Princess Bride Inigo Montoya Man in Black sword fight"
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "comedy",
+      "swashbuckler"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "tense",
+      "playful"
+    ],
+    "combatants": [
+      "mercenaries"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Prince Humperdinck's castle, Florin (fictional)",
+    "keywords": [
+      "six-fingered man",
+      "revenge",
+      "rapier",
+      "repeated vow",
+      "count rugen",
+      "thrown dagger",
+      "mandy patinkin"
+    ],
+    "video": "I73sP93-0xA"
   },
   {
     "film": "The Adventures of Robin Hood",
     "year": 1938,
     "scene": "Robin vs. Sir Guy castle duel",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Adventures of Robin Hood 1938 sword fight Guy of Gisbourne",
+    "what_happens": "Robin Hood and Sir Guy of Gisbourne duel through the halls and down the staircases of Nottingham Castle, swords clashing in rapid exchanges while their giant shadows fight across the stone pillars.",
+    "why": "Technicolor swashbuckling at its peak: the duel ranges across hall and staircase and climaxes in giant shadows thrown on pillars. Study how Korngold's score mirrors the blade work beat for beat.",
     "director": "Michael Curtiz & William Keighley",
+    "country": "USA",
     "craft": [
       "Composer: Erich Wolfgang Korngold"
     ],
@@ -902,104 +2729,333 @@
       "Oscar: Best Film Editing",
       "Oscar: Best Original Score"
     ],
-    "techniques": [
-      "duel",
-      "silhouette",
-      "score-driven"
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
     ],
-    "why": "Technicolor swashbuckling at its peak: the duel ranges across hall and staircase and climaxes in giant shadows thrown on pillars. Study how Korngold's score mirrors the blade work beat for beat.",
-    "query": "The Adventures of Robin Hood 1938 sword fight Guy of Gisbourne"
+    "scale": "one_on_one",
+    "genre": [
+      "swashbuckler",
+      "adventure"
+    ],
+    "era": "medieval",
+    "region": "british_isles",
+    "environment": [
+      "castle_fortress",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "playful",
+      "graceful"
+    ],
+    "combatants": [
+      "outlaws_bandits",
+      "knights"
+    ],
+    "weapons": [
+      "european_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "silhouette",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Nottingham Castle, England, 1190s",
+    "keywords": [
+      "technicolor",
+      "giant shadows",
+      "shadow fight",
+      "staircase duel",
+      "korngold",
+      "errol flynn",
+      "basil rathbone"
+    ]
   },
   {
     "film": "Star Wars: Episode I – The Phantom Menace",
     "year": 1999,
     "scene": "Duel of the Fates",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA",
+    "query": "Star Wars Duel of the Fates lightsaber fight scene",
+    "what_happens": "Qui-Gon Jinn and Obi-Wan Kenobi fight Darth Maul and his double-bladed lightsaber across catwalks of a palace power generator, held apart by pulsing laser gates before the duel resumes.",
+    "why": "A two-on-one lightsaber fight conceived as a high-speed dance: Ray Park's martial-arts acrobatics, a double-bladed saber, and the laser-gate pause that resets tension. Study how Williams's choral cue structures the cut.",
     "director": "George Lucas",
+    "country": "USA",
     "craft": [
       "Sword master: Nick Gillard",
       "Composer: John Williams"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "score-driven",
-      "cgi",
-      "wire work"
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight"
     ],
-    "why": "A two-on-one lightsaber fight conceived as a high-speed dance: Ray Park's martial-arts acrobatics, a double-bladed saber, and the laser-gate pause that resets tension. Study how Williams's choral cue structures the cut.",
-    "query": "Star Wars Duel of the Fates lightsaber fight scene"
+    "scale": "small_group",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "region": "alien_world",
+    "environment": [
+      "dam_industrial",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "graceful",
+      "epic",
+      "tragic"
+    ],
+    "combatants": [
+      "jedi_sith"
+    ],
+    "weapons": [
+      "lightsaber"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "wire_work",
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "period": "Theed generator complex, Naboo, Trade Federation invasion (fictional)",
+    "keywords": [
+      "double-bladed lightsaber",
+      "laser gates",
+      "darth maul",
+      "two on one",
+      "choral score",
+      "catwalks",
+      "reactor pit",
+      "ray park"
+    ]
   },
   {
     "film": "The Last Duel",
     "year": 2021,
     "scene": "Trial by combat: Carrouges vs. Le Gris",
-    "category": "blades",
-    "medium": "film",
-    "country": "USA/UK",
+    "query": "The Last Duel final duel scene",
+    "what_happens": "Before the king and a packed crowd, two armoured knights charge with lances, batter each other with axes on foot, then wrestle in the mud until one pins the other and drives a dagger into his mouth.",
+    "why": "A medieval duel staged for weight and authenticity: lances, axes, then a grueling dismounted grapple in mud and armor. Study the cutaways to Marguerite and how the fight degrades from ceremony into desperate wrestling.",
     "director": "Ridley Scott",
+    "country": "USA/UK",
     "craft": [
       "DP: Dariusz Wolski"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.blades",
+    "format": [
       "duel",
-      "cavalry",
-      "practical stunts",
-      "real location"
+      "bout"
     ],
-    "why": "A medieval duel staged for weight and authenticity: lances, axes, then a grueling dismounted grapple in mud and armor. Study the cutaways to Marguerite and how the fight degrades from ceremony into desperate wrestling.",
-    "query": "The Last Duel final duel scene",
+    "scale": "one_on_one",
+    "genre": [
+      "historical_epic",
+      "drama"
+    ],
+    "era": "medieval",
+    "region": "western_europe",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "mud"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "knights"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "axe_mace",
+      "european_sword",
+      "knife",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "practical_stunts",
+      "real_location",
+      "cross_cutting",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Paris, France, December 1386",
+    "keywords": [
+      "trial by combat",
+      "lance charge",
+      "jousting",
+      "armoured grappling",
+      "dagger",
+      "the lists",
+      "matt damon",
+      "adam driver"
+    ],
     "video": "R6vk9A7Ymf8"
   },
   {
     "film": "Shōgun",
     "year": 2024,
     "scene": "Mariko's naginata stand at Osaka Castle (Ep. 9 'Crimson Sky')",
-    "category": "blades",
-    "medium": "series",
-    "country": "USA",
+    "query": "Shogun Mariko naginata fight scene episode 9",
+    "what_happens": "Barred from leaving Osaka Castle, Lady Mariko takes up a naginata at the gate and fights the guards blocking her party alone as her retainers fall around her.",
+    "why": "A fight that is pure character: Mariko's skill with the naginata is real, but the scene is about honor and defiance. Study restraint in coverage, formal composition at the gate, and the shift from combat into ritual.",
     "director": "Created by Rachel Kondo & Justin Marks",
+    "country": "USA",
     "craft": [],
     "accolades": [
       "Emmy: Outstanding Drama Series",
       "Golden Globe: Best Television Series – Drama"
     ],
-    "techniques": [
-      "one vs many",
-      "practical stunts",
-      "score-driven"
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "last_stand"
     ],
-    "why": "A fight that is pure character: Mariko's skill with the naginata is real, but the scene is about honor and defiance. Study restraint in coverage, formal composition at the gate, and the shift from combat into ritual.",
-    "query": "Shogun Mariko naginata fight scene episode 9"
+    "scale": "one_vs_many",
+    "genre": [
+      "samurai_jidaigeki",
+      "drama",
+      "historical_epic"
+    ],
+    "era": "early_modern",
+    "region": "japan",
+    "environment": [
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "samurai"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "katana"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Osaka Castle, Japan, 1600",
+    "keywords": [
+      "naginata",
+      "castle gate",
+      "lady warrior",
+      "honour",
+      "defiance",
+      "mariko",
+      "anna sawai"
+    ]
   },
   {
     "film": "Game of Thrones",
     "year": 2014,
     "scene": "Oberyn Martell vs. The Mountain (S4E8 'The Mountain and the Viper')",
-    "category": "blades",
-    "medium": "series",
-    "country": "USA/UK",
+    "query": "Game of Thrones Oberyn vs Mountain fight scene",
+    "what_happens": "In a castle courtyard ringed by spectators, Oberyn Martell spins and thrusts his spear around the armoured giant Gregor Clegane, wounds him and demands a confession, then is pinned and has his skull crushed.",
+    "why": "Spear against greatsword: Oberyn's mobile, theatrical spearwork versus the Mountain's brute reach, intercut with crowd reactions that make overconfidence the plot device. A study in how choreography can carry a twist.",
     "director": "Alex Graves",
+    "country": "USA/UK",
     "craft": [],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.blades",
+    "format": [
       "duel",
-      "practical effects"
+      "bout"
     ],
-    "why": "Spear against greatsword: Oberyn's mobile, theatrical spearwork versus the Mountain's brute reach, intercut with crowd reactions that make overconfidence the plot device. A study in how choreography can carry a twist.",
-    "query": "Game of Thrones Oberyn vs Mountain fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "drama",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "region": "fantasy_world",
+    "environment": [
+      "plaza_square",
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "brutal",
+      "tragic"
+    ],
+    "combatants": [
+      "knights"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "european_sword",
+      "shield"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "wide_framing",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "period": "King's Landing, Westeros (fictional)",
+    "keywords": [
+      "trial by combat",
+      "spear acrobatics",
+      "eye gouge",
+      "skull crush",
+      "the viper",
+      "the mountain",
+      "pedro pascal"
+    ]
   },
   {
     "film": "Raging Bull",
     "year": 1980,
-    "scene": "LaMotta vs. Sugar Ray Robinson final bout",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "scene": "LaMotta vs. Sugar Ray Robinson, Detroit 1943",
+    "query": "Raging Bull Jake defeats Sugar Ray scene",
+    "what_happens": "In a smoky Detroit arena, Jake LaMotta swarms Sugar Ray Robinson, battering him around the ring and knocking him clean through the ropes on the way to his first win over him as flashbulbs pop.",
+    "why": "Shot from inside the ring with shifting frame rates, flashbulb bursts and animal-like sound design. Study how Scorsese gives each fight its own visual language, here a swarming, triumphant brawl that sends Robinson through the ropes.",
     "director": "Martin Scorsese",
+    "country": "USA",
     "craft": [
       "DP: Michael Chapman",
       "Editor: Thelma Schoonmaker"
@@ -1008,23 +3064,68 @@
       "Oscar: Best Actor",
       "Oscar: Best Film Editing"
     ],
-    "techniques": [
-      "slow motion",
-      "sound design",
-      "pov",
-      "practical effects"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Shot from inside the ring with shifting frame rates, a ring that changes size, and animal-like sound design. Study how each fight is designed differently and how Robinson's final assault becomes a near-religious ordeal.",
-    "query": "Raging Bull final fight Sugar Ray Robinson scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "ww2",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "smoke",
+      "strobe_flash"
+    ],
+    "mood": [
+      "brutal",
+      "gritty",
+      "chaotic"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "slow_motion",
+      "sound_design",
+      "pov"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Detroit boxing arena, 1943",
+    "keywords": [
+      "through the ropes",
+      "flashbulbs",
+      "smoky arena",
+      "middleweight",
+      "jake lamotta",
+      "sugar ray robinson",
+      "robert de niro"
+    ],
+    "video": "ybst6CAzXCo"
   },
   {
     "film": "Rocky",
     "year": 1976,
     "scene": "Final fight vs. Apollo Creed",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Rocky 1976 final fight Apollo Creed scene",
+    "what_happens": "Underdog Rocky Balboa and heavyweight champion Apollo Creed batter each other through the late rounds in a packed Philadelphia arena, Rocky rising from knockdowns with a swollen, cut eye to go the distance.",
+    "why": "A fight structured around an underdog's emotional arc rather than realism: rounds compressed by montage, Conti's score swelling on knockdowns, and choreography written round by round. The template for every sports climax since.",
     "director": "John G. Avildsen",
+    "country": "USA",
     "craft": [
       "DP: James Crabe",
       "Editors: Richard Halsey & Scott Conrad",
@@ -1035,43 +3136,126 @@
       "Oscar: Best Director",
       "Oscar: Best Film Editing"
     ],
-    "techniques": [
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
       "montage",
-      "score-driven",
+      "score_driven",
       "handheld"
     ],
-    "why": "A fight structured around an underdog's emotional arc rather than realism: rounds compressed by montage, Conti's score swelling on knockdowns, and choreography written round by round. The template for every sports climax since.",
-    "query": "Rocky 1976 final fight Apollo Creed scene"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Philadelphia Spectrum, New Year's Day 1976",
+    "keywords": [
+      "underdog",
+      "swollen eye",
+      "going the distance",
+      "knockdown",
+      "heavyweight title",
+      "bill conti",
+      "sylvester stallone"
+    ]
   },
   {
     "film": "Rocky IV",
     "year": 1985,
     "scene": "Rocky vs. Drago in Moscow",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Rocky IV Rocky vs Drago final fight scene",
+    "what_happens": "In a Moscow arena packed with Soviet officials, Rocky wears down the towering Ivan Drago in the final round, landing a barrage of hooks that topples him as the once-hostile crowd cheers for the American.",
+    "why": "Music-video-era fight grammar: rapid montage, slow-motion impacts and a synth score. Study the exaggerated hit sound design and how a crowd's changing allegiance is used as the scene's turning point.",
     "director": "Sylvester Stallone",
+    "country": "USA",
     "craft": [
       "Composer: Vince DiCola"
     ],
     "accolades": [],
-    "techniques": [
-      "montage",
-      "score-driven",
-      "slow motion",
-      "sound design"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Music-video-era fight grammar: rapid montage, slow-motion impacts and a synth score. Study the exaggerated hit sound design and how a crowd's changing allegiance is used as the scene's turning point.",
-    "query": "Rocky IV Rocky vs Drago final fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "region": "russia",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "montage",
+      "score_driven",
+      "slow_motion",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Moscow, Soviet Union, Christmas 1985",
+    "keywords": [
+      "cold war",
+      "ivan drago",
+      "crowd turns",
+      "synth score",
+      "final knockdown",
+      "soviet officials",
+      "dolph lundgren"
+    ]
   },
   {
     "film": "Creed",
     "year": 2015,
     "scene": "One-take round vs. Leo Sporino",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Creed one take fight scene Leo Sporino",
+    "what_happens": "Adonis Creed fights Leo Sporino in one unbroken shot: the camera circles inside the ring, ducks between the fighters and follows them to their corners between rounds as Adonis wears his opponent down.",
+    "why": "A full round in one unbroken take: the camera circles inside the ring, slips between fighters and drifts to the corner, making real stamina visible. A masterclass in choreographing actors and camera as one.",
     "director": "Ryan Coogler",
+    "country": "USA",
     "craft": [
       "DP: Maryse Alberti",
       "Composer: Ludwig Göransson"
@@ -1079,23 +3263,63 @@
     "accolades": [
       "Golden Globe: Best Supporting Actor – Motion Picture"
     ],
-    "techniques": [
-      "long take",
-      "oner",
-      "tracking shot",
-      "practical stunts"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "A full round in one unbroken take: the camera circles inside the ring, slips between fighters and drifts to the corner, making real stamina visible. A masterclass in choreographing actors and camera as one.",
-    "query": "Creed one take fight scene Leo Sporino"
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "region": "british_isles",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "brutal",
+      "intimate"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "steadicam",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Pro debut in a Philadelphia arena, 2015",
+    "keywords": [
+      "one-take round",
+      "corner break",
+      "pro debut",
+      "in-ring camera",
+      "knockout"
+    ],
+    "video": "29eJVKSYMvQ"
   },
   {
     "film": "Million Dollar Baby",
     "year": 2004,
     "scene": "Title fight vs. Billie 'The Blue Bear'",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Million Dollar Baby Billie Blue Bear fight scene",
+    "what_happens": "In a darkened Las Vegas arena, Maggie Fitzgerald outboxes the dirty champion known as the Blue Bear until, after the bell, the champion sucker-punches her from behind and she falls neck-first onto the corner stool.",
+    "why": "Tom Stern's deep shadows and spare coverage make the ring mythic. Study how the edit plants the stool, withholds the illegal blow, and lets silence follow the impact.",
     "director": "Clint Eastwood",
+    "country": "USA",
     "craft": [
       "DP: Tom Stern"
     ],
@@ -1105,63 +3329,194 @@
       "Oscar: Best Actress",
       "Oscar: Best Supporting Actor"
     ],
-    "techniques": [
-      "low-key lighting",
-      "practical stunts",
-      "sound design"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Tom Stern's deep shadows and spare coverage make the ring mythic. Study how the edit plants the stool, withholds the illegal blow, and lets silence follow the impact.",
-    "query": "Million Dollar Baby Billie Blue Bear fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tragic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "silence",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Las Vegas title fight, early 2000s",
+    "keywords": [
+      "illegal punch",
+      "sucker punch",
+      "corner stool",
+      "women's boxing",
+      "deep shadows",
+      "after the bell",
+      "hilary swank"
+    ]
   },
   {
     "film": "Warrior",
     "year": 2011,
     "scene": "Final bout: Brendan vs. Tommy",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Warrior final fight Tommy Brendan scene",
+    "what_happens": "In an Atlantic City cage, Brendan Conlon fights his brother Tommy for the tournament title, dislocates his shoulder with an arm lock, then sinks a rear choke and holds him until Tommy finally taps out.",
+    "why": "An MMA fight driven entirely by brotherhood: handheld coverage stays tight on faces, the submission becomes an act of love, and a song replaces crowd noise at the climax. Study how sound strips spectacle back to emotion.",
     "director": "Gavin O'Connor",
+    "country": "USA",
     "craft": [
       "DP: Masanobu Takayanagi"
     ],
     "accolades": [],
-    "techniques": [
-      "handheld",
-      "score-driven",
-      "practical stunts"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "An MMA fight driven entirely by brotherhood: handheld coverage stays tight on faces, the submission becomes an act of love, and a song replaces crowd noise at the climax. Study how sound strips spectacle back to emotion.",
-    "query": "Warrior final fight Tommy Brendan scene"
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "intimate",
+      "brutal",
+      "melancholic"
+    ],
+    "combatants": [
+      "boxers_fighters",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "score_driven",
+      "practical_stunts",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Atlantic City MMA tournament, present day",
+    "keywords": [
+      "mma",
+      "brothers",
+      "cage fight",
+      "kimura",
+      "rear naked choke",
+      "dislocated shoulder",
+      "tap out",
+      "tom hardy"
+    ]
   },
   {
     "film": "Cinderella Man",
     "year": 2005,
     "scene": "Braddock vs. Max Baer title fight",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Cinderella Man Braddock vs Baer final fight scene",
+    "what_happens": "In a heavyweight title fight before a packed open-air crowd, washed-up James Braddock absorbs Max Baer's heavy punches and grinds back, as the fight cuts to families listening on radios and flashbulb-frozen impacts.",
+    "why": "Period boxing with modern immediacy: subjective POV shots, flashbulb moments and cutaways to radio listeners. Study how the edit balances 15-round realism with an underdog's emotional cadence.",
     "director": "Ron Howard",
+    "country": "USA",
     "craft": [
       "DP: Salvatore Totino"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash"
+    ],
+    "mood": [
+      "heroic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
       "handheld",
       "pov",
-      "practical stunts",
-      "sound design"
+      "practical_stunts",
+      "sound_design",
+      "cross_cutting"
     ],
-    "why": "Period boxing with modern immediacy: subjective POV shots, flashbulb moments and cutaways to radio listeners. Study how the edit balances 15-round realism with an underdog's emotional cadence.",
-    "query": "Cinderella Man Braddock vs Baer final fight scene"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Madison Square Garden Bowl, New York, 1935",
+    "keywords": [
+      "great depression",
+      "flashbulbs",
+      "radio listeners",
+      "heavyweight title",
+      "underdog",
+      "max baer",
+      "russell crowe"
+    ]
   },
   {
     "film": "The Fighter",
     "year": 2010,
     "scene": "Micky Ward vs. Shea Neary title fight",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Fighter Micky Ward vs Shea Neary fight scene",
+    "what_happens": "In a London arena, Micky Ward weathers an early beating from champion Shea Neary, then lands a crushing left hook to the body and a flurry that drops Neary, all filmed like a late-1990s TV broadcast.",
+    "why": "Fights are shot to mimic 1990s TV-boxing coverage, with period video cameras and broadcast-style angles. Study how borrowing a familiar broadcast grammar makes staged fights feel like archival footage.",
     "director": "David O. Russell",
+    "country": "USA",
     "craft": [
       "DP: Hoyte van Hoytema"
     ],
@@ -1169,342 +3524,1083 @@
       "Oscar: Best Supporting Actor",
       "Oscar: Best Supporting Actress"
     ],
-    "techniques": [
-      "broadcast video look",
-      "handheld",
-      "practical stunts"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Fights are shot to mimic 1990s TV-boxing coverage, with period video cameras and broadcast-style angles. Study how borrowing a familiar broadcast grammar makes staged fights feel like archival footage.",
-    "query": "The Fighter Micky Ward vs Shea Neary fight scene",
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "region": "british_isles",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "London title fight, 2000",
+    "keywords": [
+      "body shot",
+      "left hook to the body",
+      "broadcast video look",
+      "tv boxing coverage",
+      "comeback",
+      "mark wahlberg"
+    ],
     "video": "MOYzI0f83mI"
   },
   {
     "film": "Ali",
     "year": 2001,
     "scene": "Rumble in the Jungle vs. George Foreman",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Ali 2001 Rumble in the Jungle Foreman fight scene",
+    "what_happens": "In a Kinshasa stadium, Muhammad Ali leans on the ropes absorbing George Foreman's punches and taunting him round after round, then springs off the ropes and drops the exhausted champion with a fast combination.",
+    "why": "Mann puts the camera inside the ropes at fighter's eye level. Study how rope-a-dope is told through tempo changes, and how near-silence and slow motion isolate the knockout.",
     "director": "Michael Mann",
+    "country": "USA",
     "craft": [
       "DP: Emmanuel Lubezki"
     ],
     "accolades": [],
-    "techniques": [
-      "handheld",
-      "slow motion",
-      "pov",
-      "sound design"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Mann puts the camera inside the ropes at fighter's eye level. Study how rope-a-dope is told through tempo changes, and how near-silence and slow motion isolate the knockout.",
-    "query": "Ali 2001 Rumble in the Jungle Foreman fight scene",
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "sub_saharan_africa",
+    "environment": [
+      "arena_ring",
+      "stadium_racetrack"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "slow_motion",
+      "pov",
+      "sound_design",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Kinshasa, Zaire, October 1974",
+    "keywords": [
+      "rope-a-dope",
+      "rumble in the jungle",
+      "knockout",
+      "slow motion knockdown",
+      "zaire",
+      "will smith"
+    ],
     "video": "AUZqcXTR6wo"
   },
   {
     "film": "Bloodsport",
     "year": 1988,
     "scene": "Kumite final: Frank Dux vs. Chong Li",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Bloodsport final fight Chong Li scene",
+    "what_happens": "In the Kumite final, Frank Dux is blinded when Chong Li throws powder in his eyes, fights on by sound and instinct, then rains kicks on the champion until he surrenders.",
+    "why": "The template for tournament finales: slow-motion repeats of signature moves, the blinded-fighter reversal, and a pulsing synth score. Study how repetition and crowd cutaways turn a simple duel into ritual.",
     "director": "Newt Arnold",
+    "country": "USA",
     "craft": [
       "Composer: Paul Hertzog"
     ],
     "accolades": [],
-    "techniques": [
-      "duel",
-      "slow motion",
-      "score-driven"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout",
+      "duel"
     ],
-    "why": "The template for tournament finales: slow-motion repeats of signature moves, the blinded-fighter reversal, and a pulsing synth score. Study how repetition and crowd cutaways turn a simple duel into ritual.",
-    "query": "Bloodsport final fight Chong Li scene"
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "sports"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Secret kumite tournament, Hong Kong, 1980s",
+    "keywords": [
+      "kumite",
+      "blinded fighter",
+      "powder in eyes",
+      "splits",
+      "tournament final",
+      "chong li",
+      "van damme"
+    ]
   },
   {
     "film": "Body and Soul",
     "year": 1947,
     "scene": "Final championship fight",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "Body and Soul 1947 boxing fight scene",
+    "what_happens": "Champion Charley Davis, paid by gamblers to lose, takes a pounding in the late rounds, then defies the fix and fights back, filmed from inside the ring at the boxers' eye level.",
+    "why": "James Wong Howe shot inside the ring handheld while on roller skates, decades before Steadicam, giving a 1947 bout newsreel immediacy. Study the subjective punches and sweat-and-grime realism.",
     "director": "Robert Rossen",
+    "country": "USA",
     "craft": [
       "DP: James Wong Howe"
     ],
     "accolades": [
       "Oscar: Best Film Editing"
     ],
-    "techniques": [
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "noir",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
       "handheld",
       "pov",
-      "tracking shot"
+      "black_and_white",
+      "tracking_shot"
     ],
-    "why": "James Wong Howe shot inside the ring handheld while on roller skates, decades before Steadicam, giving a 1947 bout newsreel immediacy. Study the subjective punches and sweat-and-grime realism.",
-    "query": "Body and Soul 1947 boxing fight scene"
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "New York title fight, late 1940s",
+    "keywords": [
+      "fixed fight",
+      "taking a dive",
+      "roller skates",
+      "newsreel look",
+      "in the ring",
+      "john garfield",
+      "james wong howe"
+    ]
   },
   {
     "film": "The Set-Up",
     "year": 1949,
     "scene": "Stoker Thompson's four-round fight",
-    "category": "boxing",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Set-Up 1949 boxing fight scene",
+    "what_happens": "Aging boxer Stoker Thompson slugs it out with a younger opponent in a seedy small-town arena, unaware his manager took a bribe for him to lose, while the camera cuts to leering, screaming spectators.",
+    "why": "Told in real time, the bout is intercut with grotesque spectator close-ups that indict the crowd. Study how blow-by-blow realism and audience reaction carry the film's theme.",
     "director": "Robert Wise",
+    "country": "USA",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "cross-cutting",
-      "sound design"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Told in real time, the bout is intercut with grotesque spectator close-ups that indict the crowd. Study how blow-by-blow realism and audience reaction carry the film's theme.",
-    "query": "The Set-Up 1949 boxing fight scene"
+    "scale": "one_on_one",
+    "genre": [
+      "noir",
+      "sports",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "cross_cutting",
+      "sound_design",
+      "single_location"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Paradise City small-town arena, late 1940s",
+    "keywords": [
+      "real time",
+      "grotesque spectators",
+      "crowd close-ups",
+      "bribe",
+      "aging boxer",
+      "robert ryan",
+      "robert wise"
+    ]
   },
   {
     "film": "Ashita no Joe 2",
     "year": 1980,
     "scene": "Joe vs. José Mendoza and the 'white ash' ending",
-    "category": "boxing",
-    "medium": "anime",
-    "country": "Japan",
+    "query": "Ashita no Joe 2 final fight Jose Mendoza",
+    "what_happens": "Battered and fading, Joe Yabuki trades blows with world champion Jose Mendoza across fifteen rounds, shown in painted freeze frames and repeated cuts, until he sits slumped and smiling in his corner, drained white.",
+    "why": "Dezaki's painted 'postcard memory' freeze frames, repeated triple-take cuts and split screens turn a 15-round fight into elegy, ending on one of anime's most famous still images.",
     "director": "Osamu Dezaki",
+    "country": "Japan",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "2d animation",
-      "slow motion",
-      "montage"
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
     ],
-    "why": "Dezaki's painted 'postcard memory' freeze frames, repeated triple-take cuts and split screens turn a 15-round fight into elegy, ending on one of anime's most famous still images.",
-    "query": "Ashita no Joe 2 final fight Jose Mendoza",
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "region": "japan",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "brutal",
+      "melancholic"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "animation_2d",
+      "slow_motion",
+      "montage",
+      "split_screen"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "World bantamweight title fight, Tokyo, 1970s",
+    "keywords": [
+      "white ash",
+      "freeze frame",
+      "postcard memory",
+      "triple take",
+      "bantamweight",
+      "anime boxing",
+      "osamu dezaki"
+    ],
     "video": "aBJxRfnrSgM"
   },
   {
     "film": "Heat",
     "year": 1995,
     "scene": "Downtown LA bank-robbery shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Heat bank shootout scene 1995",
+    "what_happens": "After a bank heist in downtown Los Angeles, McCauley's crew fires assault rifles at swarming police cars, leapfrogging between cover along the streets as officers return fire and gunshots echo off the towers.",
+    "why": "Gunfire recorded on location echoes off downtown towers. Study how Mann stages fire-and-maneuver tactics, keeps geography clear across city blocks, and lets the sound mix, not the score, generate the terror.",
     "director": "Michael Mann",
+    "country": "USA",
     "craft": [
       "DP: Dante Spinotti",
       "Composer: Elliot Goldenthal"
     ],
     "accolades": [],
-    "techniques": [
-      "urban combat",
-      "real location",
-      "sound design",
-      "handheld",
-      "practical effects"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "team_vs_team",
+      "escape"
     ],
-    "why": "Gunfire recorded on location echoes off downtown towers. Study how Mann stages fire-and-maneuver tactics, keeps geography clear across city blocks, and lets the sound mix, not the score, generate the terror.",
-    "query": "Heat bank shootout scene 1995"
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "shotgun",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "sound_design",
+      "real_location",
+      "handheld",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Downtown Los Angeles, mid-1990s",
+    "keywords": [
+      "bank robbery",
+      "fire and maneuver",
+      "echoing gunfire",
+      "assault rifles",
+      "police cars",
+      "michael mann",
+      "downtown la"
+    ]
   },
   {
     "film": "Hard Boiled",
     "year": 1992,
     "scene": "Teahouse shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Hard Boiled teahouse shootout scene",
+    "what_happens": "Inspector Tequila opens fire on gun smugglers in a crowded dim-sum teahouse, sliding down a banister with pistols blazing while diners flee, birdcages burst and squibs tear through tables.",
+    "why": "The opener that teaches gun-fu grammar: slow-motion dives, a banister slide while firing, squibs everywhere and birdcages caught in the crossfire. Study how wide masters alternate with operatic close-ups.",
     "director": "John Woo",
+    "country": "Hong Kong",
     "craft": [
       "Action director: Philip Kwok"
     ],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "slow motion",
-      "practical effects",
-      "single location"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "team_vs_team"
     ],
-    "why": "The opener that teaches gun-fu grammar: slow-motion dives, a banister slide while firing, squibs everywhere and birdcages caught in the crossfire. Study how wide masters alternate with operatic close-ups.",
-    "query": "Hard Boiled teahouse shootout scene"
+    "scale": "medium",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "police",
+      "triads_yakuza",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "practical_effects",
+      "single_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "cantonese",
+    "period": "Hong Kong teahouse, early 1990s",
+    "keywords": [
+      "teahouse",
+      "dim sum",
+      "banister slide",
+      "birdcages",
+      "dual pistols",
+      "squibs",
+      "chow yun-fat",
+      "john woo"
+    ]
   },
   {
     "film": "Hard Boiled",
     "year": 1992,
     "scene": "Hospital one-take shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "Hard Boiled hospital long take scene",
+    "what_happens": "Tequila and undercover cop Tony fight side by side along hospital corridors in one unbroken shot, gunning down triad soldiers who pour from doorways, then ride an elevator up and keep shooting on the next floor.",
+    "why": "A nearly three-minute unbroken take across hospital corridors and an elevator ride: squibs, stunt falls and reloads timed to the camera. Study how blocking feeds enemies into frame and how the lift hides a set change.",
     "director": "John Woo",
+    "country": "Hong Kong",
     "craft": [
       "Action director: Philip Kwok"
     ],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "oner",
-      "tracking shot",
-      "one vs many",
-      "practical effects"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A nearly three-minute unbroken take across hospital corridors and an elevator ride: squibs, stunt falls and reloads timed to the camera. Study how blocking feeds enemies into frame and how the lift hides a set change.",
-    "query": "Hard Boiled hospital long take scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "hospital",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "stylish"
+    ],
+    "combatants": [
+      "police",
+      "triads_yakuza"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "tracking_shot",
+      "practical_effects",
+      "practical_stunts",
+      "gun_fu"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "cantonese",
+    "period": "Hong Kong hospital, early 1990s",
+    "keywords": [
+      "hospital corridor",
+      "elevator",
+      "unbroken take",
+      "squibs",
+      "partners",
+      "tony leung",
+      "john woo"
+    ]
   },
   {
     "film": "The Killer",
     "year": 1989,
     "scene": "Church shootout finale",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "The Killer 1989 church shootout scene",
+    "what_happens": "A hitman and the cop hunting him fight back to back inside a candlelit church, firing pistols in slow motion as triad gunmen storm in, doves scatter and a statue of the Madonna is blown apart.",
+    "why": "Heroic bloodshed's defining finale: doves, candles, a shattered Madonna and squib-heavy slow motion. Study how Woo cuts between two partners fighting side by side and how religious iconography turns a shootout into opera.",
     "director": "John Woo",
+    "country": "Hong Kong",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "slow motion",
-      "practical effects",
-      "one vs many"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "last_stand"
     ],
-    "why": "Heroic bloodshed's defining finale: doves, candles, a shattered Madonna and squib-heavy slow motion. Study how Woo cuts between two partners fighting side by side and how religious iconography turns a shootout into opera.",
-    "query": "The Killer 1989 church shootout scene",
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "temple_church"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "fire",
+      "explosions"
+    ],
+    "mood": [
+      "tragic",
+      "stylish",
+      "chaotic"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "police",
+      "triads_yakuza"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "shotgun",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "practical_effects",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "cantonese",
+    "period": "Seaside church, Hong Kong, late 1980s",
+    "keywords": [
+      "doves",
+      "madonna statue",
+      "candles",
+      "heroic bloodshed",
+      "back to back",
+      "chow yun-fat",
+      "john woo"
+    ],
     "video": "dtuWGO6JD38"
   },
   {
     "film": "A Better Tomorrow",
     "year": 1986,
     "scene": "Mark's restaurant revenge (guns in the flower pots)",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "A Better Tomorrow restaurant shootout Mark flower pots",
+    "what_happens": "Mark walks into a Taipei restaurant, shoots the gang boss and his men at their table, then backs down the corridor, pulling pistols he hid in the flower pots to gun down pursuers.",
+    "why": "Chow Yun-fat hides pistols in plant pots along a corridor, then returns to use them: study how planted setups pay off in action, and how coat, swagger and dual-wielding created the gun-fu template.",
     "director": "John Woo",
+    "country": "Hong Kong",
     "craft": [],
     "accolades": [
       "Hong Kong Film Award: Best Film",
       "Hong Kong Film Award: Best Actor"
     ],
-    "techniques": [
-      "gun-fu",
-      "slow motion",
-      "single location",
-      "one vs many"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "ambush"
     ],
-    "why": "Chow Yun-fat hides pistols in plant pots along a corridor, then returns to use them: study how planted setups pay off in action, and how coat, swagger and dual-wielding created the gun-fu template.",
-    "query": "A Better Tomorrow restaurant shootout Mark flower pots"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "region": "china",
+    "environment": [
+      "restaurant_kitchen",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "triads_yakuza",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "cantonese",
+    "period": "Taipei restaurant, Taiwan, mid-1980s",
+    "keywords": [
+      "flower pots",
+      "hidden guns",
+      "planted pistols",
+      "dual wielding",
+      "long coat",
+      "chow yun-fat",
+      "john woo"
+    ]
   },
   {
     "film": "The Mission",
     "year": 1999,
     "scene": "Shopping mall shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Hong Kong",
+    "query": "The Mission 1999 Johnnie To mall shootout scene",
+    "what_happens": "Five bodyguards protecting a triad boss in a near-empty shopping mall take fixed positions around an escalator and trade sparse, precise pistol fire with hidden gunmen, barely moving as they cover every angle.",
+    "why": "The antithesis of Woo: five bodyguards hold fixed positions around an escalator and barely move, so composition and geometry create tension. Study how a shootout can be staged through formation rather than acrobatics.",
     "director": "Johnnie To",
+    "country": "Hong Kong",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "static camera",
-      "sound design"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "standoff",
+      "team_vs_team"
     ],
-    "why": "The antithesis of Woo: five bodyguards hold fixed positions around an escalator and barely move, so composition and geometry create tension. Study how a shootout can be staged through formation rather than acrobatics.",
-    "query": "The Mission 1999 Johnnie To mall shootout scene"
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "action",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "hong_kong",
+    "environment": [
+      "mall_store"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "triads_yakuza",
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "single_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "period": "Hong Kong shopping mall, late 1990s",
+    "keywords": [
+      "escalator",
+      "formation",
+      "bodyguards",
+      "static positions",
+      "geometry",
+      "minimal movement",
+      "johnnie to"
+    ]
   },
   {
     "film": "Collateral",
     "year": 2004,
     "scene": "Fever nightclub shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Collateral nightclub shootout scene Fever",
+    "what_happens": "Hitman Vincent pushes through a packed, strobe-lit Koreatown club to reach his target, executing bodyguards at close range with quick double taps as FBI agents and gangsters collide in the panicking crowd.",
+    "why": "Digital video in a packed club: Mann tracks three parties moving through a dancing crowd, with strobes and practical light. Study Vincent's efficient close-range shooting and how geography survives the crush.",
     "director": "Michael Mann",
+    "country": "USA",
     "craft": [
       "DPs: Dion Beebe & Paul Cameron"
     ],
     "accolades": [
       "BAFTA: Best Cinematography"
     ],
-    "techniques": [
-      "night",
-      "handheld",
-      "single location",
-      "sound design"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Digital video in a packed club: Mann tracks three parties moving through a dancing crowd, with strobes and practical light. Study Vincent's efficient close-range shooting and how geography survives the crush.",
-    "query": "Collateral nightclub shootout scene Fever",
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "strobe_flash",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "stylish"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "triads_yakuza",
+      "federal_agents",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "sound_design",
+      "single_location",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Koreatown nightclub, Los Angeles, 2004",
+    "keywords": [
+      "nightclub",
+      "double tap",
+      "dancing crowd",
+      "digital video",
+      "strobes",
+      "tom cruise",
+      "michael mann"
+    ],
     "video": "d9_n6wwkIHM"
   },
   {
     "film": "Sicario",
     "year": 2015,
     "scene": "Juárez border-crossing shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Sicario border crossing scene Juarez",
+    "what_happens": "A convoy of US agents and Delta operators stuck in gridlocked traffic at the Juarez border crossing spots armed cartel men in nearby cars; after a tense wait, the operators step out and gun them down in seconds.",
+    "why": "Dread as structure: aerial convoy shots, a sub-bass drone, then a gridlocked firefight lasting seconds. Study how geography is established before violence and how waiting itself becomes the set piece.",
     "director": "Denis Villeneuve",
+    "country": "USA",
     "craft": [
       "DP: Roger Deakins",
       "Composer: Jóhann Jóhannsson",
       "Editor: Joe Walker"
     ],
     "accolades": [],
-    "techniques": [
-      "aerial photography",
-      "sound design",
-      "score-driven",
-      "urban combat"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "standoff"
     ],
-    "why": "Dread as structure: aerial convoy shots, a sub-bass drone, then a gridlocked firefight lasting seconds. Study how geography is established before violence and how waiting itself becomes the set piece.",
-    "query": "Sicario border crossing scene Juarez"
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "region": "latin_america",
+    "environment": [
+      "highway",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "heat_sun"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "gritty"
+    ],
+    "combatants": [
+      "special_forces",
+      "gangsters",
+      "federal_agents"
+    ],
+    "weapons": [
+      "rifle",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "crane_aerial",
+      "sound_design",
+      "score_driven",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Ciudad Juarez to El Paso border crossing, present day",
+    "keywords": [
+      "traffic jam",
+      "border crossing",
+      "convoy",
+      "suburbans",
+      "sub-bass drone",
+      "cartel",
+      "delta force",
+      "roger deakins"
+    ]
   },
   {
     "film": "John Wick",
     "year": 2014,
     "scene": "Red Circle nightclub fight",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "John Wick Red Circle club fight scene",
+    "what_happens": "John Wick works through a Russian mob nightclub, combining judo throws and arm locks with point-blank pistol headshots as he cuts down bodyguards on the dance floor and in neon-lit corridors.",
+    "why": "Gun-fu rebuilt from real tactical shooting and judo throws: wide framing shows the actor doing it, close-range gun handling is integrated into grappling, and club music and neon drive the cut.",
     "director": "Chad Stahelski",
+    "country": "USA",
     "craft": [
       "DP: Jonathan Sela"
     ],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "wide-angle choreography",
-      "color grading",
-      "score-driven",
-      "one vs many"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Gun-fu rebuilt from real tactical shooting and judo throws: wide framing shows the actor doing it, close-range gun handling is integrated into grappling, and club music and neon drive the cut.",
-    "query": "John Wick Red Circle club fight scene",
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "nightclub_bar",
+      "bathhouse"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "strobe_flash",
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "relentless",
+      "brutal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gangsters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "wide_framing",
+      "color_grading",
+      "score_driven",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Russian-mob nightclub, New York City, present day",
+    "keywords": [
+      "red circle",
+      "headshots",
+      "judo throws",
+      "neon",
+      "club music",
+      "tactical reload",
+      "keanu reeves"
+    ],
     "video": "0L9SzBANF0w"
   },
   {
     "film": "John Wick: Chapter 4",
     "year": 2023,
     "scene": "Dragon's Breath overhead shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "John Wick 4 dragon's breath overhead scene",
+    "what_happens": "Seen from directly overhead as the camera glides across roofless rooms of a derelict Paris building, John Wick blasts attackers with an incendiary shotgun, setting each one ablaze in bursts of flame.",
+    "why": "A God's-eye overhead camera glides across roofless rooms while incendiary shotgun rounds paint the frame. Study how a top shot simplifies geography and turns choreography into something like level design.",
     "director": "Chad Stahelski",
+    "country": "USA",
     "craft": [
       "DP: Dan Laustsen"
     ],
     "accolades": [],
-    "techniques": [
-      "long take",
-      "tracking shot",
-      "fire",
-      "gun-fu",
-      "one vs many"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A God's-eye overhead camera glides across roofless rooms while incendiary shotgun rounds paint the frame. Study how a top shot simplifies geography and turns choreography into something like level design.",
-    "query": "John Wick 4 dragon's breath overhead scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "region": "western_europe",
+    "environment": [
+      "apartment_house",
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "strobe_flash"
+    ],
+    "mood": [
+      "stylish",
+      "relentless"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "shotgun",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "crane_aerial",
+      "tracking_shot",
+      "gun_fu"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Derelict Paris apartment building, present day",
+    "keywords": [
+      "dragon's breath",
+      "incendiary rounds",
+      "top shot",
+      "overhead camera",
+      "god's eye view",
+      "level design",
+      "fire shotgun"
+    ]
   },
   {
     "film": "The Matrix",
     "year": 1999,
     "scene": "Lobby shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA/Australia",
+    "query": "The Matrix lobby shootout scene",
+    "what_happens": "Neo and Trinity walk into a government building lobby carrying arsenals, then cartwheel, run along walls and fire twin pistols at guards and soldiers while bullets shred the stone pillars into clouds of debris.",
+    "why": "Hong Kong gun ballet translated to Hollywood: pillars disintegrated by squibs, slow-motion cartwheels and wall-runs, cuts timed to the track. Study how flying debris is used to make bullet impacts visible.",
     "director": "The Wachowskis",
+    "country": "USA/Australia",
     "craft": [
       "DP: Bill Pope",
       "Editor: Zach Staenberg"
@@ -1515,42 +4611,135 @@
       "Oscar: Best Sound",
       "Oscar: Best Sound Effects Editing"
     ],
-    "techniques": [
-      "gun-fu",
-      "slow motion",
-      "practical effects",
-      "score-driven"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "assault_raid",
+      "one_vs_many"
     ],
-    "why": "Hong Kong gun ballet translated to Hollywood: pillars disintegrated by squibs, slow-motion cartwheels and wall-runs, cuts timed to the track. Study how flying debris is used to make bullet impacts visible.",
-    "query": "The Matrix lobby shootout scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "sci_fi",
+      "action",
+      "cyberpunk"
+    ],
+    "era": "late_20th_century",
+    "region": "unspecified_city",
+    "environment": [
+      "office_tower",
+      "building_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "police",
+      "special_forces"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "rifle",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "practical_effects",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Simulated 1999 city inside the Matrix",
+    "keywords": [
+      "lobby shootout",
+      "long black coats",
+      "stone pillars",
+      "debris clouds",
+      "cartwheel",
+      "wall run",
+      "shell casings"
+    ]
   },
   {
     "film": "Equilibrium",
     "year": 2002,
     "scene": "Gun kata finale vs. DuPont",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Equilibrium gun kata final fight DuPont",
+    "what_happens": "Cleric John Preston and his superior DuPont fight at arm's length with pistols, blocking, trapping and redirecting each other's guns in a swift gun-kata exchange until Preston fires the decisive shot.",
+    "why": "Gun kata, a codified pistol martial art, treats firearms like swords: study how close-quarters pistol duelling borrows sword-fight grammar, and how a modest budget is stretched with stylized geometry.",
     "director": "Kurt Wimmer",
+    "country": "USA",
     "craft": [],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "duel",
-      "slow motion",
-      "single location"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "duel"
     ],
-    "why": "Gun kata, a codified pistol martial art, treats firearms like swords: study how close-quarters pistol duelling borrows sword-fight grammar, and how a modest budget is stretched with stylized geometry.",
-    "query": "Equilibrium gun kata final fight DuPont"
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action"
+    ],
+    "era": "near_future",
+    "region": "unspecified_city",
+    "environment": [
+      "office_tower"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "tense",
+      "graceful"
+    ],
+    "combatants": [
+      "police"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "single_location",
+      "center_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Libria, dystopian city-state (fictional future)",
+    "keywords": [
+      "gun kata",
+      "pistol martial art",
+      "close-quarters pistols",
+      "disarm",
+      "cleric",
+      "trapping guns",
+      "christian bale"
+    ]
   },
   {
     "film": "The Untouchables",
     "year": 1987,
     "scene": "Union Station staircase shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "The Untouchables Union Station baby carriage shootout",
+    "what_happens": "On the grand staircase of a train station at midnight, Eliot Ness helps a mother haul her baby carriage up the steps until Capone's men arrive; gunfire erupts in slow motion as the pram bounces down the stairs.",
+    "why": "An homage to Eisenstein's Odessa Steps: an extended suspense build, then slow-motion gunfire around a runaway baby carriage. Study stretched time, eyeline cutting and Morricone's lullaby-like cue.",
     "director": "Brian De Palma",
+    "country": "USA",
     "craft": [
       "DP: Stephen H. Burum",
       "Composer: Ennio Morricone"
@@ -1558,23 +4747,72 @@
     "accolades": [
       "Oscar: Best Supporting Actor"
     ],
-    "techniques": [
-      "slow motion",
-      "real location",
-      "single location",
-      "cross-cutting"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "standoff"
     ],
-    "why": "An homage to Eisenstein's Odessa Steps: an extended suspense build, then slow-motion gunfire around a runaway baby carriage. Study stretched time, eyeline cutting and Morricone's lullaby-like cue.",
-    "query": "The Untouchables Union Station baby carriage shootout"
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "era": "early_20th_century",
+    "region": "usa",
+    "environment": [
+      "train_station",
+      "stairwell"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "stylish",
+      "chaotic"
+    ],
+    "combatants": [
+      "federal_agents",
+      "gangsters",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "shotgun",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "real_location",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Chicago Union Station, Prohibition era, 1930",
+    "keywords": [
+      "baby carriage",
+      "pram",
+      "odessa steps",
+      "staircase",
+      "eisenstein homage",
+      "bookkeeper",
+      "morricone",
+      "brian de palma"
+    ]
   },
   {
     "film": "Children of Men",
     "year": 2006,
     "scene": "Bexhill uprising one-take battle",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "UK/USA",
+    "query": "Children of Men Bexhill one take battle scene",
+    "what_happens": "Theo moves through a refugee camp turned war zone as British troops and armed insurgents battle with rifles and a tank; carrying a newborn out of a shattered building, he walks between soldiers who briefly stop firing.",
+    "why": "A continuous take through a war zone: the camera stays with Theo amid squibs, tank fire and refugees, and blood spatters the lens and stays. Study how vérité grammar makes a huge set piece feel unstaged.",
     "director": "Alfonso Cuarón",
+    "country": "UK/USA",
     "craft": [
       "DP: Emmanuel Lubezki"
     ],
@@ -1582,93 +4820,300 @@
       "BAFTA: Best Cinematography",
       "BAFTA: Best Production Design"
     ],
-    "techniques": [
-      "long take",
-      "oner",
-      "handheld",
-      "urban combat",
-      "practical effects"
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "escape",
+      "massed_battle"
     ],
-    "why": "A continuous take through a war zone: the camera stays with Theo amid squibs, tank fire and refugees, and blood spatters the lens and stays. Study how vérité grammar makes a huge set piece feel unstaged.",
-    "query": "Children of Men Bexhill one take battle scene",
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "thriller",
+      "drama"
+    ],
+    "era": "near_future",
+    "region": "british_isles",
+    "environment": [
+      "ruined_city",
+      "stairwell",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "awe"
+    ],
+    "combatants": [
+      "modern_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "tank_armour",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "long_take",
+      "handheld",
+      "practical_effects",
+      "tracking_shot",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Bexhill refugee camp, England, 2027",
+    "keywords": [
+      "blood on lens",
+      "newborn baby",
+      "ceasefire moment",
+      "refugee camp",
+      "uprising",
+      "one take",
+      "alfonso cuaron"
+    ],
     "video": "g2vX7IHg_SE"
   },
   {
     "film": "Assault on Precinct 13",
     "year": 1976,
     "scene": "Silenced siege on the precinct",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Assault on Precinct 13 1976 siege scene",
+    "what_happens": "A street gang opens fire on a nearly abandoned police station with silenced weapons; papers, glass and plaster burst around the officer, convicts and staff crouched inside while the attack makes almost no sound.",
+    "why": "Carpenter's low-budget riff on Rio Bravo: silenced weapons make the assault eerily quiet while papers and glass fly. Study widescreen composition and minimalist synth scoring in a single-location siege.",
     "director": "John Carpenter",
+    "country": "USA",
     "craft": [
       "Composer: John Carpenter"
     ],
     "accolades": [],
-    "techniques": [
+    "scene_type": "fight.gunfight",
+    "format": [
       "siege",
-      "night",
-      "single location",
-      "score-driven",
-      "sound design"
+      "last_stand"
     ],
-    "why": "Carpenter's low-budget riff on Rio Bravo: silenced weapons make the assault eerily quiet while papers and glass fly. Study widescreen composition and minimalist synth scoring in a single-location siege.",
-    "query": "Assault on Precinct 13 1976 siege scene"
+    "scale": "medium",
+    "genre": [
+      "action",
+      "thriller",
+      "crime"
+    ],
+    "era": "mid_20th_century",
+    "region": "usa",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "gritty"
+    ],
+    "combatants": [
+      "police",
+      "gangsters",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "handgun",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "score_driven",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Anderson district police station, Los Angeles, 1970s",
+    "keywords": [
+      "silencers",
+      "silent gunfire",
+      "police station",
+      "flying paper",
+      "synth score",
+      "street gang",
+      "john carpenter"
+    ]
   },
   {
     "film": "Scarface",
     "year": 1983,
     "scene": "\"Say hello to my little friend\" mansion finale",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Scarface say hello to my little friend final shootout",
+    "what_happens": "Drug lord Tony Montana stands at his mansion's upper balcony firing a grenade-launcher rifle down at cartel gunmen flooding the foyer, absorbing hits until he is shot from behind and falls into the fountain below.",
+    "why": "Operatic excess as staging: a mansion designed for a last stand, the grenade-launcher reveal, wide masters of the foyer and the fall into the fountain. Study how De Palma escalates a siege through architecture.",
     "director": "Brian De Palma",
+    "country": "USA",
     "craft": [
       "DP: John A. Alonzo",
       "Composer: Giorgio Moroder"
     ],
     "accolades": [],
-    "techniques": [
-      "one vs many",
-      "single location",
-      "practical effects",
+    "scene_type": "fight.gunfight",
+    "format": [
+      "last_stand",
       "siege"
     ],
-    "why": "Operatic excess as staging: a mansion designed for a last stand, the grenade-launcher reveal, wide masters of the foyer and the fall into the fountain. Study how De Palma escalates a siege through architecture.",
-    "query": "Scarface say hello to my little friend final shootout"
+    "scale": "one_vs_many",
+    "genre": [
+      "crime",
+      "drama",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "region": "usa",
+    "environment": [
+      "palace_mansion"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "gangsters",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "rifle",
+      "explosives",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "wide_framing",
+      "single_location",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Tony Montana's Miami mansion, early 1980s",
+    "keywords": [
+      "grenade launcher",
+      "m16",
+      "balcony",
+      "fountain fall",
+      "the world is yours",
+      "cocaine",
+      "al pacino"
+    ]
   },
   {
     "film": "Léon: The Professional",
     "year": 1994,
     "scene": "Apartment siege finale",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "France/USA",
+    "query": "Leon The Professional apartment siege scene",
+    "what_happens": "Hitman Leon holds his apartment against a heavily armed police tactical unit, picking off officers in smoke-filled rooms and corridors and pushing Mathilda out through a widened air vent as explosions tear through the walls.",
+    "why": "Léon holds an apartment against a full tactical unit. Besson keeps geography clear in a cramped set, uses smoke and the vent shaft to split the action, then drops to near-silence for the walk out. Study how a quiet exit can top the shootout.",
     "director": "Luc Besson",
+    "country": "France/USA",
     "craft": [
       "DP: Thierry Arbogast",
       "Composer: Éric Serra"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "one vs many",
-      "urban combat",
-      "practical explosions",
-      "sound design"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "siege",
+      "last_stand"
     ],
-    "why": "Léon holds an apartment against a full tactical unit. Besson keeps geography clear in a cramped set, uses smoke and the vent shaft to split the action, then drops to near-silence for the walk out. Study how a quiet exit can top the shootout.",
-    "query": "Leon The Professional apartment siege scene",
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "corridor"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "chaotic"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "police",
+      "federal_agents"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun",
+      "explosives",
+      "rocket_missile",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "practical_explosions",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Manhattan apartment building, mid-1990s",
+    "keywords": [
+      "air vent",
+      "swat raid",
+      "grenades",
+      "stansfield",
+      "corridor ambush",
+      "mathilda",
+      "jean reno",
+      "gary oldman"
+    ],
     "video": "NxOHaTJSR8A"
   },
   {
     "film": "Drive",
     "year": 2011,
     "scene": "Motel shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Drive motel shootout scene",
+    "what_happens": "A sudden shotgun blast kills Blanche in a quiet motel bathroom; the Driver then fights the hitmen at close quarters in the cramped room, beating one bloody and killing the other with a shotgun.",
+    "why": "Shocking, sudden violence inside slow, quiet staging. Study the near-silent buildup, the abrupt shotgun blast, and how static framing in a cramped motel bathroom makes the Driver's ambush feel intimate and ugly.",
     "director": "Nicolas Winding Refn",
+    "country": "USA",
     "craft": [
       "DP: Newton Thomas Sigel",
       "Editor: Matthew Newman",
@@ -1677,66 +5122,204 @@
     "accolades": [
       "Cannes: Best Director"
     ],
-    "techniques": [
-      "single location",
-      "sound design",
-      "practical effects"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "small_group_fight"
     ],
-    "why": "Shocking, sudden violence inside slow, quiet staging. Study the near-silent buildup, the abrupt shotgun blast, and how static framing in a cramped motel bathroom makes the Driver's ambush feel intimate and ugly.",
-    "query": "Drive motel shootout scene"
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "contemporary",
+    "region": "usa",
+    "environment": [
+      "hotel"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "shotgun",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "practical_effects",
+      "single_location",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Los Angeles motel, present day",
+    "keywords": [
+      "motel",
+      "shotgun blast",
+      "bathroom",
+      "sudden violence",
+      "slow buildup",
+      "scorpion jacket",
+      "ryan gosling"
+    ]
   },
   {
     "film": "Hot Fuzz",
     "year": 2007,
     "scene": "Sandford village shootout finale",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "UK/France",
+    "query": "Hot Fuzz final shootout village scene",
+    "what_happens": "Sergeant Angel returns to the village armed to the teeth and, with partner Danny, trades fire with shotgun-toting pensioners and shopkeepers across the market square in whip-panned, rapid-cut bursts.",
+    "why": "A parody that works as straight action: rapid-fire cutting, whip pans and whooshes, and precise homages to buddy-cop films. Study how sound effects and match cuts create comic rhythm inside a genuine shootout.",
     "director": "Edgar Wright",
+    "country": "UK/France",
     "craft": [
       "DP: Jess Hall",
       "Editor: Chris Dickens"
     ],
     "accolades": [],
-    "techniques": [
-      "urban combat",
-      "real location",
-      "montage",
-      "sound design"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "A parody that works as straight action: rapid-fire cutting, whip pans and whooshes, and precise homages to buddy-cop films. Study how sound effects and match cuts create comic rhythm inside a genuine shootout.",
-    "query": "Hot Fuzz final shootout village scene"
+    "scale": "one_vs_many",
+    "genre": [
+      "comedy",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "region": "british_isles",
+    "environment": [
+      "town_main_street",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "playful",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "police",
+      "civilians"
+    ],
+    "weapons": [
+      "shotgun",
+      "handgun",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "fast_cutting",
+      "sound_design",
+      "real_location",
+      "montage"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Sandford, English West Country village, present day",
+    "keywords": [
+      "village shootout",
+      "pensioners with guns",
+      "dual pistols",
+      "whip pans",
+      "buddy cop homage",
+      "neighbourhood watch",
+      "edgar wright"
+    ]
   },
   {
     "film": "Desperado",
     "year": 1995,
     "scene": "Bar shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Desperado bar shootout scene Antonio Banderas",
+    "what_happens": "El Mariachi walks into a seedy border cantina, then erupts into a pistol shootout with the drug lord's men, sliding across the floor, diving over tables and firing two guns at once as bodies pile up.",
+    "why": "Rodriguez's low-budget answer to John Woo: many short shots, slow-motion slides across the floor, and a guitar-case arsenal. Study how compressed editing gives a modest set the energy of Hong Kong action.",
     "director": "Robert Rodriguez",
+    "country": "USA",
     "craft": [
       "DP: Guillermo Navarro",
       "Editor: Robert Rodriguez"
     ],
     "accolades": [],
-    "techniques": [
-      "gun-fu",
-      "slow motion",
-      "single location",
-      "one vs many"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
     ],
-    "why": "Rodriguez's low-budget answer to John Woo: many short shots, slow-motion slides across the floor, and a guitar-case arsenal. Study how compressed editing gives a modest set the energy of Hong Kong action.",
-    "query": "Desperado bar shootout scene Antonio Banderas"
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "western"
+    ],
+    "era": "late_20th_century",
+    "region": "latin_america",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "smoke",
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "cowboys_gunslingers",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "slow_motion",
+      "fast_cutting",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Mexican border-town cantina, 1990s",
+    "keywords": [
+      "guitar case",
+      "dual pistols",
+      "floor slide",
+      "cantina",
+      "el mariachi",
+      "antonio banderas",
+      "robert rodriguez"
+    ]
   },
   {
     "film": "No Country for Old Men",
     "year": 2007,
     "scene": "Hotel ambush and street shootout: Chigurh vs. Moss",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "No Country for Old Men hotel shootout Chigurh Moss",
+    "what_happens": "Moss waits in a dark hotel room as Chigurh's footsteps and shadow stop outside the door; shots tear through it, and the two trade shotgun fire down the empty night streets of a border town, both wounded.",
+    "why": "Almost no score: tension comes from footsteps, a shadow under the door, a beeping transponder and a light bulb unscrewed. Study how the Coens and Deakins build a shootout from shadow, sound and patience.",
     "director": "Joel Coen & Ethan Coen",
+    "country": "USA",
     "craft": [
       "DP: Roger Deakins",
       "Sound: Skip Lievsay"
@@ -1747,45 +5330,145 @@
       "Oscar: Best Supporting Actor",
       "Oscar: Best Adapted Screenplay"
     ],
-    "techniques": [
-      "sound design",
-      "night",
-      "real location",
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "crime",
+      "thriller",
+      "western"
+    ],
+    "era": "late_20th_century",
+    "region": "usa",
+    "environment": [
+      "hotel",
+      "town_main_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "gritty"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "civilians"
+    ],
+    "weapons": [
+      "shotgun"
+    ],
+    "vehicles": [
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "sound_design",
+      "silence",
+      "real_location",
       "pov"
     ],
-    "why": "Almost no score: tension comes from footsteps, a shadow under the door, a beeping transponder and a light bulb unscrewed. Study how the Coens and Deakins build a shootout from shadow, sound and patience.",
-    "query": "No Country for Old Men hotel shootout Chigurh Moss"
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "period": "Eagle Pass, Texas border town, 1980",
+    "keywords": [
+      "shadow under the door",
+      "transponder beep",
+      "unscrewed light bulb",
+      "silenced shotgun",
+      "footsteps",
+      "no score",
+      "javier bardem"
+    ]
   },
   {
     "film": "Miller's Crossing",
     "year": 1990,
     "scene": "'Danny Boy' Tommy-gun scene",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Miller's Crossing Danny Boy scene",
+    "what_happens": "In robe and slippers, Irish boss Leo escapes hitmen who set his house alight, grabs a Tommy gun and pours sustained fire into a gunman who jerks in a long death dance, then shoots up a fleeing car.",
+    "why": "Leo's counterattack plays under 'Danny Boy' on a gramophone: study the counterpoint between song and violence, the absurdly sustained Tommy-gun fire that makes a gunman dance, and the burning house as backdrop.",
     "director": "Joel Coen",
+    "country": "USA",
     "craft": [
       "DP: Barry Sonnenfeld",
       "Composer: Carter Burwell"
     ],
     "accolades": [],
-    "techniques": [
-      "score-driven",
-      "practical effects",
-      "fire",
-      "night"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "one_vs_many"
     ],
-    "why": "Leo's counterattack plays under 'Danny Boy' on a gramophone: study the counterpoint between song and violence, the absurdly sustained Tommy-gun fire that makes a gunman dance, and the burning house as backdrop.",
-    "query": "Miller's Crossing Danny Boy scene"
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "noir",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "playful"
+    ],
+    "combatants": [
+      "gangsters",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "score_driven",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Prohibition-era American city, 1929",
+    "keywords": [
+      "danny boy",
+      "tommy gun",
+      "gramophone",
+      "burning house",
+      "bathrobe",
+      "death dance",
+      "coen brothers"
+    ]
   },
   {
     "film": "Bonnie and Clyde",
     "year": 1967,
     "scene": "Final ambush",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "USA",
+    "query": "Bonnie and Clyde ending ambush scene",
+    "what_happens": "Stopped on a quiet country road, Bonnie and Clyde exchange a last look before a hidden posse riddles them and their car with gunfire, their bodies jerking in slow motion and fast fragmented cuts.",
+    "why": "A landmark of New Hollywood violence: cameras at different speeds and dense squibs, cut into a jagged ballet of death. Study the exchanged look before the ambush and how Dede Allen's editing makes seconds feel endless.",
     "director": "Arthur Penn",
+    "country": "USA",
     "craft": [
       "DP: Burnett Guffey",
       "Editor: Dede Allen"
@@ -1794,34 +5477,125 @@
       "Oscar: Best Supporting Actress",
       "Oscar: Best Cinematography"
     ],
-    "techniques": [
-      "slow motion",
-      "montage",
-      "practical effects",
-      "real location"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush"
     ],
-    "why": "A landmark of New Hollywood violence: cameras at different speeds and dense squibs, cut into a jagged ballet of death. Study the exchanged look before the ambush and how Dede Allen's editing makes seconds feel endless.",
-    "query": "Bonnie and Clyde ending ambush scene",
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "region": "usa",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "outlaws_bandits",
+      "lawmen"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "shotgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "slow_motion",
+      "montage",
+      "practical_effects",
+      "real_location",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "period": "Rural Louisiana, May 1934",
+    "keywords": [
+      "death ballet",
+      "squibs",
+      "posse",
+      "last look",
+      "riddled car",
+      "new hollywood",
+      "dede allen"
+    ],
     "video": "NrmUpso_xT8"
   },
   {
     "film": "Sonatine",
     "year": 1993,
     "scene": "Elevator shootout",
-    "category": "gunfights",
-    "medium": "film",
-    "country": "Japan",
+    "query": "Sonatine elevator shootout scene Kitano",
+    "what_happens": "Yakuza Murakawa and his men stand crammed in an elevator with a stranger who turns out to be a hitman; pistols flash point-blank from a fixed angle and the shooting is over in seconds.",
+    "why": "Kitano's deadpan approach: a cramped elevator gunfight from a fixed angle, over in seconds, all muzzle flashes and blank faces. Study how stillness and abruptness drain the glamour from gunplay.",
     "director": "Takeshi Kitano",
+    "country": "Japan",
     "craft": [
       "Composer: Joe Hisaishi"
     ],
     "accolades": [],
-    "techniques": [
-      "single location",
-      "static camera",
-      "sound design"
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "small_group_fight"
     ],
-    "why": "Kitano's deadpan approach: a cramped elevator gunfight from a fixed angle, over in seconds, all muzzle flashes and blank faces. Study how stillness and abruptness drain the glamour from gunplay.",
-    "query": "Sonatine elevator shootout scene Kitano"
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "region": "japan",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "strobe_flash"
+    ],
+    "mood": [
+      "gritty",
+      "brutal",
+      "surreal"
+    ],
+    "combatants": [
+      "triads_yakuza",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "japanese",
+    "period": "Okinawa, Japan, early 1990s",
+    "keywords": [
+      "elevator",
+      "deadpan",
+      "muzzle flashes",
+      "point blank",
+      "fixed camera",
+      "yakuza",
+      "takeshi kitano"
+    ]
   }
 ]
