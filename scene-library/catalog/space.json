@@ -127,8 +127,7 @@
     "technique": [
       "cgi",
       "handheld",
-      "cross_cutting",
-      "real_location"
+      "cross_cutting"
     ],
     "look": "live_action_color",
     "medium": "film",
@@ -206,7 +205,7 @@
     "look": "live_action_color",
     "medium": "film",
     "violence": "mild",
-    "language": "none_or_minimal",
+    "language": "english",
     "period": "First Order-Resistance war (fictional)",
     "keywords": [
       "holdo maneuver",
@@ -241,7 +240,7 @@
       "ambush",
       "last_stand"
     ],
-    "scale": "one_on_one",
+    "scale": "medium",
     "genre": [
       "sci_fi",
       "space_opera",
@@ -269,7 +268,7 @@
       "aliens"
     ],
     "weapons": [
-      "rocket_missile",
+      "torpedo_depth_charge",
       "energy_weapons"
     ],
     "vehicles": [
@@ -395,7 +394,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "war"
+      "drama"
     ],
     "era": "far_future",
     "region": "deep_space",
@@ -1256,7 +1255,6 @@
     "period": "Arrakis (fictional), year 10191",
     "keywords": [
       "ornithopter",
-      "sandstorm",
       "storm wall",
       "sand screen",
       "flapping wings",
@@ -1317,7 +1315,7 @@
     "look": "live_action_color",
     "medium": "film",
     "violence": "none",
-    "language": "none_or_minimal",
+    "language": "english",
     "period": "Deep space near the Xibalba nebula, 26th century",
     "keywords": [
       "bubble ship",
@@ -2285,7 +2283,7 @@
     "look": "live_action_color",
     "medium": "film",
     "violence": "moderate",
-    "language": "none_or_minimal",
+    "language": "english",
     "period": "Skull Island, 1933",
     "keywords": [
       "kong vs v-rex",

@@ -167,7 +167,7 @@
     "genre": [
       "space_opera",
       "sci_fi",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Evacuation of D'Qar, First Order–Resistance war (fictional)",
@@ -524,7 +524,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "war"
+      "drama"
     ],
     "era": "far_future",
     "period": "Martian flagship Donnager, the Belt, 23rd century",
@@ -899,7 +899,8 @@
     "scale": "solo",
     "genre": [
       "sci_fi",
-      "drama"
+      "drama",
+      "adventure"
     ],
     "era": "near_future",
     "period": "Inside the black hole Gargantua",
@@ -1104,7 +1105,8 @@
     "scale": "solo",
     "genre": [
       "sci_fi",
-      "thriller"
+      "thriller",
+      "drama"
     ],
     "era": "near_future",
     "period": "The Icarus II's payload, near the Sun, 2057",
@@ -1532,7 +1534,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "war"
+      "adventure"
     ],
     "era": "far_future",
     "period": "Arrakeen, Arrakis, far future",
@@ -2566,8 +2568,7 @@
     "period": "Lighthouse at the heart of the Shimmer, present day",
     "region": "usa",
     "environment": [
-      "building_interior",
-      "beach"
+      "building_interior"
     ],
     "time_of_day": "not_applicable",
     "atmosphere": [
@@ -2622,7 +2623,8 @@
     "scale": "solo",
     "genre": [
       "superhero",
-      "fantasy"
+      "fantasy",
+      "action"
     ],
     "era": "contemporary",
     "period": "Kamar-Taj, Kathmandu, and the multiverse",
@@ -3846,8 +3848,8 @@
     "scale": "small_group",
     "genre": [
       "monster",
-      "war",
-      "drama"
+      "drama",
+      "sci_fi"
     ],
     "era": "mid_20th_century",
     "period": "Open sea off Japan, 1946",
@@ -4000,7 +4002,7 @@
     "genre": [
       "adventure",
       "monster",
-      "drama"
+      "fantasy"
     ],
     "era": "early_20th_century",
     "period": "Empire State Building, New York, 1933",
@@ -4069,8 +4071,8 @@
     "scale": "one_on_one",
     "genre": [
       "monster",
-      "adventure",
-      "action"
+      "action",
+      "adventure"
     ],
     "era": "mid_20th_century",
     "period": "Skull Island, South Pacific, 1973",
@@ -4141,7 +4143,7 @@
     "genre": [
       "sci_fi",
       "thriller",
-      "disaster"
+      "horror"
     ],
     "era": "contemporary",
     "period": "Hudson River ferry crossing, New York State, present day",

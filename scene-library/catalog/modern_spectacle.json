@@ -4186,8 +4186,6 @@
     "keywords": [
       "kong",
       "godzilla",
-      "neon",
-      "hong kong",
       "axe",
       "atomic breath",
       "mechagodzilla"
@@ -4288,9 +4286,9 @@
     ],
     "scale": "medium",
     "genre": [
+      "swashbuckler",
       "adventure",
-      "fantasy",
-      "swashbuckler"
+      "fantasy"
     ],
     "era": "early_modern",
     "period": "Caribbean Sea, golden age of piracy, early 18th century",
@@ -5672,7 +5670,7 @@
     "genre": [
       "fantasy",
       "drama",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "King's Landing, Westeros (fictional)",

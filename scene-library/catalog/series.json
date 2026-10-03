@@ -519,7 +519,7 @@
     "genre": [
       "fantasy",
       "action",
-      "war"
+      "adventure"
     ],
     "era": "fantasy_world",
     "period": "Sodden Hill, Nilfgaard's invasion of the North",
@@ -657,8 +657,8 @@
     "scale": "army",
     "genre": [
       "fantasy",
-      "war",
-      "action"
+      "adventure",
+      "drama"
     ],
     "era": "fantasy_world",
     "period": "Ost-in-Edhil, Eregion, Second Age",
@@ -2593,7 +2593,7 @@
     "period": "The asteroid Eros, bound for Earth, 24th century",
     "region": "deep_space",
     "environment": [
-      "building_interior",
+      "spacecraft_interior",
       "outer_space"
     ],
     "time_of_day": "not_applicable",
@@ -2851,7 +2851,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "war"
+      "comedy"
     ],
     "era": "far_future",
     "period": "Earth orbit, 25th century",
@@ -4009,8 +4009,8 @@
     "scale": "army",
     "genre": [
       "sci_fi",
-      "war",
-      "adventure"
+      "adventure",
+      "drama"
     ],
     "era": "far_future",
     "period": "Arcadia, Gallifrey, the last day of the Time War",

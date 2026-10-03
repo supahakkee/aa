@@ -1777,6 +1777,7 @@
     ],
     "combatants": [
       "roman_legion",
+      "native_warriors",
       "cavalry"
     ],
     "weapons": [
@@ -1972,9 +1973,9 @@
     ],
     "scale": "army",
     "genre": [
-      "action",
       "historical_epic",
-      "war"
+      "war",
+      "action"
     ],
     "era": "ancient",
     "region": "southern_europe",

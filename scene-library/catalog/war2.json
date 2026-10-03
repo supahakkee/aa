@@ -26,7 +26,8 @@
     "scale": "medium",
     "genre": [
       "historical_epic",
-      "action"
+      "action",
+      "drama"
     ],
     "era": "ancient",
     "period": "Colosseum, Rome, c. AD 180",
@@ -241,7 +242,8 @@
     "scale": "army",
     "genre": [
       "historical_epic",
-      "war"
+      "war",
+      "drama"
     ],
     "era": "ancient",
     "period": "Battle of the Hydaspes, Punjab, India, 326 BC",
@@ -394,7 +396,8 @@
       "tense"
     ],
     "combatants": [
-      "roman_legion"
+      "roman_legion",
+      "native_warriors"
     ],
     "weapons": [
       "european_sword",
@@ -587,7 +590,7 @@
     "genre": [
       "historical_epic",
       "war",
-      "action"
+      "drama"
     ],
     "era": "medieval",
     "period": "Outside Kerak castle, Oultrejordain, 1183",
@@ -726,8 +729,8 @@
     "scale": "army",
     "genre": [
       "historical_epic",
-      "drama",
-      "action"
+      "action",
+      "drama"
     ],
     "era": "medieval",
     "period": "Viking attack on Paris, West Francia, 9th century",
@@ -1032,7 +1035,7 @@
     "genre": [
       "fantasy",
       "adventure",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Osgiliath ruins, Gondor, Third Age of Middle-earth (fictional)",
@@ -1111,7 +1114,7 @@
     "genre": [
       "fantasy",
       "adventure",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "The Black Gate of Mordor, Third Age of Middle-earth (fictional)",
@@ -1194,7 +1197,7 @@
     "genre": [
       "fantasy",
       "adventure",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Pelennor Fields before Minas Tirith, Third Age of Middle-earth (fictional)",
@@ -1270,7 +1273,8 @@
     "scale": "army",
     "genre": [
       "fantasy",
-      "adventure"
+      "adventure",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Isengard, Third Age of Middle-earth (fictional)",

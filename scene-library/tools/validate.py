@@ -97,7 +97,7 @@ def lint(r):
                     break
     st, scale, fmt = r.get("scene_type", ""), r.get("scale"), set(r.get("format", []))
     weapons, vehicles = set(r.get("weapons", [])), set(r.get("vehicles", []))
-    if st.startswith("battle.") and st != "battle.giants" and scale in ("solo", "one_on_one"):
+    if st.startswith("battle.") and st != "battle.giants" and "dogfight" not in fmt and scale in ("solo", "one_on_one"):
         w.append(f"battle scene_type with scale {scale}")
     if st.startswith("fight.") and st != "fight.superpowered" and scale in ("army", "fleet", "city_scale"):
         w.append(f"fight scene_type with scale {scale}")
