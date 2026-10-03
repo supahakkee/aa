@@ -1,0 +1,7276 @@
+[
+  {
+    "film": "Gladiator",
+    "year": 2000,
+    "scene": "Battle of Carthage in the Colosseum",
+    "query": "Gladiator Battle of Carthage Colosseum chariots scene",
+    "what_happens": "Cast as doomed Carthaginians, Maximus' gladiators lock shields together as chariots carrying archers circle the Colosseum floor; holding formation, they overturn the chariots and rout the 'Roman legion' to the crowd's roar.",
+    "why": "Turns a staged re-enactment into a readable underdog fight: Maximus' order to stay together gives the audience a clear objective, while chariot-level cameras, fast cutting and crowd cutaways build it like a sporting upset.",
+    "director": "Ridley Scott",
+    "country": "USA/UK",
+    "craft": [
+      "DP: John Mathieson",
+      "Editor: Pietro Scalia",
+      "Composer: Hans Zimmer & Lisa Gerrard"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "team_vs_team",
+      "last_stand"
+    ],
+    "scale": "medium",
+    "genre": [
+      "historical_epic",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "Colosseum, Rome, c. AD 180",
+    "region": "southern_europe",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "heroic",
+      "chaotic",
+      "epic"
+    ],
+    "combatants": [
+      "gladiators"
+    ],
+    "weapons": [
+      "european_sword",
+      "shield",
+      "bow_arrow",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "chariot_carriage",
+      "horse"
+    ],
+    "technique": [
+      "practical_stunts",
+      "fast_cutting",
+      "large_crowds",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "colosseum",
+      "chariots",
+      "scythed wheels",
+      "shield formation",
+      "re-enactment",
+      "arena crowd",
+      "maximus",
+      "commodus"
+    ]
+  },
+  {
+    "film": "Troy",
+    "year": 2004,
+    "scene": "Achilles and the Myrmidons storm the beach",
+    "query": "Troy beach landing Achilles Myrmidons scene",
+    "what_happens": "Achilles' ship races ahead of the Greek fleet onto the Trojan shore; he and his Myrmidons lock shields under a storm of arrows, then break out to cut down the defenders and seize the Temple of Apollo.",
+    "why": "Hero staging inside a massed assault: aerial shots of the thousand-ship fleet set the scale, then the action narrows to Achilles' speed and leaping kills, choreographed as a solo showcase against a disciplined shield formation.",
+    "director": "Wolfgang Petersen",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Roger Pratt",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "Beach before Troy, Anatolia, Trojan War, c. 1250 BC",
+    "region": "middle_east",
+    "environment": [
+      "beach",
+      "temple_church"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "dust_sand"
+    ],
+    "mood": [
+      "epic",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "greek_hoplites"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "shield",
+      "bow_arrow"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "cgi",
+      "crane_aerial",
+      "practical_stunts",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "myrmidons",
+      "thousand ships",
+      "temple of apollo",
+      "arrow volley",
+      "shield wall",
+      "beach assault",
+      "brad pitt"
+    ]
+  },
+  {
+    "film": "Troy",
+    "year": 2004,
+    "scene": "Hector kills Ajax in the first battle before the walls",
+    "query": "Troy Hector vs Ajax battle scene",
+    "what_happens": "As the Greek and Trojan armies collide on the plain, the giant Ajax smashes through Trojan ranks with a huge war hammer until Hector meets him and, after a brutal exchange, kills him with his sword.",
+    "why": "Shows how to give a massed battle a spine: the wide clash of phalanxes resolves into a David-and-Goliath duel, with Ajax's lumbering hammer blows contrasted against Hector's compact, efficient footwork.",
+    "director": "Wolfgang Petersen",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Roger Pratt",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "duel"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "Plain before the walls of Troy, Anatolia, c. 1250 BC",
+    "region": "middle_east",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "brutal",
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "greek_hoplites"
+    ],
+    "weapons": [
+      "axe_mace",
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "cgi",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ajax",
+      "hector",
+      "war hammer",
+      "phalanx collision",
+      "trojan army",
+      "giant warrior"
+    ]
+  },
+  {
+    "film": "Alexander",
+    "year": 2004,
+    "scene": "Battle of the Hydaspes",
+    "query": "Alexander battle of Hydaspes elephants scene",
+    "what_happens": "In a dense Indian forest, Alexander's army is charged by war elephants; Alexander rides Bucephalus straight at the king's elephant, is struck by an arrow, and the picture floods with infrared reds as the battle swirls on.",
+    "why": "Stone switches to infrared film stock as Alexander is wounded, turning foliage and blood into saturated reds; a bold subjective colour shift that makes an elephant melee feel like a hallucinated near-death experience.",
+    "director": "Oliver Stone",
+    "country": "USA/Germany/UK/France",
+    "craft": [
+      "DP: Rodrigo Prieto",
+      "Composer: Vangelis"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war"
+    ],
+    "era": "ancient",
+    "period": "Battle of the Hydaspes, Punjab, India, 326 BC",
+    "region": "south_asia",
+    "environment": [
+      "jungle",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "chaotic",
+      "surreal",
+      "brutal"
+    ],
+    "combatants": [
+      "greek_hoplites",
+      "indian_warriors",
+      "cavalry",
+      "apes_animals"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "bow_arrow",
+      "european_sword",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "color_grading",
+      "handheld",
+      "fast_cutting",
+      "practical_stunts",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "war elephants",
+      "infrared",
+      "porus",
+      "bucephalus",
+      "red tint",
+      "arrow wound",
+      "macedonian phalanx"
+    ]
+  },
+  {
+    "film": "Spartacus: War of the Damned",
+    "year": 2013,
+    "scene": "Final battle: Spartacus vs. Crassus ('Victory')",
+    "query": "Spartacus War of the Damned final battle Spartacus vs Crassus scene",
+    "what_happens": "Spartacus' rebel army meets Crassus' legions in a vast open-field battle; Spartacus cuts his way through to Crassus and duels him until Roman soldiers drive spears into him from behind.",
+    "why": "The series' graphic-novel grammar at full scale: green-screen battlefields, speed-ramped blows and stylised blood sprays, with the hero's last duel staged as an intimate climax inside the army clash.",
+    "director": "Created by Steven S. DeKnight",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "duel"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "action",
+      "drama"
+    ],
+    "era": "ancient",
+    "period": "Final battle of the Third Servile War, southern Italy, 71 BC",
+    "region": "southern_europe",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "epic",
+      "brutal",
+      "tragic"
+    ],
+    "combatants": [
+      "gladiators",
+      "roman_legion"
+    ],
+    "weapons": [
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "color_grading",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "third servile war",
+      "crassus",
+      "slave army",
+      "speed ramping",
+      "blood spray",
+      "rebellion finale"
+    ]
+  },
+  {
+    "film": "Rome",
+    "year": 2005,
+    "scene": "Roman line rotation against the Gauls ('The Stolen Eagle')",
+    "query": "Rome HBO battle scene Roman line rotation Vorenus Pullo",
+    "what_happens": "In the last battle of Caesar's Gallic War, Vorenus' legionaries hold a tight shield line against charging Gauls, stabbing with short swords and rotating fresh men forward at each whistle blast, until Pullo breaks ranks.",
+    "why": "Prized for showing real Roman tactics rarely seen on screen: interlocked shields, short thrusting swords and whistle-timed rank rotation, staged tight and grounded so discipline rather than heroics wins the fight.",
+    "director": "Michael Apted",
+    "country": "USA/UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "war"
+    ],
+    "era": "ancient",
+    "period": "Final battle of Caesar's Gallic War, Gaul, 52 BC",
+    "region": "western_europe",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "roman_legion"
+    ],
+    "weapons": [
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "handheld",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "scutum",
+      "gladius",
+      "line rotation",
+      "whistle",
+      "vorenus and pullo",
+      "gallic war",
+      "hbo"
+    ]
+  },
+  {
+    "film": "The Eagle",
+    "year": 2011,
+    "scene": "Final river battle with the Seal People",
+    "query": "The Eagle 2011 final battle river scene",
+    "what_happens": "Marcus, Esca and a handful of grizzled Ninth Legion veterans form a line in a shallow river against the pursuing Seal People; the fight dissolves into a splashing, desperate melee until Marcus kills the Seal Prince.",
+    "why": "Kevin Macdonald keeps the fight small and muddy: handheld coverage at water level, natural Scottish light and a few exhausted men turn the last stand of a lost legion into something grounded rather than epic.",
+    "director": "Kevin Macdonald",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Anthony Dod Mantle"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "last_stand",
+      "small_group_fight"
+    ],
+    "scale": "medium",
+    "genre": [
+      "historical_epic",
+      "adventure",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "Caledonia, northern Britain, c. AD 140",
+    "region": "british_isles",
+    "environment": [
+      "river_lake",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "mud"
+    ],
+    "mood": [
+      "gritty",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "roman_legion",
+      "native_warriors"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "shield",
+      "axe_mace"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "fast_cutting",
+      "real_location",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "ninth legion",
+      "seal people",
+      "river melee",
+      "eagle standard",
+      "caledonia",
+      "veterans"
+    ]
+  },
+  {
+    "film": "Centurion",
+    "year": 2010,
+    "scene": "Pict ambush of the Ninth Legion",
+    "query": "Centurion 2010 ambush scene Picts Ninth Legion",
+    "what_happens": "Marching through a misty forest valley, the Ninth Legion is ambushed as Picts send fire rolling down the slopes and charge from the trees, breaking the column into a gory, chaotic massacre.",
+    "why": "Neil Marshall stages the ambush as horror: the column's order is shown first, then fire, fog and fast handheld cuts shatter it, with practical gore making every Roman death feel sudden and close.",
+    "director": "Neil Marshall",
+    "country": "UK",
+    "craft": [
+      "DP: Sam McCurdy"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "ambush",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "action",
+      "war"
+    ],
+    "era": "ancient",
+    "period": "Caledonian forest, northern Britain, AD 117",
+    "region": "british_isles",
+    "environment": [
+      "forest",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist",
+      "fire"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "roman_legion",
+      "native_warriors"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "axe_mace",
+      "shield"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "fast_cutting",
+      "practical_effects",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ninth legion",
+      "picts",
+      "rolling fire",
+      "forest ambush",
+      "massacre",
+      "roman column"
+    ]
+  },
+  {
+    "film": "Kingdom of Heaven",
+    "year": 2005,
+    "scene": "Balian's charge at Kerak",
+    "query": "Kingdom of Heaven Balian charge at Kerak scene",
+    "what_happens": "To cover the escape of Kerak's villagers, Balian leads a small band of knights in a hopeless charge into Saladin's vast advancing cavalry; they are swallowed by the horde and Balian is captured.",
+    "why": "Scott contrasts a thin line of mounted knights with an ocean of Saracen cavalry in wide desert frames, then plunges into dust and close melee, using scale to make the charge's futility and courage legible in one cut.",
+    "director": "Ridley Scott",
+    "country": "USA/UK",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Harry Gregson-Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "last_stand",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "action"
+    ],
+    "era": "medieval",
+    "period": "Outside Kerak castle, Oultrejordain, 1183",
+    "region": "middle_east",
+    "environment": [
+      "desert",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "heroic",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "knights",
+      "crusaders_saracens",
+      "cavalry"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "shield",
+      "sabre_rapier"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "wide_framing",
+      "large_crowds",
+      "practical_stunts",
+      "real_location",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "kerak",
+      "saladin",
+      "cavalry charge",
+      "outnumbered",
+      "villagers",
+      "balian of ibelin"
+    ],
+    "video": "9IaxFRdZSrQ"
+  },
+  {
+    "film": "The Last Kingdom",
+    "year": 2015,
+    "scene": "Shield wall at the Battle of Ethandun (Season 1 finale)",
+    "query": "The Last Kingdom Battle of Ethandun shield wall scene",
+    "what_happens": "Alfred's Saxon army and the Danes lock shields across an open field at Ethandun; the shield walls collide and grind into a crushing, stabbing scrum, with Uhtred fighting in the front rank.",
+    "why": "Built around the physics of the shield wall: tight handheld coverage inside the press of bodies, short blades thrust beneath the rims and the grinding of wood on wood convey the claustrophobia of early medieval battle.",
+    "director": "Developed by Stephen Butchard",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "action"
+    ],
+    "era": "medieval",
+    "period": "Battle of Edington (Ethandun), Wessex, England, 878",
+    "region": "british_isles",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "vikings",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "shield",
+      "european_sword",
+      "axe_mace",
+      "spear_polearm",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "tight_framing",
+      "sound_design",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "shield wall",
+      "uhtred",
+      "alfred the great",
+      "danes",
+      "seax",
+      "saxons",
+      "ethandun"
+    ]
+  },
+  {
+    "film": "Vikings",
+    "year": 2016,
+    "scene": "River battle for Paris (S4E7 'The Profit and the Loss')",
+    "query": "Vikings river battle for Paris season 4",
+    "what_happens": "Ragnar's longships push up the Seine toward Paris, where Rollo's Frankish defenders meet the fleet with chains, fire and arrows in a brutal fight across the river and the ramparts.",
+    "why": "A television siege built at feature scale: practical towers and fire stunts, crowd-extended CGI walls and cross-cutting between the river assault and the ramparts keep a multi-front attack readable.",
+    "director": "Created by Michael Hirst",
+    "country": "Canada/Ireland",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "action"
+    ],
+    "era": "medieval",
+    "period": "Viking attack on Paris, West Francia, 9th century",
+    "region": "western_europe",
+    "environment": [
+      "river_lake",
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "brutal",
+      "chaotic"
+    ],
+    "combatants": [
+      "vikings",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "axe_mace",
+      "bow_arrow",
+      "shield",
+      "european_sword"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "practical_stunts",
+      "cgi",
+      "large_crowds",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "siege towers",
+      "ragnar lothbrok",
+      "seine",
+      "ramparts",
+      "frankish defenders",
+      "longships"
+    ],
+    "video": "VPFV_8CND9g"
+  },
+  {
+    "film": "Robin Hood",
+    "year": 2010,
+    "scene": "French landing on the English beach",
+    "query": "Robin Hood 2010 beach battle French invasion scene",
+    "what_happens": "French troops row ramp-fronted boats onto an English beach beneath white cliffs; Robin's archers volley from the clifftop before English cavalry charge down into the surf to fight the invaders hand to hand.",
+    "why": "Ridley Scott stages a medieval Omaha Beach: low cameras in the surf, landing boats and arrow volleys from the cliffs set up a clear high-ground-versus-water geography before dissolving into a waist-deep melee.",
+    "director": "Ridley Scott",
+    "country": "USA/UK",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Marc Streitenfeld"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "action",
+      "adventure"
+    ],
+    "era": "medieval",
+    "period": "French landing on England's south coast, c. 1200",
+    "region": "british_isles",
+    "environment": [
+      "beach",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "medieval_soldiers",
+      "knights",
+      "cavalry"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "small_boat",
+      "horse"
+    ],
+    "technique": [
+      "large_crowds",
+      "real_location",
+      "practical_stunts",
+      "cgi",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "landing boats",
+      "longbow volleys",
+      "white cliffs",
+      "surf melee",
+      "french invasion",
+      "russell crowe"
+    ]
+  },
+  {
+    "film": "King Arthur",
+    "year": 2004,
+    "scene": "Battle on the frozen lake",
+    "query": "King Arthur 2004 ice battle scene frozen lake",
+    "what_happens": "Arthur's handful of knights stand on a frozen lake as a Saxon column advances; they rain arrows on the Saxons, and as the ice starts to crack, Dagonet charges out and smashes it with his axe, plunging the enemy into the water.",
+    "why": "A tactical set-piece built on one physical idea, the ice: the sound of cracking works as a ticking clock, and wide, nearly monochrome white frames isolate a few archers against a dark mass of infantry.",
+    "director": "Antoine Fuqua",
+    "country": "USA/UK/Ireland",
+    "craft": [
+      "DP: Sławomir Idziak",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "last_stand",
+      "ambush"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "action",
+      "adventure"
+    ],
+    "era": "ancient",
+    "period": "Frozen lake north of Hadrian's Wall, Britain, c. AD 467",
+    "region": "british_isles",
+    "environment": [
+      "snow_ice",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow",
+      "fog_mist"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "tragic"
+    ],
+    "combatants": [
+      "knights",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "axe_mace",
+      "shield"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "wide_framing",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "breaking ice",
+      "dagonet",
+      "saxons",
+      "sarmatian knights",
+      "frozen lake",
+      "drowning",
+      "arrow volleys"
+    ]
+  },
+  {
+    "film": "The 13th Warrior",
+    "year": 1999,
+    "scene": "The Wendol's fire-worm night raid",
+    "query": "The 13th Warrior Wendol night attack glow worm scene",
+    "what_happens": "Out of the night fog a long line of torches snakes down the hillside like a glowing serpent; the Wendol riders sweep into the Norse settlement and Ahmed and the Vikings fight them among the burning halls.",
+    "why": "McTiernan turns a cavalry raid into myth: long-lens shots of torches in fog read first as a fire-breathing wyrm before resolving into men, a lesson in letting the audience share the characters' misreading.",
+    "director": "John McTiernan",
+    "country": "USA",
+    "craft": [
+      "DP: Peter Menzies Jr.",
+      "Composer: Jerry Goldsmith"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "adventure",
+      "historical_epic"
+    ],
+    "era": "medieval",
+    "period": "Norse settlement, Scandinavia, early 10th century",
+    "region": "northern_europe",
+    "environment": [
+      "village",
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fog_mist",
+      "fire",
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "vikings",
+      "native_warriors"
+    ],
+    "weapons": [
+      "european_sword",
+      "axe_mace",
+      "shield",
+      "bow_arrow"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "silhouette",
+      "practical_effects",
+      "sound_design",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "glow worm",
+      "torch line",
+      "wendol",
+      "fire wyrm",
+      "ibn fadlan",
+      "night raid",
+      "antonio banderas"
+    ],
+    "video": "lmOBObsPBHw"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2014,
+    "scene": "360-degree shot of the battle at Castle Black ('The Watchers on the Wall')",
+    "query": "Game of Thrones Watchers on the Wall Castle Black 360 shot battle scene",
+    "what_happens": "As wildlings overrun Castle Black at night, a single circling camera move sweeps around the courtyard, catching Jon Snow, the Night's Watch and wildling raiders locked in hand-to-hand fights among the fires.",
+    "why": "Neil Marshall's famous 360-degree pan links several fights without a cut, giving the defenders' collapse a single, comprehensible geography and showing how one camera move can map an entire battle space.",
+    "director": "Neil Marshall",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "siege",
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "drama",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Castle Black at the Wall, Westeros (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "snow_ice"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "low_light"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "medieval_soldiers",
+      "creatures"
+    ],
+    "weapons": [
+      "european_sword",
+      "axe_mace",
+      "bow_arrow",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "tracking_shot",
+      "practical_stunts",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "360 pan",
+      "night's watch",
+      "wildlings",
+      "jon snow",
+      "giant",
+      "the wall",
+      "thenns"
+    ]
+  },
+  {
+    "film": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "scene": "Faramir's charge on Osgiliath",
+    "query": "Return of the King Faramir charge Osgiliath Pippin song scene",
+    "what_happens": "Ordered by his father to retake Osgiliath, Faramir leads a doomed cavalry charge toward the orc-held ruins; as the riders gallop into a storm of arrows, the scene cuts to Pippin singing for Denethor as he eats.",
+    "why": "A lesson in counterpoint: the charge is never shown landing; Pippin's quiet song and Denethor's eating are cross-cut with slow-motion riders and an arrow storm, so sound and editing deliver the tragedy.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "Editor: Jamie Selkirk",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound Mixing"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "adventure",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Osgiliath ruins, Gondor, Third Age of Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "ruined_city",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "melancholic",
+      "epic"
+    ],
+    "combatants": [
+      "cavalry",
+      "creatures"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "european_sword"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "cross_cutting",
+      "slow_motion",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "edge of night",
+      "pippin's song",
+      "denethor",
+      "doomed charge",
+      "faramir",
+      "arrow storm"
+    ],
+    "video": "lehWZEEyu2M"
+  },
+  {
+    "film": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "scene": "Last stand at the Black Gate",
+    "query": "Return of the King Black Gate battle Aragorn charge scene",
+    "what_happens": "Aragorn's small army is surrounded by orcs before the Black Gate of Mordor; Aragorn turns to his men, then charges alone into the enemy, his army following, while eagles battle the Nazgûl overhead.",
+    "why": "A climax about a decision rather than a fight: slow push-ins and a silent pause precede a sprint into a CG horde, cross-cut with Frodo and Sam at Mount Doom so the battle becomes a diversion with emotional stakes.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "Editor: Jamie Selkirk",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound Mixing"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "last_stand",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "adventure",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "The Black Gate of Mordor, Third Age of Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "tragic"
+    ],
+    "combatants": [
+      "medieval_soldiers",
+      "creatures"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "shield",
+      "axe_mace"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "slow_motion",
+      "score_driven",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "morannon",
+      "aragorn's charge",
+      "eagles",
+      "mordor",
+      "diversion",
+      "surrounded army",
+      "nazgul"
+    ],
+    "video": "17_ImViPryQ"
+  },
+  {
+    "film": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "scene": "Mûmakil charge at the Pelennor Fields",
+    "query": "Return of the King oliphaunt mumakil battle Legolas scene",
+    "what_happens": "Haradrim war elephants carrying archer towers smash through the Rohirrim; riders weave between their legs, and Legolas climbs a mûmak, kills its crew and brings the beast down before sliding off its trunk.",
+    "why": "Combines full-CG giants with real horses and riders, using the mûmakil's scale to reverse the Rohirrim's triumph; Legolas' climb is a playful hero beat staged as one continuous, physically impossible move.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "Editor: Jamie Selkirk",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound Mixing"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "adventure",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Pelennor Fields before Minas Tirith, Third Age of Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "cavalry",
+      "creatures",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "spear_polearm",
+      "european_sword"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "cgi",
+      "large_crowds",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "oliphaunts",
+      "mumakil",
+      "haradrim",
+      "legolas",
+      "war elephants",
+      "rohirrim"
+    ]
+  },
+  {
+    "film": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "scene": "The Ents storm Isengard",
+    "query": "Two Towers Ents attack Isengard flood scene",
+    "what_happens": "Enraged Ents march on Isengard, hurling boulders, stamping on orcs and tearing down the dam so the river floods the pits around Orthanc, while Merry and Pippin ride atop Treebeard.",
+    "why": "Weta's animated Ents and a miniature Isengard blend with large-scale water effects; scale is sold by cutting between giant trees crushing orcs and the hobbits' perch on Treebeard, with the score rising from fury to triumph.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "siege"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Isengard, Third Age of Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "dam_industrial"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "fire"
+    ],
+    "mood": [
+      "heroic",
+      "awe",
+      "epic"
+    ],
+    "combatants": [
+      "creatures"
+    ],
+    "weapons": [
+      "improvised",
+      "bow_arrow"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "miniatures",
+      "practical_effects",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "ents",
+      "treebeard",
+      "isengard flood",
+      "dam break",
+      "orthanc",
+      "merry and pippin",
+      "last march of the ents"
+    ]
+  },
+  {
+    "film": "Mongol",
+    "year": 2007,
+    "scene": "Temüjin's final battle against Jamukha",
+    "query": "Mongol 2007 final battle scene Temujin Jamukha",
+    "what_happens": "Temüjin's disciplined cavalry clashes with Jamukha's larger army on the open steppe in a whirl of horsemen, sabres and arrows, as the future Genghis Khan's tactics break the enemy ranks.",
+    "why": "Bodrov shoots on real Central Asian steppe with large mounted crowds, keeping the camera low among the horses so the battle feels like a stampede; landscape and sky dwarf the riders, giving the epic a mythic scale.",
+    "director": "Sergei Bodrov",
+    "country": "Germany/Kazakhstan/Russia/Mongolia",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "medieval",
+    "period": "Mongolian steppe, late 12th century",
+    "region": "central_asia",
+    "environment": [
+      "grassland",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "epic",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "mongol_steppe_warriors",
+      "cavalry"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "bow_arrow",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "real_location",
+      "large_crowds",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "multiple",
+    "keywords": [
+      "genghis khan",
+      "temujin",
+      "jamukha",
+      "horse archers",
+      "steppe",
+      "mongol cavalry"
+    ],
+    "video": "6xZs08ofM8Q"
+  },
+  {
+    "film": "The Great Wall",
+    "year": 2016,
+    "scene": "Crane Corps bungee assault on the Tao Tei",
+    "query": "The Great Wall Crane Corps bungee scene Tao Tei attack",
+    "what_happens": "As a horde of Tao Tei swarms the Great Wall, the women of the Crane Corps dive off the battlements on cables to spear the monsters, while colour-coded archers and catapult crews fire from the ramparts above.",
+    "why": "Zhang Yimou turns defence into colour-coded pageantry: each corps wears its own armour colour so the system reads instantly, and the vertical bungee dives add a striking new axis of movement to a siege.",
+    "director": "Zhang Yimou",
+    "country": "China/USA",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "siege",
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "action",
+      "monster"
+    ],
+    "era": "medieval",
+    "period": "The Great Wall of China, Song dynasty, 11th century",
+    "region": "china",
+    "environment": [
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "epic",
+      "stylish",
+      "chaotic"
+    ],
+    "combatants": [
+      "imperial_chinese_army",
+      "creatures"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "bow_arrow",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wire_work",
+      "large_crowds",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "multiple",
+    "keywords": [
+      "crane corps",
+      "bungee",
+      "tao tei",
+      "nameless order",
+      "colour-coded armour",
+      "monster horde"
+    ]
+  },
+  {
+    "film": "Curse of the Golden Flower",
+    "year": 2006,
+    "scene": "Golden army storms the chrysanthemum courtyard",
+    "query": "Curse of the Golden Flower final battle golden army scene",
+    "what_happens": "Thousands of gold-armoured rebels pour into the imperial courtyard carpeted with chrysanthemums, only to be trapped and slaughtered by the Emperor's silver-armoured army, whose shields close around them.",
+    "why": "Zhang Yimou's maximalism: a sea of gold armour against silver, yellow flowers trampled red, then an eerie coda as servants scrub the stones and replace the chrysanthemums, using colour and mass as storytelling.",
+    "director": "Zhang Yimou",
+    "country": "China/Hong Kong",
+    "craft": [
+      "DP: Zhao Xiaoding",
+      "Composer: Shigeru Umebayashi"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "ambush"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "wuxia"
+    ],
+    "era": "medieval",
+    "period": "Imperial palace, Later Tang dynasty China, AD 928",
+    "region": "china",
+    "environment": [
+      "palace_mansion",
+      "plaza_square"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "imperial_chinese_army"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "shield",
+      "chinese_sword",
+      "bow_arrow"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "color_grading",
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "mandarin",
+    "keywords": [
+      "chrysanthemums",
+      "golden armour",
+      "silver army",
+      "chongyang festival",
+      "palace coup",
+      "gong li"
+    ]
+  },
+  {
+    "film": "Alexander Nevsky",
+    "year": 1938,
+    "scene": "Battle on the Ice",
+    "query": "Alexander Nevsky Battle on the Ice scene Prokofiev",
+    "what_happens": "Teutonic knights in bucket helmets advance in a wedge across frozen Lake Peipus toward Nevsky's Russian army; the lines collide in a long melee, and finally the ice cracks and the heavy knights sink into the lake.",
+    "why": "Eisenstein cut the battle to Prokofiev's score, matching shot rhythms and compositions to the music; the knights' slow advance is a textbook study in audio-visual counterpoint and dread built from tempo.",
+    "director": "Sergei Eisenstein",
+    "country": "USSR",
+    "craft": [
+      "DP: Eduard Tisse",
+      "Composer: Sergei Prokofiev"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war"
+    ],
+    "era": "medieval",
+    "period": "Battle on the Ice, Lake Peipus, 5 April 1242",
+    "region": "russia",
+    "environment": [
+      "snow_ice",
+      "river_lake",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "epic",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "knights",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "axe_mace",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "score_driven",
+      "black_and_white",
+      "wide_framing",
+      "large_crowds",
+      "practical_effects"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "russian",
+    "keywords": [
+      "teutonic knights",
+      "lake peipus",
+      "cracking ice",
+      "prokofiev",
+      "wedge formation",
+      "soviet epic"
+    ]
+  },
+  {
+    "film": "Chimes at Midnight",
+    "year": 1965,
+    "scene": "Battle of Shrewsbury",
+    "query": "Chimes at Midnight Battle of Shrewsbury scene Orson Welles",
+    "what_happens": "Armoured knights are winched onto their horses before the armies charge across a field that turns to mud; the battle becomes a grinding, fragmented mass of clubs, swords and bodies, while the corpulent Falstaff waddles about avoiding it.",
+    "why": "Welles built a vast battle from limited extras through editing: hundreds of short, rhythmically cut shots at varied angles and speeds make the mud-bound slaughter feel enormous, absurd and exhausting.",
+    "director": "Orson Welles",
+    "country": "Spain/Switzerland",
+    "craft": [
+      "DP: Edmond Richard",
+      "Composer: Angelo Francesco Lavagnino"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "war"
+    ],
+    "era": "medieval",
+    "period": "Battle of Shrewsbury, England, 21 July 1403",
+    "region": "british_isles",
+    "environment": [
+      "battlefield",
+      "swamp_mud"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "mud",
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "gritty"
+    ],
+    "combatants": [
+      "knights",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "european_sword",
+      "axe_mace",
+      "spear_polearm",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "fast_cutting",
+      "montage",
+      "black_and_white",
+      "handheld",
+      "real_location"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "falstaff",
+      "hotspur",
+      "mud",
+      "shakespeare",
+      "prince hal",
+      "montage battle",
+      "knights winched onto horses"
+    ]
+  },
+  {
+    "film": "El Cid",
+    "year": 1961,
+    "scene": "El Cid's corpse leads the final charge at Valencia",
+    "query": "El Cid final charge dead El Cid rides scene",
+    "what_happens": "The dead El Cid, strapped upright in his saddle, rides out of Valencia's gates at the head of his knights; the sight terrifies the Moorish army, which breaks and flees along the beach as the cavalry thunders after it.",
+    "why": "Mann stages a legend in widescreen: the slow, silent ride of a dead hero, framed against the sea and swelled by Rózsa's brass, plays awe against the enemy's panic with thousands of real riders.",
+    "director": "Anthony Mann",
+    "country": "USA/Italy",
+    "craft": [
+      "DP: Robert Krasker",
+      "Composer: Miklós Rózsa"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "pursuit"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "adventure"
+    ],
+    "era": "medieval",
+    "period": "Siege of Valencia, Spain, 1099",
+    "region": "southern_europe",
+    "environment": [
+      "beach",
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "awe",
+      "heroic",
+      "epic"
+    ],
+    "combatants": [
+      "knights",
+      "cavalry",
+      "crusaders_saracens"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "european_sword",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "wide_framing",
+      "large_crowds",
+      "score_driven",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "corpse rider",
+      "charlton heston",
+      "moors",
+      "ben yussuf",
+      "valencia",
+      "legend",
+      "beach charge"
+    ]
+  },
+  {
+    "film": "Braveheart",
+    "year": 1995,
+    "scene": "Battle of Falkirk",
+    "query": "Braveheart Battle of Falkirk betrayal scene",
+    "what_happens": "The Scottish nobles' cavalry abandons the field mid-battle, leaving Wallace's men to English arrows and heavy horse; wounded, Wallace rides after Longshanks and pulls the helmet off a knight who turns out to be Robert the Bruce.",
+    "why": "Gibson builds the battle toward betrayal rather than victory: the action pivots on reaction shots of deserting nobles, and the final unmasking reframes the melee as personal tragedy, slowed and scored as an elegy.",
+    "director": "Mel Gibson",
+    "country": "USA",
+    "craft": [
+      "DP: John Toll",
+      "Editor: Steven Rosenblum",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "medieval",
+    "period": "Battle of Falkirk, Scotland, 22 July 1298",
+    "region": "british_isles",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "medieval_soldiers",
+      "knights",
+      "cavalry"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "european_sword",
+      "spear_polearm",
+      "axe_mace",
+      "shield"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "slow_motion",
+      "large_crowds",
+      "practical_stunts",
+      "score_driven",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "betrayal",
+      "robert the bruce",
+      "longshanks",
+      "irish infantry",
+      "deserting nobles",
+      "unmasking",
+      "william wallace"
+    ]
+  },
+  {
+    "film": "Baahubali: The Beginning",
+    "year": 2015,
+    "scene": "The Kalakeya war",
+    "query": "Baahubali The Beginning Kalakeya war battle scene",
+    "what_happens": "Mahishmati's army faces the vast Kalakeya horde; Baahubali's trident formation drives into the enemy centre while Bhallaladeva carves a path in a chariot fitted with whirling blades, the battle swelling into a colossal melee.",
+    "why": "Rajamouli plans the war like a heist, explaining each tactic before it unfolds, then delivers it with CG crowds, speed ramps and hero shots; clarity of strategy makes the maximal spectacle easy to follow.",
+    "director": "S. S. Rajamouli",
+    "country": "India",
+    "craft": [
+      "DP: K. K. Senthil Kumar",
+      "Composer: M. M. Keeravani"
+    ],
+    "accolades": [
+      "National Film Award: Best Feature Film"
+    ],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "action",
+      "fantasy",
+      "historical_epic"
+    ],
+    "era": "ancient",
+    "period": "Fictional kingdom of Mahishmati, mythic ancient India",
+    "region": "south_asia",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "indian_warriors",
+      "cavalry"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "spear_polearm",
+      "shield",
+      "bow_arrow"
+    ],
+    "vehicles": [
+      "chariot_carriage",
+      "horse"
+    ],
+    "technique": [
+      "cgi",
+      "large_crowds",
+      "slow_motion",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "telugu",
+    "keywords": [
+      "kalakeya",
+      "trident formation",
+      "bladed chariot",
+      "bhallaladeva",
+      "mahishmati",
+      "telugu epic"
+    ],
+    "video": "ybsqPmwxgKQ"
+  },
+  {
+    "film": "The Vikings",
+    "year": 1958,
+    "scene": "Assault on Aella's castle",
+    "query": "The Vikings 1958 castle assault axes drawbridge scene",
+    "what_happens": "Viking longships land beneath King Aella's cliff-top castle; the raiders hurl axes into the raised drawbridge so Einar can climb it, then pour through the gate in a brawling assault on the fortress.",
+    "why": "Shot at a real Breton cliff-top fortress, Fleischer's assault mixes practical stunts with sweeping Technicolor wides; the axe-ladder climb is a single, memorable piece of physical problem-solving that defines the sequence.",
+    "director": "Richard Fleischer",
+    "country": "USA",
+    "craft": [
+      "DP: Jack Cardiff",
+      "Composer: Mario Nascimbene"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "siege",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "adventure",
+      "historical_epic",
+      "swashbuckler"
+    ],
+    "era": "medieval",
+    "period": "King Aella's castle, Northumbria, 9th century",
+    "region": "british_isles",
+    "environment": [
+      "castle_fortress",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "playful",
+      "epic"
+    ],
+    "combatants": [
+      "vikings",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "axe_mace",
+      "european_sword",
+      "shield"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "real_location",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "kirk douglas",
+      "thrown axes",
+      "drawbridge climb",
+      "fort la latte",
+      "longships",
+      "raid on northumbria"
+    ]
+  },
+  {
+    "film": "Henry V",
+    "year": 1944,
+    "scene": "The French cavalry charge at Agincourt",
+    "query": "Henry V 1944 Olivier Agincourt charge scene",
+    "what_happens": "The armoured French knights walk, trot and then gallop toward the English lines in one long tracking movement as the music swells, until the English longbowmen loose a dark cloud of arrows into them.",
+    "why": "The camera dollies alongside the accelerating cavalry in a single extended movement synchronised with Walton's score, and the release of arrows is sold by sound and a sky full of shafts, a template for later Agincourts.",
+    "director": "Laurence Olivier",
+    "country": "UK",
+    "craft": [
+      "DP: Robert Krasker",
+      "Composer: William Walton"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "medieval",
+    "period": "Battle of Agincourt, northern France, 25 October 1415",
+    "region": "western_europe",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "knights",
+      "cavalry",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "spear_polearm",
+      "european_sword"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "tracking_shot",
+      "score_driven",
+      "real_location",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "longbows",
+      "arrow volley",
+      "technicolor",
+      "olivier",
+      "shakespeare",
+      "french knights",
+      "cavalry charge"
+    ]
+  },
+  {
+    "film": "Barry Lyndon",
+    "year": 1975,
+    "scene": "Redcoat advance into French volleys",
+    "query": "Barry Lyndon battle scene British Grenadiers advance",
+    "what_happens": "A British redcoat column marches in perfect order across a meadow toward a French line as fifes and drums play; the French volley at close range, men drop, and Captain Grogan is mortally wounded beside Barry.",
+    "why": "Kubrick holds the advance in long lateral tracking shots and slow zooms, letting parade-ground ritual meet sudden death without heroics; the deadpan formality makes the slaughter feel absurd.",
+    "director": "Stanley Kubrick",
+    "country": "UK/USA",
+    "craft": [
+      "DP: John Alcott"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Art Direction",
+      "Oscar: Best Costume Design"
+    ],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "war"
+    ],
+    "era": "early_modern",
+    "period": "Seven Years' War skirmish, Germany, c. 1760",
+    "region": "western_europe",
+    "environment": [
+      "grassland",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "tragic",
+      "tense",
+      "melancholic"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "wide_framing",
+      "natural_light",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "redcoats",
+      "fife and drum",
+      "british grenadiers",
+      "volley fire",
+      "line infantry",
+      "captain grogan",
+      "kubrick zoom"
+    ],
+    "video": "rh6C4Zpvngc"
+  },
+  {
+    "film": "The Patriot",
+    "year": 2000,
+    "scene": "Benjamin Martin's tomahawk ambush",
+    "query": "The Patriot tomahawk ambush scene rescue Gabriel",
+    "what_happens": "Benjamin Martin and his two young sons lie in wait in the woods, picking off a column of redcoats escorting his captured son; Martin then charges in with a tomahawk and kills the last soldiers in a frenzy.",
+    "why": "A shift from tactics to savagery: precise shots from hidden positions lay out the geography, then the camera stays close on Martin's tomahawk attack while his sons' horrified faces carry the scene's meaning.",
+    "director": "Roland Emmerich",
+    "country": "USA",
+    "craft": [
+      "DP: Caleb Deschanel",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "ambush",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "historical_epic",
+      "action"
+    ],
+    "era": "early_modern",
+    "period": "South Carolina woodland, American Revolutionary War, 1780",
+    "region": "usa",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "musket_infantry",
+      "civilians"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "axe_mace"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "real_location",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "tomahawk",
+      "redcoats",
+      "father and sons",
+      "forest ambush",
+      "revolutionary war",
+      "mel gibson"
+    ]
+  },
+  {
+    "film": "The Patriot",
+    "year": 2000,
+    "scene": "Final battle at Cowpens",
+    "query": "The Patriot final battle Cowpens flag charge scene",
+    "what_happens": "Continental militia fire and fall back as the British line advances; when the regulars waver, Martin seizes the flag and leads a counter-charge, then fights Colonel Tavington hand to hand amid the battle.",
+    "why": "Emmerich stages the battle on a real tactic, militia firing and withdrawing to draw the British on, so the action has a readable plan before it erupts into the flag-carrying charge and personal duel.",
+    "director": "Roland Emmerich",
+    "country": "USA",
+    "craft": [
+      "DP: Caleb Deschanel",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "duel"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic",
+      "action"
+    ],
+    "era": "early_modern",
+    "period": "Battle modelled on Cowpens, South Carolina, 1781",
+    "region": "usa",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "brutal"
+    ],
+    "combatants": [
+      "musket_infantry",
+      "cavalry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "artillery_cannon",
+      "sabre_rapier",
+      "axe_mace"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "large_crowds",
+      "practical_stunts",
+      "slow_motion",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "cowpens",
+      "continental army",
+      "flag charge",
+      "tavington",
+      "militia volleys",
+      "redcoats"
+    ]
+  },
+  {
+    "film": "The Last of the Mohicans",
+    "year": 1992,
+    "scene": "Huron ambush of the British column",
+    "query": "Last of the Mohicans ambush massacre scene Fort William Henry",
+    "what_happens": "As the surrendered garrison marches out of Fort William Henry through a meadow, Magua's Huron warriors burst from the treeline and fall on the column; Hawkeye and the Mohicans fight through to protect the Munro sisters.",
+    "why": "Mann frames the ambush with eerie quiet before a single war cry, then switches to rapid handheld coverage; amid hundreds of extras, the heroes' path through the chaos stays clear and purposeful.",
+    "director": "Michael Mann",
+    "country": "USA",
+    "craft": [
+      "DP: Dante Spinotti",
+      "Composers: Trevor Jones & Randy Edelman"
+    ],
+    "accolades": [
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "ambush",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "adventure",
+      "war"
+    ],
+    "era": "early_modern",
+    "period": "Retreat from Fort William Henry, New York frontier, August 1757",
+    "region": "usa",
+    "environment": [
+      "grassland",
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "native_warriors",
+      "musket_infantry",
+      "civilians"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "axe_mace",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "large_crowds",
+      "real_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "huron",
+      "magua",
+      "hawkeye",
+      "fort william henry",
+      "tomahawk",
+      "massacre",
+      "french and indian war"
+    ],
+    "video": "_GlYa20-JZY"
+  },
+  {
+    "film": "Napoleon",
+    "year": 2023,
+    "scene": "Battle of Waterloo",
+    "query": "Napoleon 2023 Battle of Waterloo scene",
+    "what_happens": "French cuirassiers charge the British infantry squares at Waterloo, horsemen crashing against bayonets and point-blank volleys as Napoleon rides near the front, before Prussian reinforcements seal his defeat.",
+    "why": "Scott shoots with many simultaneous cameras to capture huge practical cavalry movements, and high overhead angles turn the squares into geometric patterns, giving scale and chaos without losing tactical clarity.",
+    "director": "Ridley Scott",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: Martin Phipps"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Waterloo, Belgium, 18 June 1815",
+    "region": "western_europe",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "mud"
+    ],
+    "mood": [
+      "epic",
+      "brutal",
+      "tragic"
+    ],
+    "combatants": [
+      "cavalry",
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "sabre_rapier",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "crane_aerial",
+      "large_crowds",
+      "practical_stunts",
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "cuirassiers",
+      "infantry squares",
+      "wellington",
+      "prussians",
+      "overhead shot",
+      "last battle",
+      "bayonets"
+    ]
+  },
+  {
+    "film": "War and Peace",
+    "year": 1966,
+    "scene": "Battle of Austerlitz",
+    "query": "War and Peace 1966 Bondarchuk Austerlitz Andrei banner scene",
+    "what_happens": "Russian and Austrian columns are surprised out of the fog by the French; seeing his men flee, Prince Andrei seizes a fallen regimental standard and charges forward until he is struck down, lying on the field gazing at the sky.",
+    "why": "Bondarchuk moves from vast panoramas of real army extras to Andrei's subjective collapse: the noise falls away as he stares at the clouds, turning a massed battle into a moment of philosophical stillness.",
+    "director": "Sergei Bondarchuk",
+    "country": "USSR",
+    "craft": [
+      "DP: Anatoly Petritsky"
+    ],
+    "accolades": [
+      "Oscar: Best Foreign Language Film"
+    ],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Austerlitz, Moravia, 2 December 1805",
+    "region": "eastern_europe",
+    "environment": [
+      "battlefield",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "tragic",
+      "melancholic"
+    ],
+    "combatants": [
+      "musket_infantry",
+      "cavalry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "artillery_cannon",
+      "sabre_rapier"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "large_crowds",
+      "crane_aerial",
+      "wide_framing",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "russian",
+    "keywords": [
+      "prince andrei",
+      "regimental standard",
+      "sky of austerlitz",
+      "napoleonic wars",
+      "soviet epic",
+      "tolstoy"
+    ]
+  },
+  {
+    "film": "Gettysburg",
+    "year": 1993,
+    "scene": "Bayonet charge at Little Round Top",
+    "query": "Gettysburg Little Round Top bayonet charge scene Chamberlain",
+    "what_happens": "Out of ammunition after repeated Confederate assaults, Colonel Chamberlain orders the 20th Maine to fix bayonets, and the regiment swings down the wooded slope in a wheeling charge that routs the attackers.",
+    "why": "Shot on the real battlefield with thousands of re-enactors, the scene builds from exhaustion and dwindling cartridges to a single decisive order, then releases the tension in one long downhill rush.",
+    "director": "Ronald F. Maxwell",
+    "country": "USA",
+    "craft": [
+      "DP: Kees Van Oostrum",
+      "Composer: Randy Edelman"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "last_stand",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Little Round Top, Gettysburg, Pennsylvania, 2 July 1863",
+    "region": "usa",
+    "environment": [
+      "forest",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "tense",
+      "epic"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "real_location",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "20th maine",
+      "chamberlain",
+      "fix bayonets",
+      "re-enactors",
+      "union army",
+      "confederates",
+      "wheeling charge"
+    ]
+  },
+  {
+    "film": "Gettysburg",
+    "year": 1993,
+    "scene": "Pickett's Charge",
+    "query": "Gettysburg Pickett's Charge scene",
+    "what_happens": "Confederate brigades march in long lines across open fields toward Cemetery Ridge under Union artillery and rifle fire; their ranks are torn apart, and Armistead's men briefly cross the stone wall before the assault collapses.",
+    "why": "The camera holds the full width of the field so sheer distance becomes the drama; thousands of re-enactors marching into shellfire make the futility visible without relying on close-ups.",
+    "director": "Ronald F. Maxwell",
+    "country": "USA",
+    "craft": [
+      "DP: Kees Van Oostrum",
+      "Composer: Randy Edelman"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Pickett's Charge, Gettysburg, Pennsylvania, 3 July 1863",
+    "region": "usa",
+    "environment": [
+      "grassland",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "tragic",
+      "epic",
+      "brutal"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "wide_framing",
+      "real_location",
+      "crane_aerial"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "pickett's charge",
+      "cemetery ridge",
+      "stone wall",
+      "armistead",
+      "the angle",
+      "confederate assault"
+    ]
+  },
+  {
+    "film": "Gods and Generals",
+    "year": 2003,
+    "scene": "The Irish Brigade at Fredericksburg",
+    "query": "Gods and Generals Fredericksburg Irish Brigade Marye's Heights scene",
+    "what_happens": "Union brigades advance up the open slope toward Marye's Heights and are cut down by Confederates firing from behind a stone wall; the Irish Brigade marches on into the fire, facing fellow Irishmen in the Confederate line.",
+    "why": "Maxwell stages the assault as a ritual of waste: steady wide shots of lines advancing into fire from a protected wall make the terrain itself the antagonist, while the Irish-versus-Irish beat adds a tragic human scale.",
+    "director": "Ronald F. Maxwell",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Marye's Heights, Fredericksburg, Virginia, 13 December 1862",
+    "region": "usa",
+    "environment": [
+      "grassland",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "tragic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "wide_framing",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "irish brigade",
+      "marye's heights",
+      "stone wall",
+      "fredericksburg",
+      "union assault",
+      "irish vs irish"
+    ]
+  },
+  {
+    "film": "Zulu Dawn",
+    "year": 1979,
+    "scene": "Battle of Isandlwana",
+    "query": "Zulu Dawn Isandlwana battle scene",
+    "what_happens": "The Zulu army sweeps over the hills in vast encircling horns around the British camp; redcoats fire volley after volley until ammunition runs short, and the line is overrun in a desperate hand-to-hand massacre.",
+    "why": "A study in tactical inevitability: wide shots show the Zulu horns closing from the flanks long before the British grasp it, and the ammunition-supply bottleneck turns bureaucracy into the cause of defeat.",
+    "director": "Douglas Hickox",
+    "country": "USA/Netherlands",
+    "craft": [
+      "Composer: Elmer Bernstein"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Isandlwana, Zululand, 22 January 1879",
+    "region": "sub_saharan_africa",
+    "environment": [
+      "grassland",
+      "hills_mountains",
+      "military_base"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "dust_sand"
+    ],
+    "mood": [
+      "tragic",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "native_warriors",
+      "musket_infantry"
+    ],
+    "weapons": [
+      "rifle",
+      "spear_polearm",
+      "shield",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "real_location",
+      "wide_framing",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "zulu horns",
+      "redcoats",
+      "ammunition boxes",
+      "isandlwana",
+      "anglo-zulu war",
+      "assegai",
+      "overrun camp"
+    ],
+    "video": "krrdLGCOdAo"
+  },
+  {
+    "film": "Sharpe",
+    "year": 1993,
+    "scene": "Sharpe captures the French eagle at Talavera ('Sharpe's Eagle')",
+    "query": "Sharpe's Eagle capture the eagle Talavera scene Sean Bean",
+    "what_happens": "In the smoke of Talavera, Sharpe and Sergeant Harper hack their way through a French column to its eagle standard; Sharpe cuts down the bearer and wrests the gilded eagle away.",
+    "why": "A television battle made personal: the massed clash is reduced to a single objective, the standard, and the camera stays at shoulder height with Sharpe and Harper so the fight reads as a two-man push through chaos.",
+    "director": "Tom Clegg",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "small_group_fight"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "adventure",
+      "action"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Talavera, Spain, July 1809",
+    "region": "southern_europe",
+    "environment": [
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "musket_flintlock"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "french eagle",
+      "sean bean",
+      "sergeant harper",
+      "peninsular war",
+      "talavera",
+      "napoleonic wars"
+    ]
+  },
+  {
+    "film": "Waterloo",
+    "year": 1970,
+    "scene": "Charge of the Scots Greys",
+    "query": "Waterloo 1970 Scots Greys charge scene",
+    "what_happens": "The Scots Greys gallop through the smoke in slow motion, sabres raised, and crash into the French infantry before French lancers counter-charge and cut the exhausted horsemen down.",
+    "why": "Bondarchuk shoots the charge partly in slow motion with real mounted cavalry, so the white horses floating over the field become an image of doomed glory before the brutal lancer counter-attack.",
+    "director": "Sergei Bondarchuk",
+    "country": "Italy/USSR",
+    "craft": [
+      "Composer: Nino Rota"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Waterloo, Belgium, 18 June 1815",
+    "region": "western_europe",
+    "environment": [
+      "battlefield",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "tragic"
+    ],
+    "combatants": [
+      "cavalry",
+      "musket_infantry"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "spear_polearm",
+      "musket_flintlock"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "slow_motion",
+      "large_crowds",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "scots greys",
+      "union brigade",
+      "ponsonby",
+      "french lancers",
+      "grey horses",
+      "cavalry charge"
+    ]
+  },
+  {
+    "film": "With Fire and Sword (Ogniem i mieczem)",
+    "year": 1999,
+    "scene": "Siege of Zbaraż",
+    "query": "Ogniem i mieczem Zbaraż siege battle scene",
+    "what_happens": "Waves of Cossacks and Tatars storm the earthen ramparts of the besieged Polish camp at Zbaraż through cannon smoke, met by musket volleys, sabres and the stubborn defenders on the walls.",
+    "why": "Hoffman's adaptation of Sienkiewicz uses large crowds and practical pyrotechnics to give the siege national-epic scale, cutting between the defenders' leaders and the endless tide of attackers.",
+    "director": "Jerzy Hoffman",
+    "country": "Poland",
+    "craft": [
+      "Composer: Krzesimir Dębski"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "siege",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "adventure"
+    ],
+    "era": "early_modern",
+    "period": "Siege of Zbaraż, Polish-Lithuanian Commonwealth (Ukraine), 1649",
+    "region": "eastern_europe",
+    "environment": [
+      "castle_fortress",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "musket_infantry",
+      "mongol_steppe_warriors",
+      "cavalry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "sabre_rapier",
+      "artillery_cannon",
+      "bow_arrow"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "large_crowds",
+      "practical_explosions",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "polish",
+    "keywords": [
+      "cossacks",
+      "tatars",
+      "zbaraz",
+      "khmelnytsky uprising",
+      "ramparts",
+      "sienkiewicz"
+    ]
+  },
+  {
+    "film": "Cold Mountain",
+    "year": 2003,
+    "scene": "Battle of the Crater",
+    "query": "Cold Mountain Battle of the Crater opening scene",
+    "what_happens": "Union engineers detonate a huge mine beneath the Confederate lines at Petersburg; the earth erupts, and the Union soldiers who charge into the smoking crater are trapped below its walls and slaughtered from above.",
+    "why": "Minghella opens on eerie stillness and confusion, then shows the blast from the defenders' side; the camera drops into the pit, where the geography itself becomes a death trap.",
+    "director": "Anthony Minghella",
+    "country": "USA/UK",
+    "craft": [
+      "DP: John Seale",
+      "Editor: Walter Murch",
+      "Composer: Gabriel Yared"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actress"
+    ],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama",
+      "historical_epic"
+    ],
+    "era": "19th_century",
+    "period": "Battle of the Crater, Petersburg, Virginia, 30 July 1864",
+    "region": "usa",
+    "environment": [
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "dust_sand"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "musket_infantry"
+    ],
+    "weapons": [
+      "musket_flintlock",
+      "explosives",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "handheld",
+      "large_crowds",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "the crater",
+      "petersburg",
+      "mine explosion",
+      "trench warfare",
+      "confederates",
+      "jude law"
+    ]
+  },
+  {
+    "film": "The Last Samurai",
+    "year": 2003,
+    "scene": "Samurai attack out of the fog",
+    "query": "The Last Samurai forest fog battle scene samurai attack",
+    "what_happens": "Algren's barely trained Imperial conscripts wait in a misty forest; armoured samurai on horseback materialise from the fog and charge, the panicked ranks break as rifles misfire, and Algren fights on alone.",
+    "why": "Zwick uses fog as a staging device: drums and hooves are heard before a single horseman is seen, so fear builds through sound, and the samurai emerge from white haze like apparitions.",
+    "director": "Edward Zwick",
+    "country": "USA",
+    "craft": [
+      "DP: John Toll",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "ambush",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama",
+      "samurai_jidaigeki"
+    ],
+    "era": "19th_century",
+    "period": "Forest battle against Katsumoto's samurai, Japan, 1876",
+    "region": "japan",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "tense"
+    ],
+    "combatants": [
+      "samurai",
+      "musket_infantry",
+      "cavalry"
+    ],
+    "weapons": [
+      "katana",
+      "rifle",
+      "bow_arrow",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "sound_design",
+      "practical_stunts",
+      "slow_motion",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "fog",
+      "imperial conscripts",
+      "samurai cavalry",
+      "algren",
+      "katsumoto",
+      "misfiring rifles",
+      "forest ambush"
+    ],
+    "video": "1yyPjog1TNc"
+  },
+  {
+    "film": "The Charge of the Light Brigade",
+    "year": 1936,
+    "scene": "The charge at Balaklava",
+    "query": "Charge of the Light Brigade 1936 Errol Flynn charge scene",
+    "what_happens": "The lancers ride down the valley into massed Russian guns; cannon fire tears through the ranks as the horsemen spur into a full gallop and crash into the batteries, lines of Tennyson's poem flashing on screen.",
+    "why": "A landmark of studio-era scale: tracking shots beside hundreds of galloping riders and superimposed verse turn the charge into a hymn, though its tripwire horse falls were so cruel they helped bring in animal-welfare oversight.",
+    "director": "Michael Curtiz",
+    "country": "USA",
+    "craft": [
+      "Composer: Max Steiner"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "adventure",
+      "historical_epic"
+    ],
+    "era": "19th_century",
+    "period": "Battle of Balaklava, Crimea, 25 October 1854",
+    "region": "eastern_europe",
+    "environment": [
+      "battlefield",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "heroic",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "cavalry"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "sabre_rapier",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "tracking_shot",
+      "practical_stunts",
+      "large_crowds",
+      "black_and_white"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "valley of death",
+      "lancers",
+      "errol flynn",
+      "tennyson",
+      "balaklava",
+      "horse falls",
+      "crimean war"
+    ]
+  },
+  {
+    "film": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "scene": "Battle for Langstone Bridge",
+    "query": "The Good the Bad and the Ugly bridge battle scene",
+    "what_happens": "Union and Confederate troops throw themselves at each other across a river bridge in a pointless daily battle; Blondie and Tuco wire the bridge with dynamite and blow it up so the armies have nothing left to fight over.",
+    "why": "Leone drops a full Civil War battle into a western: wide, dusty compositions of trenches and artillery and a drunken, dying captain make war absurd; the bridge was genuinely demolished on camera.",
+    "director": "Sergio Leone",
+    "country": "Italy/Spain/West Germany",
+    "craft": [
+      "DP: Tonino Delli Colli",
+      "Composer: Ennio Morricone"
+    ],
+    "accolades": [],
+    "scene_type": "battle.black_powder",
+    "format": [
+      "massed_battle",
+      "bombardment"
+    ],
+    "scale": "army",
+    "genre": [
+      "western",
+      "war",
+      "adventure"
+    ],
+    "era": "19th_century",
+    "period": "Langstone Bridge, New Mexico campaign, American Civil War, 1862",
+    "region": "american_frontier",
+    "environment": [
+      "bridge",
+      "trench",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "tragic",
+      "epic",
+      "surreal"
+    ],
+    "combatants": [
+      "musket_infantry",
+      "cowboys_gunslingers"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "musket_flintlock",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "wide_framing",
+      "large_crowds",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "italian",
+    "keywords": [
+      "bridge demolition",
+      "dynamite",
+      "union captain",
+      "civil war",
+      "blondie and tuco",
+      "pointless battle",
+      "spaghetti western"
+    ],
+    "video": "Ryo8RtIYBnU"
+  },
+  {
+    "film": "Gallipoli",
+    "year": 1981,
+    "scene": "The final charge at the Nek",
+    "query": "Gallipoli 1981 ending charge Archy scene",
+    "what_happens": "After the covering bombardment stops early, Australian Light Horsemen go over the top in successive waves into Turkish machine guns; Archy sprints across no-man's-land and is shot down, the image freezing on his fall.",
+    "why": "Weir withholds spectacle: tight shots of men tucking away keepsakes, the silence after the barrage, then a lone sprint ending in a freeze-frame that echoes a famous war photograph and lands like a blow.",
+    "director": "Peter Weir",
+    "country": "Australia",
+    "craft": [
+      "DP: Russell Boyd"
+    ],
+    "accolades": [
+      "AFI Award: Best Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "The Nek, Gallipoli peninsula, Ottoman Turkey, 7 August 1915",
+    "region": "middle_east",
+    "environment": [
+      "trench",
+      "hills_mountains"
+    ],
+    "time_of_day": "golden_hour",
+    "atmosphere": [
+      "dust_sand",
+      "smoke"
+    ],
+    "mood": [
+      "tragic",
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "score_driven",
+      "real_location",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "the nek",
+      "light horse",
+      "going over the top",
+      "freeze frame",
+      "anzac",
+      "mel gibson",
+      "machine guns"
+    ]
+  },
+  {
+    "film": "Passchendaele",
+    "year": 2008,
+    "scene": "Assault through the mud and the cross carry",
+    "query": "Passchendaele 2008 battle scene mud cross",
+    "what_happens": "Canadian infantry slog across a flooded moonscape of shell holes toward German positions; in the chaos, Michael Dunne carries a wounded soldier lashed to a wooden cross back through no-man's-land.",
+    "why": "Gross makes the mud the antagonist: handheld cameras stay knee-deep in water and filth, and the final cross carry turns a realistic battle into an explicitly religious image of sacrifice.",
+    "director": "Paul Gross",
+    "country": "Canada",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "rescue"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "Battle of Passchendaele, Flanders, Belgium, autumn 1917",
+    "region": "western_europe",
+    "environment": [
+      "swamp_mud",
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "mud",
+      "rain",
+      "explosions"
+    ],
+    "mood": [
+      "gritty",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "canadian corps",
+      "shell holes",
+      "flooded mud",
+      "wooden cross",
+      "no man's land",
+      "paul gross"
+    ]
+  },
+  {
+    "film": "War Horse",
+    "year": 2011,
+    "scene": "Cavalry charge into the German machine guns",
+    "query": "War Horse cavalry charge scene machine guns",
+    "what_happens": "British cavalry ride through a tall wheat field and overrun a German camp, then gallop on into the woods where massed machine guns cut the riders down and riderless horses leap clear over the guns.",
+    "why": "Spielberg cuts from a romantic gallop through golden wheat to riderless horses vaulting the machine-gun line, a single image that says the age of cavalry ended in 1914.",
+    "director": "Steven Spielberg",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Editor: Michael Kahn",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "ambush"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "British cavalry charge, northern France, 1914",
+    "region": "western_europe",
+    "environment": [
+      "grassland",
+      "forest",
+      "military_base"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "cavalry",
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "practical_stunts",
+      "tracking_shot",
+      "large_crowds",
+      "real_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "wheat field",
+      "riderless horses",
+      "machine guns",
+      "captain nicholls",
+      "end of cavalry",
+      "joey"
+    ]
+  },
+  {
+    "film": "War Horse",
+    "year": 2011,
+    "scene": "Joey's run through no-man's-land",
+    "query": "War Horse Joey runs through no man's land barbed wire scene",
+    "what_happens": "Panicked by shellfire, Joey bolts across the battlefield, leaping trenches, swerving past a tank and crashing through coils of barbed wire until he collapses, tangled and bleeding, in no-man's-land.",
+    "why": "A battle seen through an animal's flight: low tracking shots keep pace with the horse as explosions and a lumbering tank close in, and the wire entanglement is staged with a practical rig and digital help.",
+    "director": "Steven Spielberg",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Editor: Michael Kahn",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "No-man's-land on the Western Front, France, c. 1918",
+    "region": "western_europe",
+    "environment": [
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "mud"
+    ],
+    "mood": [
+      "terrifying",
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "apes_animals",
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "tank_armour",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "horse",
+      "tank_armoured"
+    ],
+    "technique": [
+      "tracking_shot",
+      "practical_effects",
+      "cgi",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "barbed wire",
+      "horse in battle",
+      "tank",
+      "no man's land",
+      "joey",
+      "western front"
+    ]
+  },
+  {
+    "film": "Joyeux Noël",
+    "year": 2005,
+    "scene": "Christmas truce in no-man's-land",
+    "query": "Joyeux Noel Christmas truce scene bagpipes",
+    "what_happens": "Scottish bagpipers in their trench answer a German tenor singing a carol; soldiers from the Scottish, French and German lines climb out, meet in the snow of no-man's-land and share drink, chocolate and photographs.",
+    "why": "Carion lets music bridge the lines: a single voice and bagpipes pull men out of the trenches, and the camera stays low among the wire and mud so the first tentative steps across feel genuinely dangerous.",
+    "director": "Christian Carion",
+    "country": "France/Germany/UK",
+    "craft": [
+      "Composer: Philippe Rombi"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "Christmas truce, Western Front, France, 24 December 1914",
+    "region": "western_europe",
+    "environment": [
+      "trench",
+      "snow_ice"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "snow",
+      "low_light"
+    ],
+    "mood": [
+      "melancholic",
+      "intimate",
+      "awe"
+    ],
+    "combatants": [
+      "ww1_soldiers"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "single_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "multiple",
+    "keywords": [
+      "christmas truce",
+      "bagpipes",
+      "silent night",
+      "fraternisation",
+      "no man's land",
+      "christmas carol"
+    ]
+  },
+  {
+    "film": "Lawrence of Arabia",
+    "year": 1962,
+    "scene": "The taking of Aqaba",
+    "query": "Lawrence of Arabia Aqaba charge scene",
+    "what_happens": "Lawrence's Bedouin army sweeps out of the desert on camels and horses toward the Turkish port of Aqaba, whose heavy guns point uselessly out to sea; one long pan follows the riders as they pour into the town.",
+    "why": "Lean reveals the strategy in a single camera move: the pan travels from the riders past the fixed guns aimed seaward, so the audience grasps Lawrence's audacity without a word, all in 70mm grandeur.",
+    "director": "David Lean",
+    "country": "UK",
+    "craft": [
+      "DP: Freddie Young",
+      "Editor: Anne V. Coates",
+      "Composer: Maurice Jarre"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "adventure"
+    ],
+    "era": "early_20th_century",
+    "period": "Capture of Aqaba, Ottoman Arabia, July 1917",
+    "region": "middle_east",
+    "environment": [
+      "desert",
+      "beach"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "heat_sun"
+    ],
+    "mood": [
+      "epic",
+      "awe",
+      "heroic"
+    ],
+    "combatants": [
+      "cavalry",
+      "native_warriors",
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "sabre_rapier",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "imax_large_format",
+      "wide_framing",
+      "large_crowds",
+      "real_location",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "aqaba",
+      "camels",
+      "bedouin",
+      "guns facing the sea",
+      "panning shot",
+      "70mm",
+      "peter o'toole"
+    ]
+  },
+  {
+    "film": "Lawrence of Arabia",
+    "year": 1962,
+    "scene": "Ambush of the Turkish train",
+    "query": "Lawrence of Arabia train attack scene",
+    "what_happens": "Lawrence detonates a mine beneath a Turkish train in the desert; Arab fighters swarm the wreck, cutting down the soldiers and looting, while Lawrence parades along the carriage roofs in his white robes to his men's cheers.",
+    "why": "Lean frames the explosion in deep, wide desert shots, then turns the aftermath into theatre: Lawrence's walk along the train roof, silhouetted and adored, visualises the myth swallowing the man.",
+    "director": "David Lean",
+    "country": "UK",
+    "craft": [
+      "DP: Freddie Young",
+      "Editor: Anne V. Coates",
+      "Composer: Maurice Jarre"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "ambush",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "historical_epic",
+      "war",
+      "adventure"
+    ],
+    "era": "early_20th_century",
+    "period": "Hejaz Railway, Ottoman Arabia, 1917",
+    "region": "middle_east",
+    "environment": [
+      "desert",
+      "train"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "dust_sand",
+      "heat_sun"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "native_warriors",
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "explosives",
+      "rifle",
+      "sabre_rapier"
+    ],
+    "vehicles": [
+      "train",
+      "horse"
+    ],
+    "technique": [
+      "practical_explosions",
+      "wide_framing",
+      "real_location",
+      "silhouette"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "hejaz railway",
+      "train ambush",
+      "white robes",
+      "walking on the train",
+      "mine explosion",
+      "bedouin raiders"
+    ],
+    "video": "pVkYqOoSwvk"
+  },
+  {
+    "film": "All Quiet on the Western Front",
+    "year": 1930,
+    "scene": "French attack on the German trenches",
+    "query": "All Quiet on the Western Front 1930 trench attack machine gun scene",
+    "what_happens": "French infantry charge across no-man's-land into German machine-gun fire; the camera tracks sideways along the trench as rows of attackers fall, then survivors pour over the parapet into savage hand-to-hand fighting.",
+    "why": "Milestone's lateral dolly and crane shots, moving with the sweep of the machine gun, made the attack an industrial killing line, while early synchronised sound gives every burst and explosion a raw, documentary punch.",
+    "director": "Lewis Milestone",
+    "country": "USA",
+    "craft": [
+      "DP: Arthur Edeson"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "German trenches on the Western Front, France, c. 1916",
+    "region": "western_europe",
+    "environment": [
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "mud"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "ww1_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "explosives",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "crane_aerial",
+      "black_and_white",
+      "practical_explosions",
+      "sound_design"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "machine gun sweep",
+      "lateral tracking",
+      "no man's land",
+      "german soldiers",
+      "early sound film",
+      "hands on the wire"
+    ]
+  },
+  {
+    "film": "Battleship Potemkin",
+    "year": 1925,
+    "scene": "The Odessa Steps",
+    "query": "Battleship Potemkin Odessa Steps scene",
+    "what_happens": "Tsarist soldiers march in step down the Odessa Steps firing into a fleeing crowd; a mother carries her dead son up toward their rifles, and a baby carriage bounces down the stairs among the bodies.",
+    "why": "Eisenstein's montage manifesto: rhythmic cutting between marching boots, faces and the runaway pram expands time and builds outrage, a sequence quoted by countless later films.",
+    "director": "Sergei Eisenstein",
+    "country": "USSR",
+    "craft": [
+      "DP: Eduard Tisse"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "rampage"
+    ],
+    "scale": "army",
+    "genre": [
+      "drama",
+      "historical_epic"
+    ],
+    "era": "early_20th_century",
+    "period": "Odessa Steps, Russian Empire (Ukraine), June 1905",
+    "region": "eastern_europe",
+    "environment": [
+      "stairwell",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "civilians",
+      "cavalry"
+    ],
+    "weapons": [
+      "rifle",
+      "sabre_rapier"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "montage",
+      "fast_cutting",
+      "black_and_white",
+      "large_crowds",
+      "real_location"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "none_or_minimal",
+    "keywords": [
+      "odessa steps",
+      "baby carriage",
+      "silent film",
+      "soviet montage",
+      "massacre",
+      "marching boots",
+      "eisenstein"
+    ]
+  },
+  {
+    "film": "Stalingrad",
+    "year": 2013,
+    "scene": "Burning soldiers charge through the fuel depot",
+    "query": "Stalingrad 2013 burning soldiers scene",
+    "what_happens": "As Soviet troops storm the Volga bank at night, a fuel depot erupts in flames; soldiers engulfed in fire keep charging in slow motion through the inferno and overrun the stunned German positions.",
+    "why": "Bondarchuk turns a massacre into operatic imagery: extended slow-motion shots of burning stunt performers running through fire, made for large-format 3D, make the opening feel like a fever dream rather than realism.",
+    "director": "Fedor Bondarchuk",
+    "country": "Russia",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Volga riverbank, Battle of Stalingrad, Soviet Union, autumn 1942",
+    "region": "russia",
+    "environment": [
+      "ruined_city",
+      "river_lake"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "epic",
+      "brutal"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "flamethrower",
+      "automatic_weapons",
+      "rifle",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "practical_stunts",
+      "cgi",
+      "imax_large_format"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "russian",
+    "keywords": [
+      "burning soldiers",
+      "fuel depot",
+      "fire charge",
+      "volga",
+      "3d",
+      "russian war film"
+    ]
+  },
+  {
+    "film": "Enemy at the Gates",
+    "year": 2001,
+    "scene": "Final sniper duel: Vassili vs. König",
+    "query": "Enemy at the Gates final sniper duel Vassili Konig scene",
+    "what_happens": "In the ruins of a Stalingrad rail yard, Vassili and the German master sniper König stalk each other through their scopes; Danilov deliberately steps into the open to draw König's shot, and Vassili kills König.",
+    "why": "A duel of patience: long lenses, scope POVs and near-silent sound design turn waiting into suspense, with tiny glints and movements carrying all the action until a single shot ends it.",
+    "director": "Jean-Jacques Annaud",
+    "country": "USA/Germany/UK/Ireland",
+    "craft": [
+      "DP: Robert Fraisse",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "duel",
+      "standoff"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "war",
+      "drama",
+      "thriller"
+    ],
+    "era": "ww2",
+    "period": "Ruined rail yard, Stalingrad, Soviet Union, winter 1942",
+    "region": "russia",
+    "environment": [
+      "ruined_city",
+      "train_station"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "sniper_rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "pov",
+      "tight_framing",
+      "sound_design",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "sniper duel",
+      "vassili zaitsev",
+      "major konig",
+      "scope glint",
+      "jude law",
+      "ed harris",
+      "danilov"
+    ]
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Winters' charge on the dike ('Crossroads')",
+    "query": "Band of Brothers Crossroads Winters dike charge scene",
+    "what_happens": "Leading a small patrol along a Dutch dike, Winters sprints alone up the embankment and fires into a mass of SS troops on the far side, shooting a young soldier, before his men join in to rout a far larger force.",
+    "why": "Hanks' episode replays the attack as Winters' haunted memory: a slow-motion, near-silent sprint and the face of a teenage German soldier make a tactical victory feel like a wound.",
+    "director": "Tom Hanks",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "The Island near Nijmegen, Netherlands, October 1944",
+    "region": "western_europe",
+    "environment": [
+      "grassland",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "tragic",
+      "intimate"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "sound_design",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "dike",
+      "major winters",
+      "ss troops",
+      "flashback",
+      "easy company",
+      "young soldier",
+      "tom hanks"
+    ]
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Tree-burst barrage in the Bois Jacques ('The Breaking Point')",
+    "query": "Band of Brothers Bastogne artillery barrage tree bursts Toye Guarnere scene",
+    "what_happens": "German artillery crashes into the snowy Bois Jacques, shells exploding in the treetops above Easy Company's foxholes; men dive for cover as splinters rain down, and Toye and Guarnere are both badly wounded.",
+    "why": "Sound and practical effects make the barrage overwhelming: deafening tree bursts, flying splinters and snow, and a camera pinned at foxhole level show why the forest itself became the enemy.",
+    "director": "David Frankel",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "bombardment"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Bois Jacques, near Foy, Belgium, January 1945",
+    "region": "western_europe",
+    "environment": [
+      "forest",
+      "snow_ice",
+      "trench"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "handheld",
+      "sound_design",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "tree bursts",
+      "foxholes",
+      "bastogne",
+      "shelling",
+      "joe toye",
+      "bill guarnere",
+      "battle of the bulge"
+    ]
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Assault on Carentan ('Carentan')",
+    "query": "Band of Brothers Carentan assault Winters scene",
+    "what_happens": "Easy Company storms into Carentan; pinned by machine-gun crossfire at the town entrance, the men freeze until Winters runs into the open street yelling at them to move, and the company fights house to house.",
+    "why": "The scene hinges on leadership: the camera follows Winters into open fire as he physically drives his frozen men forward, and the house clearing that follows is staged tight, fast and chaotic.",
+    "director": "Mikael Salomon",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Carentan, Normandy, France, 12 June 1944",
+    "region": "western_europe",
+    "environment": [
+      "city_street",
+      "building_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "sound_design",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "carentan",
+      "winters",
+      "town assault",
+      "house to house",
+      "albert blithe",
+      "paratroopers",
+      "easy company"
+    ],
+    "video": "v4arDM0N4uo"
+  },
+  {
+    "film": "The Pacific",
+    "year": 2010,
+    "scene": "Okinawa in the rain and mud ('Part Nine')",
+    "query": "The Pacific Okinawa episode battle scene",
+    "what_happens": "Marines inch across a rain-soaked Okinawa landscape of mud and corpses; Japanese soldiers fight among the villages, civilians are caught between the lines, and Sledge's company grinds forward under constant fire.",
+    "why": "The episode's battle is about moral erosion: grey downpour, knee-deep mud and the blurred line between civilians and combatants push the realism toward horror, with Sledge's face as the emotional anchor.",
+    "director": "Tim Van Patten",
+    "country": "USA",
+    "craft": [],
+    "accolades": [
+      "Emmy: Outstanding Miniseries"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Okinawa, Ryukyu Islands, Japan, May 1945",
+    "region": "japan",
+    "environment": [
+      "swamp_mud",
+      "hills_mountains",
+      "village"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "rain",
+      "mud",
+      "explosions"
+    ],
+    "mood": [
+      "brutal",
+      "gritty",
+      "tragic"
+    ],
+    "combatants": [
+      "ww2_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "explosives",
+      "artillery_cannon"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "okinawa",
+      "marines",
+      "rain and mud",
+      "eugene sledge",
+      "civilian casualties",
+      "snafu"
+    ]
+  },
+  {
+    "film": "Kelly's Heroes",
+    "year": 1970,
+    "scene": "Showdown with the Tiger tank in Clermont",
+    "query": "Kelly's Heroes Tiger tank showdown scene",
+    "what_happens": "Kelly, Big Joe and Oddball walk across a ruined town square toward the last Tiger tank guarding the bank, in a mock spaghetti-western showdown, and offer its commander a share of the gold.",
+    "why": "A genre mash-up: a Leone-style duel restaged with a tank, using a long walk, extreme close-ups and a Morricone-pastiche cue to turn the Second World War into a western joke.",
+    "director": "Brian G. Hutton",
+    "country": "USA",
+    "craft": [
+      "Composer: Lalo Schifrin"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "standoff"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "comedy",
+      "adventure"
+    ],
+    "era": "ww2",
+    "period": "Clermont, occupied France, autumn 1944",
+    "region": "western_europe",
+    "environment": [
+      "ruined_city",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "playful",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "tank_armour",
+      "rifle"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "score_driven",
+      "tight_framing",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "tiger tank",
+      "western parody",
+      "bank heist",
+      "clint eastwood",
+      "oddball",
+      "gold bars",
+      "morricone pastiche"
+    ]
+  },
+  {
+    "film": "The Dirty Dozen",
+    "year": 1967,
+    "scene": "Raid on the château",
+    "query": "The Dirty Dozen chateau raid ending scene",
+    "what_happens": "The commandos storm a French château full of German officers; trapping them in the cellar shelter, they pour gasoline and drop grenades down the air vents as Jefferson sprints from vent to vent before the château explodes.",
+    "why": "Aldrich plays the climax as a cold execution of the plan rehearsed earlier, the rhyme turning the payoff into a grim joke, then ends the sprinting grenade run in a massive practical blast.",
+    "director": "Robert Aldrich",
+    "country": "UK/USA",
+    "craft": [
+      "Composer: Frank De Vol"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Effects"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "action",
+      "adventure"
+    ],
+    "era": "ww2",
+    "period": "German officers' château, Brittany, France, eve of D-Day 1944",
+    "region": "western_europe",
+    "environment": [
+      "palace_mansion",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "fire"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "ww2_soldiers",
+      "special_forces"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "explosives",
+      "rifle"
+    ],
+    "vehicles": [
+      "truck"
+    ],
+    "technique": [
+      "practical_explosions",
+      "practical_stunts",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "chateau raid",
+      "grenades down air vents",
+      "jim brown run",
+      "commandos",
+      "convicts",
+      "lee marvin"
+    ]
+  },
+  {
+    "film": "Patton",
+    "year": 1970,
+    "scene": "Battle of El Guettar",
+    "query": "Patton El Guettar tank battle scene",
+    "what_happens": "From a hilltop command post, Patton watches German panzers roll across a Tunisian valley into his prepared artillery and tank-destroyer fire; the attack is shattered and he exults at having outguessed Rommel.",
+    "why": "Schaffner shoots the whole tank battle from Patton's vantage in ultra-wide 70mm, so a vast desert engagement reads like a chess game watched by its player, with Goldsmith's echoing trumpet motif as his signature.",
+    "director": "Franklin J. Schaffner",
+    "country": "USA",
+    "craft": [
+      "DP: Fred J. Koenekamp",
+      "Composer: Jerry Goldsmith"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Actor",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "bombardment"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Battle of El Guettar, Tunisia, 23 March 1943",
+    "region": "north_africa",
+    "environment": [
+      "desert",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "tank_armour",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "wide_framing",
+      "practical_explosions",
+      "real_location",
+      "imax_large_format"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "patton",
+      "rommel",
+      "panzers",
+      "tunisia",
+      "tank destroyers",
+      "desert warfare",
+      "george c. scott"
+    ],
+    "video": "_BloTR88ZxE"
+  },
+  {
+    "film": "A Bridge Too Far",
+    "year": 1977,
+    "scene": "Waal river crossing in canvas boats",
+    "query": "A Bridge Too Far Waal river crossing Redford scene",
+    "what_happens": "Under heavy German fire, Major Cook's paratroopers paddle flimsy canvas boats across the wide Waal in daylight; men are cut down in the water as Cook repeats a prayer in rhythm with the strokes, before the survivors storm the far bank.",
+    "why": "Attenborough shoots the crossing in long wide shots on a real river so the distance becomes unbearable, punctuated by Redford's chanted prayer as men paddle, fall and keep going.",
+    "director": "Richard Attenborough",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Geoffrey Unsworth",
+      "Composer: John Addison"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "historical_epic"
+    ],
+    "era": "ww2",
+    "period": "Waal river crossing, Nijmegen, Netherlands, 20 September 1944",
+    "region": "western_europe",
+    "environment": [
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "water_spray",
+      "explosions"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "artillery_cannon",
+      "rifle"
+    ],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "wide_framing",
+      "real_location",
+      "practical_explosions",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "canvas boats",
+      "waal crossing",
+      "robert redford",
+      "hail mary",
+      "operation market garden",
+      "82nd airborne"
+    ]
+  },
+  {
+    "film": "Cross of Iron",
+    "year": 1977,
+    "scene": "Soviet tank assault on the German trenches",
+    "query": "Cross of Iron Russian tank attack scene",
+    "what_happens": "Soviet T-34s and infantry overrun the German trench line; tanks grind over foxholes and bunkers as Steiner's men fight back with grenades and machine guns, the chaos fractured by Peckinpah's slow-motion inserts.",
+    "why": "Peckinpah fragments the violence with multiple cameras and slow-motion shots of falling bodies cut against real-speed action, so the battle feels both chaotic and elegiac.",
+    "director": "Sam Peckinpah",
+    "country": "UK/West Germany",
+    "craft": [
+      "DP: John Coquillon",
+      "Composer: Ernest Gold"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Taman Peninsula, Eastern Front, Soviet Union, 1943",
+    "region": "russia",
+    "environment": [
+      "trench",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "dust_sand"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "gritty"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "tank_armour",
+      "automatic_weapons",
+      "explosives",
+      "rifle"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "slow_motion",
+      "fast_cutting",
+      "practical_explosions",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "t-34",
+      "eastern front",
+      "sergeant steiner",
+      "overrun trenches",
+      "peckinpah slow motion",
+      "wehrmacht"
+    ]
+  },
+  {
+    "film": "Flags of Our Fathers",
+    "year": 2006,
+    "scene": "Iwo Jima beach landing",
+    "query": "Flags of Our Fathers Iwo Jima landing scene",
+    "what_happens": "Amphibious tractors grind onto Iwo Jima's black volcanic sand and the marines advance unopposed, until hidden Japanese guns open up from the hills and the beach becomes a killing ground.",
+    "why": "Eastwood shoots in heavily desaturated, almost monochrome colour; the eerie quiet of the advance followed by sudden fire from invisible positions makes the island itself feel like the enemy.",
+    "director": "Clint Eastwood",
+    "country": "USA",
+    "craft": [
+      "DP: Tom Stern",
+      "Composer: Clint Eastwood"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "ambush"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Invasion beaches, Iwo Jima, Japan, 19 February 1945",
+    "region": "japan",
+    "environment": [
+      "beach",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "dust_sand"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "small_boat",
+      "warship"
+    ],
+    "technique": [
+      "color_grading",
+      "cgi",
+      "handheld",
+      "practical_explosions",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "black sand",
+      "amtracs",
+      "mount suribachi",
+      "marines",
+      "desaturated",
+      "hidden bunkers"
+    ]
+  },
+  {
+    "film": "The Longest Day",
+    "year": 1962,
+    "scene": "Paratroopers drop into Sainte-Mère-Église",
+    "query": "The Longest Day Sainte-Mere-Eglise paratroopers church steeple scene",
+    "what_happens": "American paratroopers drift down at night into Sainte-Mère-Église, lit by a burning house; German soldiers shoot them as they land, and one trooper hangs helplessly from the church steeple, deafened by the tolling bell.",
+    "why": "A grim set-piece inside an all-star epic: helpless men floating into a lit square are framed like targets, and the clanging bell and the hanging paratrooper give the massacre an unforgettable focal image.",
+    "director": "Ken Annakin, Andrew Marton, Bernhard Wicki",
+    "country": "USA",
+    "craft": [
+      "Composer: Maurice Jarre"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography (Black-and-White)",
+      "Oscar: Best Special Effects"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "historical_epic"
+    ],
+    "era": "ww2",
+    "period": "Sainte-Mère-Église, Normandy, France, night of 5-6 June 1944",
+    "region": "western_europe",
+    "environment": [
+      "plaza_square",
+      "temple_church",
+      "sky"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "low_light",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "terrifying"
+    ],
+    "combatants": [
+      "ww2_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "parachute_wingsuit"
+    ],
+    "technique": [
+      "black_and_white",
+      "crane_aerial",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "paratroopers",
+      "church steeple",
+      "red buttons",
+      "church bell",
+      "airborne drop",
+      "d-day night"
+    ]
+  },
+  {
+    "film": "Brest Fortress",
+    "year": 2010,
+    "scene": "Dawn attack on 22 June 1941",
+    "query": "Brest Fortress 2010 German attack opening scene",
+    "what_happens": "In the quiet before dawn on 22 June 1941, German artillery suddenly smashes the sleeping Brest Fortress; barracks collapse and Soviet soldiers and their families scramble through fire and rubble as assault troops cross the river.",
+    "why": "The film builds the outbreak of war from a peaceful evening seen through a boy's eyes, so the barrage lands as a brutal tonal rupture; the camera stays at the level of the defenders amid fire and falling walls.",
+    "director": "Alexander Kott",
+    "country": "Russia/Belarus",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "bombardment",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Brest Fortress, Byelorussian SSR, 22 June 1941",
+    "region": "eastern_europe",
+    "environment": [
+      "castle_fortress",
+      "military_base"
+    ],
+    "time_of_day": "twilight",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "ww2_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "handheld",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "russian",
+    "keywords": [
+      "operation barbarossa",
+      "22 june 1941",
+      "fortress siege",
+      "red army",
+      "surprise attack",
+      "bug river"
+    ],
+    "video": "hMOTbUe3fuw"
+  },
+  {
+    "film": "T-34",
+    "year": 2018,
+    "scene": "Ivushkin's lone T-34 against the panzers",
+    "query": "T-34 2018 opening tank battle village scene",
+    "what_happens": "In a snowy village outside Moscow in 1941, Ivushkin's single T-34 ambushes a column of German tanks, shells shown in slow-motion flight as the two sides duel at close range among the houses.",
+    "why": "Sidorov treats tank combat like a sports duel: slow-motion shell trajectories, interior close-ups of loader and commander, and game-like clarity about angles and armour make each hit readable.",
+    "director": "Aleksey Sidorov",
+    "country": "Russia",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "action"
+    ],
+    "era": "ww2",
+    "period": "Village near Moscow, Soviet Union, November 1941",
+    "region": "russia",
+    "environment": [
+      "village",
+      "snow_ice"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "tank_armour"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "russian",
+    "keywords": [
+      "t-34",
+      "panzer",
+      "tank duel",
+      "slow-motion shells",
+      "battle of moscow",
+      "ivushkin",
+      "klaus jager"
+    ]
+  },
+  {
+    "film": "Assembly",
+    "year": 2007,
+    "scene": "Last stand at the old mine",
+    "query": "Assembly 2007 Feng Xiaogang battle scene old mine",
+    "what_happens": "Captain Gu Zidi's company holds a ruined mine against waves of Nationalist infantry and tanks, waiting for a bugle call to retreat that never comes, until Gu is the only man left alive.",
+    "why": "Feng stages the stand with grimy handheld coverage and violent practical effects, while the unheard bugle turns the action into a question about obedience and sacrifice rather than heroism.",
+    "director": "Feng Xiaogang",
+    "country": "China/Hong Kong",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Huaihai Campaign, Chinese Civil War, winter 1948",
+    "region": "china",
+    "environment": [
+      "battlefield",
+      "trench"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "tragic",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "cold_war_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "explosives",
+      "tank_armour"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "mandarin",
+    "keywords": [
+      "chinese civil war",
+      "bugle call",
+      "ninth company",
+      "last stand",
+      "gu zidi",
+      "nationalist tanks"
+    ]
+  },
+  {
+    "film": "Hamburger Hill",
+    "year": 1987,
+    "scene": "Final assault up Hill 937",
+    "query": "Hamburger Hill final assault scene",
+    "what_happens": "In pouring rain, the exhausted remnants of the platoon crawl and slide up the muddy slope of Hill 937 under machine-gun and grenade fire, finally reaching the ridgeline after days of repeated assaults.",
+    "why": "Irvin strips the assault of glory: rain, mud and slipping bodies make every metre a physical struggle, and near-documentary handheld coverage keeps faces caked and almost unrecognisable.",
+    "director": "John Irvin",
+    "country": "USA",
+    "craft": [
+      "Composer: Philip Glass"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Hill 937 (Ap Bia Mountain), A Shau Valley, Vietnam, May 1969",
+    "region": "southeast_asia",
+    "environment": [
+      "hills_mountains",
+      "jungle",
+      "swamp_mud"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "rain",
+      "mud",
+      "explosions"
+    ],
+    "mood": [
+      "gritty",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "cold_war_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hill 937",
+      "a shau valley",
+      "101st airborne",
+      "mud slope",
+      "rain",
+      "repeated assaults"
+    ],
+    "video": "WJLgr1Ch1hQ"
+  },
+  {
+    "film": "Apocalypse Now",
+    "year": 1979,
+    "scene": "Do Lung Bridge at night",
+    "query": "Apocalypse Now Do Lung Bridge scene",
+    "what_happens": "Willard reaches the Do Lung bridge, a chaotic outpost lit by flares and strings of lights; leaderless soldiers fire blindly into the dark, and a grenadier kills a taunting enemy in the wire by sound alone.",
+    "why": "Storaro lights the bridge with flares, bulbs and smoke like a nightmarish carnival; with no commanding officer anywhere, the staging and soundscape make the war itself feel insane.",
+    "director": "Francis Ford Coppola",
+    "country": "USA",
+    "craft": [
+      "DP: Vittorio Storaro",
+      "Sound designer: Walter Murch"
+    ],
+    "accolades": [
+      "Cannes: Palme d'Or",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "last_stand"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Do Lung Bridge, near the Cambodian border, Vietnam War, c. 1969",
+    "region": "southeast_asia",
+    "environment": [
+      "bridge",
+      "river_lake",
+      "trench"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke",
+      "strobe_flash",
+      "explosions"
+    ],
+    "mood": [
+      "surreal",
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "cold_war_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "explosives",
+      "rifle"
+    ],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "sound_design",
+      "practical_explosions",
+      "silhouette",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "do lung bridge",
+      "roach",
+      "grenade launcher",
+      "flares",
+      "no commanding officer",
+      "last outpost",
+      "willard"
+    ]
+  },
+  {
+    "film": "Zero Dark Thirty",
+    "year": 2012,
+    "scene": "Night raid on the Abbottabad compound",
+    "query": "Zero Dark Thirty raid scene Abbottabad compound",
+    "what_happens": "SEALs fly in on stealth helicopters, one crash-landing inside the walls; they move through the dark house in night-vision green, blowing doors and firing suppressed shots floor by floor until they reach the top.",
+    "why": "Bigelow plays the raid almost in real time in near-total darkness, intercutting night-vision POVs with quiet procedural chatter, so tension comes from methodical movement rather than gunplay.",
+    "director": "Kathryn Bigelow",
+    "country": "USA",
+    "craft": [
+      "DP: Greig Fraser",
+      "Editors: William Goldenberg, Dylan Tichenor"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "stealth_infiltration"
+    ],
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "war",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Bin Laden compound, Abbottabad, Pakistan, 2 May 2011",
+    "region": "south_asia",
+    "environment": [
+      "apartment_house",
+      "stairwell",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "special_forces",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "explosives",
+      "handgun"
+    ],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
+      "pov",
+      "handheld",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "navy seals",
+      "night vision",
+      "stealth helicopters",
+      "bin laden raid",
+      "breaching charges",
+      "real-time"
+    ]
+  },
+  {
+    "film": "13 Hours: The Secret Soldiers of Benghazi",
+    "year": 2016,
+    "scene": "Defending the CIA Annex at night",
+    "query": "13 Hours Annex defense night battle scene",
+    "what_happens": "From the rooftops of the CIA Annex, the security contractors watch waves of militants advance across a dark field, firing back through night-vision scopes until a mortar barrage begins to fall on the compound.",
+    "why": "Bay tunes his style to siege tension: thermal and night-vision views, muzzle flashes in the dark and constant uncertainty over who is friend or foe make the defence feel exposed and endless.",
+    "director": "Michael Bay",
+    "country": "USA",
+    "craft": [
+      "DP: Dion Beebe"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "last_stand",
+      "siege"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "war",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "CIA Annex, Benghazi, Libya, 11-12 September 2012",
+    "region": "north_africa",
+    "environment": [
+      "military_base",
+      "rooftops"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "explosions",
+      "strobe_flash"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "relentless"
+    ],
+    "combatants": [
+      "mercenaries",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "explosives",
+      "rocket_missile"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "practical_explosions",
+      "pov",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "benghazi",
+      "cia annex",
+      "mortars",
+      "security contractors",
+      "night vision",
+      "militia attack"
+    ],
+    "video": "lKGs4YhVOFY"
+  },
+  {
+    "film": "American Sniper",
+    "year": 2014,
+    "scene": "Sandstorm firefight in Sadr City",
+    "query": "American Sniper sandstorm final battle scene",
+    "what_happens": "Chris Kyle makes an extreme long-range shot that kills the enemy sniper Mustafa but gives away the SEALs' rooftop; insurgents swarm the building as a sandstorm engulfs it, and the team fights its way to the vehicles.",
+    "why": "The sandstorm wipes out the frame's geography, forcing sound, muzzle flashes and fragmentary shapes to carry the escape, a lesson in using weather as both obstacle and visual chaos.",
+    "director": "Clint Eastwood",
+    "country": "USA",
+    "craft": [
+      "DP: Tom Stern"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "last_stand",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Sadr City, Baghdad, Iraq, c. 2008",
+    "region": "middle_east",
+    "environment": [
+      "rooftops",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "sandstorm",
+      "dust_sand",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "relentless"
+    ],
+    "combatants": [
+      "special_forces",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "sniper_rifle",
+      "automatic_weapons",
+      "rifle",
+      "explosives"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "sound_design",
+      "practical_effects",
+      "cgi",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "sandstorm",
+      "navy seals",
+      "mustafa",
+      "long-range shot",
+      "sadr city",
+      "chris kyle",
+      "exfiltration"
+    ]
+  },
+  {
+    "film": "Jarhead",
+    "year": 2005,
+    "scene": "Marching through the burning oil fields",
+    "query": "Jarhead burning oil fields scene",
+    "what_happens": "The marines walk through a blackened Kuwaiti desert where hundreds of oil wells burn in towering pillars of fire, crude oil raining down on them, as an oil-soaked horse wanders out of the smoke.",
+    "why": "Deakins uses the burning wells as the main light source, turning daytime into a flickering night; the war's only spectacle is an apocalyptic landscape, not a battle, which is exactly the film's point.",
+    "director": "Sam Mendes",
+    "country": "USA",
+    "craft": [
+      "DP: Roger Deakins",
+      "Editor: Walter Murch",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "spectacle",
+      "journey"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "period": "Burning oil fields, Kuwait, Gulf War, February 1991",
+    "region": "middle_east",
+    "environment": [
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "low_light"
+    ],
+    "mood": [
+      "surreal",
+      "awe",
+      "melancholic"
+    ],
+    "combatants": [
+      "cold_war_soldiers"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "silhouette",
+      "practical_effects",
+      "natural_light",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "oil fires",
+      "gulf war",
+      "oil rain",
+      "oil-soaked horse",
+      "marines",
+      "desert storm"
+    ],
+    "video": "olHaqANv6Uw"
+  },
+  {
+    "film": "The Kingdom",
+    "year": 2007,
+    "scene": "Highway ambush and apartment-block rescue",
+    "query": "The Kingdom final shootout scene highway ambush",
+    "what_happens": "The FBI convoy is hit by an RPG on a Riyadh highway; Fleury's team and Saudi police officer Al-Ghazi fight through a dense apartment block, room by room, to rescue their kidnapped colleague.",
+    "why": "Berg's documentary-style handheld coverage and fast, overlapping editing pack an urban firefight into tight stairwells and rooms while keeping each agent's position clear.",
+    "director": "Peter Berg",
+    "country": "USA",
+    "craft": [
+      "DP: Mauro Fiore",
+      "Composer: Danny Elfman"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "assault_raid",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Riyadh, Saudi Arabia, early 2000s",
+    "region": "middle_east",
+    "environment": [
+      "highway",
+      "apartment_house",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "dust_sand",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "federal_agents",
+      "police",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "rocket_missile",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "handheld",
+      "fast_cutting",
+      "practical_stunts",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "fbi",
+      "riyadh",
+      "rpg ambush",
+      "jamie foxx",
+      "apartment block",
+      "rescue",
+      "saudi police"
+    ]
+  },
+  {
+    "film": "Black Hawk Down",
+    "year": 2001,
+    "scene": "The lost convoy",
+    "query": "Black Hawk Down convoy scene Humvees Mogadishu",
+    "what_happens": "McKnight's Humvee convoy drives in circles through Mogadishu's streets, taking fire from every rooftop and alley; vehicles fill with wounded and dead as they repeatedly miss the turns toward the crash site.",
+    "why": "The convoy turns navigation into horror: overhead surveillance views of trucks lost in the maze are cut against claustrophobic interior chaos, and the editing makes time and space disintegrate.",
+    "director": "Ridley Scott",
+    "country": "USA",
+    "craft": [
+      "DP: Sławomir Idziak",
+      "Editor: Pietro Scalia",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "ambush",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "period": "Mogadishu, Somalia, 3 October 1993",
+    "region": "sub_saharan_africa",
+    "environment": [
+      "city_street",
+      "car_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "relentless",
+      "brutal"
+    ],
+    "combatants": [
+      "modern_soldiers",
+      "special_forces"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rocket_missile",
+      "rifle"
+    ],
+    "vehicles": [
+      "truck"
+    ],
+    "technique": [
+      "handheld",
+      "cross_cutting",
+      "fast_cutting",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "lost convoy",
+      "humvees",
+      "mogadishu streets",
+      "mcknight",
+      "rangers",
+      "wrong turns",
+      "surveillance view"
+    ]
+  },
+  {
+    "film": "Operation Red Sea",
+    "year": 2018,
+    "scene": "Tank battle in the sandstorm",
+    "query": "Operation Red Sea tank battle sandstorm scene",
+    "what_happens": "In the final battle, the Jiaolong commandos commandeer a tank and duel enemy armour through a raging sandstorm, firing at shapes in the dust as rockets and machine guns tear across the desert.",
+    "why": "Dante Lam's maximalism: sand-choked visibility turns the tank duel into a game of glimpses, while graphic practical effects and constant camera motion keep the scale relentless.",
+    "director": "Dante Lam",
+    "country": "China/Hong Kong",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "massed_battle",
+      "duel"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "war"
+    ],
+    "era": "contemporary",
+    "period": "Fictional war-torn Arabian state, present day",
+    "region": "middle_east",
+    "environment": [
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "sandstorm",
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "special_forces",
+      "mercenaries"
+    ],
+    "weapons": [
+      "tank_armour",
+      "rocket_missile",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "practical_explosions",
+      "practical_stunts",
+      "cgi",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "mandarin",
+    "keywords": [
+      "jiaolong commandos",
+      "sandstorm",
+      "tank battle",
+      "chinese navy",
+      "evacuation mission"
+    ]
+  },
+  {
+    "film": "The Outpost",
+    "year": 2020,
+    "scene": "Taliban assault on Combat Outpost Keating",
+    "query": "The Outpost battle of Kamdesh scene",
+    "what_happens": "At dawn, hundreds of Taliban fighters open fire from the mountains ringing Combat Outpost Keating; soldiers sprint between buildings under rocket and machine-gun fire as the perimeter is breached and the camp starts to burn.",
+    "why": "Lurie uses long, roving takes that follow soldiers running between positions, so the outpost's indefensible geography, a bowl beneath steep mountains, is understood in real time.",
+    "director": "Rod Lurie",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "last_stand",
+      "siege"
+    ],
+    "scale": "army",
+    "genre": [
+      "war",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Combat Outpost Keating, Nuristan, Afghanistan, 3 October 2009",
+    "region": "central_asia",
+    "environment": [
+      "military_base",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "relentless",
+      "brutal"
+    ],
+    "combatants": [
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rocket_missile",
+      "rifle",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "handheld",
+      "practical_explosions",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "battle of kamdesh",
+      "cop keating",
+      "taliban",
+      "outpost",
+      "medal of honor",
+      "mountain bowl"
+    ],
+    "video": "3RrdQsFC0ms"
+  },
+  {
+    "film": "Memphis Belle",
+    "year": 1990,
+    "scene": "Bomb run over Bremen",
+    "query": "Memphis Belle bomb run Bremen scene",
+    "what_happens": "Over Bremen, clouds hide the target, so the Belle's captain takes the battered B-17 around for a second pass through the flak rather than bomb blind; the bombs finally fall on the factory as the crew holds its breath.",
+    "why": "Real B-17s fill the formation shots while the suspense lives inside the cramped fuselage, cutting between crew stations as flak bursts close in, a template for bomber-crew drama.",
+    "director": "Michael Caton-Jones",
+    "country": "UK/USA",
+    "craft": [
+      "DP: David Watkin",
+      "Composer: George Fenton"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Bombing raid on Bremen, Germany, May 1943",
+    "region": "sky",
+    "environment": [
+      "aircraft",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "pilots",
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "real_aircraft",
+      "cross_cutting",
+      "tight_framing",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "b-17",
+      "bremen",
+      "flak",
+      "bombardier",
+      "25th mission",
+      "second pass",
+      "flying fortress"
+    ]
+  },
+  {
+    "film": "Red Tails",
+    "year": 2012,
+    "scene": "Escort fight against the Me 262 jets",
+    "query": "Red Tails Me 262 jet dogfight scene",
+    "what_happens": "Escorting B-17s deep into Germany, the Tuskegee Airmen's red-tailed Mustangs dive on a swarm of German Me 262 jets, struggling to catch the faster fighters as bombers burn and fall around them.",
+    "why": "All-digital aircraft let the camera fly through formations impossibly close, giving the dogfights the kinetic sweep of a space battle, while the red tails colour-code the heroes for instant readability.",
+    "director": "Anthony Hemingway",
+    "country": "USA",
+    "craft": [
+      "Composer: Terence Blanchard"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "dogfight"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "action",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Bomber escort mission over Germany, 1945",
+    "region": "sky",
+    "environment": [
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "chaotic",
+      "epic"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft",
+      "jet_aircraft"
+    ],
+    "technique": [
+      "cgi",
+      "fast_cutting",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "tuskegee airmen",
+      "p-51 mustang",
+      "me 262",
+      "red tails",
+      "bomber escort",
+      "jet fighters"
+    ]
+  },
+  {
+    "film": "Midway",
+    "year": 2019,
+    "scene": "Bruno Gaido guns down the bomber diving on the Enterprise",
+    "query": "Midway 2019 Bruno Gaido Enterprise bomber scene",
+    "what_happens": "During the Marshall Islands raid, a burning Japanese bomber dives at the carrier Enterprise; mechanic Bruno Gaido leaps into the rear gun of a parked Dauntless and fires until the bomber clips the plane and plunges into the sea.",
+    "why": "A compact hero beat inside the carrier war: Emmerich holds on Gaido's tiny gun position against the looming bomber, using the deck's geometry to make one man's stand read instantly.",
+    "director": "Roland Emmerich",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment",
+      "last_stand"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "action",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "USS Enterprise off the Marshall Islands, 1 February 1942",
+    "region": "open_ocean",
+    "environment": [
+      "ship_deck",
+      "airfield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "sailors_navy",
+      "pilots"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft",
+      "warship"
+    ],
+    "technique": [
+      "cgi",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "bruno gaido",
+      "uss enterprise",
+      "dauntless gunner",
+      "marshall islands raid",
+      "halsey",
+      "burning bomber"
+    ]
+  },
+  {
+    "film": "Battle of Britain",
+    "year": 1969,
+    "scene": "Luftwaffe raid on the RAF airfield",
+    "query": "Battle of Britain 1969 airfield bombing scene",
+    "what_happens": "German bombers and fighters roar over an RAF airfield as pilots run for their Spitfires and Hurricanes; bombs walk across the field, aircraft explode on the ground and a hangar is blown apart.",
+    "why": "Shot with real Spitfires, Hurricanes and Spanish-built German types, the raid also used genuine demolition, an old Duxford hangar blown up for the cameras, giving the destruction rare physical weight.",
+    "director": "Guy Hamilton",
+    "country": "UK",
+    "craft": [
+      "DP: Freddie Young",
+      "Composer: Ron Goodwin"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "historical_epic"
+    ],
+    "era": "ww2",
+    "period": "RAF fighter airfield, southern England, August 1940",
+    "region": "british_isles",
+    "environment": [
+      "airfield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "pilots",
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "real_aircraft",
+      "practical_explosions",
+      "real_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "duxford hangar",
+      "heinkel bombers",
+      "scramble",
+      "spitfires",
+      "hurricanes",
+      "airfield raid",
+      "raf"
+    ]
+  },
+  {
+    "film": "Top Gun: Maverick",
+    "year": 2022,
+    "scene": "Stolen F-14 dogfight with the fifth-generation fighters",
+    "query": "Top Gun Maverick F-14 vs Su-57 dogfight scene",
+    "what_happens": "Shot down behind enemy lines, Maverick and Rooster steal an old F-14 Tomcat from the enemy base and take off, then fight two advanced enemy fighters in a low-level dogfight using flares and old-school manoeuvres.",
+    "why": "Cockpit footage of actors pulling real g's in fighter jets is cut against CG Tomcat and enemy-jet aerials, with strict screen direction so the outmatched old jet's scrappy fight stays physical and readable.",
+    "director": "Joseph Kosinski",
+    "country": "USA",
+    "craft": [
+      "DP: Claudio Miranda",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.air",
+    "format": [
+      "dogfight",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Unnamed rogue state's airspace, present day",
+    "region": "sky",
+    "environment": [
+      "sky",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "heroic",
+      "playful"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "real_aircraft",
+      "cgi",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "f-14 tomcat",
+      "su-57",
+      "maverick and rooster",
+      "stolen jet",
+      "dogfight",
+      "flares"
+    ]
+  },
+  {
+    "film": "Flyboys",
+    "year": 2006,
+    "scene": "Attack on the Zeppelin",
+    "query": "Flyboys Zeppelin attack scene",
+    "what_happens": "Lafayette Escadrille pilots in Nieuport biplanes attack a giant German Zeppelin on a bombing run, weaving through its gunners' fire until the hydrogen-filled airship bursts into flames.",
+    "why": "The sequence uses the airship's immense scale against tiny biplanes, digital wide shots establishing the size gap before cockpit close-ups make each pass a personal risk.",
+    "director": "Tony Bill",
+    "country": "USA",
+    "craft": [
+      "Composer: Trevor Rabin"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "dogfight",
+      "assault_raid"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "adventure",
+      "action"
+    ],
+    "era": "early_20th_century",
+    "period": "Skies over the Western Front, France, 1917",
+    "region": "sky",
+    "environment": [
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "explosions"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "biplane"
+    ],
+    "technique": [
+      "cgi",
+      "tracking_shot",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "zeppelin",
+      "lafayette escadrille",
+      "nieuport",
+      "american volunteers",
+      "airship",
+      "wwi aviation"
+    ]
+  },
+  {
+    "film": "Pearl Harbor",
+    "year": 2001,
+    "scene": "The Doolittle Raid",
+    "query": "Pearl Harbor Doolittle Raid scene",
+    "what_happens": "B-25 bombers lumber off the pitching deck of the carrier Hornet, skim low over the sea to Tokyo and drop their bombs on the city before running out of fuel over occupied China.",
+    "why": "Bay builds the raid in three movements, a suspenseful too-short takeoff, a low skimming approach and a quick explosive strike, mixing CG wide shots with practical pyrotechnics.",
+    "director": "Michael Bay",
+    "country": "USA",
+    "craft": [
+      "DP: John Schwartzman",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment",
+      "assault_raid"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama",
+      "action"
+    ],
+    "era": "ww2",
+    "period": "Doolittle Raid on Tokyo, Japan, 18 April 1942",
+    "region": "japan",
+    "environment": [
+      "airfield",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "explosions"
+    ],
+    "mood": [
+      "heroic",
+      "tense",
+      "epic"
+    ],
+    "combatants": [
+      "pilots",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft",
+      "warship"
+    ],
+    "technique": [
+      "cgi",
+      "practical_explosions",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "doolittle raid",
+      "b-25",
+      "uss hornet",
+      "carrier takeoff",
+      "tokyo bombing",
+      "rafe and danny"
+    ]
+  },
+  {
+    "film": "Empire of the Sun",
+    "year": 1987,
+    "scene": "P-51 attack on the Japanese airfield",
+    "query": "Empire of the Sun P-51 Cadillac of the skies scene",
+    "what_happens": "From a rooftop in the internment camp, young Jim watches American P-51 Mustangs sweep in low to strafe the neighbouring Japanese airfield, exploding planes and hangars as he cheers them in ecstasy.",
+    "why": "Spielberg films an air raid as a boy's rapture: real P-51s roar past at rooftop height in slow motion, a pilot waving to Jim, and Williams' music turns destruction into a near-religious experience.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "DP: Allen Daviau",
+      "Editor: Michael Kahn",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Internment camp beside a Japanese airfield near Shanghai, China, 1945",
+    "region": "china",
+    "environment": [
+      "airfield",
+      "rooftops"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "awe",
+      "heroic",
+      "chaotic"
+    ],
+    "combatants": [
+      "pilots",
+      "civilians"
+    ],
+    "weapons": [
+      "aircraft_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "real_aircraft",
+      "slow_motion",
+      "score_driven",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "cadillac of the skies",
+      "p-51 mustang",
+      "christian bale",
+      "internment camp",
+      "strafing run",
+      "boy's wonder"
+    ],
+    "video": "Ekv_mUb3yuo"
+  },
+  {
+    "film": "The Bridges at Toko-Ri",
+    "year": 1954,
+    "scene": "Jets bomb the bridges in the gorge",
+    "query": "The Bridges at Toko-Ri bombing run scene",
+    "what_happens": "Navy Panther jets dive one after another into a narrow, flak-lined gorge to bomb the heavily defended bridges at Toko-Ri, pilots strafing the anti-aircraft guns as the spans collapse.",
+    "why": "Oscar-winning effects blend miniatures with real carrier-jet footage, while cockpit close-ups of Holden keep the strike personal, a forerunner of every canyon-run mission that followed.",
+    "director": "Mark Robson",
+    "country": "USA",
+    "craft": [
+      "DP: Loyal Griggs"
+    ],
+    "accolades": [
+      "Oscar: Best Special Effects"
+    ],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment",
+      "assault_raid"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Toko-ri bridges, North Korea, Korean War, 1952",
+    "region": "korea",
+    "environment": [
+      "sky",
+      "cliff_canyon",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "miniatures",
+      "real_aircraft",
+      "practical_effects",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "f9f panther",
+      "carrier aviation",
+      "korean war",
+      "bridge strike",
+      "flak gorge",
+      "william holden"
+    ]
+  },
+  {
+    "film": "The Dam Busters",
+    "year": 1955,
+    "scene": "Bouncing-bomb attack on the Möhne dam",
+    "query": "The Dam Busters raid scene bouncing bomb Mohne dam",
+    "what_happens": "Lancaster bombers fly one at a time low over the moonlit Möhne reservoir through flak, releasing spinning bouncing bombs that skip across the water toward the dam until the wall finally breaches.",
+    "why": "The template for the Death Star trench run: repeated attack runs, cockpit chatter, spotlights set to judge altitude and cutaways to the waiting operations room build suspense through repetition and procedure.",
+    "director": "Michael Anderson",
+    "country": "UK",
+    "craft": [
+      "DP: Erwin Hillier"
+    ],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "bombardment",
+      "assault_raid"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Operation Chastise, Möhne dam, Germany, 16-17 May 1943",
+    "region": "western_europe",
+    "environment": [
+      "sky",
+      "river_lake",
+      "dam_industrial"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "water_spray",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [
+      "explosives",
+      "aircraft_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "real_aircraft",
+      "miniatures",
+      "black_and_white",
+      "cross_cutting"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "bouncing bomb",
+      "lancaster",
+      "mohne dam",
+      "operation chastise",
+      "617 squadron",
+      "spotlight altimeter"
+    ],
+    "video": "E1DCxpMz8aU"
+  },
+  {
+    "film": "Ben-Hur",
+    "year": 1959,
+    "scene": "Galley battle at ramming speed",
+    "query": "Ben-Hur galley battle ramming speed scene",
+    "what_happens": "Below decks, Judah and the galley slaves row to the hortator's drum at ramming speed as the fleets close; the Roman flagship is rammed and set ablaze, and Judah frees the slaves and saves the consul Arrius from the sea.",
+    "why": "Wyler cuts the accelerating drumbeat against sweating rowers to build tempo, then shifts to miniature ships in a studio tank for the fleet action, a classic marriage of rhythmic editing and model work.",
+    "director": "William Wyler",
+    "country": "USA",
+    "craft": [
+      "DP: Robert L. Surtees",
+      "Composer: Miklós Rózsa"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Special Effects"
+    ],
+    "scene_type": "battle.naval",
+    "format": [
+      "massed_battle",
+      "rescue"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "adventure"
+    ],
+    "era": "ancient",
+    "period": "Roman fleet against Macedonian pirates, Aegean Sea, 1st century AD",
+    "region": "open_ocean",
+    "environment": [
+      "ship_deck",
+      "open_sea"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "water_spray"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "roman_legion",
+      "pirates",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "vehicle_as_weapon",
+      "european_sword",
+      "bow_arrow",
+      "shield"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "miniatures",
+      "practical_effects",
+      "cross_cutting",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "galley slaves",
+      "ramming speed",
+      "hortator drum",
+      "roman galley",
+      "charlton heston",
+      "arrius",
+      "rowers"
+    ]
+  },
+  {
+    "film": "300: Rise of an Empire",
+    "year": 2014,
+    "scene": "Greek triremes ram the Persian fleet",
+    "query": "300 Rise of an Empire naval battle ramming scene",
+    "what_happens": "Themistocles' Athenian triremes ram the larger Persian warships head-on; he leaps across the decks with his hoplites, hacking through Persian crews in speed-ramped slow motion as ships splinter and sink in the churning sea.",
+    "why": "A digital-backlot naval battle: sea, sky and ships are almost entirely CG, so the waves become a stylised canvas for speed ramping, blood spray and swooping camera moves borrowed from graphic novels.",
+    "director": "Noam Murro",
+    "country": "USA",
+    "craft": [
+      "DP: Simon Duggan",
+      "Composer: Junkie XL"
+    ],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "action",
+      "historical_epic",
+      "war"
+    ],
+    "era": "ancient",
+    "period": "Battle of Artemisium, Aegean Sea, 480 BC",
+    "region": "southern_europe",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "storm_wind"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "epic"
+    ],
+    "combatants": [
+      "greek_hoplites",
+      "persian_army",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "european_sword",
+      "spear_polearm",
+      "shield",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "cgi",
+      "slow_motion",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "triremes",
+      "themistocles",
+      "ramming",
+      "speed ramping",
+      "persian fleet",
+      "artemisia"
+    ]
+  },
+  {
+    "film": "Red Cliff II",
+    "year": 2009,
+    "scene": "Fire attack on Cao Cao's fleet",
+    "query": "Red Cliff II fire attack naval battle scene",
+    "what_happens": "When the wind suddenly shifts, the allies send burning fire ships into Cao Cao's chained armada at night; flames leap from hull to hull and the battle spreads to the shore fortress in a storm of fire arrows and explosions.",
+    "why": "Woo builds the climax on a single weather reversal, then stages fire on a colossal scale, mixing practical burning sets with CG fleets and sweeping crane moves from individual heroics to the inferno.",
+    "director": "John Woo",
+    "country": "China/Hong Kong",
+    "craft": [
+      "Action director: Corey Yuen"
+    ],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "historical_epic",
+      "war",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "Battle of Red Cliffs, Yangtze River, China, AD 208",
+    "region": "china",
+    "environment": [
+      "river_lake",
+      "ship_deck",
+      "castle_fortress"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "awe"
+    ],
+    "combatants": [
+      "imperial_chinese_army",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "explosives",
+      "chinese_sword",
+      "spear_polearm"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "crane_aerial",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "mandarin",
+    "keywords": [
+      "fire ships",
+      "chained fleet",
+      "east wind",
+      "cao cao",
+      "zhou yu",
+      "fire arrows",
+      "yangtze"
+    ]
+  },
+  {
+    "film": "Hansan: Rising Dragon",
+    "year": 2022,
+    "scene": "The turtle ship and the crane-wing formation",
+    "query": "Hansan Rising Dragon turtle ship battle crane wing formation scene",
+    "what_happens": "Admiral Yi Sun-sin lures the Japanese fleet into open water, then wheels his ships into a crane-wing arc; the armoured turtle ship ploughs through enemy vessels while Korean cannon batter them from both flanks.",
+    "why": "A battle built for tactical clarity: overhead views show the crane-wing formation closing like a trap, and the turtle ship's ramming runs are staged as hero moments within that readable geometry.",
+    "director": "Kim Han-min",
+    "country": "South Korea",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "massed_battle",
+      "ambush"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "historical_epic",
+      "war",
+      "action"
+    ],
+    "era": "early_modern",
+    "period": "Battle of Hansan Island, southern coast of Korea, 1592",
+    "region": "korea",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "water_spray"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "korean_warriors",
+      "sailors_navy",
+      "ashigaru_japanese_army"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "vehicle_as_weapon",
+      "musket_flintlock",
+      "bow_arrow"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "cgi",
+      "crane_aerial",
+      "wide_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "korean",
+    "keywords": [
+      "turtle ship",
+      "geobukseon",
+      "crane wing formation",
+      "yi sun-sin",
+      "imjin war",
+      "hansan island"
+    ]
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2012,
+    "scene": "Wildfire explosion at the Battle of the Blackwater ('Blackwater')",
+    "query": "Game of Thrones Blackwater wildfire explosion scene",
+    "what_happens": "Stannis' fleet rows up Blackwater Bay toward King's Landing; a lone drifting ship leaks green wildfire among the galleys, Bronn looses a flaming arrow, and a vast emerald explosion engulfs the fleet.",
+    "why": "The approach is built on restraint, drums, oars and an empty ship drifting, before a single arrow ignites the payoff; the eerie green fireball gives the night battle an unforgettable signature colour.",
+    "director": "Neil Marshall",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Hugo: Best Dramatic Presentation, Short Form"
+    ],
+    "scene_type": "battle.naval",
+    "format": [
+      "ambush"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "fantasy",
+      "drama",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Battle of the Blackwater, King's Landing, Westeros (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "open_sea",
+      "castle_fortress"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "low_light"
+    ],
+    "mood": [
+      "awe",
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "sailors_navy",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "explosives"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "cgi",
+      "silence",
+      "sound_design",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "wildfire",
+      "green explosion",
+      "bronn",
+      "tyrion",
+      "stannis fleet",
+      "flaming arrow",
+      "king's landing"
+    ]
+  },
+  {
+    "film": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "scene": "Black Pearl vs. Interceptor broadside battle",
+    "query": "Pirates of the Caribbean Black Pearl vs Interceptor battle scene",
+    "what_happens": "The Black Pearl overtakes the Interceptor; dropping an anchor to swing broadside, both ships fire cannons loaded with anything from cutlery to nails before Barbossa's cursed crew swing across to board.",
+    "why": "Verbinski stages an age-of-sail battle with full-scale ships and practical splinter effects, keeping comic beats such as improvised ammunition and swinging boarders inside a clear broadside geography.",
+    "director": "Gore Verbinski",
+    "country": "USA",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: Klaus Badelt"
+    ],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "adventure",
+      "fantasy",
+      "swashbuckler"
+    ],
+    "era": "early_modern",
+    "period": "Caribbean Sea, golden age of piracy, early 18th century",
+    "region": "latin_america",
+    "environment": [
+      "ship_deck",
+      "open_sea"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "debris_sparks",
+      "fog_mist"
+    ],
+    "mood": [
+      "playful",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "pirates"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "sabre_rapier",
+      "musket_flintlock"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "practical_effects",
+      "practical_stunts",
+      "wire_work",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "broadside",
+      "black pearl",
+      "interceptor",
+      "drop anchor",
+      "cannon fire",
+      "boarding",
+      "cursed pirates"
+    ]
+  },
+  {
+    "film": "The Sea Hawk",
+    "year": 1940,
+    "scene": "The Albatross takes the Spanish galleass",
+    "query": "The Sea Hawk 1940 opening sea battle scene",
+    "what_happens": "Captain Thorpe's English privateer Albatross closes on a Spanish galleass rowed by chained slaves, battering it with cannon before the Sea Hawks swing aboard and the freed English galley slaves join the fight.",
+    "why": "Curtiz shot the battle with full-size ships on a studio soundstage and choreographed the boarding as athletic swashbuckling, with Korngold's score driving the rhythm of every swing, leap and sword clash.",
+    "director": "Michael Curtiz",
+    "country": "USA",
+    "craft": [
+      "Composer: Erich Wolfgang Korngold"
+    ],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "assault_raid",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "swashbuckler",
+      "adventure"
+    ],
+    "era": "early_modern",
+    "period": "English privateer attack on a Spanish galleass, c. 1585",
+    "region": "open_ocean",
+    "environment": [
+      "ship_deck",
+      "open_sea"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "playful",
+      "epic"
+    ],
+    "combatants": [
+      "pirates",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "sabre_rapier",
+      "european_sword"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "black_and_white",
+      "practical_stunts",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "errol flynn",
+      "privateers",
+      "galleass",
+      "galley slaves",
+      "korngold",
+      "boarding",
+      "swashbuckling"
+    ],
+    "video": "wZMalmZ8cXk"
+  },
+  {
+    "film": "Das Boot",
+    "year": 1981,
+    "scene": "Night convoy attack and the burning tanker",
+    "query": "Das Boot tanker burning sailors scene",
+    "what_happens": "Surfacing at night hours after attacking a convoy, U-96 fires again to finish a burning tanker; the crew watch from the bridge as sailors leap from the flaming ship and swim toward them, and the U-boat backs away.",
+    "why": "Petersen holds on the crew's faces as much as the fire: victory curdles into horror as drowning men cry for help, and the silence on the bridge carries the scene's moral weight.",
+    "director": "Wolfgang Petersen",
+    "country": "West Germany",
+    "craft": [
+      "DP: Jost Vacano",
+      "Composer: Klaus Doldinger"
+    ],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "ambush",
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama",
+      "thriller"
+    ],
+    "era": "ww2",
+    "period": "North Atlantic convoy, autumn 1941",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "low_light"
+    ],
+    "mood": [
+      "tragic",
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "sailors_navy"
+    ],
+    "weapons": [
+      "torpedo_depth_charge"
+    ],
+    "vehicles": [
+      "submarine",
+      "warship"
+    ],
+    "technique": [
+      "practical_effects",
+      "miniatures",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "german",
+    "keywords": [
+      "u-96",
+      "tanker",
+      "burning sailors",
+      "torpedoes",
+      "convoy",
+      "night attack",
+      "atlantic"
+    ]
+  },
+  {
+    "film": "Sink the Bismarck!",
+    "year": 1960,
+    "scene": "Bismarck sinks HMS Hood",
+    "query": "Sink the Bismarck Hood sinking scene",
+    "what_happens": "In the Denmark Strait, the battleship Bismarck and HMS Hood exchange long-range salvos; a shell strikes Hood's magazine and the great British warship explodes and sinks within minutes.",
+    "why": "Gilbert alternates studio-tank miniatures with tense scenes in the Admiralty war room, so the battle reads as both spectacle and strategy, and the Hood's sudden loss lands as a shock.",
+    "director": "Lewis Gilbert",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.naval",
+    "format": [
+      "duel",
+      "bombardment"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Battle of the Denmark Strait, North Atlantic, 24 May 1941",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "sailors_navy"
+    ],
+    "weapons": [
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "warship"
+    ],
+    "technique": [
+      "miniatures",
+      "black_and_white",
+      "cross_cutting",
+      "practical_explosions"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "hms hood",
+      "bismarck",
+      "denmark strait",
+      "battleship duel",
+      "salvos",
+      "admiralty war room"
+    ],
+    "video": "pRxxfL0FG0M"
+  },
+  {
+    "film": "The Enemy Below",
+    "year": 1957,
+    "scene": "Depth-charge duel with the U-boat",
+    "query": "The Enemy Below depth charge scene",
+    "what_happens": "The destroyer USS Haynes drops pattern after pattern of depth charges on the U-boat below, while the submarine crew waits out the blasts in the dark as the hunt drags on.",
+    "why": "Powell builds the duel as a chess match between two respected opponents, cross-cutting destroyer and submarine with equal patience; the depth-charge patterns become a rhythm of waiting and impact.",
+    "director": "Dick Powell",
+    "country": "USA",
+    "craft": [],
+    "accolades": [
+      "Oscar: Best Special Effects"
+    ],
+    "scene_type": "battle.naval",
+    "format": [
+      "duel"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama",
+      "thriller"
+    ],
+    "era": "ww2",
+    "period": "South Atlantic, Second World War",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck",
+      "submarine_interior"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "sailors_navy"
+    ],
+    "weapons": [
+      "torpedo_depth_charge"
+    ],
+    "vehicles": [
+      "warship",
+      "submarine"
+    ],
+    "technique": [
+      "cross_cutting",
+      "miniatures",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "destroyer vs u-boat",
+      "depth charges",
+      "robert mitchum",
+      "curd jurgens",
+      "cat and mouse"
+    ],
+    "video": "_LaPfc4O1wc"
+  }
+]

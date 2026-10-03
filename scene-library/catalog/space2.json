@@ -1,0 +1,6601 @@
+[
+  {
+    "film": "Star Wars",
+    "year": 1977,
+    "scene": "Opening shot — the Star Destroyer pursues the Tantive IV",
+    "query": "Star Wars 1977 opening scene Star Destroyer chasing Tantive IV",
+    "what_happens": "After the opening crawl, a small Rebel blockade runner streaks overhead trading laser fire, then an Imperial Star Destroyer slides in above the camera, its hull rolling on and on as it chases the fleeing ship over Tatooine.",
+    "why": "One model pass sells immense scale: the camera sits just under the hull, which keeps entering frame far longer than expected. With the fanfare and roaring engines, a single shot establishes the whole power balance of the story.",
+    "director": "George Lucas",
+    "country": "USA",
+    "craft": [
+      "VFX supervisor: John Dykstra (ILM)",
+      "Composer: John Williams",
+      "Sound design: Ben Burtt"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.space",
+    "format": [
+      "pursuit",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Above Tatooine, start of the Galactic Civil War (fictional)",
+    "region": "deep_space",
+    "environment": [
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "awe",
+      "epic",
+      "tense"
+    ],
+    "combatants": [
+      "starfighter_pilots"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "miniatures",
+      "motion_control",
+      "sound_design",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "opening shot",
+      "star destroyer",
+      "tantive iv",
+      "blockade runner",
+      "sense of scale",
+      "tatooine"
+    ]
+  },
+  {
+    "film": "Star Wars: Episode II – Attack of the Clones",
+    "year": 2002,
+    "scene": "Obi-Wan vs. Jango Fett in the Geonosis asteroid field (seismic charges)",
+    "query": "Attack of the Clones asteroid field chase seismic charge scene",
+    "what_happens": "Jango Fett's Slave I hunts Obi-Wan's Jedi starfighter through the asteroid rings of Geonosis, dropping seismic charges that detonate in rippling blue shockwaves; Obi-Wan fakes his own destruction by jettisoning debris and hides on an asteroid.",
+    "why": "The seismic charge is designed by ear: a sucked-in silence followed by a deep, ringing detonation became an instantly recognisable weapon. The dense asteroid field supplies constant foreground parallax for a chase between just two ships.",
+    "director": "George Lucas",
+    "country": "USA",
+    "craft": [
+      "Sound design: Ben Burtt",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "dogfight",
+      "pursuit"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Geonosis asteroid rings, eve of the Clone Wars (fictional)",
+    "region": "deep_space",
+    "environment": [
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions"
+    ],
+    "mood": [
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "jedi_sith",
+      "cowboys_gunslingers"
+    ],
+    "weapons": [
+      "explosives",
+      "energy_weapons",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "seismic charge",
+      "slave i",
+      "jango fett",
+      "obi-wan kenobi",
+      "asteroid field",
+      "geonosis"
+    ]
+  },
+  {
+    "film": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "scene": "The Death Star fires on Jedha City",
+    "query": "Rogue One Death Star destroys Jedha City scene",
+    "what_happens": "The Death Star's superlaser strikes beyond Jedha's horizon; a towering wall of rock and dust rises and rolls toward the holy city as Jyn, Cassian and their companions race to the U-wing and lift off just ahead of it.",
+    "why": "The weapon's power is shown at human scale: the blast reads as a slow tidal wave of earth rising behind the city, cut against the escape and against the Imperial officers' detached view from orbit.",
+    "director": "Gareth Edwards",
+    "country": "USA",
+    "craft": [
+      "DP: Greig Fraser",
+      "VFX supervisor: John Knoll (ILM)",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Jedha City, start of the Galactic Civil War (fictional)",
+    "region": "alien_world",
+    "environment": [
+      "desert",
+      "ruined_city",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "awe",
+      "tragic",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians",
+      "starfighter_pilots"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "wide_framing",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "death star",
+      "superlaser",
+      "jedha",
+      "shockwave",
+      "u-wing",
+      "planet killer"
+    ],
+    "video": "V8EDyD97TZo"
+  },
+  {
+    "film": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "scene": "Opening: Poe's X-wing and the bomber run on the Dreadnought",
+    "query": "The Last Jedi opening space battle Dreadnought bombers scene",
+    "what_happens": "Poe's lone X-wing taunts the First Order and knocks out a Dreadnought's surface cannons; slow Resistance bombers lumber in under TIE attack, and gunner Paige Tico, alone in her burning ship, releases the payload that destroys it.",
+    "why": "Second World War bombing-raid grammar transposed to space: gravity-fed bombs, cramped turrets, a dropped trigger. Intercutting Poe's swagger with Paige's silent struggle sets up the film's question about the cost of heroics.",
+    "director": "Rian Johnson",
+    "country": "USA",
+    "craft": [
+      "DP: Steve Yedlin",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "assault_raid",
+      "dogfight"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Evacuation of D'Qar, First Order–Resistance war (fictional)",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "starfighter_pilots"
+    ],
+    "weapons": [
+      "explosives",
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "starfighter",
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "score_driven",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "dreadnought",
+      "bombers",
+      "paige tico",
+      "poe dameron",
+      "x-wing",
+      "d'qar",
+      "bomb bay"
+    ],
+    "video": "nPX56GQ2s-w"
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2019,
+    "scene": "Chapter 2 'The Child': the Mandalorian vs. the mudhorn",
+    "query": "The Mandalorian mudhorn fight scene",
+    "what_happens": "On the rocky plains of Arvala-7, the Mandalorian is charged, gored and flung again and again by a horned mudhorn despite blaster and knife, until the infant Grogu raises a tiny hand and levitates the beast so Mando can finish it.",
+    "why": "A western-style creature duel built on attrition: each charge leaves the hero more battered, so the payoff — the puppet Grogu straining to use the Force — lands as a revelation. Note the patient, wide compositions and the sparse score.",
+    "director": "Rick Famuyiwa",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "space_opera",
+      "western",
+      "sci_fi"
+    ],
+    "era": "fantasy_world",
+    "period": "Arvala-7, five years after the fall of the Empire (fictional)",
+    "region": "alien_world",
+    "environment": [
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "awe"
+    ],
+    "combatants": [
+      "creatures",
+      "cowboys_gunslingers"
+    ],
+    "weapons": [
+      "knife",
+      "energy_weapons",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "wide_framing",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "mudhorn",
+      "grogu",
+      "baby yoda",
+      "force levitation",
+      "bounty hunter",
+      "egg"
+    ]
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2020,
+    "scene": "Chapter 9 'The Marshal': hunting the krayt dragon",
+    "query": "The Mandalorian krayt dragon fight scene",
+    "what_happens": "Tusken Raiders, Mos Pelgo townsfolk, Marshal Cobb Vanth and the Mandalorian lure a colossal krayt dragon from its lair beneath the dunes and fight it with blasters, until Mando, swallowed along with an explosive-laden bantha, blows it apart from the inside and jetpacks out.",
+    "why": "A Seven Samurai-style alliance gives the hunt its heart: rival factions plan together, then execute. Study the creature's scale cues — cascading sand, tremors, a vast maw — and how the trap is laid out clearly before it springs.",
+    "director": "Jon Favreau",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "space_opera",
+      "western",
+      "sci_fi"
+    ],
+    "era": "fantasy_world",
+    "period": "Tatooine's Dune Sea, five years after the fall of the Empire (fictional)",
+    "region": "alien_world",
+    "environment": [
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "explosions"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "creatures",
+      "cowboys_gunslingers",
+      "lawmen",
+      "aliens"
+    ],
+    "weapons": [
+      "explosives",
+      "energy_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "jetpack"
+    ],
+    "technique": [
+      "cgi",
+      "wide_framing",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "krayt dragon",
+      "tusken raiders",
+      "cobb vanth",
+      "bantha",
+      "dune sea",
+      "tatooine"
+    ]
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2020,
+    "scene": "Chapter 16 'The Rescue': Luke Skywalker cuts through the dark troopers",
+    "query": "The Mandalorian Luke Skywalker dark troopers hallway scene",
+    "what_happens": "A lone X-wing docks with Moff Gideon's cruiser and a hooded Jedi walks the corridor, his green lightsaber slicing through a squad of dark trooper droids and his Force crushing others, while the trapped heroes watch on a monitor.",
+    "why": "Staged as a mirror of Rogue One's Vader hallway, this time with the heroes on the far side of the door. Cutting between the corridor and the defenders watching on a monitor lets the audience share their dread before the reveal.",
+    "director": "Peyton Reed",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "rescue"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Moff Gideon's light cruiser, after the fall of the Empire (fictional)",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks",
+      "low_light"
+    ],
+    "mood": [
+      "heroic",
+      "awe",
+      "relentless"
+    ],
+    "combatants": [
+      "jedi_sith",
+      "robots_androids"
+    ],
+    "weapons": [
+      "lightsaber",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "single_location",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "luke skywalker",
+      "dark troopers",
+      "green lightsaber",
+      "x-wing",
+      "grogu",
+      "jedi rescue"
+    ]
+  },
+  {
+    "film": "Battlestar Galactica",
+    "year": 2009,
+    "scene": "Galactica rams the Cylon Colony (\"Daybreak, Part 2\")",
+    "query": "Battlestar Galactica Daybreak Galactica rams the Colony scene",
+    "what_happens": "Galactica jumps in point-blank beside the Cylon Colony at the edge of a black hole, absorbs a storm of missiles, then rams the station so Marines can storm aboard while fighters swarm outside.",
+    "why": "The series' documentary-style space photography — snap zooms, lens drift, imperfect framing — makes the final battle feel like combat footage, and the ram is cut through damage-control chaos inside the old ship to keep the stakes human.",
+    "director": "Michael Rymer",
+    "country": "USA",
+    "craft": [
+      "VFX supervisor: Gary Hutzel",
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "assault_raid",
+      "massed_battle"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "The Cylon Colony beside a black hole (fictional)",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "robots_androids",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "rocket_missile",
+      "artillery_cannon",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "handheld",
+      "cross_cutting",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "battlestar galactica",
+      "cylon colony",
+      "ramming",
+      "black hole",
+      "vipers",
+      "series finale"
+    ]
+  },
+  {
+    "film": "The Expanse",
+    "year": 2015,
+    "scene": "The Donnager is boarded and destroyed (\"CQB\")",
+    "query": "The Expanse CQB Donnager battle scene",
+    "what_happens": "Unmarked stealth frigates ambush the Martian flagship Donnager; point-defence cannons and torpedoes streak across space, then boarding troops cut in and Martian marines fight corridor by corridor as Holden's crew run for a corvette in the hangar.",
+    "why": "A commitment to Newtonian physics turns space combat into ballistics: hard burns crushing crews into couches, tracer lines from the point-defence guns, and gravity or weightlessness motivated shot by shot — a model for grounded science-fiction action.",
+    "director": "Jeff Woolnough",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "ambush",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Martian flagship Donnager, the Belt, 23rd century",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity",
+      "explosions",
+      "strobe_flash"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "gritty"
+    ],
+    "combatants": [
+      "sailors_navy",
+      "starfighter_pilots",
+      "mercenaries"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rocket_missile",
+      "rifle"
+    ],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "zero_g_rigs",
+      "handheld",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "donnager",
+      "point defense cannons",
+      "stealth frigates",
+      "boarding",
+      "holden",
+      "rocinante",
+      "newtonian physics"
+    ]
+  },
+  {
+    "film": "Star Trek Beyond",
+    "year": 2016,
+    "scene": "Krall's swarm tears the Enterprise apart",
+    "query": "Star Trek Beyond swarm attack destroys Enterprise scene",
+    "what_happens": "Near the planet Altamid, thousands of tiny swarm ships pour over the Enterprise, slicing through its hull, severing the warp nacelles and boarding; the crew abandon ship and the saucer section breaks away and plunges into the atmosphere.",
+    "why": "The swarm reverses space-battle convention — not a rival capital ship but a cloud of tiny craft moving like starlings — and the camera rides through it with the crew, so the ship's death plays like a character's.",
+    "director": "Justin Lin",
+    "country": "USA",
+    "craft": [
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "ambush",
+      "rampage"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "action"
+    ],
+    "era": "far_future",
+    "period": "Altamid, inside an uncharted nebula, 23rd century",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "tragic",
+      "relentless"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "aliens"
+    ],
+    "weapons": [
+      "vehicle_as_weapon",
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "uss enterprise",
+      "swarm ships",
+      "krall",
+      "warp nacelles",
+      "saucer crash",
+      "altamid"
+    ]
+  },
+  {
+    "film": "Gravity",
+    "year": 2013,
+    "scene": "The debris storm destroys the International Space Station",
+    "query": "Gravity ISS destroyed by debris scene",
+    "what_happens": "Outside the Soyuz, tangled in its deployed parachute lines, Ryan Stone watches the returning debris cloud tear silently through the International Space Station, modules bursting apart around her until she frees the capsule and scrambles back inside.",
+    "why": "Sound is limited to what Stone feels through her suit, so the station's destruction plays in eerie silence over a pulsing score; the long, floating camera keeps her tiny against the wreckage.",
+    "director": "Alfonso Cuarón",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Emmanuel Lubezki",
+      "VFX supervisor: Tim Webber (Framestore)",
+      "Composer: Steven Price"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "International Space Station, low Earth orbit, present day",
+    "region": "earth_orbit",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "awe",
+      "relentless"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "long_take",
+      "cgi",
+      "zero_g_rigs",
+      "silence",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "iss",
+      "debris field",
+      "kessler syndrome",
+      "soyuz",
+      "parachute",
+      "sandra bullock"
+    ]
+  },
+  {
+    "film": "Gravity",
+    "year": 2013,
+    "scene": "Shenzhou re-entry and lake landing",
+    "query": "Gravity ending re-entry Shenzhou landing scene",
+    "what_happens": "Ryan rides a Chinese capsule down through the atmosphere amid the burning fragments of a space station, splashes into a lake, escapes the sinking capsule, swims to the surface and stands unsteadily on the muddy shore.",
+    "why": "Re-entry is cut as a rebirth: fiery debris streaks past the window, then the shock of water and mud and Earth's gravity pressing her down. The camera drops low as the score swells, making her first steps monumental.",
+    "director": "Alfonso Cuarón",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Emmanuel Lubezki",
+      "VFX supervisor: Tim Webber (Framestore)",
+      "Composer: Steven Price"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "space.travel",
+    "format": [
+      "journey",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Re-entry from low Earth orbit to a lake on Earth",
+    "region": "earth_orbit",
+    "environment": [
+      "sky",
+      "river_lake",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "water_spray"
+    ],
+    "mood": [
+      "awe",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "lunar_planetary_vehicle"
+    ],
+    "technique": [
+      "cgi",
+      "underwater_filming",
+      "score_driven",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "re-entry",
+      "shenzhou",
+      "capsule",
+      "lake landing",
+      "first steps",
+      "rebirth"
+    ]
+  },
+  {
+    "film": "Interstellar",
+    "year": 2014,
+    "scene": "Miller's planet — the tidal wave",
+    "query": "Interstellar Miller's planet wave scene",
+    "what_happens": "Wading through shallow water on Miller's planet, Brand searches wreckage for a data recorder while what looked like distant mountains turns out to be a colossal wave; Doyle is swept away and the Ranger is lifted over the crest.",
+    "why": "The wave is revealed by slow realisation rather than a cut, and shot practically in shallow water with a full-size Ranger. The score's ticking, each tick a day lost on Earth, turns wasted seconds into wasted years.",
+    "director": "Christopher Nolan",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "VFX supervisor: Paul Franklin (Double Negative)",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "drama",
+      "adventure"
+    ],
+    "era": "near_future",
+    "period": "Miller's planet, orbiting the black hole Gargantua",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "open_sea"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "awe",
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "astronauts",
+      "robots_androids"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "lunar_planetary_vehicle"
+    ],
+    "technique": [
+      "imax_large_format",
+      "real_location",
+      "practical_effects",
+      "cgi",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "miller's planet",
+      "giant wave",
+      "time dilation",
+      "ranger",
+      "ticking clock",
+      "gargantua"
+    ]
+  },
+  {
+    "film": "Interstellar",
+    "year": 2014,
+    "scene": "The tesseract behind Murph's bookshelf",
+    "query": "Interstellar tesseract bookshelf scene",
+    "what_happens": "Ejected into the black hole, Cooper falls into a vast lattice of repeating views of his daughter's bedroom across time, pushing books from the shelf and nudging a wristwatch's second hand to send her quantum data in Morse code.",
+    "why": "Built largely as a physical set with projected imagery, the tesseract makes higher-dimensional time navigable: each corridor is a moment, and McConaughey's performance inside a real space anchors abstract physics in a father's desperation.",
+    "director": "Christopher Nolan",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "VFX supervisor: Paul Franklin (Double Negative)",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "drama"
+    ],
+    "era": "near_future",
+    "period": "Inside the black hole Gargantua",
+    "region": "deep_space",
+    "environment": [
+      "dreamscape"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity"
+    ],
+    "mood": [
+      "surreal",
+      "awe",
+      "intimate"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "rear_projection",
+      "imax_large_format",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "tesseract",
+      "bookshelf",
+      "fifth dimension",
+      "morse code",
+      "wristwatch",
+      "murph"
+    ]
+  },
+  {
+    "film": "Apollo 13",
+    "year": 1995,
+    "scene": "The oxygen tank explosion — 'Houston, we have a problem'",
+    "query": "Apollo 13 Houston we have a problem explosion scene",
+    "what_happens": "After a routine stir of the oxygen tanks, a bang rocks the spacecraft; alarms blare and the ship shudders and tumbles as Lovell sees gas venting into space, while Mission Control scrambles over flickering telemetry.",
+    "why": "Shot in real weightlessness aboard NASA's KC-135 reduced-gravity aircraft, the cabin chaos is physically authentic; cross-cutting between the cramped capsule and a room of engineers sets up the film's twin-arena structure.",
+    "director": "Ron Howard",
+    "country": "USA",
+    "craft": [
+      "VFX: Digital Domain",
+      "Editors: Mike Hill, Dan Hanley",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "drama",
+      "historical_epic",
+      "thriller"
+    ],
+    "era": "mid_20th_century",
+    "period": "Apollo 13 en route to the Moon, 13 April 1970",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity"
+    ],
+    "mood": [
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "astronauts",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "lunar_planetary_vehicle"
+    ],
+    "technique": [
+      "zero_g_rigs",
+      "cross_cutting",
+      "real_aircraft",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "houston we have a problem",
+      "oxygen tank",
+      "vomit comet",
+      "mission control",
+      "venting",
+      "jim lovell"
+    ]
+  },
+  {
+    "film": "Apollo 13",
+    "year": 1995,
+    "scene": "Re-entry and the radio blackout",
+    "query": "Apollo 13 re-entry radio blackout scene",
+    "what_happens": "The crippled command module plunges through the atmosphere; the expected three-minute radio blackout stretches on as Mission Control, the families and the press wait in silence, until parachutes appear on screen and the crew's voices crackle back.",
+    "why": "Suspense with a known outcome: Howard holds on silent, waiting faces and the ticking blackout clock, then releases the tension with a rising cue and the parachutes on a TV monitor.",
+    "director": "Ron Howard",
+    "country": "USA",
+    "craft": [
+      "VFX: Digital Domain",
+      "Editors: Mike Hill, Dan Hanley",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "space.travel",
+    "format": [
+      "journey",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "drama",
+      "historical_epic",
+      "thriller"
+    ],
+    "era": "mid_20th_century",
+    "period": "Apollo 13 re-entry and splashdown, 17 April 1970",
+    "region": "earth_orbit",
+    "environment": [
+      "spacecraft_interior",
+      "sky"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "fire"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "intimate"
+    ],
+    "combatants": [
+      "astronauts",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "lunar_planetary_vehicle"
+    ],
+    "technique": [
+      "cross_cutting",
+      "miniatures",
+      "silence",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "re-entry",
+      "radio blackout",
+      "mission control",
+      "command module",
+      "splashdown",
+      "parachutes"
+    ]
+  },
+  {
+    "film": "The Martian",
+    "year": 2015,
+    "scene": "The Mars dust storm and evacuation",
+    "query": "The Martian opening dust storm scene",
+    "what_happens": "A violent dust storm forces the Ares III crew to abort; walking blind toward their ascent vehicle, Watney is struck by a flying antenna and blown out of sight, and the crew lifts off believing him dead.",
+    "why": "Visibility is cut to a few feet so helmet lights and radio chatter become the only references, and Watney's loss happens in a blink, the way accidents do — the inciting incident delivered as chaos rather than spectacle.",
+    "director": "Ridley Scott",
+    "country": "USA",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Editor: Pietro Scalia"
+    ],
+    "accolades": [
+      "Golden Globe: Best Motion Picture – Musical or Comedy"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "drama",
+      "adventure"
+    ],
+    "era": "near_future",
+    "period": "Acidalia Planitia, Mars, Ares III mission",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "sandstorm",
+      "storm_wind",
+      "low_light"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "rocket_launch_vehicle"
+    ],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "handheld",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "mars",
+      "dust storm",
+      "ascent vehicle",
+      "antenna",
+      "left behind",
+      "ares iii"
+    ]
+  },
+  {
+    "film": "First Man",
+    "year": 2018,
+    "scene": "Gemini 8 docking and spin",
+    "query": "First Man Gemini 8 docking spin scene",
+    "what_happens": "Armstrong and Scott achieve the first docking in orbit with an Agena target, then a stuck thruster sends the joined craft, and then the capsule alone, into an accelerating tumble; Armstrong, close to blacking out, fires the re-entry thrusters to stop it.",
+    "why": "Chazelle keeps the camera inside the rattling capsule at the astronauts' eye line, with in-camera projected imagery through the tiny window rather than green screen; groaning metal and breathing make spaceflight feel like being inside a tin can.",
+    "director": "Damien Chazelle",
+    "country": "USA",
+    "craft": [
+      "DP: Linus Sandgren",
+      "Editor: Tom Cross",
+      "Composer: Justin Hurwitz",
+      "VFX supervisor: Paul Lambert (DNEG)"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Golden Globe: Best Original Score"
+    ],
+    "scene_type": "space.travel",
+    "format": [
+      "journey",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "drama",
+      "historical_epic"
+    ],
+    "era": "mid_20th_century",
+    "period": "Gemini 8, Earth orbit, 16 March 1966",
+    "region": "earth_orbit",
+    "environment": [
+      "spacecraft_interior",
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "intimate"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "starfighter"
+    ],
+    "technique": [
+      "tight_framing",
+      "handheld",
+      "rear_projection",
+      "sound_design",
+      "rotating_set"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "gemini 8",
+      "agena",
+      "docking",
+      "stuck thruster",
+      "tumble",
+      "neil armstrong"
+    ]
+  },
+  {
+    "film": "Sunshine",
+    "year": 2007,
+    "scene": "Capa ignites the payload",
+    "query": "Sunshine 2007 ending Capa payload scene",
+    "what_happens": "Inside the bomb's vast payload chamber, Capa reconnects the detonator as time seems to slow; a curtain of solar fire rolls toward him, and he reaches out his hand to touch it before it engulfs him.",
+    "why": "Boyle stretches a split second into a sustained, near-silent moment: the expanding light is shot as a slow-motion wall, and the swelling 'Adagio in D Minor' turns the sacrifice into transcendence.",
+    "director": "Danny Boyle",
+    "country": "UK",
+    "craft": [
+      "DP: Alwin H. Küchler",
+      "Composer: John Murphy (with Underworld)"
+    ],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "thriller"
+    ],
+    "era": "near_future",
+    "period": "The Icarus II's payload, near the Sun, 2057",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fire",
+      "heat_sun"
+    ],
+    "mood": [
+      "awe",
+      "tragic",
+      "surreal"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "slow_motion",
+      "score_driven",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "payload",
+      "the sun",
+      "stellar bomb",
+      "icarus ii",
+      "sacrifice",
+      "adagio in d minor"
+    ]
+  },
+  {
+    "film": "Prometheus",
+    "year": 2012,
+    "scene": "Landing on LV-223",
+    "query": "Prometheus landing on LV-223 scene",
+    "what_happens": "The Prometheus descends through the clouds of a barren moon; the crew spot perfectly straight lines in the landscape, and the ship banks low through a valley to set down beside giant dome-shaped structures.",
+    "why": "Real aerial landscape plates married to the ship give the descent a documentary grandeur, while cut-ins to the excited crew on the bridge make first contact feel like an expedition rather than an invasion.",
+    "director": "Ridley Scott",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: Marc Streitenfeld"
+    ],
+    "accolades": [],
+    "scene_type": "space.travel",
+    "format": [
+      "journey",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "horror",
+      "adventure"
+    ],
+    "era": "far_future",
+    "period": "Moon LV-223, 2093",
+    "region": "alien_world",
+    "environment": [
+      "sky",
+      "planet_surface",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist"
+    ],
+    "mood": [
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "crane_aerial",
+      "real_location",
+      "cgi",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "lv-223",
+      "landing",
+      "straight lines",
+      "domes",
+      "engineers",
+      "first contact"
+    ]
+  },
+  {
+    "film": "Ad Astra",
+    "year": 2019,
+    "scene": "The surge — falling from the International Space Antenna",
+    "query": "Ad Astra opening space antenna fall scene",
+    "what_happens": "Working on the outside of a colossal antenna reaching into space, Roy McBride is hit by a power surge; explosions rip along the structure, and he plunges toward Earth, spinning among debris before his parachute opens.",
+    "why": "Gray stages a fall from the edge of space with near-documentary calm: McBride's unflappable composure, the deafening wind and the long, spinning drop make his steadiness the scene's suspense.",
+    "director": "James Gray",
+    "country": "USA",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "Composer: Max Richter"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "drama",
+      "adventure"
+    ],
+    "era": "near_future",
+    "period": "International Space Antenna, near future",
+    "region": "sky",
+    "environment": [
+      "sky",
+      "outer_space"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "parachute_wingsuit"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "space antenna",
+      "power surge",
+      "free fall",
+      "parachute",
+      "brad pitt",
+      "stratosphere"
+    ]
+  },
+  {
+    "film": "Passengers",
+    "year": 2016,
+    "scene": "Gravity fails in the swimming pool",
+    "query": "Passengers swimming pool gravity failure scene",
+    "what_happens": "Swimming alone in the starship's glass-walled pool, Aurora feels gravity flicker off; the water lifts into a huge floating bubble with her trapped inside, unable to reach air, until gravity returns and drops her to the deck.",
+    "why": "A calm, familiar space turns lethal: the camera stays trapped inside the drifting mass of water with her, so drowning on a luxury deck becomes claustrophobic, a simple premise sold by one clear visual idea.",
+    "director": "Morten Tyldum",
+    "country": "USA",
+    "craft": [
+      "DP: Rodrigo Prieto",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "sci_fi",
+      "drama"
+    ],
+    "era": "far_future",
+    "period": "Starship Avalon, mid-voyage to a colony world",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "underwater"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "zero_gravity",
+      "water_spray"
+    ],
+    "mood": [
+      "terrifying",
+      "surreal"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "underwater_filming",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "swimming pool",
+      "gravity failure",
+      "water bubble",
+      "drowning",
+      "avalon",
+      "jennifer lawrence"
+    ]
+  },
+  {
+    "film": "Avatar",
+    "year": 2009,
+    "scene": "First flight — bonding with the banshee in the Hallelujah Mountains",
+    "query": "Avatar first banshee flight ikran scene",
+    "what_happens": "Jake and Na'vi hunters climb the floating Hallelujah Mountains to a banshee rookery; he wrestles a wild ikran into submission and bonds with it, then they drop off the cliff together and pull up into soaring, swooping flight.",
+    "why": "Performance capture inside a fully virtual world, shot with a virtual camera so handheld instincts survive in CG; the flight is choreographed like a roller coaster, with stereo depth built for vertigo.",
+    "director": "James Cameron",
+    "country": "USA",
+    "craft": [
+      "DP: Mauro Fiore",
+      "Composer: James Horner",
+      "VFX: Weta Digital"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Art Direction"
+    ],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "demonstration",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "adventure",
+      "fantasy"
+    ],
+    "era": "far_future",
+    "period": "Hallelujah Mountains, Pandora, 2154",
+    "region": "alien_world",
+    "environment": [
+      "hills_mountains",
+      "sky",
+      "jungle"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist"
+    ],
+    "mood": [
+      "awe",
+      "heroic",
+      "playful"
+    ],
+    "combatants": [
+      "aliens",
+      "creatures"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "motion_capture",
+      "cgi",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "banshee",
+      "ikran",
+      "floating mountains",
+      "na'vi",
+      "first flight",
+      "bonding",
+      "pandora"
+    ]
+  },
+  {
+    "film": "Avatar",
+    "year": 2009,
+    "scene": "Final battle over the Hallelujah Mountains",
+    "query": "Avatar final battle Hallelujah Mountains scene",
+    "what_happens": "Na'vi riders on banshees dive through the floating mountains against RDA gunships, arrows against rockets, while Jake on the great red Toruk leads the charge on the Dragon assault ship and ground forces clash in the forest below.",
+    "why": "The mountains' magnetic flux scrambles the RDA's targeting, giving bows a fair fight; Cameron keeps geography readable across dozens of combatants by cutting back to recognisable riders and distinct silhouettes.",
+    "director": "James Cameron",
+    "country": "USA",
+    "craft": [
+      "DP: Mauro Fiore",
+      "Composer: James Horner",
+      "VFX: Weta Digital"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Art Direction"
+    ],
+    "scene_type": "battle.air",
+    "format": [
+      "massed_battle",
+      "dogfight"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "adventure",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Hallelujah Mountains, Pandora, 2154",
+    "region": "alien_world",
+    "environment": [
+      "sky",
+      "hills_mountains",
+      "jungle"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fog_mist"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "chaotic"
+    ],
+    "combatants": [
+      "aliens",
+      "mercenaries",
+      "pilots"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "automatic_weapons",
+      "rocket_missile",
+      "explosives"
+    ],
+    "vehicles": [
+      "helicopter",
+      "horse"
+    ],
+    "technique": [
+      "motion_capture",
+      "cgi",
+      "cross_cutting",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "banshee riders",
+      "toruk",
+      "gunships",
+      "dragon assault ship",
+      "flux vortex",
+      "pandora"
+    ]
+  },
+  {
+    "film": "Dune: Part Two",
+    "year": 2024,
+    "scene": "Fremen ride sandworms into the Battle of Arrakeen",
+    "query": "Dune Part Two final battle sandworms Arrakeen scene",
+    "what_happens": "Under cover of a sandstorm, Fremen atomics blast open the Shield Wall, and riders crest the dunes on a procession of giant sandworms, charging the Emperor's Sardaukar encampment below Arrakeen.",
+    "why": "After two films of worms as pure dread, the image of dozens ridden into battle is staged in wide, slow shots, with the storm and the score doing the work of a cavalry charge.",
+    "director": "Denis Villeneuve",
+    "country": "USA",
+    "craft": [
+      "DP: Greig Fraser",
+      "Composer: Hans Zimmer",
+      "Editor: Joe Walker"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "battle.giants",
+    "format": [
+      "massed_battle",
+      "assault_raid"
+    ],
+    "scale": "army",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Arrakeen, Arrakis, far future",
+    "region": "alien_world",
+    "environment": [
+      "desert",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "sandstorm",
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "epic",
+      "awe",
+      "relentless"
+    ],
+    "combatants": [
+      "native_warriors",
+      "creatures",
+      "special_forces"
+    ],
+    "weapons": [
+      "explosives",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wide_framing",
+      "score_driven",
+      "sound_design",
+      "imax_large_format"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "sandworm riders",
+      "fremen",
+      "atomics",
+      "shield wall",
+      "sardaukar",
+      "arrakeen"
+    ]
+  },
+  {
+    "film": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "scene": "Opening: Baby Groot dances while the team fights the Abilisk",
+    "query": "Guardians of the Galaxy Vol 2 opening Baby Groot dancing Mr Blue Sky scene",
+    "what_happens": "On a landing platform, the Guardians battle a giant tentacled space beast, but the camera stays on Baby Groot dancing to Mr. Blue Sky in the foreground while the fight crashes in and out of the background.",
+    "why": "A comic inversion of the action set-piece: the battle happens in the margins while one apparently unbroken camera move follows the smallest character, showing how framing alone can set a film's tone.",
+    "director": "James Gunn",
+    "country": "USA",
+    "craft": [
+      "DP: Henry Braham"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "small_group_fight",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "space_opera",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Sovereign landing platform, 2014",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "airfield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "creatures",
+      "aliens"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "knife",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "cgi",
+      "score_driven",
+      "center_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "baby groot",
+      "mr blue sky",
+      "abilisk",
+      "opening credits",
+      "dance",
+      "sovereign"
+    ]
+  },
+  {
+    "film": "The Right Stuff",
+    "year": 1983,
+    "scene": "John Glenn's Friendship 7 re-entry",
+    "query": "The Right Stuff John Glenn re-entry fireball scene",
+    "what_happens": "Warned that his heat shield may be loose, Glenn rides Friendship 7 back through the atmosphere with the retro-pack still strapped on; it burns away in flaming chunks past his window as the radio falls silent and Mission Control waits.",
+    "why": "Kaufman intercuts the glowing capsule with controllers and families waiting through the blackout; burning debris streaking past the porthole conveys the danger with almost no exposition, and the score lifts the safe return.",
+    "director": "Philip Kaufman",
+    "country": "USA",
+    "craft": [
+      "DP: Caleb Deschanel",
+      "Composer: Bill Conti"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "space.travel",
+    "format": [
+      "journey"
+    ],
+    "scale": "solo",
+    "genre": [
+      "drama",
+      "historical_epic",
+      "adventure"
+    ],
+    "era": "mid_20th_century",
+    "period": "Friendship 7, Earth orbit, 20 February 1962",
+    "region": "earth_orbit",
+    "environment": [
+      "spacecraft_interior",
+      "sky"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "fire"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "awe"
+    ],
+    "combatants": [
+      "astronauts"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "lunar_planetary_vehicle"
+    ],
+    "technique": [
+      "cross_cutting",
+      "practical_effects",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "john glenn",
+      "friendship 7",
+      "heat shield",
+      "retro-pack",
+      "re-entry",
+      "project mercury"
+    ]
+  },
+  {
+    "film": "First Man",
+    "year": 2018,
+    "scene": "Opening: the X-15 skips off the atmosphere",
+    "query": "First Man opening X-15 flight scene",
+    "what_happens": "Neil Armstrong rides the rocket-powered X-15 to the edge of space; the cockpit shakes violently, the sky turns black, and the plane balloons off the top of the atmosphere, forcing him to wrestle it back down toward the desert.",
+    "why": "Chazelle opens on rattling metal and roaring engines, framed tight on Gosling's eyes and gauges; the sudden quiet at the top of the climb establishes the film's intimate, sensory approach to flight.",
+    "director": "Damien Chazelle",
+    "country": "USA",
+    "craft": [
+      "DP: Linus Sandgren",
+      "Editor: Tom Cross",
+      "Composer: Justin Hurwitz"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Golden Globe: Best Original Score"
+    ],
+    "scene_type": "space.travel",
+    "format": [
+      "journey",
+      "demonstration"
+    ],
+    "scale": "solo",
+    "genre": [
+      "drama",
+      "historical_epic"
+    ],
+    "era": "mid_20th_century",
+    "period": "X-15 test flight above the Mojave Desert, early 1960s",
+    "region": "sky",
+    "environment": [
+      "aircraft",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "awe",
+      "intimate"
+    ],
+    "combatants": [
+      "pilots"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "tight_framing",
+      "handheld",
+      "sound_design",
+      "rear_projection"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "x-15",
+      "edge of space",
+      "rocket plane",
+      "neil armstrong",
+      "test pilot",
+      "mojave"
+    ]
+  },
+  {
+    "film": "Star Trek VI: The Undiscovered Country",
+    "year": 1991,
+    "scene": "Battle at Khitomer — the cloaked Bird-of-Prey",
+    "query": "Star Trek VI Khitomer battle Chang Bird of Prey scene",
+    "what_happens": "Above Khitomer, General Chang's Bird-of-Prey fires while cloaked, pounding the Enterprise and Excelsior; Spock and McCoy rig a torpedo to home in on its exhaust, and both ships blast the revealed raider apart.",
+    "why": "A submarine-warfare duel transposed to space — an invisible enemy, a hunting torpedo, sonar-like tactics — with Chang's theatrical taunts making it a battle of wits as much as firepower.",
+    "director": "Nicholas Meyer",
+    "country": "USA",
+    "craft": [
+      "Composer: Cliff Eidelman"
+    ],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "ambush",
+      "dogfight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "thriller"
+    ],
+    "era": "far_future",
+    "period": "Khitomer peace conference, 2293",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "aliens"
+    ],
+    "weapons": [
+      "torpedo_depth_charge",
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "miniatures",
+      "cross_cutting",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "bird-of-prey",
+      "cloaking device",
+      "general chang",
+      "khitomer",
+      "photon torpedo",
+      "uss excelsior"
+    ]
+  },
+  {
+    "film": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "scene": "The Millennium Falcon's escape from Jakku",
+    "query": "The Force Awakens Millennium Falcon Jakku escape scene",
+    "what_happens": "Rey takes the Millennium Falcon's controls with Finn in the gun turret; chased by TIE fighters, she skims the dunes and threads the ship through the hull of a crashed Star Destroyer before flipping it so Finn can make the last shot.",
+    "why": "A chase built on the old trilogy's literal wreckage: threading the Falcon through a fallen Star Destroyer ties new heroes to the old saga, while shouted teamwork between pilot and gunner defines their bond.",
+    "director": "J.J. Abrams",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Mindel",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "chase.air",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "space_opera",
+      "sci_fi",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Jakku, thirty years after the Battle of Endor (fictional)",
+    "region": "alien_world",
+    "environment": [
+      "desert",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "playful",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "starfighter_pilots"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "real_location",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "millennium falcon",
+      "jakku",
+      "star destroyer wreck",
+      "rey",
+      "finn",
+      "tie fighters"
+    ]
+  },
+  {
+    "film": "The Day After Tomorrow",
+    "year": 2004,
+    "scene": "The storm surge floods Manhattan",
+    "query": "The Day After Tomorrow New York tidal wave scene",
+    "what_happens": "A colossal wall of seawater surges past the Statue of Liberty and roars down Manhattan's avenues, tossing cars and buses, as Sam and a crowd sprint up the steps into the New York Public Library.",
+    "why": "One clear vector: the camera sits at street level looking up the avenue as the water approaches, so every shot shares the same direction of threat and the geography stays readable amid the chaos.",
+    "director": "Roland Emmerich",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "sci_fi",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Manhattan, New York, at the onset of a sudden ice age",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "storm_wind",
+      "rain"
+    ],
+    "mood": [
+      "chaotic",
+      "awe",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car",
+      "bus"
+    ],
+    "technique": [
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "storm surge",
+      "new york flood",
+      "public library",
+      "statue of liberty",
+      "tidal wave",
+      "climate disaster"
+    ]
+  },
+  {
+    "film": "San Andreas",
+    "year": 2015,
+    "scene": "Los Angeles quake — the helicopter rooftop rescue",
+    "query": "San Andreas Los Angeles earthquake rooftop helicopter rescue scene",
+    "what_happens": "As a massive quake rips through Los Angeles, Emma fights her way up a collapsing skyscraper to the roof while Ray threads his rescue helicopter between swaying towers and plucks her off just before the building crumbles.",
+    "why": "Two lines of action converge on one rooftop — Emma's climb through a crumbling interior and Ray's hover among swaying skyscrapers — so each cut back tightens the clock and the vertical danger.",
+    "director": "Brad Peyton",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "rescue",
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Downtown Los Angeles during a San Andreas earthquake",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "rooftops",
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "dust_sand",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "civilians",
+      "pilots"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "earthquake",
+      "helicopter rescue",
+      "skyscraper collapse",
+      "dwayne johnson",
+      "rooftop",
+      "los angeles"
+    ]
+  },
+  {
+    "film": "Deep Impact",
+    "year": 1998,
+    "scene": "The megatsunami hits the East Coast",
+    "query": "Deep Impact tsunami wave scene",
+    "what_happens": "A comet fragment slams into the Atlantic; a towering wave rolls toward the coast, engulfing Jenny and her father as they embrace on the beach, then thunders into Manhattan, flooding streets and toppling skyscrapers.",
+    "why": "Leder makes the spectacle personal first — a father and daughter reconciled on the sand — then widens to the wave dwarfing New York, so the scale lands as grief rather than thrill.",
+    "director": "Mimi Leder",
+    "country": "USA",
+    "craft": [
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "sci_fi",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "period": "US East Coast, comet impact in the Atlantic",
+    "region": "usa",
+    "environment": [
+      "beach",
+      "city_street",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "tragic",
+      "awe",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wide_framing",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "tsunami",
+      "comet impact",
+      "megatsunami",
+      "beach embrace",
+      "new york",
+      "tea leoni"
+    ]
+  },
+  {
+    "film": "Armageddon",
+    "year": 1998,
+    "scene": "Meteor shower over Manhattan",
+    "query": "Armageddon meteor shower New York scene",
+    "what_happens": "Without warning, meteorites rain down on New York: cabs and cars explode, Grand Central Terminal's concourse is blasted open, and a fragment shears off the top of the Chrysler Building as crowds scatter.",
+    "why": "Bay's kinetic style at its purest: low-angle street coverage and rapid cutting mix practical car explosions with miniature and digital destruction, establishing the stakes before the plot is explained.",
+    "director": "Michael Bay",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "bombardment"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "sci_fi",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "period": "Midtown Manhattan, New York, late 1990s",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "skyscraper_exterior",
+      "train_station"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "fast_cutting",
+      "practical_explosions",
+      "cgi",
+      "miniatures"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "meteor shower",
+      "new york",
+      "chrysler building",
+      "grand central",
+      "asteroid",
+      "michael bay"
+    ]
+  },
+  {
+    "film": "Dante's Peak",
+    "year": 1997,
+    "scene": "The eruption overruns the town",
+    "query": "Dante's Peak eruption town escape scene",
+    "what_happens": "The volcano blows; ash blots out the sky and debris rains onto the small town as Harry drives Rachel and her children through panicking, collapsing streets toward the mountain road.",
+    "why": "Grounded in real volcanology — ash fall, mudflows, acid lakes — the disaster escalates in stages, each with its own texture, and practical ash and debris on set keep the actors in real grit.",
+    "director": "Roger Donaldson",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "escape",
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "action",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "period": "Dante's Peak, a small town in the Cascades, 1997",
+    "region": "usa",
+    "environment": [
+      "town_main_street",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "tense"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "truck"
+    ],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "vehicle_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "volcano",
+      "eruption",
+      "ash cloud",
+      "pierce brosnan",
+      "ash fall",
+      "small town"
+    ]
+  },
+  {
+    "film": "Volcano",
+    "year": 1997,
+    "scene": "Lava pours down Wilshire Boulevard",
+    "query": "Volcano 1997 lava Wilshire Boulevard scene",
+    "what_happens": "The La Brea Tar Pits erupt; lava bombs rain onto Los Angeles, setting buildings and cars ablaze, and a river of molten rock rolls down Wilshire Boulevard as firefighters and city crews race to stop it.",
+    "why": "The fantasy is grounded in recognisable local geography — the tar pits, Wilshire, a Metro tunnel — and practical fire and debris gags give the digital lava something real to burn.",
+    "director": "Mick Jackson",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "period": "Wilshire Boulevard, Los Angeles, 1997",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "practical_explosions"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "lava",
+      "la brea tar pits",
+      "wilshire boulevard",
+      "volcano",
+      "firefighters",
+      "tommy lee jones"
+    ]
+  },
+  {
+    "film": "The Wave (Bølgen)",
+    "year": 2015,
+    "scene": "The tsunami sweeps through Geiranger",
+    "query": "The Wave Bølgen 2015 tsunami scene",
+    "what_happens": "A mountainside collapses into the Geirangerfjord, sending a towering wave racing down the fjord; geologist Kristian runs uphill with his daughter as gridlocked cars stall on the road and the water engulfs the village behind them.",
+    "why": "Built on a real geological threat, the unstable Åkerneset cliff, the film counts down the ten minutes between rockslide and wave; vast scale shots alternate with ground-level running, a restrained European answer to Hollywood disaster.",
+    "director": "Roar Uthaug",
+    "country": "Norway",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "disaster",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Geiranger, western Norway, present day",
+    "region": "northern_europe",
+    "environment": [
+      "village",
+      "hills_mountains",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "real_location",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "multiple",
+    "keywords": [
+      "tsunami",
+      "fjord",
+      "rockslide",
+      "geiranger",
+      "norwegian disaster film",
+      "bolgen"
+    ]
+  },
+  {
+    "film": "The Perfect Storm",
+    "year": 2000,
+    "scene": "The Andrea Gail climbs the rogue wave",
+    "query": "The Perfect Storm rogue wave Andrea Gail scene",
+    "what_happens": "In the heart of the storm, the swordfishing boat Andrea Gail powers up the face of a gigantic wave; near the crest it stalls, flips backward and is swallowed by the sea with all hands.",
+    "why": "Computer-generated ocean simulation was a milestone here, combined with full-size boat rigs in a studio tank under tons of dumped water; the final climb plays slowly enough to register the crew's dawning acceptance.",
+    "director": "Wolfgang Petersen",
+    "country": "USA",
+    "craft": [
+      "VFX: Industrial Light & Magic",
+      "DP: John Seale",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "disaster",
+      "drama",
+      "adventure"
+    ],
+    "era": "late_20th_century",
+    "period": "North Atlantic, the Halloween storm of 1991",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "rain",
+      "water_spray"
+    ],
+    "mood": [
+      "tragic",
+      "awe",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "rotating_set",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "rogue wave",
+      "andrea gail",
+      "fishing boat",
+      "capsizing",
+      "north atlantic",
+      "george clooney"
+    ]
+  },
+  {
+    "film": "The Poseidon Adventure",
+    "year": 1972,
+    "scene": "The liner capsizes during the New Year's Eve party",
+    "query": "The Poseidon Adventure capsizing ballroom scene",
+    "what_happens": "As passengers celebrate New Year's Eve in the ballroom, a huge wave strikes the liner and rolls it over; tables, people and a piano tumble across the room, and a man falls from an overturned table through the ceiling glass.",
+    "why": "Real stunt falls across a tilting ballroom sell the roll, then the cut to the room upside down reorients the whole film; the drop into the glass is a classic high-fall gag of the 1970s disaster cycle.",
+    "director": "Ronald Neame",
+    "country": "USA",
+    "craft": [
+      "Producer: Irwin Allen",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song",
+      "Oscar: Special Achievement Award (Visual Effects)"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "disaster",
+      "adventure",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "SS Poseidon, Mediterranean Sea, New Year's Eve",
+    "region": "open_ocean",
+    "environment": [
+      "ship_deck",
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "water_spray",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "practical_effects",
+      "miniatures"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "capsize",
+      "ocean liner",
+      "new year's eve",
+      "ballroom",
+      "tidal wave",
+      "upside down"
+    ]
+  },
+  {
+    "film": "Life of Pi",
+    "year": 2012,
+    "scene": "The Tsimtsum sinks in the storm",
+    "query": "Life of Pi shipwreck storm scene",
+    "what_happens": "Pi climbs on deck in a night storm, exhilarated, until the freighter lists; he finds the corridors below flooded, is thrown into a lifeboat as the ship goes down, and sees its lights sinking beneath him into the deep.",
+    "why": "Lee alternates chaos on deck with an eerie underwater image of the lit ship sliding into the abyss, shot in a purpose-built wave tank; 3D depth and colour turn catastrophe into terrible beauty.",
+    "director": "Ang Lee",
+    "country": "USA",
+    "craft": [
+      "DP: Claudio Miranda",
+      "Composer: Mychael Danna",
+      "VFX: Rhythm & Hues"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "drama",
+      "fantasy"
+    ],
+    "era": "mid_20th_century",
+    "period": "Japanese freighter Tsimtsum, Pacific Ocean, 1977",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck",
+      "underwater"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "rain",
+      "water_spray"
+    ],
+    "mood": [
+      "awe",
+      "terrifying",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians",
+      "creatures"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "underwater_filming",
+      "cgi",
+      "color_grading",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "shipwreck",
+      "tsimtsum",
+      "lifeboat",
+      "bengal tiger",
+      "richard parker",
+      "storm at sea"
+    ]
+  },
+  {
+    "film": "The Towering Inferno",
+    "year": 1974,
+    "scene": "Blowing the rooftop water tanks",
+    "query": "The Towering Inferno water tanks finale scene",
+    "what_happens": "With guests trapped in the burning skyscraper's top-floor Promenade Room, firefighters blow the rooftop water tanks; a torrent crashes down through the ballroom, sweeping people across the floor and dousing the flames.",
+    "why": "The climax of the 1970s disaster cycle: the water dump was staged practically, with tons of water flooding the set and performers taking the hit, a gag that still frightens because it is real.",
+    "director": "John Guillermin",
+    "country": "USA",
+    "craft": [
+      "Producer: Irwin Allen",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Song"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "rescue",
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "disaster",
+      "drama",
+      "action"
+    ],
+    "era": "mid_20th_century",
+    "period": "The Glass Tower, San Francisco, 1974",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "nightclub_bar",
+      "rooftops"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "water_spray",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "practical_stunts",
+      "miniatures"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "skyscraper fire",
+      "water tanks",
+      "promenade room",
+      "firefighters",
+      "steve mcqueen",
+      "paul newman"
+    ]
+  },
+  {
+    "film": "Cast Away",
+    "year": 2000,
+    "scene": "The FedEx plane crash",
+    "query": "Cast Away plane crash scene",
+    "what_happens": "Storm turbulence over the Pacific turns to terror as the FedEx cargo plane plunges into the night sea; Chuck is trapped as the cabin floods, kicks free and surfaces clinging to a life raft while burning wreckage and a spinning propeller close in.",
+    "why": "Zemeckis locks the camera to Chuck's perspective with no score, so the disorientation of darkness, roaring water and failing cabin lights becomes the audience's own.",
+    "director": "Robert Zemeckis",
+    "country": "USA",
+    "craft": [
+      "DP: Don Burgess",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "drama",
+      "adventure"
+    ],
+    "era": "late_20th_century",
+    "period": "Over the South Pacific, during a storm",
+    "region": "open_ocean",
+    "environment": [
+      "aircraft",
+      "open_sea",
+      "underwater"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "rain",
+      "fire"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic",
+      "intimate"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "pov",
+      "sound_design",
+      "practical_effects",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "plane crash",
+      "fedex",
+      "ditching",
+      "life raft",
+      "propeller",
+      "tom hanks"
+    ]
+  },
+  {
+    "film": "Flight",
+    "year": 2012,
+    "scene": "Flying the airliner upside down",
+    "query": "Flight 2012 plane crash inverted scene",
+    "what_happens": "When a jammed stabiliser sends the airliner into a screaming dive, Whip rolls it upside down to arrest the descent, flying inverted over houses as passengers hang from their belts, then rights it to crash-land in a field.",
+    "why": "The impossible manoeuvre is played as procedure — calm commands, failing systems, a crew executing orders — intercut with terror in the cabin, so the logic of the moment carries the stunt.",
+    "director": "Robert Zemeckis",
+    "country": "USA",
+    "craft": [
+      "DP: Don Burgess",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "drama",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Airliner flight from Orlando to Atlanta, present day",
+    "region": "usa",
+    "environment": [
+      "aircraft",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "pilots",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "rotating_set",
+      "cross_cutting",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "airliner",
+      "inverted flight",
+      "denzel washington",
+      "plane crash",
+      "cockpit",
+      "dive"
+    ]
+  },
+  {
+    "film": "Chernobyl",
+    "year": 2019,
+    "scene": "Clearing the roof — ninety seconds (\"The Happiness of All Mankind\")",
+    "query": "Chernobyl roof clearing 90 seconds scene",
+    "what_happens": "Soldiers in improvised lead armour take their turn on the reactor roof: ninety seconds to run out, shovel radioactive graphite over the edge and get back, as a Geiger counter crackles relentlessly.",
+    "why": "The run plays in close to real time with only boots, breathing and Geiger clicks on the soundtrack; the enemy is invisible, so every shot is about time, distance and the weight of the suits.",
+    "director": "Johan Renck",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Hildur Guðnadóttir",
+      "DP: Jakob Ihre"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Limited Series",
+      "Emmy: Outstanding Directing for a Limited Series"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "drama",
+      "disaster",
+      "historical_epic"
+    ],
+    "era": "late_20th_century",
+    "period": "Roof of Chernobyl reactor 3, Soviet Ukraine, 1986",
+    "region": "eastern_europe",
+    "environment": [
+      "rooftops",
+      "dam_industrial"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "gritty",
+      "relentless"
+    ],
+    "combatants": [
+      "cold_war_soldiers",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "tight_framing",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "liquidators",
+      "bio-robots",
+      "graphite",
+      "geiger counter",
+      "ninety seconds",
+      "radiation"
+    ]
+  },
+  {
+    "film": "Society of the Snow",
+    "year": 2023,
+    "scene": "The crash in the Andes",
+    "query": "Society of the Snow plane crash scene",
+    "what_happens": "Flight 571 bucks through turbulence over the Andes, clips a ridge and loses its tail; the fuselage toboggans down a snowfield as rows of seats crush forward onto the rugby players and passengers inside.",
+    "why": "Bayona shoots from inside the cabin with tight framing and violent sound, using seats folding forward as the image of impact, then lets the sudden stillness after the slide do the rest.",
+    "director": "J.A. Bayona",
+    "country": "Spain",
+    "craft": [
+      "DP: Pedro Luque",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [
+      "Goya: Best Film",
+      "Goya: Best Director"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "drama",
+      "disaster"
+    ],
+    "era": "mid_20th_century",
+    "period": "Uruguayan Air Force Flight 571, the Andes, 13 October 1972",
+    "region": "latin_america",
+    "environment": [
+      "aircraft",
+      "snow_ice",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "brutal",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "tight_framing",
+      "sound_design",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "spanish",
+    "keywords": [
+      "andes",
+      "plane crash",
+      "rugby team",
+      "flight 571",
+      "uruguay",
+      "fuselage"
+    ]
+  },
+  {
+    "film": "The Matrix Reloaded",
+    "year": 2003,
+    "scene": "The Burly Brawl — Neo vs. the Smiths",
+    "query": "The Matrix Reloaded burly brawl Neo vs 100 Smiths scene",
+    "what_happens": "In a courtyard, Agent Smith copies himself again and again until dozens surround Neo; he fights them off hand to hand, then with a steel pole, spinning through the swarm before launching himself into the sky.",
+    "why": "The first large-scale 'virtual cinematography' fight: digital doubles of the actors let impossible camera moves join Yuen Woo-ping's wire-work choreography — both a landmark and a cautionary tale for all-CG fights.",
+    "director": "The Wachowskis",
+    "country": "USA/Australia",
+    "craft": [
+      "Fight choreographer: Yuen Woo-ping",
+      "VFX supervisor: John Gaeta"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "sci_fi",
+      "action",
+      "cyberpunk"
+    ],
+    "era": "late_20th_century",
+    "period": "Courtyard inside the Matrix simulation",
+    "region": "unspecified_city",
+    "environment": [
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "relentless",
+      "surreal"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "federal_agents"
+    ],
+    "weapons": [
+      "fists_feet",
+      "staff_stick",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "motion_capture",
+      "cgi",
+      "wire_work",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "burly brawl",
+      "agent smith clones",
+      "virtual cinematography",
+      "steel pole",
+      "neo",
+      "digital doubles"
+    ]
+  },
+  {
+    "film": "Everything Everywhere All at Once",
+    "year": 2022,
+    "scene": "Waymond's fanny-pack fight",
+    "query": "Everything Everywhere All at Once fanny pack fight scene",
+    "what_happens": "Cornered by security guards in the IRS building, mild-mannered Waymond swings his fanny pack like a nunchaku, spinning, flipping and disarming the guards in an elegant one-man rout.",
+    "why": "Ke Huy Quan's comeback, choreographed to show off his martial-arts timing: the comedy prop becomes a precise weapon, and wide, readable framing lets every gag and strike land.",
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "country": "USA",
+    "craft": [
+      "Editor: Paul Rogers",
+      "Composer: Son Lux"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Actress",
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Supporting Actress",
+      "Oscar: Best Original Screenplay",
+      "Oscar: Best Film Editing"
+    ],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "comedy",
+      "martial_arts",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "period": "IRS office building, California, present day",
+    "region": "usa",
+    "environment": [
+      "office_tower"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "playful",
+      "graceful",
+      "stylish"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "police"
+    ],
+    "weapons": [
+      "improvised",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "multiple",
+    "keywords": [
+      "fanny pack",
+      "ke huy quan",
+      "waymond",
+      "irs building",
+      "verse jumping",
+      "nunchaku"
+    ]
+  },
+  {
+    "film": "Jurassic Park",
+    "year": 1993,
+    "scene": "First sight of the Brachiosaurus",
+    "query": "Jurassic Park Brachiosaurus first dinosaur reveal scene",
+    "what_happens": "Driving across Isla Nublar, Grant notices something huge, stands and pulls off his sunglasses; a Brachiosaurus rears up to strip a tree as Ellie turns, and a herd of dinosaurs gathers at the lake below.",
+    "why": "Spielberg shows the reactions before the creature, then lets the camera rise with the theme; the digital brachiosaur composited into a real location was the moment audiences believed computer-generated animals.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "Full-motion dinosaurs: Dennis Muren (ILM)",
+      "Composer: John Williams",
+      "DP: Dean Cundey"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "sci_fi",
+      "monster"
+    ],
+    "era": "late_20th_century",
+    "period": "Isla Nublar, off Costa Rica, 1993",
+    "region": "latin_america",
+    "environment": [
+      "grassland",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "awe"
+    ],
+    "combatants": [
+      "civilians",
+      "creatures"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "real_location",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "brachiosaurus",
+      "dinosaur reveal",
+      "sunglasses",
+      "herd",
+      "isla nublar",
+      "welcome to jurassic park"
+    ]
+  },
+  {
+    "film": "An American Werewolf in London",
+    "year": 1981,
+    "scene": "David's transformation",
+    "query": "An American Werewolf in London transformation scene",
+    "what_happens": "Alone in a London flat under a full moon, David writhes in agony as his hands stretch, his spine ripples, hair erupts and his face elongates into a snout, all in brightly lit close-ups while 'Blue Moon' plays.",
+    "why": "Rick Baker's mechanical prosthetics transform the actor in full light rather than shadow — the power is that we see everything. The work earned the first competitive Academy Award for makeup.",
+    "director": "John Landis",
+    "country": "UK/USA",
+    "craft": [
+      "Special makeup effects: Rick Baker"
+    ],
+    "accolades": [
+      "Oscar: Best Makeup"
+    ],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "solo",
+    "genre": [
+      "horror",
+      "comedy"
+    ],
+    "era": "late_20th_century",
+    "period": "A London flat, 1981",
+    "region": "british_isles",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "terrifying",
+      "surreal",
+      "brutal"
+    ],
+    "combatants": [
+      "creatures"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "score_driven",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "werewolf transformation",
+      "prosthetics",
+      "rick baker",
+      "blue moon",
+      "body horror",
+      "full moon"
+    ]
+  },
+  {
+    "film": "Annihilation",
+    "year": 2018,
+    "scene": "The doppelgänger in the lighthouse",
+    "query": "Annihilation lighthouse mimic dance scene",
+    "what_happens": "Inside the lighthouse, a featureless, shimmering humanoid mirrors Lena's every movement; when she tries to flee it follows, pinning her in a slow, dance-like struggle as the Shimmer's droning music swells.",
+    "why": "A climax without conventional combat: the confrontation is staged as mimicry, with a reflective digital figure and a hypnotic score, so terror comes from loss of identity rather than violence.",
+    "director": "Alex Garland",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Rob Hardy",
+      "Composers: Ben Salisbury, Geoff Barrow"
+    ],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "spectacle",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "horror"
+    ],
+    "era": "contemporary",
+    "period": "Lighthouse at the heart of the Shimmer, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "beach"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "surreal",
+      "terrifying",
+      "graceful"
+    ],
+    "combatants": [
+      "aliens",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "lighthouse",
+      "mimic",
+      "doppelganger",
+      "shimmer",
+      "alien dance",
+      "natalie portman"
+    ],
+    "video": "zqFds4L73Uo"
+  },
+  {
+    "film": "Doctor Strange",
+    "year": 2016,
+    "scene": "The Ancient One sends Strange through the multiverse",
+    "query": "Doctor Strange Ancient One multiverse trip scene",
+    "what_happens": "With one push, the Ancient One knocks Strange's astral form out of his body and sends him hurtling through the multiverse: kaleidoscopic fractals, hands sprouting endless fingers, drifting worlds and the Dark Dimension.",
+    "why": "A montage of escalating psychedelic images, each lasting only seconds, compresses the film's entire rule set into one disorienting ride and converts a sceptic in a single sequence.",
+    "director": "Scott Derrickson",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "journey",
+      "spectacle"
+    ],
+    "scale": "solo",
+    "genre": [
+      "superhero",
+      "fantasy"
+    ],
+    "era": "contemporary",
+    "period": "Kamar-Taj, Kathmandu, and the multiverse",
+    "region": "south_asia",
+    "environment": [
+      "dreamscape",
+      "temple_church"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "surreal",
+      "awe"
+    ],
+    "combatants": [
+      "superheroes"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "montage",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "multiverse",
+      "astral projection",
+      "ancient one",
+      "psychedelic",
+      "fractals",
+      "dark dimension"
+    ]
+  },
+  {
+    "film": "X-Men: Apocalypse",
+    "year": 2016,
+    "scene": "Quicksilver evacuates the exploding mansion ('Sweet Dreams')",
+    "query": "X-Men Apocalypse Quicksilver mansion explosion Sweet Dreams scene",
+    "what_happens": "As the X-Mansion explodes, Quicksilver races through the frozen fireball, carrying students out one by one and indulging in sight gags while glass, flames and debris hang motionless in the air.",
+    "why": "An escalation of the earlier Quicksilver gag: extreme high-speed photography and composited debris let the frozen moment be explored like a set, all timed to a pop song.",
+    "director": "Bryan Singer",
+    "country": "USA",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Composer: John Ottman"
+    ],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "rescue",
+      "demonstration"
+    ],
+    "scale": "medium",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "period": "Xavier's School, Westchester, New York, 1983",
+    "region": "usa",
+    "environment": [
+      "palace_mansion"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "stylish"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "quicksilver",
+      "sweet dreams",
+      "super speed",
+      "mansion explosion",
+      "x-mansion",
+      "eurythmics"
+    ]
+  },
+  {
+    "film": "Jurassic Park",
+    "year": 1993,
+    "scene": "Raptors in the kitchen",
+    "query": "Jurassic Park raptors in the kitchen scene",
+    "what_happens": "Lex and Tim hide among the steel counters of the visitor-centre kitchen as two Velociraptors stalk in, claws tapping; the children dodge them through reflections and clatter until one raptor is locked in the walk-in freezer.",
+    "why": "Hide-and-seek staging in a reflective steel space: breath fogging metal, a tail glimpsed between counters and a dropped ladle build the tension, while full-size raptor suits keep the predators physically in the room.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "Live-action dinosaurs: Stan Winston",
+      "Full-motion dinosaurs: Dennis Muren (ILM)",
+      "DP: Dean Cundey"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "scene_type": "creature.attack",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "sci_fi",
+      "monster"
+    ],
+    "era": "late_20th_century",
+    "period": "Visitor centre kitchen, Isla Nublar, 1993",
+    "region": "latin_america",
+    "environment": [
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "single_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "velociraptors",
+      "kitchen",
+      "hide and seek",
+      "walk-in freezer",
+      "children",
+      "dinosaur"
+    ]
+  },
+  {
+    "film": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "scene": "The trailer over the cliff",
+    "query": "The Lost World Jurassic Park trailer cliff scene",
+    "what_happens": "Two adult T. rexes ram the expedition's mobile lab until it dangles over a cliff; Sarah falls onto the rear window as the glass cracks beneath her, and the others haul her up by rope as the trailer slides.",
+    "why": "A single full-size set rigged to tilt becomes a vertical suspense machine; the slow spread of cracks through glass does more work than the dinosaurs themselves.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Live-action dinosaurs: Stan Winston",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "rescue",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "sci_fi",
+      "monster"
+    ],
+    "era": "late_20th_century",
+    "period": "Isla Sorna, 1997",
+    "region": "latin_america",
+    "environment": [
+      "cliff_canyon",
+      "jungle"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "rain",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "truck"
+    ],
+    "technique": [
+      "practical_effects",
+      "rotating_set",
+      "tight_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "t. rex",
+      "trailer",
+      "cliff",
+      "cracking glass",
+      "rope",
+      "isla sorna"
+    ]
+  },
+  {
+    "film": "Jurassic World",
+    "year": 2015,
+    "scene": "T. rex and Blue vs. the Indominus rex",
+    "query": "Jurassic World final battle T rex vs Indominus rex scene",
+    "what_happens": "Claire releases the T. rex and lures it with a flare onto Main Street to face the Indominus rex; the raptor Blue joins the brawl, and the Mosasaurus lunges from its lagoon to drag the hybrid under.",
+    "why": "A climax structured like a tag-team wrestling match: predators that menaced the heroes become their champions, and the Mosasaurus payoff is planted in the first act's feeding show.",
+    "director": "Colin Trevorrow",
+    "country": "USA",
+    "craft": [
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "duel",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "sci_fi",
+      "monster"
+    ],
+    "era": "contemporary",
+    "period": "Jurassic World theme park, Isla Nublar, present day",
+    "region": "latin_america",
+    "environment": [
+      "plaza_square",
+      "river_lake"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "indominus rex",
+      "t. rex",
+      "blue",
+      "mosasaurus",
+      "flare",
+      "main street"
+    ]
+  },
+  {
+    "film": "Jaws",
+    "year": 1975,
+    "scene": "The Alex Kintner attack on the crowded beach",
+    "query": "Jaws beach attack Alex Kintner dolly zoom scene",
+    "what_happens": "On a packed Amity beach, Brody scans the water as swimmers cross his view; a boy on a yellow raft is dragged under in a fountain of blood, the camera rushes in on Brody's face, and parents haul children from the surf.",
+    "why": "Famous for the dolly zoom on Brody — tracking in while zooming out — that warps the world behind him; before that, bathers wiping across the frame tease false alarms, a lesson in exploiting anticipation.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "Editor: Verna Fields",
+      "DP: Bill Butler",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound"
+    ],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "monster",
+      "horror"
+    ],
+    "era": "mid_20th_century",
+    "period": "Amity Island beach, summer 1975",
+    "region": "usa",
+    "environment": [
+      "beach"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians",
+      "police"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "practical_effects",
+      "real_location",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "dolly zoom",
+      "shark attack",
+      "alex kintner",
+      "yellow raft",
+      "beach panic",
+      "vertigo effect"
+    ]
+  },
+  {
+    "film": "Alien",
+    "year": 1979,
+    "scene": "Dallas hunts the creature in the air shafts",
+    "query": "Alien 1979 Dallas air shaft vent scene",
+    "what_happens": "Armed with a flamethrower, Dallas crawls through the Nostromo's cramped ducts while the crew track a blip on a motion tracker; the signal closes in from every side until he turns and the alien is waiting.",
+    "why": "Suspense built from information: the beeping tracker, crew voices over the radio and darkness give the audience exactly what Dallas has, and the payoff glimpse lasts a fraction of a second.",
+    "director": "Ridley Scott",
+    "country": "UK/USA",
+    "craft": [
+      "Creature design: H.R. Giger",
+      "DP: Derek Vanlint",
+      "Editor: Terry Rawlings",
+      "Composer: Jerry Goldsmith"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "creature.attack",
+    "format": [
+      "stealth_infiltration",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "sci_fi"
+    ],
+    "era": "far_future",
+    "period": "Commercial towing vessel Nostromo, deep space",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "aliens",
+      "astronauts"
+    ],
+    "weapons": [
+      "flamethrower",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "sound_design",
+      "practical_effects",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "air shafts",
+      "motion tracker",
+      "dallas",
+      "flamethrower",
+      "vents",
+      "xenomorph"
+    ]
+  },
+  {
+    "film": "Aliens",
+    "year": 1986,
+    "scene": "The hive ambush and Ripley's APC rescue",
+    "query": "Aliens hive ambush APC rescue scene",
+    "what_happens": "Colonial Marines sweep the resin-coated hive inside the atmosphere processor, watched through helmet-camera monitors; xenomorphs burst from the walls, the squad is torn apart, and Ripley seizes the APC and smashes in to rescue the survivors.",
+    "why": "Cameron cross-cuts the fight through grainy helmet-cam feeds watched by a helpless lieutenant, then hands control to Ripley — a structure where information, not just gunfire, drives the panic.",
+    "director": "James Cameron",
+    "country": "USA/UK",
+    "craft": [
+      "Creature effects: Stan Winston Studio",
+      "DP: Adrian Biddle",
+      "Editor: Ray Lovejoy",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "scene_type": "fight.creature",
+    "format": [
+      "ambush",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "action",
+      "horror"
+    ],
+    "era": "far_future",
+    "period": "Atmosphere processor, Hadley's Hope, LV-426, 2179",
+    "region": "alien_world",
+    "environment": [
+      "dam_industrial",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "relentless"
+    ],
+    "combatants": [
+      "aliens",
+      "special_forces"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "flamethrower",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "cross_cutting",
+      "practical_effects",
+      "pov",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "colonial marines",
+      "hive",
+      "apc",
+      "helmet cams",
+      "pulse rifles",
+      "xenomorphs",
+      "ripley"
+    ],
+    "video": "BpDkgFpeToM"
+  },
+  {
+    "film": "The Thing",
+    "year": 1982,
+    "scene": "The blood test",
+    "query": "The Thing 1982 blood test scene",
+    "what_happens": "MacReady ties the survivors to a couch and touches a heated wire to each man's blood sample; one sample shrieks and leaps from its dish, Palmer erupts into the creature and attacks the bound men before MacReady burns it.",
+    "why": "Carpenter builds dread through procedure — one sample, then the next — holding on faces and a pulsing score, before Bottin's practical effects shatter the stillness.",
+    "director": "John Carpenter",
+    "country": "USA",
+    "craft": [
+      "Special makeup effects: Rob Bottin",
+      "DP: Dean Cundey",
+      "Composer: Ennio Morricone"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "standoff",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "sci_fi"
+    ],
+    "era": "late_20th_century",
+    "period": "US Outpost 31, Antarctica, winter 1982",
+    "region": "polar",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "aliens",
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "flamethrower",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "blood test",
+      "petri dish",
+      "hot wire",
+      "paranoia",
+      "macready",
+      "flamethrower",
+      "antarctica"
+    ]
+  },
+  {
+    "film": "Tremors",
+    "year": 1990,
+    "scene": "The Graboid in the Gummers' rec room",
+    "query": "Tremors Burt and Heather Gummer basement graboid scene",
+    "what_happens": "A Graboid smashes through the wall of Burt and Heather Gummer's basement rec room, and the survivalist couple empty their arsenal of rifles, shotguns and an elephant gun into it until it lies dead.",
+    "why": "A comic payoff to the monster's dominance: the creature bursts into the one room in town built for war, and the rhythm of weapons handed off, reloaded and fired plays like a duet.",
+    "director": "Ron Underwood",
+    "country": "USA",
+    "craft": [
+      "Creature effects: Amalgamated Dynamics (Alec Gillis, Tom Woodruff Jr.)"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "last_stand"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "monster",
+      "comedy",
+      "horror"
+    ],
+    "era": "late_20th_century",
+    "period": "Perfection, Nevada, 1990",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "chaotic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "shotgun",
+      "handgun",
+      "automatic_weapons",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "graboid",
+      "burt gummer",
+      "gun wall",
+      "elephant gun",
+      "basement",
+      "survivalists"
+    ]
+  },
+  {
+    "film": "The Mist",
+    "year": 2007,
+    "scene": "Tentacles at the loading dock",
+    "query": "The Mist loading dock tentacles scene",
+    "what_happens": "Shoppers trapped in a fog-bound supermarket open the loading-bay door to clear a generator vent; tentacles slither in from the mist, seize a young bagger and drag him outside while David hacks at them.",
+    "why": "Darabont uses TV-style handheld coverage to make the first monster glimpse feel documentary; the creature is revealed in pieces under the bay lights, and the argument afterwards is as frightening as the attack.",
+    "director": "Frank Darabont",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "sci_fi",
+      "monster"
+    ],
+    "era": "contemporary",
+    "period": "Supermarket in a small Maine town, present day",
+    "region": "usa",
+    "environment": [
+      "mall_store",
+      "warehouse_factory"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "cgi",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "tentacles",
+      "loading dock",
+      "supermarket",
+      "mist",
+      "generator",
+      "stephen king"
+    ]
+  },
+  {
+    "film": "A Quiet Place",
+    "year": 2018,
+    "scene": "The nail on the stairs and the silent birth",
+    "query": "A Quiet Place nail on the stairs bathtub scene",
+    "what_happens": "Alone and going into labour, Evelyn steps onto an exposed nail on the basement stairs; she stifles her cry, a picture frame crashes, and a creature stalks into the house as she hides and gives birth in silence.",
+    "why": "Built on a set-up planted earlier — the nail — and a sound mix that drops to near silence, so every drip and creak is a threat; red warning lights turn the house into a code.",
+    "director": "John Krasinski",
+    "country": "USA",
+    "craft": [
+      "Composer: Marco Beltrami",
+      "Sound editors: Erik Aadahl, Ethan Van der Ryn"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "horror",
+      "sci_fi",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "The Abbott farmhouse, upstate New York, 2020",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "intimate"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "silence",
+      "sound_design",
+      "tight_framing",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "nail on the stairs",
+      "silence",
+      "bathtub birth",
+      "red lights",
+      "emily blunt",
+      "sound-hunting creatures"
+    ]
+  },
+  {
+    "film": "A Quiet Place Part II",
+    "year": 2020,
+    "scene": "Day 1 — the attack on the town",
+    "query": "A Quiet Place Part II opening day 1 scene",
+    "what_happens": "During a Little League game, a fireball streaks across the sky; creatures tear through Main Street, and Evelyn reverses her car through the chaos in one continuous shot as a bus crashes alongside.",
+    "why": "The invasion's arrival is staged as long, continuous takes from inside the family car and along the street, so the audience hunts for the creatures in the frame alongside the characters.",
+    "director": "John Krasinski",
+    "country": "USA",
+    "craft": [
+      "Composer: Marco Beltrami"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "sci_fi",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Small-town Main Street, Day 1 of the invasion",
+    "region": "usa",
+    "environment": [
+      "town_main_street",
+      "car_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "car",
+      "bus"
+    ],
+    "technique": [
+      "long_take",
+      "sound_design",
+      "cgi",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "day one",
+      "little league",
+      "invasion",
+      "car reverse",
+      "continuous take",
+      "monsters arrive"
+    ]
+  },
+  {
+    "film": "Nope",
+    "year": 2022,
+    "scene": "Jean Jacket devours the Star Lasso Experience",
+    "query": "Nope Star Lasso Experience Jean Jacket scene",
+    "what_happens": "At a dusty western theme park, showman Jupe offers a horse to lure the creature hiding in the clouds; instead it descends over the bleachers and swallows the entire audience, their screams fading into a silent sky.",
+    "why": "Peele hides the monster behind a cloud and the reveal behind a show: the crowd's view of a spectacle becomes the creature's feeding, shot on large-format IMAX film for maximum sky.",
+    "director": "Jordan Peele",
+    "country": "USA",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "Composer: Michael Abels"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "rampage",
+      "spectacle"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "sci_fi",
+      "western"
+    ],
+    "era": "contemporary",
+    "period": "Jupiter's Claim theme park, Agua Dulce, California, present day",
+    "region": "usa",
+    "environment": [
+      "arena_ring",
+      "desert"
+    ],
+    "time_of_day": "twilight",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "terrifying",
+      "surreal",
+      "awe"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "imax_large_format",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "jean jacket",
+      "ufo",
+      "star lasso experience",
+      "jupiter's claim",
+      "cloud",
+      "swallowed"
+    ]
+  },
+  {
+    "film": "Prey",
+    "year": 2022,
+    "scene": "The Predator kills a grizzly bear",
+    "query": "Prey 2022 Predator vs bear scene",
+    "what_happens": "Fleeing a grizzly, Naru scrambles up a tree; the bear is suddenly attacked by an invisible hunter, and the Predator, shimmering in and out of its cloak, wrestles it to death and hoists the carcass overhead.",
+    "why": "A creature-versus-creature fight seen from the hunted girl's perch: the reveal of the Predator's strength sets the bar Naru must clear, and the cloaking shimmer tells you where it is before you see it.",
+    "director": "Dan Trachtenberg",
+    "country": "USA",
+    "craft": [
+      "DP: Jeff Cutter",
+      "Composer: Sarah Schachner"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Television Movie"
+    ],
+    "scene_type": "fight.creature",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action",
+      "horror"
+    ],
+    "era": "early_modern",
+    "period": "Comanche Nation, Northern Great Plains, 1719",
+    "region": "american_frontier",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "aliens",
+      "apes_animals",
+      "native_warriors"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "real_location",
+      "natural_light",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "predator",
+      "grizzly bear",
+      "naru",
+      "comanche",
+      "cloaking",
+      "1719"
+    ]
+  },
+  {
+    "film": "Prey",
+    "year": 2022,
+    "scene": "Naru's final duel with the Predator",
+    "query": "Prey 2022 final fight Naru vs Predator scene",
+    "what_happens": "Naru faces the Predator alone in the woods, using a herb that lowers her body heat to slip past its vision, her rope-tethered tomahawk, and finally its own guided weaponry turned back against it.",
+    "why": "The finale pays off every lesson the film planted — the herb, the terrain, the weapons she has studied — so the victory reads as intelligence over strength rather than luck.",
+    "director": "Dan Trachtenberg",
+    "country": "USA",
+    "craft": [
+      "DP: Jeff Cutter",
+      "Composer: Sarah Schachner"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Television Movie"
+    ],
+    "scene_type": "fight.creature",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action",
+      "horror"
+    ],
+    "era": "early_modern",
+    "period": "Comanche Nation, Northern Great Plains, 1719",
+    "region": "american_frontier",
+    "environment": [
+      "forest",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "mud"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "brutal"
+    ],
+    "combatants": [
+      "native_warriors",
+      "aliens"
+    ],
+    "weapons": [
+      "axe_mace",
+      "bow_arrow",
+      "knife",
+      "energy_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "real_location",
+      "natural_light",
+      "practical_stunts",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "predator",
+      "naru",
+      "comanche",
+      "tomahawk",
+      "heat vision",
+      "final duel",
+      "amber midthunder"
+    ]
+  },
+  {
+    "film": "The Revenant",
+    "year": 2015,
+    "scene": "The grizzly bear attack",
+    "query": "The Revenant bear attack scene",
+    "what_happens": "Scouting alone in the forest, Hugh Glass stumbles on two cubs; their mother charges, mauling and flinging him, standing on his back, leaving and returning, until he shoots and stabs her and they tumble down a slope.",
+    "why": "The camera never cuts away, staying inches from DiCaprio in natural light; the digital bear's weight and breath fogging the lens make the audience feel pinned beneath it.",
+    "director": "Alejandro G. Iñárritu",
+    "country": "USA",
+    "craft": [
+      "DP: Emmanuel Lubezki",
+      "Editor: Stephen Mirrione"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Actor",
+      "Oscar: Best Cinematography"
+    ],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "western",
+      "adventure",
+      "drama"
+    ],
+    "era": "19th_century",
+    "period": "Upper Missouri wilderness, 1823",
+    "region": "american_frontier",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "terrifying",
+      "gritty"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "musket_flintlock",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "natural_light",
+      "cgi",
+      "real_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "grizzly bear",
+      "mauling",
+      "hugh glass",
+      "cubs",
+      "leonardo dicaprio",
+      "survival"
+    ]
+  },
+  {
+    "film": "Annihilation",
+    "year": 2018,
+    "scene": "The screaming bear",
+    "query": "Annihilation bear scene",
+    "what_happens": "Bound to chairs in a dark house, the surviving scientists freeze as a skull-faced mutated bear pads among them, crying out in the dying screams of a teammate it killed, until it is shot.",
+    "why": "Garland weaponises sound: the creature's call is a human voice begging for help, and the scene plays largely in close-ups on bound faces, letting imagination do the rest.",
+    "director": "Alex Garland",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Rob Hardy",
+      "Composers: Ben Salisbury, Geoff Barrow"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush",
+      "standoff"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "horror"
+    ],
+    "era": "contemporary",
+    "period": "Abandoned house inside the Shimmer, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "tense",
+      "surreal"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "tight_framing",
+      "cgi",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "mutated bear",
+      "screaming bear",
+      "shimmer",
+      "bound to chairs",
+      "human voice",
+      "area x"
+    ]
+  },
+  {
+    "film": "The Birds",
+    "year": 1963,
+    "scene": "The crows gather at the schoolhouse",
+    "query": "The Birds crows jungle gym schoolhouse attack scene",
+    "what_happens": "Melanie waits on a bench outside the schoolhouse while, behind her, crows silently mass on the climbing frame; she sees them, warns the teacher, and the birds swoop on the children fleeing down the road.",
+    "why": "Hitchcock builds suspense by letting the audience watch the crows multiply behind Melanie between cuts back to her; there is no score, only bird sound, and the attack mixes trained birds, mechanical birds and optical compositing.",
+    "director": "Alfred Hitchcock",
+    "country": "USA",
+    "craft": [
+      "Special effects: Ub Iwerks",
+      "Sound consultant: Bernard Herrmann"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "thriller"
+    ],
+    "era": "mid_20th_century",
+    "period": "Bodega Bay, California, early 1960s",
+    "region": "usa",
+    "environment": [
+      "village"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "silence",
+      "rear_projection",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "crows",
+      "schoolhouse",
+      "jungle gym",
+      "bird attack",
+      "hitchcock",
+      "bodega bay"
+    ]
+  },
+  {
+    "film": "Attack the Block",
+    "year": 2011,
+    "scene": "Moses' slow-motion run with the Union Jack",
+    "query": "Attack the Block Moses slow motion run Union Jack scene",
+    "what_happens": "Carrying the scent that draws the aliens, Moses sprints through the tower block in slow motion with the glowing-fanged creatures behind him, into a gas-filled flat, then leaps out the window clinging to a Union Jack as it explodes.",
+    "why": "A teenage mugger becomes a hero in one slow-motion run; the black-furred, glow-toothed creatures — suit performers with digital touches — show how a strong design makes a low budget look iconic.",
+    "director": "Joe Cornish",
+    "country": "UK",
+    "craft": [
+      "Composers: Steven Price, Basement Jaxx"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "sci_fi",
+      "comedy",
+      "horror"
+    ],
+    "era": "contemporary",
+    "period": "South London council estate, Bonfire Night",
+    "region": "british_isles",
+    "environment": [
+      "corridor",
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "low_light"
+    ],
+    "mood": [
+      "heroic",
+      "stylish",
+      "tense"
+    ],
+    "combatants": [
+      "aliens",
+      "gangsters"
+    ],
+    "weapons": [
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "score_driven",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "moses",
+      "union jack",
+      "tower block",
+      "slow motion run",
+      "john boyega",
+      "gas explosion"
+    ]
+  },
+  {
+    "film": "Train to Busan",
+    "year": 2016,
+    "scene": "The ambush at Daejeon station",
+    "query": "Train to Busan Daejeon station scene",
+    "what_happens": "Passengers step off at Daejeon expecting soldiers and safety; the troops on the stairs have turned, and a sprinting horde floods the concourse as the survivors flee back across the platform to the departing train.",
+    "why": "Yeon's infected are fast and contorted and move as a single wave of choreographed stunt performers; the reveal of the soldiers' faces turns hope into panic in one cut.",
+    "director": "Yeon Sang-ho",
+    "country": "South Korea",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Daejeon Station, South Korea, present day",
+    "region": "korea",
+    "environment": [
+      "train_station",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "relentless"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "civilians",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "improvised"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "practical_stunts",
+      "large_crowds",
+      "handheld",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "korean",
+    "keywords": [
+      "zombies",
+      "daejeon",
+      "station",
+      "infected soldiers",
+      "horde",
+      "korean zombie film"
+    ]
+  },
+  {
+    "film": "Shaun of the Dead",
+    "year": 2004,
+    "scene": "'Don't Stop Me Now' at the Winchester",
+    "query": "Shaun of the Dead Don't Stop Me Now pool cue scene",
+    "what_happens": "When the pub jukebox kicks into Queen's 'Don't Stop Me Now', Shaun, Ed and Liz beat the zombified landlord with pool cues, every blow landing in time with the music.",
+    "why": "Wright cuts every hit on the beat, making violence musical; the scene is a masterclass in comic editing, where rhythm, not gore, delivers the laugh.",
+    "director": "Edgar Wright",
+    "country": "UK",
+    "craft": [
+      "Editor: Chris Dickens"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "comedy",
+      "horror"
+    ],
+    "era": "contemporary",
+    "period": "The Winchester pub, North London, present day",
+    "region": "british_isles",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "playful",
+      "stylish"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "civilians"
+    ],
+    "weapons": [
+      "staff_stick",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "fast_cutting",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "don't stop me now",
+      "queen",
+      "pool cues",
+      "winchester pub",
+      "jukebox",
+      "zombie comedy"
+    ]
+  },
+  {
+    "film": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "scene": "The cave troll in Balin's tomb",
+    "query": "Fellowship of the Ring cave troll Balin's tomb scene",
+    "what_happens": "Orcs batter down the door of Balin's tomb in Moria; the Fellowship fights them among the pillars until a cave troll lumbers in swinging a chain, Frodo is speared, and Legolas brings the beast down.",
+    "why": "A chaotic melee kept readable by giving each Fellowship member a signature move; the digital troll's weight is sold by interactive set damage, and Frodo's apparent death turns the fight emotionally.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Makeup",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "fight.creature",
+    "format": [
+      "small_group_fight",
+      "last_stand"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Balin's tomb, Mines of Moria, Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "tunnel_sewer"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "dust_sand"
+    ],
+    "mood": [
+      "chaotic",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "creatures",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "european_sword",
+      "bow_arrow",
+      "axe_mace",
+      "spear_polearm",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "cave troll",
+      "moria",
+      "balin's tomb",
+      "fellowship",
+      "legolas",
+      "mithril"
+    ],
+    "video": "kyevhryWKHk"
+  },
+  {
+    "film": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "scene": "Shelob's lair",
+    "query": "Return of the King Shelob Sam fights the spider scene",
+    "what_happens": "Lured into a tunnel by Gollum, Frodo is stalked by the giant spider Shelob, stung and wrapped in silk; Sam arrives wielding the Phial of Galadriel and Sting, fighting the spider off until he drives the blade into it.",
+    "why": "Shot like a horror film — darkness, webbing, the creature looming behind Frodo — then flipped into a heroic register as Sam steps up; the Phial's light is both weapon and key light.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Original Score"
+    ],
+    "scene_type": "fight.creature",
+    "format": [
+      "rescue",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "adventure"
+    ],
+    "era": "fantasy_world",
+    "period": "Shelob's Lair, Cirith Ungol, Middle-earth (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "tunnel_sewer",
+      "cliff_canyon"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "heroic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "european_sword",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "silhouette",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "shelob",
+      "giant spider",
+      "samwise",
+      "sting",
+      "phial of galadriel",
+      "cirith ungol"
+    ]
+  },
+  {
+    "film": "Cloverfield",
+    "year": 2008,
+    "scene": "The Statue of Liberty's head lands in the street",
+    "query": "Cloverfield Statue of Liberty head scene",
+    "what_happens": "A Manhattan farewell party is shaken by a blast; guests on the roof see fireballs across the skyline, flee to the street, and the severed head of the Statue of Liberty crashes down the avenue amid dust and screaming crowds.",
+    "why": "Found-footage kaiju: everything is seen through one partygoer's camcorder, so the monster appears only in fragments and scale comes from debris, sound and crowd panic.",
+    "director": "Matt Reeves",
+    "country": "USA",
+    "craft": [
+      "Producer: J.J. Abrams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "monster",
+      "sci_fi",
+      "horror"
+    ],
+    "era": "contemporary",
+    "period": "Lower Manhattan, New York, 2008",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "rooftops"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "dust_sand",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "pov",
+      "cgi",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "found footage",
+      "statue of liberty head",
+      "kaiju",
+      "camcorder",
+      "new york",
+      "monster attack"
+    ]
+  },
+  {
+    "film": "Godzilla",
+    "year": 2014,
+    "scene": "Honolulu airport and Godzilla's reveal",
+    "query": "Godzilla 2014 Honolulu airport reveal roar scene",
+    "what_happens": "A MUTO wrecks Honolulu airport and a monorail; a tsunami floods Waikiki ahead of Godzilla's landfall, and in the dark the camera tilts up his towering body as he roars, then cuts away to a television report.",
+    "why": "Edwards rations the monster: withholding, low human vantage points and the abrupt cut to a news broadcast make the long-awaited reveal both awe-inspiring and teasing — a deliberate Spielbergian strategy.",
+    "director": "Gareth Edwards",
+    "country": "USA",
+    "craft": [
+      "DP: Seamus McGarvey",
+      "Composer: Alexandre Desplat"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "catastrophe"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "monster",
+      "sci_fi",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Honolulu airport and Waikiki, Hawaii, present day",
+    "region": "usa",
+    "environment": [
+      "airfield",
+      "beach",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "water_spray",
+      "explosions",
+      "low_light"
+    ],
+    "mood": [
+      "awe",
+      "tense",
+      "epic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "modern_soldiers",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "godzilla reveal",
+      "muto",
+      "honolulu",
+      "tsunami",
+      "monorail",
+      "roar"
+    ]
+  },
+  {
+    "film": "Godzilla Minus One",
+    "year": 2023,
+    "scene": "The minesweeper Shinseimaru vs. Godzilla",
+    "query": "Godzilla Minus One boat chase minesweeper scene",
+    "what_happens": "A tiny wooden minesweeper flees Godzilla across open sea; the crew drop a mine into its jaws and detonate it with machine-gun fire, only for it to regenerate, before the heavy cruiser Takao arrives and is obliterated.",
+    "why": "A Jaws-style chase from the waterline: dorsal plates and a rising wake are the threat, the boat is tiny in every frame, and the mine gambit plays out in clear tactical beats.",
+    "director": "Takashi Yamazaki",
+    "country": "Japan",
+    "craft": [
+      "VFX: Shirogumi",
+      "Composer: Naoki Satō"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "battle.giants",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "monster",
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Open sea off Japan, 1946",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "explosions"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "epic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "sailors_navy",
+      "civilians"
+    ],
+    "weapons": [
+      "explosives",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "small_boat",
+      "warship"
+    ],
+    "technique": [
+      "cgi",
+      "pov",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "japanese",
+    "keywords": [
+      "minesweeper",
+      "shinseimaru",
+      "takao",
+      "sea mine",
+      "dorsal plates",
+      "sea chase"
+    ]
+  },
+  {
+    "film": "Pacific Rim",
+    "year": 2013,
+    "scene": "Gipsy Danger vs. Knifehead off Anchorage",
+    "query": "Pacific Rim Gipsy Danger vs Knifehead Alaska scene",
+    "what_happens": "In a storm off Alaska, the Becket brothers' Jaeger grapples the Kaiju Knifehead in heaving seas; the monster tears open the cockpit and rips Yancy away, and Raleigh, alone, kills it with the plasma cannon and staggers ashore.",
+    "why": "Giant-robot combat given weight: snow, seawater and slow, heavy movement read as mass, while cockpit cutaways keep the pilots inside every blow; Yancy's loss sets the emotional stakes for the film.",
+    "director": "Guillermo del Toro",
+    "country": "USA",
+    "craft": [
+      "VFX: Industrial Light & Magic",
+      "VFX supervisor: John Knoll",
+      "DP: Guillermo Navarro",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "action",
+      "monster"
+    ],
+    "era": "near_future",
+    "period": "Off the coast of Anchorage, Alaska, 2020",
+    "region": "usa",
+    "environment": [
+      "open_sea",
+      "beach"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "snow",
+      "water_spray"
+    ],
+    "mood": [
+      "epic",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "mechs",
+      "kaiju_giant_monsters"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "mech_walker"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "gipsy danger",
+      "knifehead",
+      "jaeger",
+      "drift",
+      "yancy becket",
+      "anchorage",
+      "plasma cannon"
+    ]
+  },
+  {
+    "film": "King Kong",
+    "year": 2005,
+    "scene": "Kong and Ann at sunrise atop the Empire State Building",
+    "query": "King Kong 2005 Empire State Building ending scene",
+    "what_happens": "Kong climbs the Empire State Building with Ann and they watch the sunrise together before Navy biplanes attack; Kong swats at them from the mast until, riddled with bullets, he slips and falls.",
+    "why": "A vertiginous camera swinging around the mast and Andy Serkis's captured performance give the tragedy intimacy amid spectacle — a remake that honours the original's staging while adding the quiet before the attack.",
+    "director": "Peter Jackson",
+    "country": "New Zealand/USA",
+    "craft": [
+      "VFX: Weta Digital",
+      "Senior VFX supervisor: Joe Letteri",
+      "Kong performance: Andy Serkis",
+      "Composer: James Newton Howard"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Mixing",
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "battle.giants",
+    "format": [
+      "last_stand"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "adventure",
+      "monster",
+      "drama"
+    ],
+    "era": "early_20th_century",
+    "period": "Empire State Building, New York, 1933",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "sky"
+    ],
+    "time_of_day": "golden_hour",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "epic",
+      "awe"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "pilots",
+      "civilians"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "biplane"
+    ],
+    "technique": [
+      "motion_capture",
+      "cgi",
+      "crane_aerial",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "empire state building",
+      "kong",
+      "biplanes",
+      "ann darrow",
+      "sunrise",
+      "andy serkis"
+    ]
+  },
+  {
+    "film": "Kong: Skull Island",
+    "year": 2017,
+    "scene": "Kong vs. the Skull Devil",
+    "query": "Kong Skull Island final fight Skull Devil scene",
+    "what_happens": "In the lake beside the boneyard, the giant Skullcrawler drags Kong down; he saves Weaver from the water and, after a brutal fight, reaches into the beast's throat and tears out its insides.",
+    "why": "Kaiju combat framed with 1970s war-film colour and smoke; the fight follows a clear sports-movie arc — knockdown, rescue, comeback — that gives a monster brawl emotional shape.",
+    "director": "Jordan Vogt-Roberts",
+    "country": "USA",
+    "craft": [
+      "DP: Larry Fong",
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "duel",
+      "rescue"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "monster",
+      "adventure",
+      "action"
+    ],
+    "era": "mid_20th_century",
+    "period": "Skull Island, South Pacific, 1973",
+    "region": "oceania",
+    "environment": [
+      "river_lake",
+      "jungle"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist",
+      "water_spray",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "motion_capture",
+      "color_grading",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "skull devil",
+      "skullcrawler",
+      "kong",
+      "boneyard",
+      "brie larson",
+      "monster fight"
+    ]
+  },
+  {
+    "film": "War of the Worlds",
+    "year": 2005,
+    "scene": "The tripods capsize the Hudson ferry",
+    "query": "War of the Worlds 2005 ferry scene tripod",
+    "what_happens": "A panicked crowd storms a river ferry at night; as it pulls away, a tripod rises from the water beside it and overturns the boat, and from beneath the surface Ray and Rachel see the machines wading through the river.",
+    "why": "The attack grows out of crowd chaos — bodies pushed off the ramp, lights swinging — so the tripod's emergence lands as a second wave, and the underwater view of the machines' legs is a haunting coda.",
+    "director": "Steven Spielberg",
+    "country": "USA",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "thriller",
+      "disaster"
+    ],
+    "era": "contemporary",
+    "period": "Hudson River ferry crossing, New York State, present day",
+    "region": "usa",
+    "environment": [
+      "river_lake",
+      "ship_deck",
+      "underwater"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "water_spray",
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic"
+    ],
+    "combatants": [
+      "aliens",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "cgi",
+      "underwater_filming",
+      "handheld",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "tripods",
+      "ferry",
+      "hudson river",
+      "capsize",
+      "alien invasion",
+      "crowd panic"
+    ]
+  },
+  {
+    "film": "The Suicide Squad",
+    "year": 2021,
+    "scene": "Starro the Conqueror attacks Corto Maltese",
+    "query": "The Suicide Squad Starro final battle scene",
+    "what_happens": "Freed from its lab, the kaiju-sized starfish Starro stomps through Corto Maltese, flinging its spawn onto citizens' faces; the Squad fights back until Ratcatcher 2 summons a tide of rats over it and Harley pierces its eye.",
+    "why": "Gunn plays a 1950s monster-movie climax sincerely and absurdly at once; the sea of rats is a ridiculous but emotionally earned answer to a city-scale threat.",
+    "director": "James Gunn",
+    "country": "USA",
+    "craft": [
+      "DP: Henry Braham",
+      "Composer: John Murphy"
+    ],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "rampage",
+      "small_group_fight"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "superhero",
+      "comedy",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Corto Maltese, a fictional island nation, present day",
+    "region": "latin_america",
+    "environment": [
+      "city_street",
+      "plaza_square"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "chaotic",
+      "epic"
+    ],
+    "combatants": [
+      "kaiju_giant_monsters",
+      "supervillains",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "rifle",
+      "spear_polearm",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "score_driven",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "starro",
+      "giant starfish",
+      "rats",
+      "ratcatcher 2",
+      "harley quinn",
+      "corto maltese"
+    ]
+  },
+  {
+    "film": "Avatar: The Way of Water",
+    "year": 2022,
+    "scene": "The battle on the sinking whaling ship",
+    "query": "Avatar The Way of Water final battle ship sinking scene",
+    "what_happens": "With Jake's children held aboard a whaling ship, Metkayina warriors attack on sea creatures, the outcast tulkun Payakan smashes into the vessel, and as it floods and rolls, Jake and Neytiri fight through its sinking corridors.",
+    "why": "Cameron deliberately echoes Titanic as the ship tilts and floods; performance capture shot underwater gives the Na'vi's fight real buoyancy and breath-holding peril.",
+    "director": "James Cameron",
+    "country": "USA",
+    "craft": [
+      "DP: Russell Carpenter",
+      "Senior VFX supervisor: Joe Letteri",
+      "VFX: Wētā FX"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "battle.naval",
+    "format": [
+      "rescue",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "adventure",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Metkayina reef waters, Pandora",
+    "region": "alien_world",
+    "environment": [
+      "ship_deck",
+      "open_sea",
+      "underwater"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "water_spray",
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "tragic",
+      "chaotic"
+    ],
+    "combatants": [
+      "aliens",
+      "mercenaries",
+      "creatures"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "automatic_weapons",
+      "explosives",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "warship",
+      "small_boat"
+    ],
+    "technique": [
+      "motion_capture",
+      "underwater_filming",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "whaling ship",
+      "payakan",
+      "tulkun",
+      "sinking ship",
+      "metkayina",
+      "final battle"
+    ]
+  },
+  {
+    "film": "Avengers: Infinity War",
+    "year": 2018,
+    "scene": "Thor arrives in Wakanda with Stormbreaker",
+    "query": "Avengers Infinity War Thor arrives in Wakanda scene",
+    "what_happens": "As Thanos's Outriders overrun the Wakandan army, the Bifrost strikes the battlefield; Thor, Rocket and Groot step out, and Thor's new axe Stormbreaker hurls lightning through the alien horde.",
+    "why": "A crowd-pleasing entrance that reframes a losing battle: the Russos hold on the defenders' reactions before Thor's charge, letting the Avengers theme land the turn.",
+    "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
+    "craft": [
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "massed_battle",
+      "last_stand"
+    ],
+    "scale": "army",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Outside the walls of Wakanda, 2018",
+    "region": "sub_saharan_africa",
+    "environment": [
+      "battlefield",
+      "grassland",
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "heroic",
+      "epic"
+    ],
+    "combatants": [
+      "superheroes",
+      "aliens",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "superpowers",
+      "axe_mace",
+      "energy_weapons",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "score_driven",
+      "slow_motion",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "thor",
+      "stormbreaker",
+      "bifrost",
+      "wakanda",
+      "outriders",
+      "infinity war"
+    ],
+    "video": "E8k7P_6-joY"
+  },
+  {
+    "film": "Avengers: Infinity War",
+    "year": 2018,
+    "scene": "The battle on Titan against Thanos",
+    "query": "Avengers Infinity War Titan fight scene",
+    "what_happens": "On the ruined planet Titan, Iron Man, Spider-Man, Doctor Strange, Star-Lord, Drax, Mantis and Nebula ambush Thanos in waves of coordinated attacks and nearly pull the Gauntlet from his hand, until the plan collapses.",
+    "why": "A team-up built like a heist plan, with each hero's power readable within the digital chaos; the motion-captured Thanos carries the scene's emotional weight even while outnumbered.",
+    "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
+    "craft": [
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "small_group_fight",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "space_opera"
+    ],
+    "era": "contemporary",
+    "period": "Titan, Thanos's ruined homeworld, 2018",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "ruined_city"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains",
+      "aliens"
+    ],
+    "weapons": [
+      "superpowers",
+      "energy_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "motion_capture",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "titan",
+      "thanos",
+      "infinity gauntlet",
+      "doctor strange",
+      "iron man",
+      "spider-man"
+    ],
+    "video": "HC10J7KlKnY"
+  },
+  {
+    "film": "Thor: Ragnarok",
+    "year": 2017,
+    "scene": "'Immigrant Song' — Thor's lightning on the Rainbow Bridge",
+    "query": "Thor Ragnarok Immigrant Song bridge fight scene",
+    "what_happens": "Having lost an eye to Hela, Thor discovers his power never lay in his hammer; crackling with lightning, he crashes down onto the Rainbow Bridge and tears through Hela's undead army as 'Immigrant Song' blares.",
+    "why": "Waititi reprises the song from the film's opening fight as a payoff, cutting slow-motion lightning strikes to the riff; the heavy-metal album-cover imagery completes Thor's arc from swagger to self-discovery.",
+    "director": "Taika Waititi",
+    "country": "USA",
+    "craft": [
+      "Composer: Mark Mothersbaugh"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "fantasy",
+      "comedy"
+    ],
+    "era": "fantasy_world",
+    "period": "The Rainbow Bridge, Asgard (fictional)",
+    "region": "fantasy_world",
+    "environment": [
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "storm_wind",
+      "explosions"
+    ],
+    "mood": [
+      "heroic",
+      "epic",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "zombies_infected"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "score_driven",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "immigrant song",
+      "led zeppelin",
+      "god of thunder",
+      "lightning",
+      "rainbow bridge",
+      "undead army"
+    ],
+    "video": "f_LZU7TdvWA"
+  },
+  {
+    "film": "Spider-Man: No Way Home",
+    "year": 2021,
+    "scene": "Doc Ock on the highway bridge",
+    "query": "Spider-Man No Way Home Doc Ock bridge fight scene",
+    "what_happens": "On a highway bridge, Doctor Octopus — pulled from another universe — hurls burning cars at Spider-Man and seizes him; his tentacles absorb the nanotech suit, until Peter uses the tech to take control of the arms.",
+    "why": "A legacy villain reintroduced through action: the bridge's linear space and cars as projectiles give clear geography, and the moment Ock realises this is not his Peter Parker sets up the multiverse premise.",
+    "director": "Jon Watts",
+    "country": "USA",
+    "craft": [
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "duel",
+      "rescue"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "period": "Highway bridge, New York City, present day",
+    "region": "usa",
+    "environment": [
+      "bridge",
+      "highway"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "playful",
+      "tense"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "doctor octopus",
+      "no way home",
+      "nanotech",
+      "tentacles",
+      "multiverse",
+      "iron spider"
+    ]
+  },
+  {
+    "film": "Iron Man",
+    "year": 2008,
+    "scene": "The Mark I escape from the cave",
+    "query": "Iron Man Mark I cave escape scene",
+    "what_happens": "Clad in a crude iron suit forged in a terrorist cave, Tony Stark lumbers through the camp shrugging off bullets, torches the stockpile of Stark weapons with flamethrowers and rockets into the sky before crashing in the desert.",
+    "why": "A practically built suit gives the scene weight: Favreau keeps it slow and heavy, a tank in a corridor, so the later sleek armour reads as evolution.",
+    "director": "Jon Favreau",
+    "country": "USA",
+    "craft": [
+      "Suit effects: Stan Winston Studio",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "escape",
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "sci_fi"
+    ],
+    "era": "contemporary",
+    "period": "Ten Rings cave camp, Afghanistan, present day",
+    "region": "central_asia",
+    "environment": [
+      "tunnel_sewer",
+      "desert",
+      "military_base"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "superheroes",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "flamethrower",
+      "rifle",
+      "automatic_weapons",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "jetpack"
+    ],
+    "technique": [
+      "practical_effects",
+      "practical_explosions",
+      "tight_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "mark i",
+      "iron man",
+      "cave escape",
+      "flamethrower",
+      "tony stark",
+      "armour suit"
+    ]
+  },
+  {
+    "film": "Watchmen",
+    "year": 2009,
+    "scene": "Opening: the Comedian's last fight",
+    "query": "Watchmen opening Comedian fight scene",
+    "what_happens": "Eddie Blake is watching TV in his high-rise apartment when a masked intruder bursts in; they smash through furniture and walls in a brutal, speed-ramped brawl until the Comedian is hurled through the window to the street far below.",
+    "why": "Comic-panel staging: speed ramps freeze impacts into tableaux, and the fall through glass ends on the bloodied smiley badge that opens the story — a fight designed backward from its final frame.",
+    "director": "Zack Snyder",
+    "country": "USA",
+    "craft": [
+      "DP: Larry Fong"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel",
+      "ambush"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "noir",
+      "action"
+    ],
+    "era": "late_20th_century",
+    "period": "Manhattan, New York, October 1985 (alternate history)",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "practical_stunts",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "the comedian",
+      "smiley badge",
+      "window fall",
+      "speed ramping",
+      "watchmen opening",
+      "murder"
+    ]
+  },
+  {
+    "film": "Kick-Ass",
+    "year": 2010,
+    "scene": "Hit-Girl's debut in the drug dealers' apartment",
+    "query": "Kick-Ass Hit-Girl first fight apartment scene",
+    "what_happens": "As thugs beat Kick-Ass in a dealer's apartment, a purple-wigged eleven-year-old in a cape bursts in, cutting them down with a double-bladed staff, knives and a pistol in a whirl of flips.",
+    "why": "Vaughn shoots a child assassin as a straight action hero, with acrobatic, wire-assisted choreography and a jaunty soundtrack that turns the hard R-rated violence into a deliberate provocation.",
+    "director": "Matthew Vaughn",
+    "country": "UK/USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "rescue"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Drug dealer's apartment, New York, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "brutal",
+      "playful"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "knife",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "practical_stunts",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hit-girl",
+      "chloe grace moretz",
+      "double-bladed staff",
+      "child assassin",
+      "vigilante",
+      "debut"
+    ],
+    "video": "UfyJbz2kGbI"
+  },
+  {
+    "film": "X-Men: First Class",
+    "year": 2011,
+    "scene": "Magneto raises the submarine off Cuba",
+    "query": "X-Men First Class Magneto lifts submarine scene",
+    "what_happens": "During the Cuban Missile Crisis, Erik strains to lift Shaw's submarine out of the sea and drag it onto the beach; later he halts the navies' volley of missiles in mid-air and turns it back toward the ships.",
+    "why": "Charles's earlier coaching — find the point between rage and serenity — pays off as Fassbender's straining face is cut against the colossal object, and the missile reversal flips heroism into the birth of a villain.",
+    "director": "Matthew Vaughn",
+    "country": "USA",
+    "craft": [
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "demonstration",
+      "team_vs_team"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "spy"
+    ],
+    "era": "mid_20th_century",
+    "period": "Off the coast of Cuba, October 1962",
+    "region": "latin_america",
+    "environment": [
+      "beach",
+      "open_sea"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "explosions"
+    ],
+    "mood": [
+      "epic",
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "sailors_navy",
+      "supervillains"
+    ],
+    "weapons": [
+      "superpowers",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "submarine",
+      "warship",
+      "jet_aircraft"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "magneto",
+      "submarine",
+      "cuban missile crisis",
+      "missiles",
+      "sebastian shaw",
+      "michael fassbender"
+    ]
+  },
+  {
+    "film": "X2",
+    "year": 2003,
+    "scene": "Magneto escapes the plastic prison",
+    "query": "X2 Magneto plastic prison escape scene",
+    "what_happens": "Mystique secretly injects a prison guard with liquid iron; Magneto draws the metal out through the man's skin into floating spheres, smashes open his plastic cell and rides a disc of metal across the void and out.",
+    "why": "A power exploited through character logic: Mystique's seduction sets it up, and the silent pull of iron from blood before the spheres smash the cell shows the cruelty of Magneto's gift with minimal effects.",
+    "director": "Bryan Singer",
+    "country": "USA",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Composer: John Ottman"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "escape",
+      "demonstration"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "sci_fi",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Magneto's plastic prison, present day",
+    "region": "usa",
+    "environment": [
+      "prison"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "brutal",
+      "awe"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "supervillains",
+      "police"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "single_location",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "magneto",
+      "plastic prison",
+      "iron from blood",
+      "mystique",
+      "metal spheres",
+      "prison escape"
+    ],
+    "video": "JpGjeUGSi5Y"
+  },
+  {
+    "film": "Logan",
+    "year": 2017,
+    "scene": "Charles's seizure at the Oklahoma City casino hotel",
+    "query": "Logan hotel seizure scene",
+    "what_happens": "Charles's psychic seizure paralyses everyone in a casino hotel; Logan forces his body forward through crippling pain, inches down the corridor, kills the frozen gunmen and reaches the old man to inject his medicine.",
+    "why": "A superpower rendered as body horror: the seizure is sound and vibration, with distorted audio and slow, labouring movement turning a routine action beat into something painful and tragic.",
+    "director": "James Mangold",
+    "country": "USA",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Marco Beltrami"
+    ],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "rescue",
+      "one_vs_many"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "drama"
+    ],
+    "era": "near_future",
+    "period": "Casino hotel, Oklahoma City, 2029",
+    "region": "usa",
+    "environment": [
+      "hotel",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "tense",
+      "tragic"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "mercenaries"
+    ],
+    "weapons": [
+      "superpowers",
+      "claws_teeth",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "slow_motion",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "seizure",
+      "professor x",
+      "wolverine",
+      "psychic paralysis",
+      "casino hotel",
+      "syringe"
+    ]
+  },
+  {
+    "film": "The Boys",
+    "year": 2022,
+    "scene": "Homelander vs. Soldier Boy and Butcher (\"Herogasm\")",
+    "query": "The Boys Herogasm Homelander vs Soldier Boy fight scene",
+    "what_happens": "Homelander walks into an ambush by Soldier Boy and a Temp V-powered Butcher and Hughie; super-strength punches, Soldier Boy's shield and Homelander's eye lasers wreck the building in a bloody three-against-one fight until Homelander flees.",
+    "why": "The show's satire weaponised: the invincible hero is undone by being outnumbered, and crude, bone-crunching choreography keeps the superheroes ugly and human rather than balletic.",
+    "director": "Created by Eric Kripke",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "small_group_fight",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "The Herogasm retreat, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "chaotic"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "superpowers",
+      "shield",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "cgi",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "homelander",
+      "soldier boy",
+      "billy butcher",
+      "temp v",
+      "herogasm",
+      "laser eyes"
+    ]
+  },
+  {
+    "film": "Invincible",
+    "year": 2021,
+    "scene": "Omni-Man beats his son across the city (\"Where I Really Come From\")",
+    "query": "Invincible Omni-Man vs Mark fight train scene",
+    "what_happens": "After revealing his true mission, Omni-Man savagely beats his son through the city, smashing him through buildings and ploughing through a packed elevated train, then holds the broken boy high above the clouds before flying away.",
+    "why": "Shocking because the cartoon idiom stays restrained: held frames and silence punctuate each blow, and the train sequence dwells on the collateral cost the genre usually ignores.",
+    "director": "Created by Robert Kirkman, Cory Walker, Ryan Ottley",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Chicago, present day",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "train",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "tragic",
+      "terrifying"
+    ],
+    "combatants": [
+      "superheroes",
+      "supervillains",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "animation_2d",
+      "sound_design"
+    ],
+    "look": "animation_2d",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "omni-man",
+      "invincible",
+      "viltrumite",
+      "father vs son",
+      "train",
+      "chicago"
+    ]
+  }
+]

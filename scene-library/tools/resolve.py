@@ -50,7 +50,11 @@ REJECT = re.compile(
     r"rescored|fan edit|what if|in real life|vs real|irl|breaks? down|compared|the real|real story|"
     r"real duels?|how .{0,40}(filmed|made|shot)|but with|background music|highlights|theme suite|"
     r"[a-z]+ expert|experts?|stunt ?double|vfx artist|dub(bed)? (vs|comparison)|español|latino|"
-    r"castellano|türkçe|kulüp|sahnesi|legendado|dublado|doblaje)\b",
+    r"castellano|türkçe|kulüp|sahnesi|legendado|dublado|doblaje|saints row|location|locations|real match|"
+    r"vostfr|music video|shura no hana|theme song|opening theme|ending theme|game footage|recap|"
+    r"true story|history of|real combat|combat footage|helmet cam|bodycam|spoof|mv|showreel|show reel|"
+    r"vfx reel|song from|healthbars?|health bars?|re:anime|reanimated|fan animation|inside the animation|"
+    r"inside the final|featurette|dubbed|voiceover|voice over|cut-?scenes?|ultimate ninja|gameplay)\b",
     re.I)
 # Channels that post clean, full-quality scene clips (studio channels and established clip libraries).
 GOOD_CHANNELS = {
@@ -90,6 +94,11 @@ def scene_id(scene):
     return f"{slug(scene['film'], 32)}-{scene['year']}-{slug(scene['scene'], 40)}"
 
 
+# Channels that post real combat footage, documentaries, recaps or animated history, not film scenes.
+BAD_CHANNELS = {"funker530 - veteran community & combat footage", "funker530", "yarnhub", "war&history", "bocah spoiler",
+                "simple history", "kings and generals", "epic history tv", "the great war", "mark felton productions"}
+
+
 def score(cand, scene):
     title = fold(cand["title"])
     title_tokens = set(title.split())
@@ -108,7 +117,7 @@ def score(cand, scene):
     scene_cov = sum(t in title_tokens for t in set(extra)) / max(1, len(set(extra)))
     if film_cov < 0.6 and not (film_cov >= 0.34 and scene_cov >= 0.5):
         return None
-    if REJECT.search(cand["title"]):
+    if REJECT.search(cand["title"]) or cand["channel"].lower() in BAD_CHANNELS:
         return None
     # A title naming another release year is another film ("Sicario: Day of the Soldado (2018)").
     years = {int(y) for y in re.findall(r"\b(19[0-9]{2}|20[0-3][0-9])\b", title)}
