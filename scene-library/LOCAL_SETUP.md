@@ -7,10 +7,10 @@ every clip on disk, measured and indexed, and an MCP server your agent can call.
 
 > Set up the Set-Piece Vault scene library on this computer by following
 > `scene-library/LOCAL_SETUP.md` in the repository https://github.com/supahakkee/aa (branch
-> `claude/upbeat-galileo-vjoyzj`). Run the trial first, then the full setup. Report the contents of
-> `scene-library/setup_report.json` when you finish, and tell me about any failed downloads listed in
-> `scene-library/clips/report.json`. Afterwards, read `scene-library/AGENTS.md` so you know how to use
-> the library's tools.
+> `claude/upbeat-galileo-vjoyzj`). Run the trial first, then the full setup with `--repick`.
+> Report the contents of `scene-library/setup_report.json` when you finish, and tell me about any
+> failed downloads listed in `scene-library/clips/report.json`. Afterwards, read
+> `scene-library/AGENTS.md` so you know how to use the library's tools.
 
 ## What you need
 
@@ -21,7 +21,7 @@ every clip on disk, measured and indexed, and an MCP server your agent can call.
 | deno (or node) | yt-dlp needs a JavaScript runtime to read YouTube | macOS `brew install deno` · Linux `curl -fsSL https://deno.land/install.sh \| sh` · Windows `winget install DenoLand.Deno` |
 | git | gets the repository | |
 | A home or office internet connection | YouTube blocks downloads from cloud servers and data centres | |
-| Disk space | about 10 MB per clip at 1080p, 5 MB at 720p | the setup checks this |
+| Disk space | about 10 MB per clip at 1080p, 5 MB at 720p (roughly 15 GB or 8 GB for the whole library, with frames and contact sheets) | the setup checks this |
 
 Everything else (yt-dlp, the MCP SDK, PySceneDetect, numpy, fastembed) is installed by the setup
 script into a private environment, `scene-library/.venv`, so the system Python is not touched.
@@ -36,7 +36,7 @@ cd scene-library
 
 python3 setup_local.py --check        # 1. prerequisites only; fix anything marked ✗
 python3 setup_local.py --sample 5     # 2. trial run: 5 clips end to end (a few minutes)
-python3 setup_local.py                # 3. full run: every clip (resumes if interrupted)
+python3 setup_local.py --repick       # 3. full run: every clip (resumes if interrupted)
 ```
 
 What the full run does, in order (each step can be re-run; finished work is kept):
@@ -45,10 +45,12 @@ What the full run does, in order (each step can be re-run; finished work is kept
 2. **install**: creates `.venv` and installs `requirements.txt`.
 3. **download**: saves each scene's 30-second window to `clips/<scene_type>/<id>.mp4` with a
    `<id>.json` record beside it, plus `clips/index.jsonl` and `clips/manifest.js`. Three downloads at
-   a time; expect roughly 30-90 minutes for the whole library on a typical connection.
+   a time; expect roughly 2-4 hours for the whole library (about 1,170 clips) on a typical
+   connection.
 4. **analyse**: measures shots, average shot length, true aspect ratio, light, colour and motion,
    and saves 12 frames and a contact sheet per clip (`<id>.frames/`, `<id>.sheet.jpg`). Results go
-   into each clip's `.json` and `data/analysis.json`. About 3 seconds per clip.
+   into each clip's `.json` and `data/analysis.json`. About 3 seconds per clip, so about an hour
+   for the whole library.
 5. **index**: builds `data/embeddings.npz` from the clip frames, for "find similar" and
    plain-language search. The first run downloads the CLIP model (about 350 MB).
 6. **connect**: registers the MCP server with Claude Code (`claude mcp add --scope user`) and
@@ -60,7 +62,7 @@ A good result looks like this at the end:
 ```
 ==> 7/7 Verifying
    ✓ MCP server answers with tools: list_tags, search_scenes, get_scene, get_clip, get_contact_sheet, find_similar
-   ✓ 371 of 377 clips on disk, 371 analysed
+   ✓ 1158 of 1167 clips on disk, 1158 analysed
    ✓ plain-language search: semantic
    ✓ sample clip: /…/scene-library/clips/fight.blades/….mp4
 ```
@@ -75,7 +77,7 @@ listed in `clips/report.json`; re-running the setup retries them (it also tries 
 | `--height 720` | smaller files (about half the disk space) |
 | `--only scene_type=fight.blades region=japan` | download a subset, using the same filters as `tools/query.py` |
 | `--cookies-from-browser chrome` | use your browser's YouTube login when YouTube says "Sign in to confirm you're not a bot" (also firefox, safari, edge, brave) |
-| `--repick` | for clips whose window was estimated, download the upload once at 360p, find its busiest 30 seconds by motion and cutting, and re-cut the clip |
+| `--repick` | recommended: for clips whose window was estimated (about half the library), download the upload once at 360p, find its busiest 30 seconds by motion and cutting, and re-cut the clip; adds roughly an hour |
 | `--skip-download`, `--skip-analysis`, `--skip-index` | run only some steps |
 | `--connect none` | don't register the MCP server anywhere |
 
