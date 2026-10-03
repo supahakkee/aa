@@ -8,6 +8,7 @@ Exits non-zero and lists every problem when a value is unknown, a facet is missi
 too few or too many values.
 """
 import argparse
+import re
 import json
 import sys
 from pathlib import Path
@@ -82,6 +83,40 @@ def lint(r):
             w.append(f"era {era} starts in {lo} but the film is from {r['year']}")
     if r.get("time_of_day") == "not_applicable" and set(r.get("environment", [])) & OUTDOOR:
         w.append("outdoor scene with time_of_day not_applicable")
+    # The year named in `period` should fall inside the era.
+    period = str(r.get("period", ""))
+    if era in ERA_YEARS and era != "contemporary":
+        lo, hi = ERA_YEARS[era]
+        if re.search(r"\b(BC|BCE)\b", period):
+            if era not in ("ancient", "prehistoric"):
+                w.append(f"period is BC but era {era}")
+        else:
+            for y in map(int, re.findall(r"\b(1[0-9]{3}|20[0-9]{2})\b", period)):
+                if not lo - 5 <= y <= hi + 5:
+                    w.append(f"period mentions {y}, outside era {era}")
+                    break
+    st, scale, fmt = r.get("scene_type", ""), r.get("scale"), set(r.get("format", []))
+    weapons, vehicles = set(r.get("weapons", [])), set(r.get("vehicles", []))
+    if st.startswith("battle.") and st != "battle.giants" and scale in ("solo", "one_on_one"):
+        w.append(f"battle scene_type with scale {scale}")
+    if st.startswith("fight.") and scale in ("army", "fleet", "city_scale"):
+        w.append(f"fight scene_type with scale {scale}")
+    if st.startswith("chase.") and not fmt & {"pursuit", "escape"}:
+        w.append("chase without pursuit or escape format")
+    if st == "race" and "race" not in fmt:
+        w.append("race scene_type without race format")
+    if "dogfight" in fmt and not vehicles & {"jet_aircraft", "propeller_aircraft", "biplane", "starfighter", "helicopter"}:
+        w.append("dogfight without aircraft or starfighters")
+    if "lightsaber" in weapons and "jedi_sith" not in who:
+        w.append("lightsaber without jedi_sith")
+    if "european_sword" in weapons and where in ("japan", "china", "korea") and not who & {"knights", "pirates", "sailors_navy"}:
+        w.append(f"european_sword in {where}")
+    if "katana" in weapons and who & {"knights", "medieval_soldiers", "vikings", "roman_legion"}:
+        w.append("katana with European warriors")
+    if "modern_soldiers" in who and era in ("ww2", "early_20th_century", "19th_century"):
+        w.append(f"modern_soldiers but era {era}")
+    if "musket_flintlock" in weapons and era in ("contemporary", "near_future", "late_20th_century"):
+        w.append(f"musket in era {era}")
     return w
 
 
