@@ -1062,6 +1062,30 @@
   "video": "Ftl6hjmqSnA",
   "views": 3739488
  },
+ "71-2014-gary-hook-s-flight-through-belfast-after": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Film4",
+    "duration": 40,
+    "id": "UlS3QAnxhLI",
+    "score": 99,
+    "title": "Jack O'Connell chased through the alleys of Belfast | Northern Ireland thriller '71 | Film4 Clip",
+    "views": 0
+   }
+  ],
+  "channel": "Film4",
+  "duration": 40,
+  "end": 35,
+  "heat": "",
+  "pick": "estimated",
+  "query": "'71 chase scene Belfast riot",
+  "start": 5,
+  "status": "ok",
+  "title": "Jack O'Connell chased through the alleys of Belfast | Northern Ireland thriller '71 | Film4 Clip",
+  "video": "UlS3QAnxhLI",
+  "views": 0
+ },
  "a-better-tomorrow-1986-mark-s-restaurant-revenge-guns-in-the-fl": {
   "alts": [
    {
@@ -1433,6 +1457,30 @@
   "title": "A Fistful of Dollars - Final Duel",
   "video": "zvQjh5H_lx4",
   "views": 10414170
+ },
+ "a-history-of-violence-2005-diner-hold-up-and-tom-s-lightning-respon": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "The Last Millennials 1994-1999",
+    "duration": 260,
+    "id": "hFoeoIi_k3g",
+    "score": 99,
+    "title": "A History Of Violence Diner Robbery Scene",
+    "views": 0
+   }
+  ],
+  "channel": "The Last Millennials 1994-1999",
+  "duration": 260,
+  "end": 115,
+  "heat": "",
+  "pick": "estimated",
+  "query": "A History of Violence diner scene",
+  "start": 85,
+  "status": "ok",
+  "title": "A History Of Violence Diner Robbery Scene",
+  "video": "hFoeoIi_k3g",
+  "views": 0
  },
  "a-knight-s-tale-2001-final-joust-vs-count-adhemar": {
   "alts": [
@@ -7026,6 +7074,99 @@
   "video": "ybsqPmwxgKQ",
   "views": 0
  },
+ "baby-driver-2017-arms-deal-shootout-to-tequila": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "KVbBkEyaoT8",
+    "start": 64,
+    "title": "Baby Driver (2017) - Is He Slow? Scene (2/10) | Movieclips"
+   },
+   {
+    "channel": "Piece of the Action",
+    "id": "Px0txD0AWn8",
+    "start": 99,
+    "title": "The Deal Goes Wrong/Tequila Shootout - Jamie Foxx & John Hamm | Baby Driver"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 195,
+    "id": "ZFXOR2yoWCg",
+    "score": 13.94,
+    "title": "Baby Driver (2017) - Tequila Shootout Scene (5/10) | Movieclips",
+    "views": 6278694
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 196,
+    "id": "KVbBkEyaoT8",
+    "score": 11.76,
+    "title": "Baby Driver (2017) - Is He Slow? Scene (2/10) | Movieclips",
+    "views": 24594192
+   },
+   {
+    "channel": "Piece of the Action",
+    "duration": 303,
+    "id": "Px0txD0AWn8",
+    "score": 10.46,
+    "title": "The Deal Goes Wrong/Tequila Shootout - Jamie Foxx & John Hamm | Baby Driver",
+    "views": 2970
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 261,
+    "id": "pVS3VspE49k",
+    "score": 10.08,
+    "title": "BABY DRIVER (2017) Movie Clip #1- Tequila Gun Fight |FULL HD| Jamie Foxx",
+    "views": 3949758
+   },
+   {
+    "channel": "FilmIsNow Epic Scenes",
+    "duration": 241,
+    "id": "oYANVoK83Qk",
+    "score": 9.91,
+    "title": "Tequila Shootout with Jamie Foxx and Ansel Elgort | BABY DRIVER",
+    "views": 56589
+   },
+   {
+    "channel": "Action City",
+    "duration": 215,
+    "id": "rBhkDS8QLRg",
+    "score": 9.27,
+    "title": "Surviving the Deadliest Tequila Shootout | Baby Driver (Ansel Elgort)",
+    "views": 3871
+   },
+   {
+    "channel": "Crime City",
+    "duration": 266,
+    "id": "XjuNskrmSiE",
+    "score": 9.15,
+    "title": "Baby Driver | Tequila Gunfight Scene (Jamie Foxx, Ansel Elgort)",
+    "views": 424066
+   },
+   {
+    "channel": "Best Movies Scenes",
+    "duration": 208,
+    "id": "82lJmddI10c",
+    "score": 9.06,
+    "title": "Tequila , Baby Driver , Shootout Scene HD 1080p",
+    "views": 1582
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 195,
+  "end": 102,
+  "heat": "342100000000111112578876543334332233443221222100",
+  "pick": "most-replayed",
+  "query": "Baby Driver Tequila shootout scene",
+  "start": 72,
+  "status": "ok",
+  "title": "Baby Driver (2017) - Tequila Shootout Scene (5/10) | Movieclips",
+  "video": "ZFXOR2yoWCg",
+  "views": 6278694
+ },
  "baby-driver-2017-foot-chase-through-atlanta-to-hocus-pocu": {
   "alts": [
    {
@@ -7583,6 +7724,99 @@
   "title": "Bad Boys II (2003) - Car Chase Scene (4/10) | Movieclips",
   "video": "v9Cq9nThaNs",
   "views": 1501067
+ },
+ "ballerina-2025-flamethrower-fight-in-the-alpine-village": {
+  "alts": [
+   {
+    "channel": "All Out Action",
+    "id": "wDPBC7CZUZ8",
+    "start": 182,
+    "title": "Eve Fires Up a Flamethrower Duel | From the World of John Wick: Ballerina | Ana de Armas"
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "lVPnYI2Vzx4",
+    "start": 78,
+    "title": "Ballerina VS John Wick"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 550,
+    "id": "_jApGG4F0Lg",
+    "score": 10.38,
+    "title": "The Full Flamethrower Scene from Ballerina (John Wick Cameo) 🌀 4K",
+    "views": 201424
+   },
+   {
+    "channel": "All Out Action",
+    "duration": 553,
+    "id": "wDPBC7CZUZ8",
+    "score": 9.55,
+    "title": "Eve Fires Up a Flamethrower Duel | From the World of John Wick: Ballerina | Ana de Armas",
+    "views": 401269
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 239,
+    "id": "lVPnYI2Vzx4",
+    "score": 9.22,
+    "title": "Ballerina VS John Wick",
+    "views": 1657207
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 233,
+    "id": "3r4q9w8Rqtw",
+    "score": 9.01,
+    "title": "The Ice Club Fight Scene | Ballerina - John Wick Spin Off | CLIP",
+    "views": 690269
+   },
+   {
+    "channel": "Wave Clips",
+    "duration": 209,
+    "id": "YzsAqLqP8ig",
+    "score": 8.15,
+    "title": "Ballerina - Eve vs John Wick Fight Scene | 4K",
+    "views": 1216991
+   },
+   {
+    "channel": "Yuri Diniz",
+    "duration": 173,
+    "id": "n4g0fQmgbU8",
+    "score": 8.13,
+    "title": "Bailarina (Ballerina) 2025 - Cena: Lança-chamas (Flamethrower) Fight Scene Parte 1",
+    "views": 190
+   },
+   {
+    "channel": "All Out Action",
+    "duration": 347,
+    "id": "wI9kgHAO6tw",
+    "score": 8.12,
+    "title": "Eve vs. The Town of Cultists | From the World of John Wick: Ballerina | Ana de Armas",
+    "views": 1093440
+   },
+   {
+    "channel": "Boxoffice ACTION",
+    "duration": 233,
+    "id": "VXRTvq9KpQY",
+    "score": 8.01,
+    "title": "The Ice Club Fight Scene | From the World of John Wick: Ballerina",
+    "views": 672861
+   }
+  ],
+  "channel": "Boxoffice Movie Scenes",
+  "duration": 550,
+  "end": 527,
+  "heat": "422222223125211111121132122343222241121222236720",
+  "pick": "most-replayed",
+  "query": "Ballerina flamethrower fight scene",
+  "start": 497,
+  "status": "ok",
+  "title": "The Full Flamethrower Scene from Ballerina (John Wick Cameo) 🌀 4K",
+  "video": "_jApGG4F0Lg",
+  "views": 201424
  },
  "band-of-brothers-2001-ambush-at-nuenen-e4-replacements": {
   "alts": [],
@@ -9939,6 +10173,30 @@
   "video": "RYnHe5SovKk",
   "views": 13182588
  },
+ "birds-of-prey-2020-harley-s-police-evidence-room-fight": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Clips Nation",
+    "duration": 288,
+    "id": "pIEtFBOeSSg",
+    "score": 99,
+    "title": "Birds of Prey | Harley Quinn vs Cops & Prisoners | Police Station Fight Scene | 4K Ultra HD",
+    "views": 0
+   }
+  ],
+  "channel": "Clips Nation",
+  "duration": 288,
+  "end": 125,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Birds of Prey evidence room fight scene",
+  "start": 95,
+  "status": "ok",
+  "title": "Birds of Prey | Harley Quinn vs Cops & Prisoners | Police Station Fight Scene | 4K Ultra HD",
+  "video": "pIEtFBOeSSg",
+  "views": 0
+ },
  "black-hawk-down-2001-super-six-one-shot-down-over-mogadishu": {
   "alts": [],
   "candidates": [
@@ -10217,6 +10475,99 @@
   "title": "Black Mirror (2017) Metalhead. Deadliest Dogs. Robot Dogs.",
   "video": "BDP9jA6k_UE",
   "views": 171716
+ },
+ "black-panther-2018-busan-casino-fight-and-car-chase": {
+  "alts": [
+   {
+    "channel": "OfficialMovieSoundtrack",
+    "id": "elY489MqdgE",
+    "start": 98,
+    "title": "14. Busan Car Chase (Black Panther Recording Sessions)"
+   },
+   {
+    "channel": "ShortClips",
+    "id": "TkyAaVnZ6nE",
+    "start": 25,
+    "title": "Black Panther - Car Chase Scene - Black Panther (2018) Movie Clip HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Marvel Entertainment",
+    "duration": 303,
+    "id": "oTa63T0DeZE",
+    "score": 12.63,
+    "title": "Black Panther Car Chase | Official Clip",
+    "views": 1135414
+   },
+   {
+    "channel": "OfficialMovieSoundtrack",
+    "duration": 299,
+    "id": "elY489MqdgE",
+    "score": 11.37,
+    "title": "14. Busan Car Chase (Black Panther Recording Sessions)",
+    "views": 134207
+   },
+   {
+    "channel": "ShortClips",
+    "duration": 77,
+    "id": "TkyAaVnZ6nE",
+    "score": 11.26,
+    "title": "Black Panther - Car Chase Scene - Black Panther (2018) Movie Clip HD",
+    "views": 2999833
+   },
+   {
+    "channel": "U MEDIA",
+    "duration": 169,
+    "id": "yqKtQU9a8Aw",
+    "score": 10.89,
+    "title": "Black Panther - Car Chase In South Korea Scene - MOVIE CLIP (4K HD)",
+    "views": 3418186
+   },
+   {
+    "channel": "TBS",
+    "duration": 291,
+    "id": "4OIBVNoq6ok",
+    "score": 10.88,
+    "title": "The Intense Car Chase Scene From Black Panther (Clip) | TBS",
+    "views": 3219997
+   },
+   {
+    "channel": "Hippety Hoppety Get Off My Property (No Joke)",
+    "duration": 193,
+    "id": "GwpM-3_xL9A",
+    "score": 10.83,
+    "title": "Black Panther - Opps - Busan Car Chase Film Version with dialogue cut",
+    "views": 13966
+   },
+   {
+    "channel": "Black Vibes",
+    "duration": 193,
+    "id": "_jLknAWKwJc",
+    "score": 10.73,
+    "title": "Black Panther - Busan Car Chase Theme",
+    "views": 9305
+   },
+   {
+    "channel": "saleem",
+    "duration": 201,
+    "id": "gHQ4o19Q31g",
+    "score": 10.22,
+    "title": "Opps (Black Panther Car Chase Scene Music)",
+    "views": 205044
+   }
+  ],
+  "channel": "Marvel Entertainment",
+  "duration": 303,
+  "end": 168,
+  "heat": "234542211136332233234433595111111101542123323410",
+  "pick": "most-replayed",
+  "query": "Black Panther Busan car chase scene",
+  "start": 138,
+  "status": "ok",
+  "title": "Black Panther Car Chase | Official Clip",
+  "video": "oTa63T0DeZE",
+  "views": 1135414
  },
  "black-panther-2018-ritual-challenge-at-warrior-falls-t-chal": {
   "alts": [
@@ -11895,6 +12246,99 @@
   "video": "cfVY9wLKltA",
   "views": 308419210
  },
+ "captain-america-the-winter-soldi-2014-lemurian-star-raid-and-cap-vs-batroc": {
+  "alts": [
+   {
+    "channel": "TopMovieClips",
+    "id": "ywSQNlbK73U",
+    "start": 61,
+    "title": "Captain America Opening Ship Fight Scene - Captain America: The Winter Soldier (2014) Movie CLIP HD"
+   },
+   {
+    "channel": "TopMovieClips",
+    "id": "bp6hhq8DdgU",
+    "start": 49,
+    "title": "Captain America vs The Winter Soldier - Highway Fight Scene - Captain America: The Winter Soldier"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "TopMovieClips",
+    "duration": 193,
+    "id": "quNcV0j2M0w",
+    "score": 9.74,
+    "title": "Captain America vs Batroc - Fight Scene - Captain America: The Winter Soldier (2014) Movie CLIP HD",
+    "views": 5484718
+   },
+   {
+    "channel": "TopMovieClips",
+    "duration": 187,
+    "id": "ywSQNlbK73U",
+    "score": 9.74,
+    "title": "Captain America Opening Ship Fight Scene - Captain America: The Winter Soldier (2014) Movie CLIP HD",
+    "views": 5463101
+   },
+   {
+    "channel": "TopMovieClips",
+    "duration": 149,
+    "id": "bp6hhq8DdgU",
+    "score": 8.85,
+    "title": "Captain America vs The Winter Soldier - Highway Fight Scene - Captain America: The Winter Soldier",
+    "views": 22925749
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 315,
+    "id": "W6St2sBeyvE",
+    "score": 8.64,
+    "title": "Batroc Fight Scene | CAPTAIN AMERICA: THE WINTER SOLDIER (2014) Movie CLIP HD",
+    "views": 54887
+   },
+   {
+    "channel": "MCU THE DIRECT",
+    "duration": 147,
+    "id": "3QkKoI5bWg0",
+    "score": 8.48,
+    "title": "Captain America vs Batroc Fight Scene | The Falcon and The Winter Soldier Clip",
+    "views": 153005
+   },
+   {
+    "channel": "JoBlo Superheroes",
+    "duration": 336,
+    "id": "TTLcojPrdQg",
+    "score": 8.32,
+    "title": "CAPTAIN AMERICA: THE WINTER SOLDIER Clip - \"Captain America vs. Batroc\" (2014)",
+    "views": 14552
+   },
+   {
+    "channel": "bestmovies",
+    "duration": 312,
+    "id": "Z1VgxOFiLVg",
+    "score": 7.92,
+    "title": "captain america vs batroc in ship/ the winter soldier 2014",
+    "views": 73
+   },
+   {
+    "channel": "JVM",
+    "duration": 196,
+    "id": "UrwLfVi1X9A",
+    "score": 7.59,
+    "title": "Opening Ship Fight Scene - Captain America: The Winter Soldier (2014) Movie CLIP HD",
+    "views": 658
+   }
+  ],
+  "channel": "TopMovieClips",
+  "duration": 193,
+  "end": 101,
+  "heat": "345221223556544456777788973332111124652111100000",
+  "pick": "most-replayed",
+  "query": "Captain America Winter Soldier ship fight Batroc",
+  "start": 71,
+  "status": "ok",
+  "title": "Captain America vs Batroc - Fight Scene - Captain America: The Winter Soldier (2014) Movie CLIP HD",
+  "video": "quNcV0j2M0w",
+  "views": 5484718
+ },
  "captain-america-the-winter-soldi-2014-the-elevator-fight": {
   "alts": [
    {
@@ -12174,6 +12618,147 @@
   "video": "q9rT7hvb6Aw",
   "views": 317778
  },
+ "captain-phillips-2013-somali-pirates-board-the-maersk-alabama": {
+  "alts": [
+   {
+    "channel": "Sony Pictures Entertainment",
+    "id": "7HewXdbpm9I",
+    "start": 164,
+    "title": "Captain Phillips OPC Clip"
+   },
+   {
+    "channel": "CineClips",
+    "id": "MFUw0xjzGoM",
+    "start": 132,
+    "title": "Pirates Board The Ship | Captain Phillips | CineStream"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 208,
+    "id": "j21idqW08wU",
+    "score": 13.0,
+    "title": "Captain Phillips (2013) - Pirates On Board Scene (3/10) | Movieclips",
+    "views": 4048335
+   },
+   {
+    "channel": "Sony Pictures Entertainment",
+    "duration": 499,
+    "id": "7HewXdbpm9I",
+    "score": 10.36,
+    "title": "Captain Phillips OPC Clip",
+    "views": 2974877
+   },
+   {
+    "channel": "CineClips",
+    "duration": 401,
+    "id": "MFUw0xjzGoM",
+    "score": 9.76,
+    "title": "Pirates Board The Ship | Captain Phillips | CineStream",
+    "views": 955909
+   },
+   {
+    "channel": "FilmIsNow Epic Scenes",
+    "duration": 292,
+    "id": "ShfL_DPGM68",
+    "score": 9.07,
+    "title": "Pirates and Navy Locked in a Tense Standoff | CAPTAIN PHILLIPS",
+    "views": 1744692
+   },
+   {
+    "channel": "Clip",
+    "duration": 582,
+    "id": "OU4Op9plz_I",
+    "score": 9.02,
+    "title": "Pirates Board The Ship - Captain Phillips | Tom Hanks",
+    "views": 43867
+   },
+   {
+    "channel": "Crime City",
+    "duration": 479,
+    "id": "me-Bv9P_vVU",
+    "score": 9.02,
+    "title": "Pirates Onboard the Ship | Captain Phillips (Tom Hanks)",
+    "views": 1435197
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 594,
+    "id": "rCixjOeoet0",
+    "score": 8.7,
+    "title": "Somalian Pirates HIJACK Cargo Ship | Captain Phillips | Now Playing",
+    "views": 371083
+   },
+   {
+    "channel": "NOW PLAYING ESPAÑOL",
+    "duration": 594,
+    "id": "GAQ6dt2hALs",
+    "score": 8.67,
+    "title": "Pirates Storm the Ship | Captain Phillips (2013) | Now Spanish",
+    "views": 62817
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 208,
+  "end": 152,
+  "heat": "323321122211111112331111111133223233223211221001",
+  "pick": "most-replayed",
+  "query": "Captain Phillips pirates boarding scene",
+  "start": 122,
+  "status": "ok",
+  "title": "Captain Phillips (2013) - Pirates On Board Scene (3/10) | Movieclips",
+  "video": "j21idqW08wU",
+  "views": 4048335
+ },
+ "cars-2006-piston-cup-tiebreaker-race": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Perception TV",
+    "duration": 204,
+    "id": "Y0hdEWXRqCI",
+    "score": 99,
+    "title": "Cars   2006   The king Crashing At Finish Line, Last Race. Best Ending! (8/8) DopeClips",
+    "views": 0
+   }
+  ],
+  "channel": "Perception TV",
+  "duration": 204,
+  "end": 97,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Cars final race scene Piston Cup",
+  "start": 67,
+  "status": "ok",
+  "title": "Cars   2006   The king Crashing At Finish Line, Last Race. Best Ending! (8/8) DopeClips",
+  "video": "Y0hdEWXRqCI",
+  "views": 0
+ },
+ "casino-royale-2006-black-and-white-prologue-bond-s-first-ki": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "James Bond 007",
+    "duration": 192,
+    "id": "I4fTKmbtu8E",
+    "score": 99,
+    "title": "CASINO ROYALE | Opening scene",
+    "views": 0
+   }
+  ],
+  "channel": "James Bond 007",
+  "duration": 192,
+  "end": 181,
+  "heat": "000001222111112224322111111211111101112359666310",
+  "pick": "most-replayed",
+  "query": "Casino Royale opening scene black and white bathroom fight",
+  "start": 151,
+  "status": "ok",
+  "title": "CASINO ROYALE | Opening scene",
+  "video": "I4fTKmbtu8E",
+  "views": 0
+ },
  "casino-royale-2006-madagascar-construction-site-parkour-cha": {
   "alts": [
    {
@@ -12266,6 +12851,30 @@
   "title": "Casino Royale Movie CLIP - Parkour Chase (2006) HD",
   "video": "iZxNbAwY_rk",
   "views": 31547224
+ },
+ "casino-royale-2006-sinking-palazzo-in-venice": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "James Bond 007",
+    "duration": 316,
+    "id": "k5qV5XAEeuw",
+    "score": 99,
+    "title": "CASINO ROYALE | Collapsing Villa",
+    "views": 0
+   }
+  ],
+  "channel": "James Bond 007",
+  "duration": 316,
+  "end": 191,
+  "heat": "219110000000000100011111333342112211111112211110",
+  "pick": "most-replayed",
+  "query": "Casino Royale Venice building sinking scene",
+  "start": 161,
+  "status": "ok",
+  "title": "CASINO ROYALE | Collapsing Villa",
+  "video": "k5qV5XAEeuw",
+  "views": 0
  },
  "cast-away-2000-the-fedex-plane-crash": {
   "alts": [
@@ -17141,6 +17750,30 @@
   "video": "2H2M_erJfIw",
   "views": 0
  },
+ "den-of-thieves-2018-shootout-in-the-downtown-traffic-jam": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Universal Pictures At Home",
+    "duration": 76,
+    "id": "jT20TRSZh3A",
+    "score": 99,
+    "title": "Den of Thieves | We Got Em Pinched | Film Clip | Own it now on Digital, Blu-ray & DVD",
+    "views": 0
+   }
+  ],
+  "channel": "Universal Pictures At Home",
+  "duration": 76,
+  "end": 55,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Den of Thieves traffic shootout scene",
+  "start": 25,
+  "status": "ok",
+  "title": "Den of Thieves | We Got Em Pinched | Film Clip | Own it now on Digital, Blu-ray & DVD",
+  "video": "jT20TRSZh3A",
+  "views": 0
+ },
  "desperado-1995-bar-shootout": {
   "alts": [
    {
@@ -18204,6 +18837,99 @@
   "video": "cCPU0ann-1I",
   "views": 0
  },
+ "drive-2011-elevator-kiss-and-head-stomp": {
+  "alts": [
+   {
+    "channel": "Clip",
+    "id": "5xKq3a_QYb8",
+    "start": 139,
+    "title": "The Brutal Elevator Beatdown - DRIVE Clip (2011) Ryan Gosling"
+   },
+   {
+    "channel": "Scene City",
+    "id": "iaYFdMO2Qw0",
+    "start": 111,
+    "title": "Drive: Elevator Fight Scene (Ryan Gosling, Carey Mulligan 4K HD Clip)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "NOW PLAYING",
+    "duration": 205,
+    "id": "SFb8sI-JaOg",
+    "score": 10.13,
+    "title": "Drive | Elevator Kiss and Fight",
+    "views": 141711
+   },
+   {
+    "channel": "Clip",
+    "duration": 423,
+    "id": "5xKq3a_QYb8",
+    "score": 9.95,
+    "title": "The Brutal Elevator Beatdown - DRIVE Clip (2011) Ryan Gosling",
+    "views": 2262699
+   },
+   {
+    "channel": "Scene City",
+    "duration": 337,
+    "id": "iaYFdMO2Qw0",
+    "score": 9.52,
+    "title": "Drive: Elevator Fight Scene (Ryan Gosling, Carey Mulligan 4K HD Clip)",
+    "views": 2015049
+   },
+   {
+    "channel": "Moving Pictures",
+    "duration": 416,
+    "id": "7TXtmP06tDo",
+    "score": 9.34,
+    "title": "The Elevator Fight and Kiss Sequence | Drive (Ryan Gosling, Carey Mulligan)",
+    "views": 5116
+   },
+   {
+    "channel": "Luis Cuevas",
+    "duration": 234,
+    "id": "WflAReA2cqs",
+    "score": 8.63,
+    "title": "Under Your Spell - Desire (Drive)",
+    "views": 9369639
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 555,
+    "id": "d_WdKrUGkEo",
+    "score": 8.61,
+    "title": "DRIVE \"Opening Scene\" Clip (2011) Ryan Gosling",
+    "views": 1578140
+   },
+   {
+    "channel": "Mayhem Media",
+    "duration": 46,
+    "id": "YIDGJM1s8Is",
+    "score": 8.32,
+    "title": "DRIVE ELEVATOR STOMP",
+    "views": 2027
+   },
+   {
+    "channel": "MothPerson",
+    "duration": 134,
+    "id": "Ffqp_K7IMH8",
+    "score": 8.17,
+    "title": "Drive (2011) - Elevator Scene",
+    "views": 1356
+   }
+  ],
+  "channel": "NOW PLAYING",
+  "duration": 205,
+  "end": 150,
+  "heat": "100000001123456543332222222456665565211111110024",
+  "pick": "most-replayed",
+  "query": "Drive elevator scene",
+  "start": 120,
+  "status": "ok",
+  "title": "Drive | Elevator Kiss and Fight",
+  "video": "SFb8sI-JaOg",
+  "views": 141711
+ },
  "drive-2011-motel-shootout": {
   "alts": [
    {
@@ -18389,6 +19115,91 @@
   "title": "DRIVE \"Opening Scene\" Clip (2011) Ryan Gosling",
   "video": "d_WdKrUGkEo",
   "views": 1577876
+ },
+ "drug-war-2012-final-shootout-outside-the-primary-schoo": {
+  "alts": [
+   {
+    "channel": "EDGAR RENTON",
+    "id": "SaHH3RYKaXU",
+    "start": 117,
+    "title": "Drug War | 毒戰 (2012) | Street Shootout Scene | 1080p"
+   },
+   {
+    "channel": "EDGAR RENTON",
+    "id": "GQ5xLPt8kqA",
+    "start": 55,
+    "title": "Drug War | 毒戰 (2012) | Warehouse Shootout Scene | 1080p"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "EDGAR RENTON",
+    "duration": 363,
+    "id": "vE0G-h5Fv-Q",
+    "score": 9.49,
+    "title": "Drug War | 毒戰 (2012) | Final Shootout Scene | 1080p",
+    "views": 59561
+   },
+   {
+    "channel": "EDGAR RENTON",
+    "duration": 356,
+    "id": "SaHH3RYKaXU",
+    "score": 8.55,
+    "title": "Drug War | 毒戰 (2012) | Street Shootout Scene | 1080p",
+    "views": 37110
+   },
+   {
+    "channel": "EDGAR RENTON",
+    "duration": 169,
+    "id": "GQ5xLPt8kqA",
+    "score": 8.49,
+    "title": "Drug War | 毒戰 (2012) | Warehouse Shootout Scene | 1080p",
+    "views": 29247
+   },
+   {
+    "channel": "Austin Film Society",
+    "duration": 87,
+    "id": "QmPYRudt4Oo",
+    "score": 7.49,
+    "title": "Films of Johnnie To: Drug War",
+    "views": 2370
+   },
+   {
+    "channel": "Well Go USA Entertainment",
+    "duration": 96,
+    "id": "vBVCWt-3YPQ",
+    "score": 6.46,
+    "title": "DRUG WAR Clip - 34 Calls",
+    "views": 1047
+   },
+   {
+    "channel": "Well Go USA Entertainment",
+    "duration": 80,
+    "id": "y5w1ELrwM2g",
+    "score": 6.32,
+    "title": "DRUG WAR Clip - Call 35",
+    "views": 568
+   },
+   {
+    "channel": "OWOS73",
+    "duration": 90,
+    "id": "djt7z0A4YxE",
+    "score": 6.11,
+    "title": "Drug War, port scene, \"These are all my ships\"",
+    "views": 228
+   }
+  ],
+  "channel": "EDGAR RENTON",
+  "duration": 363,
+  "end": 149,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Drug War final shootout scene Johnnie To",
+  "start": 119,
+  "status": "ok",
+  "title": "Drug War | 毒戰 (2012) | Final Shootout Scene | 1080p",
+  "video": "vE0G-h5Fv-Q",
+  "views": 59561
  },
  "drunken-master-ii-1994-final-factory-fight-vs-ken-lo": {
   "alts": [
@@ -20447,6 +21258,160 @@
   "video": "h8nWLX4I5KM",
   "views": 0
  },
+ "exiled-2006-red-bull-can-showdown-in-the-hotel-lobby": {
+  "alts": [
+   {
+    "channel": "CT",
+    "id": "WC48p2_Ivvo",
+    "start": 42,
+    "title": "Exiled (2006)"
+   },
+   {
+    "channel": "Gaétan C",
+    "id": "h8nWLX4I5KM",
+    "start": 5,
+    "title": "Exiled (2006) Opening scene"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "EDGAR RENTON",
+    "duration": 241,
+    "id": "k5oGGaP2g4c",
+    "score": 8.98,
+    "title": "Exiled | 放‧逐 (2006) | Final Shootout Scene | 1080p",
+    "views": 39457
+   },
+   {
+    "channel": "CT",
+    "duration": 129,
+    "id": "WC48p2_Ivvo",
+    "score": 6.73,
+    "title": "Exiled (2006)",
+    "views": 603
+   },
+   {
+    "channel": "Gaétan C",
+    "duration": 75,
+    "id": "h8nWLX4I5KM",
+    "score": 6.62,
+    "title": "Exiled (2006) Opening scene",
+    "views": 379
+   },
+   {
+    "channel": "The Medium Cool Show",
+    "duration": 449,
+    "id": "ehXSDV3xjiU",
+    "score": 6.5,
+    "title": "This Movie Kicks @SS: Exiled (2006)",
+    "views": 222
+   }
+  ],
+  "channel": "EDGAR RENTON",
+  "duration": 241,
+  "end": 109,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Exiled final shootout Red Bull can",
+  "start": 79,
+  "status": "ok",
+  "title": "Exiled | 放‧逐 (2006) | Final Shootout Scene | 1080p",
+  "video": "k5oGGaP2g4c",
+  "views": 39457
+ },
+ "extraction-2-2023-prison-riot-and-escape-in-one-take": {
+  "alts": [
+   {
+    "channel": "ONION KNIGHT",
+    "id": "xHtrjjGaD3s",
+    "start": 64,
+    "title": "Tyler Rake One Shot Prison Fight Scene | Extraction 2"
+   },
+   {
+    "channel": "ACTION SURGE",
+    "id": "9f1Zt7ykLVA",
+    "start": 55,
+    "title": "“THE IMPOSSIBLE ONE-SHOT!” l EXTRACTION 2 – Prison Riot Fight Scene"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Netflix Philippines",
+    "duration": 267,
+    "id": "243DWw5fkBU",
+    "score": 9.85,
+    "title": "Chris Hemsworth Takes Charge in a Prison Riot | Extraction 2 | Netflix Philippines",
+    "views": 1443452
+   },
+   {
+    "channel": "ONION KNIGHT",
+    "duration": 194,
+    "id": "xHtrjjGaD3s",
+    "score": 9.58,
+    "title": "Tyler Rake One Shot Prison Fight Scene | Extraction 2",
+    "views": 461821
+   },
+   {
+    "channel": "ACTION SURGE",
+    "duration": 168,
+    "id": "9f1Zt7ykLVA",
+    "score": 8.37,
+    "title": "“THE IMPOSSIBLE ONE-SHOT!” l EXTRACTION 2 – Prison Riot Fight Scene",
+    "views": 79
+   },
+   {
+    "channel": "Barbod Soleimani",
+    "duration": 211,
+    "id": "VIIgUBf16R0",
+    "score": 7.95,
+    "title": "Extraction 2 | Human | 4K Edit",
+    "views": 538288
+   },
+   {
+    "channel": "StudioMars",
+    "duration": 183,
+    "id": "AbDWjJuVBvs",
+    "score": 7.77,
+    "title": "Extraction 2 (2023) Prison Fight Scene HD",
+    "views": 1455
+   },
+   {
+    "channel": "FLICKORIUM ",
+    "duration": 176,
+    "id": "xzS_ma3mSNo",
+    "score": 7.44,
+    "title": "Extraction 2 - Ending Scene | Netflix Extraction | Chris Hemsworth | Movie Streaming on Netflix✨ |",
+    "views": 63175
+   },
+   {
+    "channel": "ALL-CLIPS",
+    "duration": 200,
+    "id": "Zuzq5IN_TNk",
+    "score": 7.3,
+    "title": "EXTRACTION 2 🔥  | BAD BOY |",
+    "views": 35099
+   },
+   {
+    "channel": "Worldy global",
+    "duration": 103,
+    "id": "gkcoXSLZae0",
+    "score": 7.08,
+    "title": "Extraction 2:Tyler Rake attacking Zurab",
+    "views": 13887
+   }
+  ],
+  "channel": "Netflix Philippines",
+  "duration": 267,
+  "end": 244,
+  "heat": "111111121211345433233332332122244643455889885210",
+  "pick": "most-replayed",
+  "query": "Extraction 2 prison oner scene",
+  "start": 214,
+  "status": "ok",
+  "title": "Chris Hemsworth Takes Charge in a Prison Riot | Extraction 2 | Netflix Philippines",
+  "video": "243DWw5fkBU",
+  "views": 1443452
+ },
  "extraction-2020-dhaka-one-take-chase-and-fight": {
   "alts": [
    {
@@ -20798,6 +21763,99 @@
   "video": "6HXMuanhGHw",
   "views": 5894665
  },
+ "fast-five-2011-desert-train-heist-and-the-cliff-jump": {
+  "alts": [
+   {
+    "channel": "All Action",
+    "id": "FtnmnYMia5k",
+    "start": 101,
+    "title": "EPIC Desert Train Heist | Fast Five | All Action"
+   },
+   {
+    "channel": "Binge Society",
+    "id": "JwwHjS73qZU",
+    "start": 106,
+    "title": "Fast Five: Train heist HD CLIP"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 151,
+    "id": "eFnw_27t9-o",
+    "score": 12.08,
+    "title": "Fast Five (1/10) Movie CLIP - Train Robbery (2011) HD",
+    "views": 1372549
+   },
+   {
+    "channel": "All Action",
+    "duration": 307,
+    "id": "FtnmnYMia5k",
+    "score": 10.87,
+    "title": "EPIC Desert Train Heist | Fast Five | All Action",
+    "views": 384796
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 324,
+    "id": "JwwHjS73qZU",
+    "score": 10.53,
+    "title": "Fast Five: Train heist HD CLIP",
+    "views": 6143560
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 527,
+    "id": "HSKcKVWP5Jc",
+    "score": 10.4,
+    "title": "Fast Five (2011): The Train Heist | Full Scene",
+    "views": 649216
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 242,
+    "id": "Y4qY325_0i0",
+    "score": 10.16,
+    "title": "Train Heist | Fast Five | CLIP",
+    "views": 19833
+   },
+   {
+    "channel": "Screen Bites",
+    "duration": 567,
+    "id": "W0Bo7CDDKjE",
+    "score": 10.12,
+    "title": "Epic Desert Scene | Fast Five (2011) | Screen Bites",
+    "views": 13490587
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 621,
+    "id": "uLpoPVLpG9E",
+    "score": 9.96,
+    "title": "Fast Five's Safe Heist | Full Scene 🌀 4K",
+    "views": 15734262
+   },
+   {
+    "channel": "The Fast Saga",
+    "duration": 532,
+    "id": "SF-tJta0UUA",
+    "score": 8.93,
+    "title": "Fast Five | Stealing Cars From Moving Train",
+    "views": 491616
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 151,
+  "end": 83,
+  "heat": "222222222111111234798654344555543322211122122210",
+  "pick": "most-replayed",
+  "query": "Fast Five train heist scene",
+  "start": 53,
+  "status": "ok",
+  "title": "Fast Five (1/10) Movie CLIP - Train Robbery (2011) HD",
+  "video": "eFnw_27t9-o",
+  "views": 1372549
+ },
  "fast-five-2011-vault-heist-chase-through-rio": {
   "alts": [
    {
@@ -20890,6 +21948,99 @@
   "title": "Fast Five | Vault on the Bridge Chase Scene in 4K HDR",
   "video": "_w92IZyVJxg",
   "views": 12378644
+ },
+ "fast-furious-6-2013-tank-on-the-spanish-highway": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "NGeFA2fWzX8",
+    "start": 65,
+    "title": "Fast & Furious 6 (8/10) Movie CLIP - Dom Saves Letty (2013) HD"
+   },
+   {
+    "channel": "TNT",
+    "id": "ulOZzfb2Vvk",
+    "start": 173,
+    "title": "Brian (Paul Walker) Flips Over a Tank | Watch Fast & Furious 6 on TNT"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 169,
+    "id": "uzHwlt3dmmo",
+    "score": 13.18,
+    "title": "Fast & Furious 6 (7/10) Movie CLIP - They Got a Tank (2013) HD",
+    "views": 8662268
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 198,
+    "id": "NGeFA2fWzX8",
+    "score": 11.65,
+    "title": "Fast & Furious 6 (8/10) Movie CLIP - Dom Saves Letty (2013) HD",
+    "views": 15443010
+   },
+   {
+    "channel": "TNT",
+    "duration": 527,
+    "id": "ulOZzfb2Vvk",
+    "score": 10.65,
+    "title": "Brian (Paul Walker) Flips Over a Tank | Watch Fast & Furious 6 on TNT",
+    "views": 264556
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 606,
+    "id": "j55IlDRHQ8w",
+    "score": 10.43,
+    "title": "Fast & Furious 6 FULL Tank Scene (and some more action) 🌀 4K",
+    "views": 7086177
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 231,
+    "id": "2QWWgS9wICg",
+    "score": 10.11,
+    "title": "Fast & Furious 6: Tank scene HD CLIP",
+    "views": 4211222
+   },
+   {
+    "channel": "VAL",
+    "duration": 314,
+    "id": "hrjGQh40EWY",
+    "score": 9.88,
+    "title": "Fast & Furious 6 Tank Car Scene",
+    "views": 1641113
+   },
+   {
+    "channel": "Movie Car Chases HD",
+    "duration": 355,
+    "id": "-Crf5WKbkwg",
+    "score": 9.61,
+    "title": "Tank Chase Scene 1of2 - FAST and FURIOUS 6 (Escort, Mustang, Charger, Tank) 1080p",
+    "views": 511679
+   },
+   {
+    "channel": "The Fast Saga",
+    "duration": 492,
+    "id": "HgiEH8SY4v8",
+    "score": 9.56,
+    "title": "Fast & Furious 6 | Owen Shaw's Tank Rampage",
+    "views": 420885
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 169,
+  "end": 120,
+  "heat": "211112322212113212234555335555666545444411100000",
+  "pick": "most-replayed",
+  "query": "Fast and Furious 6 tank scene",
+  "start": 90,
+  "status": "ok",
+  "title": "Fast & Furious 6 (7/10) Movie CLIP - They Got a Tank (2013) HD",
+  "video": "uzHwlt3dmmo",
+  "views": 8662268
  },
  "fate-zero-2012-iskandar-s-last-charge-against-gilgamesh": {
   "alts": [
@@ -21076,6 +22227,75 @@
   "title": "JET LI vs NATHAN JONES | FEARLESS (2006)",
   "video": "kbKpxT53nIE",
   "views": 12217698
+ },
+ "ferrari-2023-mille-miglia-and-de-portago-s-crash": {
+  "alts": [
+   {
+    "channel": "Panzer Runner",
+    "id": "g8_hImxtkeE",
+    "start": 57,
+    "title": "Ferrari (2023) - The Crash That Ended Mille Miglia"
+   },
+   {
+    "channel": "Fekl & the Dekl",
+    "id": "JA5sjQJyiXQ",
+    "start": 298,
+    "title": "FERRARI - 2023 (special movie edit - BIG RACE Mille Miglia 1957)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "tinchov13",
+    "duration": 39,
+    "id": "HkbPQD4LH4k",
+    "score": 11.82,
+    "title": "Ferrari (2023) Mille Miglia Crash Scene (Alfonso de Portago 1957)",
+    "views": 508104
+   },
+   {
+    "channel": "Panzer Runner",
+    "duration": 174,
+    "id": "g8_hImxtkeE",
+    "score": 10.71,
+    "title": "Ferrari (2023) - The Crash That Ended Mille Miglia",
+    "views": 66892
+   },
+   {
+    "channel": "Fekl & the Dekl",
+    "duration": 904,
+    "id": "JA5sjQJyiXQ",
+    "score": 8.53,
+    "title": "FERRARI - 2023 (special movie edit - BIG RACE Mille Miglia 1957)",
+    "views": 4150
+   },
+   {
+    "channel": "BatkoMahnovets",
+    "duration": 63,
+    "id": "WJahVBTxjug",
+    "score": 8.45,
+    "title": "Ferrari crash Mille Miglia",
+    "views": 548
+   },
+   {
+    "channel": "Formula 🅱️",
+    "duration": 38,
+    "id": "o5IjNs-KHwI",
+    "score": 6.29,
+    "title": "Ferrari Movie’s CGI",
+    "views": 14420
+   }
+  ],
+  "channel": "tinchov13",
+  "duration": 39,
+  "end": 37,
+  "heat": "100000000000011100111122333334467767799987643211",
+  "pick": "most-replayed",
+  "query": "Ferrari 2023 Mille Miglia crash scene",
+  "start": 7,
+  "status": "ok",
+  "title": "Ferrari (2023) Mille Miglia Crash Scene (Alfonso de Portago 1957)",
+  "video": "HkbPQD4LH4k",
+  "views": 508104
  },
  "fight-club-1999-the-first-fight-in-the-bar-parking-lot": {
   "alts": [
@@ -22931,6 +24151,99 @@
   "video": "DAkYYROwHN0",
   "views": 8881509
  },
+ "furious-7-2015-supercar-leaps-between-the-etihad-towers": {
+  "alts": [
+   {
+    "channel": "Action Picks",
+    "id": "rIXFG-9APCM",
+    "start": 187,
+    "title": "Dom Drives the Car Between 2 Towers (Abu Dhabi Scene) | Furious 7"
+   },
+   {
+    "channel": "All Action",
+    "id": "W5VxzDT7HBg",
+    "start": 78,
+    "title": "Jumping Cars Between Skyscrapers In Abu Dhabi | Furious 7 (2015) | All Action"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 171,
+    "id": "JVg5X7dUlLM",
+    "score": 11.49,
+    "title": "Furious 7 (5/10) Movie CLIP - Cars Don't Fly (2015) HD",
+    "views": 7892668
+   },
+   {
+    "channel": "Full Throttle",
+    "duration": 236,
+    "id": "ARfFoRZBfnY",
+    "score": 10.13,
+    "title": "Jumping A Lykan HyperSport Between The Etihad Towers | Furious 7 | Full Throttle",
+    "views": 4521325
+   },
+   {
+    "channel": "Action Picks",
+    "duration": 567,
+    "id": "rIXFG-9APCM",
+    "score": 9.92,
+    "title": "Dom Drives the Car Between 2 Towers (Abu Dhabi Scene) | Furious 7",
+    "views": 184102
+   },
+   {
+    "channel": "All Action",
+    "duration": 237,
+    "id": "W5VxzDT7HBg",
+    "score": 9.8,
+    "title": "Jumping Cars Between Skyscrapers In Abu Dhabi | Furious 7 (2015) | All Action",
+    "views": 219379
+   },
+   {
+    "channel": "Ashraf creative videos",
+    "duration": 283,
+    "id": "VDS2bETp5CA",
+    "score": 9.01,
+    "title": "FAST AND FURIOUS | ( 7 ) | MOVIE SCENE | CAR JUMP ON ETIHAD TOWER IN | ABU DHABI [ HD ]",
+    "views": 391
+   },
+   {
+    "channel": "Movie Car Chases HD",
+    "duration": 293,
+    "id": "TaIRKXKGyqE",
+    "score": 8.99,
+    "title": "Building Jump Scene - FAST and FURIOUS 7 (Lykan Hypersport) 1080p",
+    "views": 4118251
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 228,
+    "id": "dYb43iY2Nk0",
+    "score": 8.57,
+    "title": "Furious 7: Plane drop scene HD CLIP",
+    "views": 7184566
+   },
+   {
+    "channel": "Moises Pablo",
+    "duration": 61,
+    "id": "7tMDGU3r6Ls",
+    "score": 8.53,
+    "title": "Fast & Furious 7 - Abu Dhabi",
+    "views": 56773
+   }
+  ],
+  "channel": "Full Throttle",
+  "duration": 236,
+  "end": 91,
+  "heat": "533333334333468855454566654444334555685222111000",
+  "pick": "most-replayed",
+  "query": "Furious 7 tower jump scene Abu Dhabi",
+  "start": 61,
+  "status": "ok",
+  "title": "Jumping A Lykan HyperSport Between The Etihad Towers | Furious 7 | Full Throttle",
+  "video": "ARfFoRZBfnY",
+  "views": 4521325
+ },
  "fury-2014-last-stand-at-the-crossroads": {
   "alts": [
    {
@@ -24753,6 +26066,99 @@
   "title": "Gangs of Wasseypur Opening Scene | Gangs of Wasseypur | Viacom18 Motion Pictures",
   "video": "nHERLCuI9ic",
   "views": 121079
+ },
+ "gemini-man-2019-motorcycle-chase-through-cartagena": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "0KbIG3G5Tt0",
+    "start": 46,
+    "title": "Gemini Man (2019) - Motorcycle Fight Scene (4/10) | Movieclips"
+   },
+   {
+    "channel": "4K Clips And Trailers",
+    "id": "t-R8PIADl7s",
+    "start": 197,
+    "title": "4K HDR 60FPS ● Bike Chase Scene (Gemini Man) ● Dolby Vision ● Dolby Atmos"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 109,
+    "id": "ma4LZYS94rg",
+    "score": 13.74,
+    "title": "Gemini Man (2019) - Motorcycle Chase Scene (3/10) | Movieclips",
+    "views": 2769518
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 141,
+    "id": "0KbIG3G5Tt0",
+    "score": 12.5,
+    "title": "Gemini Man (2019) - Motorcycle Fight Scene (4/10) | Movieclips",
+    "views": 2857836
+   },
+   {
+    "channel": "4K Clips And Trailers",
+    "duration": 598,
+    "id": "t-R8PIADl7s",
+    "score": 9.77,
+    "title": "4K HDR 60FPS ● Bike Chase Scene (Gemini Man) ● Dolby Vision ● Dolby Atmos",
+    "views": 5741882
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 256,
+    "id": "FG_g_f1pU-Y",
+    "score": 9.4,
+    "title": "GEMINI MAN Clip - \"Motorcycle Fight\" (2019) Will Smith",
+    "views": 234610
+   },
+   {
+    "channel": "MovieClips Plus",
+    "duration": 120,
+    "id": "bdSuFV4gFuA",
+    "score": 8.77,
+    "title": "Gemini Man 2019   (Motorcycle Chase) Scene  HD",
+    "views": 78
+   },
+   {
+    "channel": "free spirit",
+    "duration": 219,
+    "id": "76wdM-X8v3U",
+    "score": 8.21,
+    "title": "Gemini Man 2019 Bike Chase 4k HDR REAL 60FPS",
+    "views": 1548
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 556,
+    "id": "m_HSRDl_czg",
+    "score": 7.99,
+    "title": "Henry Is Chased By His Younger Self | Gemini Man",
+    "views": 633815
+   },
+   {
+    "channel": "Movie Maniac",
+    "duration": 542,
+    "id": "hgc0S4HYuoQ",
+    "score": 7.65,
+    "title": "Gemini Man - Bike Fight Scene - HD (1080p)",
+    "views": 148894
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 109,
+  "end": 63,
+  "heat": "333333211111111111112458942111000011234543110000",
+  "pick": "most-replayed",
+  "query": "Gemini Man motorcycle chase scene",
+  "start": 33,
+  "status": "ok",
+  "title": "Gemini Man (2019) - Motorcycle Chase Scene (3/10) | Movieclips",
+  "video": "ma4LZYS94rg",
+  "views": 2769518
  },
  "gettysburg-1993-bayonet-charge-at-little-round-top": {
   "alts": [
@@ -27710,6 +29116,30 @@
   "status": "ok",
   "title": "Hamburger Hill - Conclusion",
   "video": "WJLgr1Ch1hQ",
+  "views": 0
+ },
+ "hanna-2011-erik-heller-s-single-take-fight-in-the-u": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "NOW PLAYING",
+    "duration": 203,
+    "id": "8Gvj2xE9ZA0",
+    "score": 99,
+    "title": "Eric Bana Beats Up a Gang of Assassins | Hanna (2011) | Now Playing",
+    "views": 0
+   }
+  ],
+  "channel": "NOW PLAYING",
+  "duration": 203,
+  "end": 166,
+  "heat": "000000000000111221111111111111234686656433321000",
+  "pick": "most-replayed",
+  "query": "Hanna Eric Bana subway fight one take",
+  "start": 136,
+  "status": "ok",
+  "title": "Eric Bana Beats Up a Gang of Assassins | Hanna (2011) | Now Playing",
+  "video": "8Gvj2xE9ZA0",
   "views": 0
  },
  "hannibal-2014-jack-crawford-vs-hannibal-lecter-in-the": {
@@ -31453,6 +32883,99 @@
   "video": "Z3d6S5IR7t8",
   "views": 0
  },
+ "inglourious-basterds-2009-cinema-massacre-at-the-nazi-premiere": {
+  "alts": [
+   {
+    "channel": "JoBlo Movie Clips",
+    "id": "Bm3YWNgpgP0",
+    "start": 86,
+    "title": "Italian Accents Scene | INGLOURIOUS BASTERDS (2009) Movie CLIP HD"
+   },
+   {
+    "channel": "All Action",
+    "id": "_MB0R835Pio",
+    "start": 81,
+    "title": "The Basterds Blow Up Adolf Hitler | Inglourious Basterds (2009) | All Action"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Akillheals",
+    "duration": 226,
+    "id": "Y4P14KKcKF4",
+    "score": 9.25,
+    "title": "Inglourious Basterds Cinema Scene and Hitlers death",
+    "views": 1841945
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 263,
+    "id": "Bm3YWNgpgP0",
+    "score": 8.76,
+    "title": "Italian Accents Scene | INGLOURIOUS BASTERDS (2009) Movie CLIP HD",
+    "views": 2927573
+   },
+   {
+    "channel": "All Action",
+    "duration": 246,
+    "id": "_MB0R835Pio",
+    "score": 8.72,
+    "title": "The Basterds Blow Up Adolf Hitler | Inglourious Basterds (2009) | All Action",
+    "views": 2546259
+   },
+   {
+    "channel": "Nominee",
+    "duration": 241,
+    "id": "h-A6-sk7QP4",
+    "score": 8.66,
+    "title": "The Basterds Blow Up Hitler’s Cinema | Inglourious Basterds (2009) | Nominee",
+    "views": 29720
+   },
+   {
+    "channel": "Great cinematic Scenes",
+    "duration": 216,
+    "id": "FNcxj54qtyk",
+    "score": 8.33,
+    "title": "Inglourious Basterds - Final Scene & End Credits",
+    "views": 2579780
+   },
+   {
+    "channel": "Critic Picks",
+    "duration": 276,
+    "id": "oXRinK_pGVw",
+    "score": 8.27,
+    "title": "Hans Landa Meets Aldo Raine At The Theatre | Inglourious Basterds",
+    "views": 2052420
+   },
+   {
+    "channel": "Egoplantt",
+    "duration": 255,
+    "id": "EYTb0LBdK70",
+    "score": 8.05,
+    "title": "Inglourious Basterds - Shosanna / Fredrick Death",
+    "views": 804450
+   },
+   {
+    "channel": "Maximum Occupancy",
+    "duration": 56,
+    "id": "-4HclBrZpf4",
+    "score": 7.97,
+    "title": "Alternate Inglourious Basterds Ending",
+    "views": 252553
+   }
+  ],
+  "channel": "Akillheals",
+  "duration": 226,
+  "end": 104,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Inglourious Basterds cinema ending scene",
+  "start": 74,
+  "status": "ok",
+  "title": "Inglourious Basterds Cinema Scene and Hitlers death",
+  "video": "Y4P14KKcKF4",
+  "views": 1841945
+ },
  "inglourious-basterds-2009-la-louisiane-tavern-standoff": {
   "alts": [
    {
@@ -32407,6 +33930,99 @@
   "video": "qqpew2sYqbA",
   "views": 10285766
  },
+ "ip-man-3-2015-elevator-fight-with-the-muay-thai-boxer": {
+  "alts": [
+   {
+    "channel": "GamingWorldZone",
+    "id": "42pqlrzRnc0",
+    "start": 63,
+    "title": "Ip Man 3 Elevator Fight Scene | Wing Chun vs Muay Thai Clip"
+   },
+   {
+    "channel": "film scene Maniac",
+    "id": "anGpQMN_uGc",
+    "start": 65,
+    "title": "IP Man vs Thai boxer in the elevator in the movie IP MAN 3 (2015)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 164,
+    "id": "beTj08uwgkg",
+    "score": 12.73,
+    "title": "IP Man vs Thai boxer in the elevator in the movie IP MAN 3 (2015)",
+    "views": 7341763
+   },
+   {
+    "channel": "GamingWorldZone",
+    "duration": 191,
+    "id": "42pqlrzRnc0",
+    "score": 10.15,
+    "title": "Ip Man 3 Elevator Fight Scene | Wing Chun vs Muay Thai Clip",
+    "views": 797
+   },
+   {
+    "channel": "film scene Maniac",
+    "duration": 197,
+    "id": "anGpQMN_uGc",
+    "score": 10.05,
+    "title": "IP Man vs Thai boxer in the elevator in the movie IP MAN 3 (2015)",
+    "views": 88
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 356,
+    "id": "Cx9040gp6Z0",
+    "score": 9.23,
+    "title": "Ip Man defeats Chun with a one-inch punch in the film IP MAN 3 (2015)",
+    "views": 20869595
+   },
+   {
+    "channel": "Gabriel Thum",
+    "duration": 303,
+    "id": "CPcBiI4mUNA",
+    "score": 8.88,
+    "title": "Donnie Yen vs. Mike Tyson HD | Ip Man 3 (2015)",
+    "views": 5000501
+   },
+   {
+    "channel": "Insomn TV",
+    "duration": 206,
+    "id": "ulRhYJiAgJ8",
+    "score": 8.58,
+    "title": "Ip Man 3 Vs. Boy (Elevator Scene)",
+    "views": 39742
+   },
+   {
+    "channel": "Cinewatch",
+    "duration": 570,
+    "id": "mAUYfj7bML8",
+    "score": 8.25,
+    "title": "Ip Man 3 | Final Fight Scene",
+    "views": 1856323
+   },
+   {
+    "channel": "Universal fights",
+    "duration": 274,
+    "id": "cHS6h_8THcA",
+    "score": 7.75,
+    "title": "ip  man 3 | elevator fight scene | 1080p",
+    "views": 1199
+   }
+  ],
+  "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+  "duration": 164,
+  "end": 84,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Ip Man 3 elevator fight scene",
+  "start": 54,
+  "status": "ok",
+  "title": "IP Man vs Thai boxer in the elevator in the movie IP MAN 3 (2015)",
+  "video": "beTj08uwgkg",
+  "views": 7341763
+ },
  "ip-man-3-2015-ip-man-vs-frank-mike-tyson": {
   "alts": [
    {
@@ -32499,6 +34115,99 @@
   "title": "IP Man vs Mike Tyson in a three-minute fight in the movie IP MAN 3 (2015)",
   "video": "bv6N7ZIwyHM",
   "views": 19390698
+ },
+ "ip-man-4-the-finale-2019-final-fight-vs-barton-geddes": {
+  "alts": [
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "id": "bspuZyN3cVc",
+    "start": 62,
+    "title": "Scott Adkins vs. the master of Kung Fu in the film IP MAN 4: The Final (2019)"
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "id": "moqqESqCPBw",
+    "start": 64,
+    "title": "Scott Adkins defeats Tai Chi master Wan Zonghua in the film IP MAN 4 (2019)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 242,
+    "id": "JWsbsjJzxl0",
+    "score": 12.36,
+    "title": "The Final Battle: Donnie Yen vs. Scott Adkins in IP MAN 4: The Finale (2019)",
+    "views": 37329427
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 190,
+    "id": "bspuZyN3cVc",
+    "score": 10.29,
+    "title": "Scott Adkins vs. the master of Kung Fu in the film IP MAN 4: The Final (2019)",
+    "views": 409425
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 195,
+    "id": "moqqESqCPBw",
+    "score": 9.98,
+    "title": "Scott Adkins defeats Tai Chi master Wan Zonghua in the film IP MAN 4 (2019)",
+    "views": 7486812
+   },
+   {
+    "channel": "Cinewatch",
+    "duration": 330,
+    "id": "4-oesthRiAg",
+    "score": 9.56,
+    "title": "Ip Man 4: The Finale | Final Fight Scene",
+    "views": 6859720
+   },
+   {
+    "channel": "Takip et / No Stress ",
+    "duration": 229,
+    "id": "zXPbrqrBSs0",
+    "score": 9.35,
+    "title": "The Final Battle: Donnie Yen vs. Scott Adkins in IP MAN 4: The Finale #ipman #ipman4 #donnieyen",
+    "views": 656
+   },
+   {
+    "channel": "Peleando en Peliculas",
+    "duration": 242,
+    "id": "KV97kGO4B80",
+    "score": 9.26,
+    "title": "Final Showdown: Donnie Yen vs. Scott Adkins at IP MAN 4: Finale (2019)",
+    "views": 76
+   },
+   {
+    "channel": "Chris Collins",
+    "duration": 392,
+    "id": "hHnl-nGz__k",
+    "score": 9.07,
+    "title": "Ip Man vs karate master Donnie Yen vs Chris Collins Ip Man 4 The Finale",
+    "views": 57221730
+   },
+   {
+    "channel": "MovieClipsIndia",
+    "duration": 294,
+    "id": "rp9kmdQs8j8",
+    "score": 8.69,
+    "title": "He is here to kick your A** | Ip Man vs Scott Adkins | Ipman 4 Final Fight",
+    "views": 2762
+   }
+  ],
+  "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+  "duration": 242,
+  "end": 109,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Ip Man 4 final fight Scott Adkins",
+  "start": 79,
+  "status": "ok",
+  "title": "The Final Battle: Donnie Yen vs. Scott Adkins in IP MAN 4: The Finale (2019)",
+  "video": "JWsbsjJzxl0",
+  "views": 37329427
  },
  "iron-man-2008-f-22-raptors-chase-the-iron-man-suit": {
   "alts": [
@@ -32896,6 +34605,99 @@
   "video": "5U8scp5J9Is",
   "views": 13906523
  },
+ "jack-reacher-2012-night-chase-through-pittsburgh-in-the-ch": {
+  "alts": [
+   {
+    "channel": "Binge Society - Action",
+    "id": "dB2_UN6wpfk",
+    "start": 163,
+    "title": "Jack Reacher (2012): The Chevelle Car Chase | Reacher Wrecks Traffic to Lose the Cops"
+   },
+   {
+    "channel": "Binge Society",
+    "id": "ZyJDLnPQjd8",
+    "start": 121,
+    "title": "Jack Reacher: The Chevelle Car Chase (HD CLIP)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 144,
+    "id": "lfeYgfKa2cY",
+    "score": 12.53,
+    "title": "Jack Reacher (2012) - 1970 Chevelle Chase Scene (6/10) | Movieclips",
+    "views": 560948
+   },
+   {
+    "channel": "Binge Society - Action",
+    "duration": 495,
+    "id": "dB2_UN6wpfk",
+    "score": 10.61,
+    "title": "Jack Reacher (2012): The Chevelle Car Chase | Reacher Wrecks Traffic to Lose the Cops",
+    "views": 196721
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 369,
+    "id": "ZyJDLnPQjd8",
+    "score": 10.52,
+    "title": "Jack Reacher: The Chevelle Car Chase (HD CLIP)",
+    "views": 722577
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 337,
+    "id": "iKABg1ycksw",
+    "score": 10.22,
+    "title": "Clearly Tom Cruise's best car chase. (the bus trick is 🔥) | Jack Reacher | CLIP",
+    "views": 101676
+   },
+   {
+    "channel": "VaRaces Chase Database",
+    "duration": 485,
+    "id": "yQintjPovHA",
+    "score": 10.12,
+    "title": "Jack Reacher Car Chase (2012) HD",
+    "views": 817286
+   },
+   {
+    "channel": "Mike Fletcher",
+    "duration": 296,
+    "id": "LCaDPNptles",
+    "score": 8.69,
+    "title": "Jack Reacher - Car Chase Scene",
+    "views": 10792
+   },
+   {
+    "channel": "jt klingenmeier",
+    "duration": 126,
+    "id": "KuqePNG8IfE",
+    "score": 8.63,
+    "title": "My Favorite Scene in Jack Reacher",
+    "views": 9274597
+   },
+   {
+    "channel": "The Movie Clips Dude 4K",
+    "duration": 480,
+    "id": "TBgq9I4pYBU",
+    "score": 8.59,
+    "title": "Jack Reacher (2012) - Car Chase Scene [4K UHD]",
+    "views": 1346
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 144,
+  "end": 96,
+  "heat": "322222111210000000001112222223322112111101011001",
+  "pick": "most-replayed",
+  "query": "Jack Reacher car chase scene Chevelle",
+  "start": 66,
+  "status": "ok",
+  "title": "Jack Reacher (2012) - 1970 Chevelle Chase Scene (6/10) | Movieclips",
+  "video": "lfeYgfKa2cY",
+  "views": 560948
+ },
  "jarhead-2005-marching-through-the-burning-oil-fields": {
   "alts": [],
   "candidates": [
@@ -32919,6 +34721,99 @@
   "title": "Jarhead: It's raining oil HD CLIP",
   "video": "olHaqANv6Uw",
   "views": 0
+ },
+ "jason-bourne-2016-las-vegas-strip-swat-truck-chase": {
+  "alts": [
+   {
+    "channel": "Universal Pictures At Home",
+    "id": "oX1MFynkf48",
+    "start": 187,
+    "title": "Jason Bourne (Matt Damon) | The SWAT Chase | Extended Preview"
+   },
+   {
+    "channel": "Rotten Tomatoes Coming Soon",
+    "id": "bZuLGd43-Bc",
+    "start": 5,
+    "title": "Jason Bourne Movie CLIP - Las Vegas Chase (2016) - Matt Damon Movie"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "All Action",
+    "duration": 356,
+    "id": "PiJIS_DqyPc",
+    "score": 11.62,
+    "title": "EPIC Chase Through the Las Vegas Strip | Jason Bourne (2016) | All Action",
+    "views": 406219
+   },
+   {
+    "channel": "Universal Pictures At Home",
+    "duration": 569,
+    "id": "oX1MFynkf48",
+    "score": 9.6,
+    "title": "Jason Bourne (Matt Damon) | The SWAT Chase | Extended Preview",
+    "views": 506074
+   },
+   {
+    "channel": "Rotten Tomatoes Coming Soon",
+    "duration": 56,
+    "id": "bZuLGd43-Bc",
+    "score": 9.43,
+    "title": "Jason Bourne Movie CLIP - Las Vegas Chase (2016) - Matt Damon Movie",
+    "views": 39778
+   },
+   {
+    "channel": "Boxoffice | Mejores Escenas de Películas",
+    "duration": 321,
+    "id": "sRNHd5aiTt0",
+    "score": 9.21,
+    "title": "La persecución del camión de SWAT en Las Vegas | Jason Bourne 🔥 4K",
+    "views": 2902
+   },
+   {
+    "channel": "Screen Bites",
+    "duration": 304,
+    "id": "zi63Bk-CNGo",
+    "score": 9.1,
+    "title": "Chase Through Vegas | Jason Bourne (2016) | Screen Bites",
+    "views": 11269
+   },
+   {
+    "channel": "Full Throttle",
+    "duration": 361,
+    "id": "0sY1KkqCNrE",
+    "score": 9.05,
+    "title": "Jason Bourne Chases The Asset Through Las Vegas | Jason Bourne | Full Throttle",
+    "views": 50070
+   },
+   {
+    "channel": "Boxoffice | Le Migliori Scene dei Film in Italiano",
+    "duration": 321,
+    "id": "DOzZaY5hyCU",
+    "score": 8.86,
+    "title": "L'inseguimento del furgone SWAT a Las Vegas | Jason Bourne 🔥 4K",
+    "views": 668
+   },
+   {
+    "channel": "Universal Spain",
+    "duration": 72,
+    "id": "XbMoQNnhOJw",
+    "score": 8.04,
+    "title": "JASON BOURNE - Las Vegas",
+    "views": 704
+   }
+  ],
+  "channel": "All Action",
+  "duration": 356,
+  "end": 333,
+  "heat": "223343333333333453379633333322234322324345787200",
+  "pick": "most-replayed",
+  "query": "Jason Bourne Las Vegas chase scene SWAT truck",
+  "start": 303,
+  "status": "ok",
+  "title": "EPIC Chase Through the Las Vegas Strip | Jason Bourne (2016) | All Action",
+  "video": "PiJIS_DqyPc",
+  "views": 406219
  },
  "jaws-1975-the-alex-kintner-attack-on-the-crowded-b": {
   "alts": [
@@ -33106,6 +35001,99 @@
   "video": "FpxOLhuNXfM",
   "views": 36773865
  },
+ "john-wick-2014-home-invasion-fight-at-john-s-house": {
+  "alts": [
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "km7DDDE-i0c",
+    "start": 86,
+    "title": "John Wick does tactical shopping"
+   },
+   {
+    "channel": "Cinematico",
+    "id": "Mi-2e4v_COM",
+    "start": 79,
+    "title": "JOHN WICK (2014) | Home Invasion | Trying to kill John Wick at his home"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Disco Inferno",
+    "duration": 288,
+    "id": "rnXfGAM4vo0",
+    "score": 10.86,
+    "title": "John Wick (2014)  Home Invasion Scene",
+    "views": 565114
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 261,
+    "id": "km7DDDE-i0c",
+    "score": 9.67,
+    "title": "John Wick does tactical shopping",
+    "views": 10941843
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 240,
+    "id": "Mi-2e4v_COM",
+    "score": 9.35,
+    "title": "JOHN WICK (2014) | Home Invasion | Trying to kill John Wick at his home",
+    "views": 977
+   },
+   {
+    "channel": "Movie Flix",
+    "duration": 401,
+    "id": "Uf9h0-Zk8Ig",
+    "score": 9.29,
+    "title": "John Wick house scene",
+    "views": 782269
+   },
+   {
+    "channel": "RichardNanquil",
+    "duration": 215,
+    "id": "X0qc9-z1Vj0",
+    "score": 9.24,
+    "title": "John Wick - Keanu Reeves' Home Invasion",
+    "views": 3360
+   },
+   {
+    "channel": "Clip&Spot",
+    "duration": 296,
+    "id": "MASc4ujSk94",
+    "score": 8.85,
+    "title": "John Wick: Chapter 1 Home Invasion fight  (2014) 4K",
+    "views": 113
+   },
+   {
+    "channel": "Top Cinema Scenes",
+    "duration": 289,
+    "id": "_E06Rmx0vT4",
+    "score": 8.64,
+    "title": "John Wick Home Invasion Fight Scene",
+    "views": 262
+   },
+   {
+    "channel": "HD Movie Scenes",
+    "duration": 178,
+    "id": "6fr7H3RvP1U",
+    "score": 8.41,
+    "title": "John Wick: Chapter 1 | House Fight Scene (2014)",
+    "views": 3609
+   }
+  ],
+  "channel": "Disco Inferno",
+  "duration": 288,
+  "end": 125,
+  "heat": "",
+  "pick": "estimated",
+  "query": "John Wick house fight scene home invasion",
+  "start": 95,
+  "status": "ok",
+  "title": "John Wick (2014)  Home Invasion Scene",
+  "video": "rnXfGAM4vo0",
+  "views": 565114
+ },
  "john-wick-2014-red-circle-nightclub-fight": {
   "alts": [],
   "candidates": [
@@ -33129,6 +35117,99 @@
   "title": "John Wick - Red Circle Club Scene [HD]",
   "video": "0L9SzBANF0w",
   "views": 0
+ },
+ "john-wick-chapter-2-2017-hall-of-mirrors-finale-reflections-of-th": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "-xZKHX91z9I",
+    "start": 52,
+    "title": "John Wick: Chapter 2 (2017) - Rule Breaker Scene (10/10) | Movieclips"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "0xSSnfRYBQY",
+    "start": 62,
+    "title": "John Wick: Chapter 2 (2017) - Concert Fight Scene (3/10) | Movieclips"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 189,
+    "id": "7-TZCEyok_o",
+    "score": 12.96,
+    "title": "John Wick: Chapter 2 (2017) - Hall of Mirrors Scene (9/10) | Movieclips",
+    "views": 9360796
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 158,
+    "id": "-xZKHX91z9I",
+    "score": 11.63,
+    "title": "John Wick: Chapter 2 (2017) - Rule Breaker Scene (10/10) | Movieclips",
+    "views": 13767707
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 189,
+    "id": "0xSSnfRYBQY",
+    "score": 11.48,
+    "title": "John Wick: Chapter 2 (2017) - Concert Fight Scene (3/10) | Movieclips",
+    "views": 7476847
+   },
+   {
+    "channel": "Aysel Kurt",
+    "duration": 223,
+    "id": "L_iR9zkUSOU",
+    "score": 8.55,
+    "title": "John Wick  Chapter 2 2017   John Vs Ares   Hall Of Mirrors Fight Scene   1080p Full HD",
+    "views": 3069
+   },
+   {
+    "channel": "Prime Video India",
+    "duration": 95,
+    "id": "HQ_8sq2lPWY",
+    "score": 8.46,
+    "title": "John Wick in The Hall of Mirrors | John Wick: Chapter 2 | Keanu Reeves | Prime Video Channels",
+    "views": 11515
+   },
+   {
+    "channel": "Thomas Moore",
+    "duration": 578,
+    "id": "ElZ9y6l9KhI",
+    "score": 8.33,
+    "title": "John Wick 2 Museuem Scene HD",
+    "views": 2658056
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 516,
+    "id": "bztIl03nqIc",
+    "score": 8.2,
+    "title": "Mirror Room Fight Scene | John Wick Chapter 2",
+    "views": 3807
+   },
+   {
+    "channel": "AEC Channel",
+    "duration": 215,
+    "id": "CpE5mkhz160",
+    "score": 8.04,
+    "title": "Hall of Mirrors\\Final Fight Part 2 - John Wick: Chapter 2 2017",
+    "views": 352
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 189,
+  "end": 146,
+  "heat": "561011111111122111244453454334468986443357854200",
+  "pick": "most-replayed",
+  "query": "John Wick Chapter 2 mirror room fight scene",
+  "start": 116,
+  "status": "ok",
+  "title": "John Wick: Chapter 2 (2017) - Hall of Mirrors Scene (9/10) | Movieclips",
+  "video": "7-TZCEyok_o",
+  "views": 9360796
  },
  "john-wick-chapter-2-2017-rome-catacombs-shootout": {
   "alts": [
@@ -33223,6 +35304,99 @@
   "video": "eVJhlVgr9lM",
   "views": 6094920
  },
+ "john-wick-chapter-3-parabellum-2019-antique-knife-throwing-fight": {
+  "alts": [
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "1Qd2eXWfOQM",
+    "start": 93,
+    "title": "John Wick VS His biggest fans | John Wick: Chapter 3 - Parabellum | CLIP"
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "9nN9FJxK1wQ",
+    "start": 155,
+    "title": "The Continental Mass Shooting FULL SCENE | John Wick 3 🌀 4K"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 189,
+    "id": "v00zKyXbfD4",
+    "score": 13.28,
+    "title": "John Wick: Chapter 3 - Parabellum (2019) - Throwing Knives Scene (1/12) | Movieclips",
+    "views": 13079240
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 284,
+    "id": "1Qd2eXWfOQM",
+    "score": 9.67,
+    "title": "John Wick VS His biggest fans | John Wick: Chapter 3 - Parabellum | CLIP",
+    "views": 10827197
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 471,
+    "id": "9nN9FJxK1wQ",
+    "score": 8.57,
+    "title": "The Continental Mass Shooting FULL SCENE | John Wick 3 🌀 4K",
+    "views": 7182904
+   },
+   {
+    "channel": "NCOW",
+    "duration": 197,
+    "id": "ZqeG0b7MBzs",
+    "score": 8.51,
+    "title": "Throwing Knives Scene with Music | John Wick 3: Parabellum",
+    "views": 5208
+   },
+   {
+    "channel": "MotionFlow™XR",
+    "duration": 99,
+    "id": "nB0A4pFIOA0",
+    "score": 8.35,
+    "title": "John Wick making Revolver Scene | 60FPS | John Wick 3 Parabellum (2019)",
+    "views": 540887
+   },
+   {
+    "channel": "john wick movies",
+    "duration": 155,
+    "id": "7OoqjmJe6MQ",
+    "score": 8.29,
+    "title": "John Wick: Chapter 3 - Parabellum (2019) - Throwing Knives Scene (1/12) | Movieclips",
+    "views": 371
+   },
+   {
+    "channel": "JoBlo Action 4K",
+    "duration": 341,
+    "id": "dyzgXkWqN6A",
+    "score": 8.15,
+    "title": "Vintage Weapons Chaos | John Wick: Chapter 3 – Parabellum | CLIP ⚡ 4K",
+    "views": 1245296
+   },
+   {
+    "channel": "Being way",
+    "duration": 152,
+    "id": "XaOvldkhCPs",
+    "score": 8.1,
+    "title": "John Wick chapter 3 knife fight scene(john wick parabellum)",
+    "views": 919
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 189,
+  "end": 107,
+  "heat": "422111223334444444567887998654333455346642467400",
+  "pick": "most-replayed",
+  "query": "John Wick 3 knife fight scene antique",
+  "start": 77,
+  "status": "ok",
+  "title": "John Wick: Chapter 3 - Parabellum (2019) - Throwing Knives Scene (1/12) | Movieclips",
+  "video": "v00zKyXbfD4",
+  "views": 13079240
+ },
  "john-wick-chapter-3-parabellum-2019-glass-room-fight-vs-zero-s-shinobi": {
   "alts": [
    {
@@ -33315,6 +35489,99 @@
   "title": "John Wick: Chapter 3 - Parabellum (2019) - Glass Room Fight Scene (8/12) | Movieclips",
   "video": "-1zLU5N6uBU",
   "views": 5688199
+ },
+ "john-wick-chapter-3-parabellum-2019-horseback-chase-through-manhattan": {
+  "alts": [
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "u5l3ncEcRKs",
+    "start": 65,
+    "title": "John Wick's greatest weapon: A HORSE | John Wick: Chapter 3 - Parabellum | CLIP"
+   },
+   {
+    "channel": "Entertainment Movie And TV Show Scenes",
+    "id": "VDTLz2-dVos",
+    "start": 64,
+    "title": "John Wick Chapter 3 Parabellum (2019) - Horse Stable And Street Chase And Fight Scene - (1080p)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 179,
+    "id": "Sw4pvbkQ-jk",
+    "score": 12.23,
+    "title": "John Wick: Chapter 3 - Parabellum (2019) - Horse Stable Fight Scene (2/12) | Movieclips",
+    "views": 2618425
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 199,
+    "id": "u5l3ncEcRKs",
+    "score": 9.6,
+    "title": "John Wick's greatest weapon: A HORSE | John Wick: Chapter 3 - Parabellum | CLIP",
+    "views": 123155
+   },
+   {
+    "channel": "Entertainment Movie And TV Show Scenes",
+    "duration": 194,
+    "id": "VDTLz2-dVos",
+    "score": 9.48,
+    "title": "John Wick Chapter 3 Parabellum (2019) - Horse Stable And Street Chase And Fight Scene - (1080p)",
+    "views": 14205
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 471,
+    "id": "9nN9FJxK1wQ",
+    "score": 8.57,
+    "title": "The Continental Mass Shooting FULL SCENE | John Wick 3 🌀 4K",
+    "views": 7182904
+   },
+   {
+    "channel": "Motion Picture Scenes",
+    "duration": 168,
+    "id": "wIKEl8ptmnk",
+    "score": 8.04,
+    "title": "John Wick: Chapter 3 - Parabellum (2019) - Horse Stable Fight & Chase | Motion Picture Scenes",
+    "views": 23
+   },
+   {
+    "channel": "Boxoffice ACTION",
+    "duration": 471,
+    "id": "llOgxVggq4Q",
+    "score": 7.43,
+    "title": "The Continental Mass Shooting | John Wick 3 Benelli Shotguns LEGENDARY Scene 🌀 4K",
+    "views": 3920512
+   },
+   {
+    "channel": "Boxoffice | Grandes Momentos dos Filmes",
+    "duration": 199,
+    "id": "XdHPI6BCeQ4",
+    "score": 7.3,
+    "title": "A maior arma de John Wick: UM CAVALO | John Wick 3: Parabellum | Clipe",
+    "views": 35668
+   },
+   {
+    "channel": "Veppa Video",
+    "duration": 93,
+    "id": "dV5VyquIgTQ",
+    "score": 7.29,
+    "title": "John Wick 3 Horse Stable Scene 4k",
+    "views": 33748
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 179,
+  "end": 72,
+  "heat": "111111211113695322344333222122111111122343321000",
+  "pick": "most-replayed",
+  "query": "John Wick 3 horse chase scene",
+  "start": 42,
+  "status": "ok",
+  "title": "John Wick: Chapter 3 - Parabellum (2019) - Horse Stable Fight Scene (2/12) | Movieclips",
+  "video": "Sw4pvbkQ-jk",
+  "views": 2618425
  },
  "john-wick-chapter-3-parabellum-2019-motorcycle-katana-chase": {
   "alts": [
@@ -33594,6 +35861,30 @@
   "title": "John Wick: Chapter 4 (2023) Dragon's Breath Fire Shotgun Scene Fight Music",
   "video": "QsZLmKYGVp8",
   "views": 280107
+ },
+ "john-wick-chapter-4-2023-fight-through-the-traffic-around-the-arc": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Clip Kings",
+    "duration": 319,
+    "id": "-JB2AG7iad0",
+    "score": 99,
+    "title": "A Deadly Race Around Arc de Triomphe (Full Scene) | John Wick: Chapter 4",
+    "views": 0
+   }
+  ],
+  "channel": "Clip Kings",
+  "duration": 319,
+  "end": 135,
+  "heat": "",
+  "pick": "estimated",
+  "query": "John Wick 4 Arc de Triomphe fight scene",
+  "start": 105,
+  "status": "ok",
+  "title": "A Deadly Race Around Arc de Triomphe (Full Scene) | John Wick: Chapter 4",
+  "video": "-JB2AG7iad0",
+  "views": 0
  },
  "john-wick-chapter-4-2023-the-sacre-cur-staircase": {
   "alts": [
@@ -35128,6 +37419,99 @@
   "video": "UfyJbz2kGbI",
   "views": 0
  },
+ "kick-ass-2010-hit-girl-s-night-vision-warehouse-rescue": {
+  "alts": [
+   {
+    "channel": "All Action",
+    "id": "oiWK8ntmsf0",
+    "start": 73,
+    "title": "Hit-Girl Rescues Kick-Ass and Big Daddy | Kick-Ass | All Action"
+   },
+   {
+    "channel": "orbofobedeience",
+    "id": "Wssrnv78dig",
+    "start": 59,
+    "title": "Kick ass night vision scene hit girl and big daddy"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 318,
+    "id": "jbujtShQbAk",
+    "score": 10.68,
+    "title": "KICK-ASS Clip - \"Hit Girl's Final Battle\" (2010) Action, Chloë Grace Moretz",
+    "views": 1173507
+   },
+   {
+    "channel": "All Action",
+    "duration": 223,
+    "id": "oiWK8ntmsf0",
+    "score": 9.48,
+    "title": "Hit-Girl Rescues Kick-Ass and Big Daddy | Kick-Ass | All Action",
+    "views": 826415
+   },
+   {
+    "channel": "orbofobedeience",
+    "duration": 181,
+    "id": "Wssrnv78dig",
+    "score": 9.41,
+    "title": "Kick ass night vision scene hit girl and big daddy",
+    "views": 1497
+   },
+   {
+    "channel": "Mediakingnumber1",
+    "duration": 147,
+    "id": "6xS4kHTjTNs",
+    "score": 9.11,
+    "title": "kick ass hit girl saves kick ass",
+    "views": 170369
+   },
+   {
+    "channel": "Screen Bites",
+    "duration": 193,
+    "id": "mwXbPty7NwI",
+    "score": 8.88,
+    "title": "Big Daddy Burns Down The Warehouse | Kick-Ass | Screen Bites",
+    "views": 1314438
+   },
+   {
+    "channel": "Big Screen Laughs",
+    "duration": 184,
+    "id": "MPwZx1AAgQw",
+    "score": 8.76,
+    "title": "Hit-Girl Rescues Kick-Ass and Big Daddy | Kick-Ass (2010) | Big Screen Laughs",
+    "views": 7596
+   },
+   {
+    "channel": "Screen Bites - Action",
+    "duration": 203,
+    "id": "XjBjyIU-MTk",
+    "score": 8.25,
+    "title": "Hit-Girl Goes BALLISTIC! Rescuing Kick-Ass and Big Daddy | Kick-Ass (2010) | Screen Bites Action",
+    "views": 870
+   },
+   {
+    "channel": "legjobb1",
+    "duration": 107,
+    "id": "SVLDJ9hjPN0",
+    "score": 8.09,
+    "title": "-:: Kick Ass - Hit Girl Saves Big Daddy &  Kick Ass - Strobe Scene ::-",
+    "views": 2401
+   }
+  ],
+  "channel": "JoBlo Movie Clips",
+  "duration": 318,
+  "end": 272,
+  "heat": "100001001221223432110011112354334545799887542100",
+  "pick": "most-replayed",
+  "query": "Kick-Ass Hit-Girl warehouse rescue scene night vision",
+  "start": 242,
+  "status": "ok",
+  "title": "KICK-ASS Clip - \"Hit Girl's Final Battle\" (2010) Action, Chloë Grace Moretz",
+  "video": "jbujtShQbAk",
+  "views": 1173507
+ },
  "kickboxer-1989-final-bout-vs-tong-po-with-glass-dipped": {
   "alts": [
    {
@@ -35515,6 +37899,99 @@
   "title": "Kill Bill: Vol. 2 (2004) - The Trailer Fight Scene (7/12) | Movieclips",
   "video": "TrZuYfti-pE",
   "views": 0
+ },
+ "killing-them-softly-2012-slow-motion-hit-on-markie-in-the-rain": {
+  "alts": [
+   {
+    "channel": "CuriousWhale",
+    "id": "5V6GHnxEJjg",
+    "start": 59,
+    "title": "Killing Them Softly (2012) - Final Scene"
+   },
+   {
+    "channel": "Fernando “Wolfman” Wolf",
+    "id": "5zK-b0INu1k",
+    "start": 117,
+    "title": "Killing them Softly ending line by Brad Pitt"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "ThisIsTimmex",
+    "duration": 181,
+    "id": "xy2JQ0HqCuk",
+    "score": 10.0,
+    "title": "Killing Them Softly [2012] - Markie's Death Scene [Slow Mo-1080p]",
+    "views": 492774
+   },
+   {
+    "channel": "CuriousWhale",
+    "duration": 179,
+    "id": "5V6GHnxEJjg",
+    "score": 8.42,
+    "title": "Killing Them Softly (2012) - Final Scene",
+    "views": 701493
+   },
+   {
+    "channel": "Fernando “Wolfman” Wolf",
+    "duration": 356,
+    "id": "5zK-b0INu1k",
+    "score": 8.08,
+    "title": "Killing them Softly ending line by Brad Pitt",
+    "views": 919463
+   },
+   {
+    "channel": "Jeff Costello",
+    "duration": 355,
+    "id": "bUs282cMa44",
+    "score": 7.94,
+    "title": "James Gandolfini in Killing Them Softly",
+    "views": 508309
+   },
+   {
+    "channel": "ANNAPURNA",
+    "duration": 170,
+    "id": "rNlPdPFlOSo",
+    "score": 7.79,
+    "title": "KILLING THEM SOFTLY | Jackie And Frankie At The Bar",
+    "views": 268332
+   },
+   {
+    "channel": "ANNAPURNA",
+    "duration": 154,
+    "id": "D4SZbeGEmyk",
+    "score": 7.79,
+    "title": "KILLING THEM SOFTLY | The Doctor (Deleted)",
+    "views": 271163
+   },
+   {
+    "channel": "ANNAPURNA",
+    "duration": 132,
+    "id": "7Xjg2ju1cB4",
+    "score": 7.76,
+    "title": "KILLING THEM SOFTLY | Kill Them Softly",
+    "views": 244408
+   },
+   {
+    "channel": "Metropolitan Films",
+    "duration": 60,
+    "id": "BxInKTCB2GQ",
+    "score": 7.7,
+    "title": "COGAN- Killing Them Softly -extrait- Get out of the car Markie VOST",
+    "views": 5617
+   }
+  ],
+  "channel": "ThisIsTimmex",
+  "duration": 181,
+  "end": 89,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Killing Them Softly slow motion shooting scene",
+  "start": 59,
+  "status": "ok",
+  "title": "Killing Them Softly [2012] - Markie's Death Scene [Slow Mo-1080p]",
+  "video": "xy2JQ0HqCuk",
+  "views": 492774
  },
  "king-arthur-2004-battle-on-the-frozen-lake": {
   "alts": [
@@ -36004,6 +38481,99 @@
   "title": "The Siege Of Jerusalem Scene | KINGDOM OF HEAVEN (2005) Movie CLIP HD",
   "video": "Qoji62OYHi8",
   "views": 2169014
+ },
+ "kingsman-the-golden-circle-2017-opening-taxi-fight-with-charlie": {
+  "alts": [
+   {
+    "channel": "JoBlo Movie Clips",
+    "id": "88oZwLP0iFI",
+    "start": 102,
+    "title": "Opening Scene | KINGSMAN: THE GOLDEN CIRCLE (2017) Movie CLIP HD"
+   },
+   {
+    "channel": "Clipy Zone",
+    "id": "2BY4BtnXyHQ",
+    "start": 79,
+    "title": "Kingsman  The Golden Circle ''Taxi Chase'' Scene HD Taron Egerton Action Movie"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "KinoCheck Archive",
+    "duration": 560,
+    "id": "gsHfpYVPLnU",
+    "score": 10.67,
+    "title": "Kingsman: The Golden Circle - First 9 Minutes Opening Scene (2017)",
+    "views": 8354495
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 311,
+    "id": "88oZwLP0iFI",
+    "score": 10.12,
+    "title": "Opening Scene | KINGSMAN: THE GOLDEN CIRCLE (2017) Movie CLIP HD",
+    "views": 832512
+   },
+   {
+    "channel": "Clipy Zone",
+    "duration": 240,
+    "id": "2BY4BtnXyHQ",
+    "score": 8.88,
+    "title": "Kingsman  The Golden Circle ''Taxi Chase'' Scene HD Taron Egerton Action Movie",
+    "views": 24556
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 308,
+    "id": "IgCOwtl2DEE",
+    "score": 8.72,
+    "title": "KINGSMAN: THE GOLDEN CIRCLE Clip - \"Rendezvous Swan\" (2017)",
+    "views": 2496389
+   },
+   {
+    "channel": "Moviebaaz",
+    "duration": 263,
+    "id": "jFrjlrlZ-cw",
+    "score": 8.48,
+    "title": "\"Agent Whiskey vs Agent Galahads\" FIGHT SCENE(KINGSMAN: THE GOLDEN CIRCLE)HD",
+    "views": 5005847
+   },
+   {
+    "channel": "20th Century Studios UK",
+    "duration": 584,
+    "id": "Ay69jcyzrY4",
+    "score": 8.48,
+    "title": "KINGSMAN: THE GOLDEN CIRCLE | 10 Minute Sneak Peek | On Digital Download Now",
+    "views": 4951775
+   },
+   {
+    "channel": "0101 Gaming",
+    "duration": 164,
+    "id": "Ih23LwzqcMg",
+    "score": 8.33,
+    "title": "KINGSMAN 2  THE GOLDEN CIRCLE ''Epic Fight Agent Whisky vs Enemy Soldiers'' Action Movie HD",
+    "views": 2584366
+   },
+   {
+    "channel": "Amazon Prime Video UK & IE",
+    "duration": 320,
+    "id": "unhrG_oZefA",
+    "score": 8.17,
+    "title": "Agent Whiskey's (Pedro Pascal) Epic Diner Fight | Kingsman: The Golden Circle",
+    "views": 1349209
+   }
+  ],
+  "channel": "KinoCheck Archive",
+  "duration": 560,
+  "end": 234,
+  "heat": "124338644534322545484212125424211111111122331210",
+  "pick": "most-replayed",
+  "query": "Kingsman The Golden Circle taxi fight scene",
+  "start": 204,
+  "status": "ok",
+  "title": "Kingsman: The Golden Circle - First 9 Minutes Opening Scene (2017)",
+  "video": "gsHfpYVPLnU",
+  "views": 8354495
  },
  "kingsman-the-secret-service-2014-church-massacre": {
   "alts": [
@@ -37572,6 +40142,99 @@
   "title": "LIVE AND LET DIE | Boat chase",
   "video": "DyaZWs4p8yI",
   "views": 2471186
+ },
+ "live-free-or-die-hard-2007-police-car-launched-into-the-helicopter": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "jsz79bztNJI",
+    "start": 53,
+    "title": "Live Free or Die Hard (4/5) Movie CLIP - Freeway Fighter (2007) HD"
+   },
+   {
+    "channel": "Rugrats and Popeye Fan 2003",
+    "id": "e39SG2h7Itg",
+    "start": 27,
+    "title": "Live Free Or Die Hard - Helicopter Meets Car"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 165,
+    "id": "r1gBq45CkgI",
+    "score": 12.91,
+    "title": "Live Free or Die Hard (1/5) Movie CLIP - Helicopter Meets Car (2007) HD",
+    "views": 672984
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 163,
+    "id": "jsz79bztNJI",
+    "score": 11.48,
+    "title": "Live Free or Die Hard (4/5) Movie CLIP - Freeway Fighter (2007) HD",
+    "views": 7376651
+   },
+   {
+    "channel": "Rugrats and Popeye Fan 2003",
+    "duration": 82,
+    "id": "e39SG2h7Itg",
+    "score": 8.19,
+    "title": "Live Free Or Die Hard - Helicopter Meets Car",
+    "views": 327
+   },
+   {
+    "channel": "Movie clips channel",
+    "duration": 176,
+    "id": "KM0JdZw9YDE",
+    "score": 8.05,
+    "title": "Live free or Die Hard 2007 Helicopter Attack",
+    "views": 2289
+   },
+   {
+    "channel": "livewiresfoster78",
+    "duration": 71,
+    "id": "Qga3aLPB0YE",
+    "score": 7.43,
+    "title": "Live Free or Die Hard Clip",
+    "views": 60177
+   },
+   {
+    "channel": "americanfanof201130e",
+    "duration": 261,
+    "id": "UoDpNHosoLo",
+    "score": 7.36,
+    "title": "Live Free Or Die Hard NFS The Run (Tunnel -Helicopter Scene).HD",
+    "views": 683
+   },
+   {
+    "channel": "Ron Miller",
+    "duration": 161,
+    "id": "sLJw3nsOvwE",
+    "score": 7.19,
+    "title": "Die Hard 4 John drives a police car into the chopper scene",
+    "views": 1814
+   },
+   {
+    "channel": "Movie clips channel",
+    "duration": 132,
+    "id": "9fQuJdx4kGM",
+    "score": 6.8,
+    "title": "Live free or Die Hard 2007  John jumps on the jet scene",
+    "views": 812
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 165,
+  "end": 84,
+  "heat": "000111122221122223568975311111000011000000000000",
+  "pick": "most-replayed",
+  "query": "Live Free or Die Hard car into helicopter scene",
+  "start": 54,
+  "status": "ok",
+  "title": "Live Free or Die Hard (1/5) Movie CLIP - Helicopter Meets Car (2007) HD",
+  "video": "r1gBq45CkgI",
+  "views": 672984
  },
  "logan-2017-charles-s-seizure-at-the-oklahoma-city-c": {
   "alts": [
@@ -40988,6 +43651,285 @@
   "video": "J4me49IF70k",
   "views": 405238
  },
+ "mission-impossible-ghost-protoco-2011-moscow-prison-break-to-dean-martin": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "a_a8EPToz5I",
+    "start": 47,
+    "title": "Mission: Impossible - Ghost Protocol (2011) - Escaping the Russian Prison Scene | Movieclips"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "VJAbdf8ECzQ",
+    "start": 54,
+    "title": "Mission: Impossible - Ghost Protocol (2011) - Fight For the Briefcase Scene | Movieclips"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 162,
+    "id": "p-5nqrOtaug",
+    "score": 12.32,
+    "title": "Mission: Impossible - Ghost Protocol (2011) - Escaping the Russian Prison Scene (1/10) | Movieclips",
+    "views": 7826255
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 144,
+    "id": "a_a8EPToz5I",
+    "score": 10.99,
+    "title": "Mission: Impossible - Ghost Protocol (2011) - Escaping the Russian Prison Scene | Movieclips",
+    "views": 29364
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 166,
+    "id": "VJAbdf8ECzQ",
+    "score": 10.25,
+    "title": "Mission: Impossible - Ghost Protocol (2011) - Fight For the Briefcase Scene | Movieclips",
+    "views": 42672
+   },
+   {
+    "channel": "Mission Impossible World",
+    "duration": 476,
+    "id": "0vf5mf0NsEc",
+    "score": 9.52,
+    "title": "Escape from Prison Introduction scene - Mission Impossible 4 Ghost Protocol",
+    "views": 352653
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 293,
+    "id": "jxWSdw45zKw",
+    "score": 8.86,
+    "title": "MISSION: IMPOSSIBLE - GHOST PROTOCOL Clip - \"Escaping The Russian Prison\" (2011)",
+    "views": 140168
+   },
+   {
+    "channel": "pravin2 Designer",
+    "duration": 444,
+    "id": "2j37xUzX91o",
+    "score": 7.99,
+    "title": "Prison Scene Mission Impossible Ghost Protocol",
+    "views": 19529
+   },
+   {
+    "channel": "Captain Darrow",
+    "duration": 282,
+    "id": "jQi9xhqBDd0",
+    "score": 7.98,
+    "title": "Mission: Impossible - Ghost Protocol - Hospital Scene (HD)",
+    "views": 601880
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 595,
+    "id": "7whV_dWvuYA",
+    "score": 7.7,
+    "title": "MISSION: IMPOSSIBLE - GHOST PROTOCOL (2011) | Kremlin Full Scene 4K UHD",
+    "views": 34900
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 162,
+  "end": 79,
+  "heat": "432232211111222578422222337614224232332211000000",
+  "pick": "most-replayed",
+  "query": "Mission Impossible Ghost Protocol prison escape scene",
+  "start": 49,
+  "status": "ok",
+  "title": "Mission: Impossible - Ghost Protocol (2011) - Escaping the Russian Prison Scene (1/10) | Movieclips",
+  "video": "p-5nqrOtaug",
+  "views": 7826255
+ },
+ "mission-impossible-iii-2006-drone-attack-on-the-convoy-across-the-br": {
+  "alts": [
+   {
+    "channel": "Cinematico",
+    "id": "GKnHYoLhAV4",
+    "start": 137,
+    "title": "MISSION: IMPOSSIBLE III (2006) | The Bridge Scene | Davian Escapes 4K UHD"
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "id": "hvRAaELyhlg",
+    "start": 67,
+    "title": "Tom Cruise VS A drone and a chopper | Mission: Impossible 3 | CLIP"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 161,
+    "id": "8l4qdf_1nGM",
+    "score": 12.34,
+    "title": "Mission: Impossible 3 (2006) - Bridge Attack Scene (7/8) | Movieclips",
+    "views": 2026234
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 417,
+    "id": "GKnHYoLhAV4",
+    "score": 8.85,
+    "title": "MISSION: IMPOSSIBLE III (2006) | The Bridge Scene | Davian Escapes 4K UHD",
+    "views": 131008
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 206,
+    "id": "hvRAaELyhlg",
+    "score": 8.82,
+    "title": "Tom Cruise VS A drone and a chopper | Mission: Impossible 3 | CLIP",
+    "views": 77770
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 195,
+    "id": "3xrrYW2maEo",
+    "score": 8.35,
+    "title": "Mission: Impossible III: Deadly bridge (HD CLIP)",
+    "views": 86696
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 458,
+    "id": "tFNQq70mlcQ",
+    "score": 7.87,
+    "title": "MISSION: IMPOSSIBLE III (2006) | Breaking into the Vatican Scene 4K UHD",
+    "views": 71857
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 518,
+    "id": "vwaVEnRbOJs",
+    "score": 7.72,
+    "title": "MISSION: IMPOSSIBLE III (2006) | The Shanghai Scene | Retrieving the 'Rabbit's Foot 4K UHD",
+    "views": 38024
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 511,
+    "id": "XKSHjsBFnrc",
+    "score": 7.68,
+    "title": "MISSION: IMPOSSIBLE III (2006) | Rescuing Lindsey Scene 4K UHD",
+    "views": 32452
+   },
+   {
+    "channel": "DB Film Scenes",
+    "duration": 486,
+    "id": "2iTg7oAirgQ",
+    "score": 7.62,
+    "title": "Factory shootout - Mission Impossible 3",
+    "views": 1077691
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 161,
+  "end": 34,
+  "heat": "222246963211221111222211111100000000111110000000",
+  "pick": "most-replayed",
+  "query": "Mission Impossible 3 bridge attack scene",
+  "start": 4,
+  "status": "ok",
+  "title": "Mission: Impossible 3 (2006) - Bridge Attack Scene (7/8) | Movieclips",
+  "video": "8l4qdf_1nGM",
+  "views": 2026234
+ },
+ "mission-impossible-rogue-nation-2015-assassination-plot-at-the-vienna-state-o": {
+  "alts": [
+   {
+    "channel": "Cinematico",
+    "id": "NZWk243pIu0",
+    "start": 190,
+    "title": "MISSION: IMPOSSIBLE - ROGUE NATION (2015) | The Opera Escape | Ethan meets Ilsa 4K UHD"
+   },
+   {
+    "channel": "Cinematico",
+    "id": "Qf_MzDmw3rs",
+    "start": 48,
+    "title": "MISSION: IMPOSSIBLE - ROGUE NATION (2015) | Opera Escape | Ethan & Ilsa Opera Escape 4K UHD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Kyle V.",
+    "duration": 459,
+    "id": "WgYaks1W97s",
+    "score": 9.15,
+    "title": "Mission Impossible: Rogue Nation (2015) - Opera Scene 1080p",
+    "views": 471673
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 576,
+    "id": "NZWk243pIu0",
+    "score": 8.55,
+    "title": "MISSION: IMPOSSIBLE - ROGUE NATION (2015) | The Opera Escape | Ethan meets Ilsa 4K UHD",
+    "views": 38412
+   },
+   {
+    "channel": "Cinematico",
+    "duration": 148,
+    "id": "Qf_MzDmw3rs",
+    "score": 8.38,
+    "title": "MISSION: IMPOSSIBLE - ROGUE NATION (2015) | Opera Escape | Ethan & Ilsa Opera Escape 4K UHD",
+    "views": 18126
+   },
+   {
+    "channel": "Andrea YT",
+    "duration": 130,
+    "id": "ynzg9PmORN0",
+    "score": 8.29,
+    "title": "Mission Impossible: Rogue Nation - Turandot: Nessun dorma (Giacomo Puccini)",
+    "views": 68378
+   },
+   {
+    "channel": "Movie PLUS",
+    "duration": 578,
+    "id": "jU2TU--E6OE",
+    "score": 8.2,
+    "title": "Mission: Impossible - Rogue Nation 10 Minute Exclusive Preview",
+    "views": 1522262
+   },
+   {
+    "channel": "Xzagobag",
+    "duration": 77,
+    "id": "ag-XAVWx3PQ",
+    "score": 8.02,
+    "title": "Rappelling down the opera house - Mission Impossible Rogue: Nation (2015)",
+    "views": 4090
+   },
+   {
+    "channel": "Broom Tree Music",
+    "duration": 208,
+    "id": "LZiuz5Yex-4",
+    "score": 7.92,
+    "title": "Classical Music in movies 02.Mission Impossible Rogue Nation & Puccini -Turandot 'Nessun Dorma'",
+    "views": 14325
+   },
+   {
+    "channel": "Mission: Impossible Clips",
+    "duration": 586,
+    "id": "ZZSjI-SwtOg",
+    "score": 7.74,
+    "title": "Opera Assassination | Mission: Impossible - Rogue Nation 4K HDR Clip Tom Cruise",
+    "views": 198
+   }
+  ],
+  "channel": "Kyle V.",
+  "duration": 459,
+  "end": 181,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Mission Impossible Rogue Nation opera scene Turandot",
+  "start": 151,
+  "status": "ok",
+  "title": "Mission Impossible: Rogue Nation (2015) - Opera Scene 1080p",
+  "video": "WgYaks1W97s",
+  "views": 471673
+ },
  "mission-impossible-rogue-nation-2015-hanging-off-the-a400m-at-takeoff": {
   "alts": [
    {
@@ -41267,6 +44209,99 @@
   "video": "CI2u1Pf7b6c",
   "views": 4270016
  },
+ "mission-impossible-the-final-rec-2025-dive-into-the-sunken-submarine-sevastopo": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "sUBgObkjraA",
+    "start": 201,
+    "title": "Mission: Impossible - The Final Reckoning (2025) 4K - SUSPENSEFUL Submarine Scene | Movieclips"
+   },
+   {
+    "channel": "Paramount Pictures",
+    "id": "AP81nzJLS-c",
+    "start": 5,
+    "title": "Mission: Impossible – The Final Reckoning | Out of Your Mind Clip (2025 Movie) - Tom Cruise"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Paramount Pictures",
+    "duration": 85,
+    "id": "vdgK-uLsaYo",
+    "score": 11.54,
+    "title": "Mission: Impossible – The Final Reckoning | Submarine Clip (2025 Movie) - Tom Cruise",
+    "views": 1179249
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 611,
+    "id": "sUBgObkjraA",
+    "score": 11.02,
+    "title": "Mission: Impossible - The Final Reckoning (2025) 4K - SUSPENSEFUL Submarine Scene | Movieclips",
+    "views": 467671
+   },
+   {
+    "channel": "Paramount Pictures",
+    "duration": 58,
+    "id": "AP81nzJLS-c",
+    "score": 9.98,
+    "title": "Mission: Impossible – The Final Reckoning | Out of Your Mind Clip (2025 Movie) - Tom Cruise",
+    "views": 3208793
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 264,
+    "id": "_JQsaf6YAZQ",
+    "score": 9.61,
+    "title": "The Submarine Scene | Mission: Impossible 8 - The Final Reckoning | CLIP",
+    "views": 128200
+   },
+   {
+    "channel": "Toshimitsu",
+    "duration": 238,
+    "id": "HOob_q06LlI",
+    "score": 8.63,
+    "title": "Mission Impossible - The Final Reckoning / Ethan Escapes from Sevastopol Submarine / Submarine Scene",
+    "views": 2122
+   },
+   {
+    "channel": "Mission: Impossible Clips",
+    "duration": 574,
+    "id": "JtByA493iLc",
+    "score": 8.31,
+    "title": "The Submarine 4K HDR IMAX - Mission Impossible The Final Reckoning",
+    "views": 37330
+   },
+   {
+    "channel": "Fandango (Stream)",
+    "duration": 424,
+    "id": "-PWmE1A7Z8s",
+    "score": 8.3,
+    "title": "Mission: Impossible - The Final Reckoning Extended Preview (2025) | Fandango at Home",
+    "views": 429662
+   },
+   {
+    "channel": "Toshimitsu",
+    "duration": 178,
+    "id": "LK5ucOWKEK8",
+    "score": 8.2,
+    "title": "Mission Impossible - The Final Reckoning / Ethan Leaves from Submarine / Submarine Scene / IMAX / 4K",
+    "views": 22757
+   }
+  ],
+  "channel": "Paramount Pictures",
+  "duration": 85,
+  "end": 71,
+  "heat": "532221112222453111112234888799865465665567765421",
+  "pick": "most-replayed",
+  "query": "Mission Impossible Final Reckoning submarine scene",
+  "start": 41,
+  "status": "ok",
+  "title": "Mission: Impossible – The Final Reckoning | Submarine Clip (2025 Movie) - Tom Cruise",
+  "video": "vdgK-uLsaYo",
+  "views": 1179249
+ },
  "mob-psycho-100-2016-mob-vs-teru": {
   "alts": [],
   "candidates": [
@@ -41432,6 +44467,99 @@
   "video": "6xZs08ofM8Q",
   "views": 0
  },
+ "monkey-man-2024-final-assault-on-the-kings-club": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "h-8H-XydXlY",
+    "start": 71,
+    "title": "Monkey Man (2024) - Dev Patel Fights a Killer Cop Scene | Movieclips"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "Iw3a3RzD3Pc",
+    "start": 54,
+    "title": "Monkey Man (2024) - Brutal Fixed Boxing Fight Scene | Movieclips"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 389,
+    "id": "aPZKw6Nyx24",
+    "score": 11.24,
+    "title": "Monkey Man (2024) - EPIC Nightclub Fight Scene | Movieclips",
+    "views": 2724364
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 498,
+    "id": "w9nuvrfGyTY",
+    "score": 11.12,
+    "title": "Monkey Man | The Final Boxing Fight (Dev Patel)",
+    "views": 376911
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 217,
+    "id": "h-8H-XydXlY",
+    "score": 10.5,
+    "title": "Monkey Man (2024) - Dev Patel Fights a Killer Cop Scene | Movieclips",
+    "views": 122919
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 61,
+    "id": "_1PuVDh14h4",
+    "score": 10.28,
+    "title": "Monkey Man | Kitchen Fight",
+    "views": 2098306
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 164,
+    "id": "Iw3a3RzD3Pc",
+    "score": 10.09,
+    "title": "Monkey Man (2024) - Brutal Fixed Boxing Fight Scene | Movieclips",
+    "views": 22574
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 61,
+    "id": "konQCBcs9u4",
+    "score": 9.73,
+    "title": "Monkey Man | Bar Fight",
+    "views": 212117
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 358,
+    "id": "aLoItOKcMqM",
+    "score": 7.78,
+    "title": "Monkey Man (2024): Fighting His Mother's Murderer",
+    "views": 49313
+   },
+   {
+    "channel": "Binge Society",
+    "duration": 278,
+    "id": "lPqurjkjkrI",
+    "score": 7.71,
+    "title": "Monkey Man (2024): Becoming Monkey Man",
+    "views": 36040
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 389,
+  "end": 376,
+  "heat": "222111232223112142122211112221234443222233346950",
+  "pick": "most-replayed",
+  "query": "Monkey Man final fight scene",
+  "start": 346,
+  "status": "ok",
+  "title": "Monkey Man (2024) - EPIC Nightclub Fight Scene | Movieclips",
+  "video": "aPZKw6Nyx24",
+  "views": 2724364
+ },
  "moonraker-1979-pre-title-freefall-fight-for-the-parachu": {
   "alts": [
    {
@@ -41524,6 +44652,192 @@
   "title": "Moonraker (1/10) Movie CLIP - Enjoy Your Flight (1979) HD",
   "video": "87MO-gtYFT8",
   "views": 3197867
+ },
+ "mortal-kombat-2021-opening-hanzo-hasashi-vs-the-lin-kuei-in": {
+  "alts": [
+   {
+    "channel": "ONE Media",
+    "id": "VwU3SlQ723Q",
+    "start": 156,
+    "title": "MORTAL KOMBAT \"Scorpion VS Sub-Zero\" Opening Scene (2021)"
+   },
+   {
+    "channel": "KinoCheck.com",
+    "id": "fmyJNyb94jg",
+    "start": 152,
+    "title": "MORTAL KOMBAT - First 7 Minutes Opening Scene (2021)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 181,
+    "id": "Ijls0zS88j4",
+    "score": 11.36,
+    "title": "Mortal Kombat (2021) - Kano Freaks Out Scene (4/10) | Movieclips",
+    "views": 329902
+   },
+   {
+    "channel": "ClipZone: High Octane Hits",
+    "duration": 479,
+    "id": "HfRb_vnOKOU",
+    "score": 10.8,
+    "title": "Mortal Kombat (2021) | Scorpion Vs. Sub Zero | ClipZone: High Octane Hits",
+    "views": 17150206
+   },
+   {
+    "channel": "ONE Media",
+    "duration": 474,
+    "id": "VwU3SlQ723Q",
+    "score": 10.66,
+    "title": "MORTAL KOMBAT \"Scorpion VS Sub-Zero\" Opening Scene (2021)",
+    "views": 44262245
+   },
+   {
+    "channel": "KinoCheck.com",
+    "duration": 461,
+    "id": "fmyJNyb94jg",
+    "score": 9.84,
+    "title": "MORTAL KOMBAT - First 7 Minutes Opening Scene (2021)",
+    "views": 1437390
+   },
+   {
+    "channel": "FilmIsNow Action Movies",
+    "duration": 483,
+    "id": "K8b86Nkr_vA",
+    "score": 9.45,
+    "title": "Scorpion vs Sub-Zero! MORTAL KOMBAT (2021) Opening Scene | First 7 Minutes",
+    "views": 285091
+   },
+   {
+    "channel": "HBO Max",
+    "duration": 476,
+    "id": "mKfzjGJu5do",
+    "score": 8.75,
+    "title": "Mortal Kombat | Opening Seven Minutes | Max",
+    "views": 1132340
+   },
+   {
+    "channel": "Moview Clips",
+    "duration": 326,
+    "id": "mhPKeb8A3Fg",
+    "score": 8.72,
+    "title": "Mortal Kombat (2021): Sub Zero Kills Scorpions Family (Opening Scene) - Moview Clips",
+    "views": 13232
+   },
+   {
+    "channel": "SAN kun",
+    "duration": 84,
+    "id": "XFJz2Dc1B7A",
+    "score": 8.48,
+    "title": "Hanzo hasashi don't forget this face ( Mortal Kombat 2021 )",
+    "views": 351
+   }
+  ],
+  "channel": "ClipZone: High Octane Hits",
+  "duration": 479,
+  "end": 123,
+  "heat": "111111112489433423324222312222223222221123431110",
+  "pick": "most-replayed",
+  "query": "Mortal Kombat 2021 opening scene Hanzo",
+  "start": 93,
+  "status": "ok",
+  "title": "Mortal Kombat (2021) | Scorpion Vs. Sub Zero | ClipZone: High Octane Hits",
+  "video": "HfRb_vnOKOU",
+  "views": 17150206
+ },
+ "mr-mrs-smith-2005-house-fight-between-the-married-assassin": {
+  "alts": [
+   {
+    "channel": "Food For Watch",
+    "id": "MtRg2ng9pxc",
+    "start": 82,
+    "title": "Mr. And Mrs. Smith (2005) - Dinner scene"
+   },
+   {
+    "channel": "Feramero",
+    "id": "bp0H3ql3XTY",
+    "start": 157,
+    "title": "Mr and Mrs Smith - Full fight scene [HQ]"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movie clips channel",
+    "duration": 275,
+    "id": "HClSCd3l7sc",
+    "score": 8.36,
+    "title": "Mr. & Mrs. smith 2005 House Fight part two scene",
+    "views": 2968
+   },
+   {
+    "channel": "Food For Watch",
+    "duration": 250,
+    "id": "MtRg2ng9pxc",
+    "score": 8.21,
+    "title": "Mr. And Mrs. Smith (2005) - Dinner scene",
+    "views": 291325
+   },
+   {
+    "channel": "Feramero",
+    "duration": 478,
+    "id": "bp0H3ql3XTY",
+    "score": 8.1,
+    "title": "Mr and Mrs Smith - Full fight scene [HQ]",
+    "views": 1002968
+   },
+   {
+    "channel": "Movie clips channel",
+    "duration": 300,
+    "id": "zUxjBlRlXSw",
+    "score": 8.1,
+    "title": "Mr. & Mrs. smith 2005 House fight part one scene",
+    "views": 979
+   },
+   {
+    "channel": "Fernanda S",
+    "duration": 134,
+    "id": "557z4qc7kJs",
+    "score": 8.05,
+    "title": "Mr. & Mrs. Smith - Fight Scene - HD",
+    "views": 801247
+   },
+   {
+    "channel": "Channel Relaxation",
+    "duration": 428,
+    "id": "6ayWnLgf4a4",
+    "score": 8.02,
+    "title": "John vs Jane House shootout - scene from the movie \"Mr & Mrs. Smith\" shooting in the house",
+    "views": 3844
+   },
+   {
+    "channel": "Maurizio R.",
+    "duration": 80,
+    "id": "zIxGhLILsNs",
+    "score": 7.95,
+    "title": "Mr and Mrs Smith-Final Scene",
+    "views": 544925
+   },
+   {
+    "channel": "Captain Darrow",
+    "duration": 190,
+    "id": "CQliFA1dc-Q",
+    "score": 7.73,
+    "title": "Mr. & Mrs. Smith - Desert Scene (HD)",
+    "views": 214188
+   }
+  ],
+  "channel": "Movie clips channel",
+  "duration": 275,
+  "end": 120,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Mr and Mrs Smith house fight scene",
+  "start": 90,
+  "status": "ok",
+  "title": "Mr. & Mrs. smith 2005 House Fight part two scene",
+  "video": "HClSCd3l7sc",
+  "views": 2968
  },
  "mulan-1998-the-avalanche-at-the-tung-shao-pass": {
   "alts": [
@@ -42585,6 +45899,30 @@
   "video": "WZ-1DNhIpuc",
   "views": 31127
  },
+ "news-of-the-world-2020-hilltop-gunfight-loaded-with-dimes": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 235,
+    "id": "cQRT84yOrpo",
+    "score": 7.54,
+    "title": "NEWS OF THE WORLD Clip - \"I Shoot, You Go\" (2020) Tom Hanks",
+    "views": 17798
+   }
+  ],
+  "channel": "JoBlo Movie Clips",
+  "duration": 235,
+  "end": 107,
+  "heat": "",
+  "pick": "estimated",
+  "query": "News of the World shootout scene dimes",
+  "start": 77,
+  "status": "ok",
+  "title": "NEWS OF THE WORLD Clip - \"I Shoot, You Go\" (2020) Tom Hanks",
+  "video": "cQRT84yOrpo",
+  "views": 17798
+ },
  "nikita-la-femme-nikita-1990-first-mission-restaurant-kitchen-escape": {
   "alts": [
    {
@@ -42887,6 +46225,216 @@
   "title": "No Time To Die 4K HDR | Car Chase - Bullet Proof Aston Martin DB5",
   "video": "fJzRn3mwbpU",
   "views": 942102
+ },
+ "no-time-to-die-2021-santiago-de-cuba-party-shootout-with-pal": {
+  "alts": [
+   {
+    "channel": "JoBlo Action 4K",
+    "id": "eII82YTOmRA",
+    "start": 115,
+    "title": "Paloma Turns Cuba Into a War Zone | No Time to Die | CLIP ⚡ 4K"
+   },
+   {
+    "channel": "AB EDITZ",
+    "id": "lD3rWBMydDw",
+    "start": 38,
+    "title": "BOND MEETS PALOMA NO TIME TO DIE 4K"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Ellis 007 Bond",
+    "duration": 435,
+    "id": "CREcx8Gf_8c",
+    "score": 9.61,
+    "title": "No Time To Die 2021 - Daniel Craig - James Bond 007 - Cuba Spectre Party",
+    "views": 97275
+   },
+   {
+    "channel": "JoBlo Action 4K",
+    "duration": 349,
+    "id": "eII82YTOmRA",
+    "score": 9.53,
+    "title": "Paloma Turns Cuba Into a War Zone | No Time to Die | CLIP ⚡ 4K",
+    "views": 365284
+   },
+   {
+    "channel": "AB EDITZ",
+    "duration": 118,
+    "id": "lD3rWBMydDw",
+    "score": 9.17,
+    "title": "BOND MEETS PALOMA NO TIME TO DIE 4K",
+    "views": 2648066
+   },
+   {
+    "channel": "Two Not One",
+    "duration": 595,
+    "id": "koG6sEa8Rp0",
+    "score": 8.91,
+    "title": "Bond meets new ally Paloma | No Time to Die | James Bond",
+    "views": 901746
+   },
+   {
+    "channel": "AB EDITZ",
+    "duration": 299,
+    "id": "fYPgDb5nJpM",
+    "score": 8.89,
+    "title": "BOND AND PALOMA FIGHT SCENE NO TIME TO DIE 4K",
+    "views": 826106
+   },
+   {
+    "channel": "Ellis 007 Bond",
+    "duration": 158,
+    "id": "Y7tJE6mr0HQ",
+    "score": 8.83,
+    "title": "No Time To Die 2021 - Daniel Craig - James Bond 007 - Bond Meets Paloma In Cuba",
+    "views": 3716
+   },
+   {
+    "channel": "BABYLON",
+    "duration": 416,
+    "id": "pw_NwUDidqQ",
+    "score": 8.23,
+    "title": "Paloma a beautiful Cuban intelligence operative in No Time to Die a DNA-targeted bioweapon scene.",
+    "views": 53133
+   },
+   {
+    "channel": "allenkirk 555",
+    "duration": 159,
+    "id": "Tmc8x4O0D6w",
+    "score": 8.23,
+    "title": "No Time To Die (2021) - James Bond Confronts Gareth Mallory",
+    "views": 318362
+   }
+  ],
+  "channel": "Ellis 007 Bond",
+  "duration": 435,
+  "end": 380,
+  "heat": "222222222222343211111111111110111123333695211100",
+  "pick": "most-replayed",
+  "query": "No Time to Die Paloma fight scene Cuba",
+  "start": 350,
+  "status": "ok",
+  "title": "No Time To Die 2021 - Daniel Craig - James Bond 007 - Cuba Spectre Party",
+  "video": "CREcx8Gf_8c",
+  "views": 97275
+ },
+ "no-time-to-die-2021-stairwell-one-take-on-safin-s-island": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Kool Kidz",
+    "duration": 200,
+    "id": "gqc2nBmhbgM",
+    "score": 99,
+    "title": "No Time To Die l Stairwell One Shot Fight Scene l 1080p",
+    "views": 0
+   }
+  ],
+  "channel": "Kool Kidz",
+  "duration": 200,
+  "end": 96,
+  "heat": "",
+  "pick": "estimated",
+  "query": "No Time to Die stairwell fight scene one take",
+  "start": 66,
+  "status": "ok",
+  "title": "No Time To Die l Stairwell One Shot Fight Scene l 1080p",
+  "video": "gqc2nBmhbgM",
+  "views": 0
+ },
+ "nobody-2021-booby-trapped-factory-finale": {
+  "alts": [
+   {
+    "channel": "Universal Pictures",
+    "id": "-WzB5wqpkbg",
+    "start": 191,
+    "title": "Nobody | The Final Shootout in 4K HDR"
+   },
+   {
+    "channel": "Deeper Vision",
+    "id": "1wi0ThZRirs",
+    "start": 98,
+    "title": "Nobody (2021) Movie - Deleted Scenes"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 225,
+    "id": "CYcg-WrP3Iw",
+    "score": 11.57,
+    "title": "Nobody (2021) - I Burned Everything You Had Scene (6/10) | Movieclips",
+    "views": 10858871
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 580,
+    "id": "-WzB5wqpkbg",
+    "score": 11.57,
+    "title": "Nobody | The Final Shootout in 4K HDR",
+    "views": 7196918
+   },
+   {
+    "channel": "Deeper Vision",
+    "duration": 297,
+    "id": "1wi0ThZRirs",
+    "score": 8.96,
+    "title": "Nobody (2021) Movie - Deleted Scenes",
+    "views": 6781550
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 499,
+    "id": "-EQHMp-qwrQ",
+    "score": 8.92,
+    "title": "Arcade Fight Full Scene | NOBODY 2",
+    "views": 470750
+   },
+   {
+    "channel": "Aladeen and aladeen",
+    "duration": 98,
+    "id": "_eYC5-MMJ4A",
+    "score": 8.49,
+    "title": "Nobody (2021) - Tattoo Shop Scene",
+    "views": 978957
+   },
+   {
+    "channel": "All Action",
+    "duration": 208,
+    "id": "1QegN6KXTvA",
+    "score": 8.48,
+    "title": "Don't Call 911 (Home Invasion Scene) | Nobody | All Action",
+    "views": 4865973
+   },
+   {
+    "channel": "Film4art",
+    "duration": 201,
+    "id": "6SojSqMvrqk",
+    "score": 7.92,
+    "title": "I'm out, No need to pay / Nobody",
+    "views": 467687
+   },
+   {
+    "channel": "Maximum ReAction",
+    "duration": 504,
+    "id": "ey0pJoILy4k",
+    "score": 7.87,
+    "title": "“Nobody (2021) – Final Fight Scene | Epic Warehouse Showdown”",
+    "views": 1087
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 225,
+  "end": 136,
+  "heat": "322224667754222233234445987754322221111111121100",
+  "pick": "most-replayed",
+  "query": "Nobody factory final fight scene",
+  "start": 106,
+  "status": "ok",
+  "title": "Nobody (2021) - I Burned Everything You Had Scene (6/10) | Movieclips",
+  "video": "CYcg-WrP3Iw",
+  "views": 10858871
  },
  "nobody-2021-bus-fight": {
   "alts": [
@@ -43462,6 +47010,30 @@
   "video": "VlBUPtKIoHo",
   "views": 1446647
  },
+ "okja-2017-okja-s-stampede-through-the-seoul-underg": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Robert “Bobby” Capone",
+    "duration": 156,
+    "id": "axQmW9i-bi8",
+    "score": 99,
+    "title": "OKJA 2017 movie Subway chase scene",
+    "views": 0
+   }
+  ],
+  "channel": "Robert “Bobby” Capone",
+  "duration": 156,
+  "end": 81,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Okja chase scene Seoul underground mall",
+  "start": 51,
+  "status": "ok",
+  "title": "OKJA 2017 movie Subway chase scene",
+  "video": "axQmW9i-bi8",
+  "views": 0
+ },
  "oldboy-2003-corridor-hammer-fight": {
   "alts": [
    {
@@ -43740,6 +47312,30 @@
   "title": "Jet Li Vs Donnie Yen - Once Upon A time In China II Fight Scene",
   "video": "EVM7nDmXqPA",
   "views": 367195
+ },
+ "once-upon-a-time-in-hollywood-2019-cliff-and-brandy-vs-the-manson-intruders": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Tex Drone",
+    "duration": 386,
+    "id": "Iiw8c3-cd6o",
+    "score": 99,
+    "title": "Once Upon A Time In Hollywood - Final fight scene",
+    "views": 0
+   }
+  ],
+  "channel": "Tex Drone",
+  "duration": 386,
+  "end": 157,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Once Upon a Time in Hollywood ending fight scene",
+  "start": 127,
+  "status": "ok",
+  "title": "Once Upon A Time In Hollywood - Final fight scene",
+  "video": "Iiw8c3-cd6o",
+  "views": 0
  },
  "once-upon-a-time-in-the-west-1968-final-duel-harmonica-vs-frank": {
   "alts": [
@@ -45667,6 +49263,99 @@
   "video": "I1R2JdtZZ_E",
   "views": 156344
  },
+ "pirates-of-the-caribbean-dead-ma-2006-three-way-sword-fight-on-the-rolling-wat": {
+  "alts": [
+   {
+    "channel": "8K CineVault",
+    "id": "wsi_3HCD7YY",
+    "start": 87,
+    "title": "8K UHD | Pirates of the Caribbean: Dead Man's Chest - Three-Way Sword Fight/Wheel Fight Scene "
+   },
+   {
+    "channel": "OfficialMovieSoundtrack",
+    "id": "ZI781rfvXH4",
+    "start": 113,
+    "title": "37. 3-Way Sword Fight (Pirates of the Caribbean: Dead Man's Chest Complete Score)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movie Flower",
+    "duration": 345,
+    "id": "-9mw2TSW7Hg",
+    "score": 11.16,
+    "title": "Pirates of the Caribbean: Dead Man's Chest - Three Way Sword Fight/Big Wheel",
+    "views": 318406
+   },
+   {
+    "channel": "8K CineVault",
+    "duration": 265,
+    "id": "wsi_3HCD7YY",
+    "score": 9.83,
+    "title": "8K UHD | Pirates of the Caribbean: Dead Man's Chest - Three-Way Sword Fight/Wheel Fight Scene ",
+    "views": 1194
+   },
+   {
+    "channel": "OfficialMovieSoundtrack",
+    "duration": 343,
+    "id": "ZI781rfvXH4",
+    "score": 9.21,
+    "title": "37. 3-Way Sword Fight (Pirates of the Caribbean: Dead Man's Chest Complete Score)",
+    "views": 97512
+   },
+   {
+    "channel": "TheMagicHannes",
+    "duration": 165,
+    "id": "xe9YBJt0x14",
+    "score": 8.79,
+    "title": "Pirates of the Caribbean - Dead Man's Chest - Cannibal Escape",
+    "views": 18006158
+   },
+   {
+    "channel": "Craig Cricket",
+    "duration": 489,
+    "id": "_tnLYEwZRgU",
+    "score": 8.19,
+    "title": "Pirates of the Caribbean: Dead Man's Chest - Liar's Dice Extended Scene",
+    "views": 1478746
+   },
+   {
+    "channel": "Formato Films",
+    "duration": 141,
+    "id": "5x6qIQDOTyY",
+    "score": 7.86,
+    "title": "3 Way Sword Fight - Pirates of the Caribbean: Dead Man’s Chest (2006)",
+    "views": 17076
+   },
+   {
+    "channel": "Classic Clip Vault",
+    "duration": 255,
+    "id": "4z1g8-Ay82Q",
+    "score": 7.8,
+    "title": "Pirates of the Caribbean: Dead Man's Chest | 3-Way Swordfight (Extended Version)",
+    "views": 8560
+   },
+   {
+    "channel": "Classic Clip Vault",
+    "duration": 272,
+    "id": "FgnFfVF7UH4",
+    "score": 7.44,
+    "title": "Pirates of the Caribbean: Dead Man's Chest | 3-Way Swordfight (Pt. 3)",
+    "views": 1902
+   }
+  ],
+  "channel": "Movie Flower",
+  "duration": 345,
+  "end": 143,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Pirates of the Caribbean Dead Man's Chest water wheel fight",
+  "start": 113,
+  "status": "ok",
+  "title": "Pirates of the Caribbean: Dead Man's Chest - Three Way Sword Fight/Big Wheel",
+  "video": "-9mw2TSW7Hg",
+  "views": 318406
+ },
  "pirates-of-the-caribbean-the-cur-2003-black-pearl-vs-interceptor-broadside-bat": {
   "alts": [
    {
@@ -47155,6 +50844,99 @@
   "video": "5y3UM-Mw8QY",
   "views": 215
  },
+ "public-enemies-2009-little-bohemia-lodge-shootout": {
+  "alts": [
+   {
+    "channel": "Popcorn Picks",
+    "id": "as65TrYiHQ0",
+    "start": 78,
+    "title": "Baby Face Nelson Shootout | Public Enemies"
+   },
+   {
+    "channel": "Action Picks",
+    "id": "8UfdThrz7Zs",
+    "start": 192,
+    "title": "The FBI Storms the Lodge | Public Enemies"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 209,
+    "id": "9_4S_-cr9Rs",
+    "score": 12.28,
+    "title": "Public Enemies (8/10) Movie CLIP - Assault on the Lodge (2009) HD",
+    "views": 1141088
+   },
+   {
+    "channel": "Popcorn Picks",
+    "duration": 238,
+    "id": "as65TrYiHQ0",
+    "score": 8.96,
+    "title": "Baby Face Nelson Shootout | Public Enemies",
+    "views": 197617
+   },
+   {
+    "channel": "Action Picks",
+    "duration": 584,
+    "id": "8UfdThrz7Zs",
+    "score": 8.8,
+    "title": "The FBI Storms the Lodge | Public Enemies",
+    "views": 101399
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 555,
+    "id": "JwCrYu_oDLw",
+    "score": 8.35,
+    "title": "PUBLIC ENEMIES Clips (2009) Johnny Depp",
+    "views": 542741
+   },
+   {
+    "channel": "JC",
+    "duration": 166,
+    "id": "6tq51RJKJGc",
+    "score": 8.06,
+    "title": "Bye Bye Blackbird (final scene of Public Enemies 2009)",
+    "views": 160351
+   },
+   {
+    "channel": "Fabien_",
+    "duration": 176,
+    "id": "OqECnz5XA4Q",
+    "score": 7.94,
+    "title": "Public Enemies Bank Robbery Scene (Ten Million Slaves Style)",
+    "views": 502437
+   },
+   {
+    "channel": "FILM EAT",
+    "duration": 160,
+    "id": "y8Yg-w_kL2w",
+    "score": 7.44,
+    "title": "Public enemies night shootout",
+    "views": 324
+   },
+   {
+    "channel": "Nasib Cafarli",
+    "duration": 88,
+    "id": "FZU9OmOK5p4",
+    "score": 7.08,
+    "title": "Public Enemies - Michael Mann, Johnny Depp, John Dillinger, Jason Clarke, Stephen Lang, 2009",
+    "views": 2604
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 209,
+  "end": 103,
+  "heat": "343347662222223345698555443332222222122111000000",
+  "pick": "most-replayed",
+  "query": "Public Enemies Little Bohemia shootout scene",
+  "start": 73,
+  "status": "ok",
+  "title": "Public Enemies (8/10) Movie CLIP - Assault on the Lodge (2009) HD",
+  "video": "9_4S_-cr9Rs",
+  "views": 1141088
+ },
  "puss-in-boots-the-last-wish-2022-opening-puss-vs-the-giant-of-del-mar": {
   "alts": [],
   "candidates": [
@@ -47387,6 +51169,30 @@
   "status": "ok",
   "title": "Quantum Of Solace roof chase",
   "video": "89aTFgtsXX0",
+  "views": 0
+ },
+ "quantum-of-solace-2008-tosca-opera-shootout-at-bregenz": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Emyr",
+    "duration": 217,
+    "id": "OFx7hEt940c",
+    "score": 99,
+    "title": "Quantum of Solace Tosca Scene",
+    "views": 0
+   }
+  ],
+  "channel": "Emyr",
+  "duration": 217,
+  "end": 101,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Quantum of Solace opera scene Tosca",
+  "start": 71,
+  "status": "ok",
+  "title": "Quantum of Solace Tosca Scene",
+  "video": "OFx7hEt940c",
   "views": 0
  },
  "raging-bull-1980-lamotta-vs-sugar-ray-robinson-detroit-19": {
@@ -49453,6 +53259,99 @@
   "video": "lDl_GDGc8JU",
   "views": 97904
  },
+ "rocky-balboa-2006-rocky-vs-mason-the-line-dixon": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "5HksV7ZFuhM",
+    "start": 72,
+    "title": "Rocky Balboa (11/11) Movie CLIP - The Last Round (2006) HD"
+   },
+   {
+    "channel": "zuidhoek1",
+    "id": "kZrkDJso0m0",
+    "start": 155,
+    "title": "Rocky Balboa vs Mason Dixon part 2"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "zuidhoek1",
+    "duration": 485,
+    "id": "TNAGh8cAEzQ",
+    "score": 11.76,
+    "title": "Rocky Balboa vs Mason Dixon part 1",
+    "views": 3857570
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 219,
+    "id": "5HksV7ZFuhM",
+    "score": 11.64,
+    "title": "Rocky Balboa (11/11) Movie CLIP - The Last Round (2006) HD",
+    "views": 14815972
+   },
+   {
+    "channel": "zuidhoek1",
+    "duration": 472,
+    "id": "kZrkDJso0m0",
+    "score": 11.61,
+    "title": "Rocky Balboa vs Mason Dixon part 2",
+    "views": 2119803
+   },
+   {
+    "channel": "cpc 22",
+    "duration": 599,
+    "id": "m3iEyYF75PA",
+    "score": 11.47,
+    "title": "Rocky Balboa VI [2006] Training and last fight Rocky vs Mason Dixon",
+    "views": 222082
+   },
+   {
+    "channel": "MANO WROCKY",
+    "duration": 333,
+    "id": "ZR32JP7qtOw",
+    "score": 11.41,
+    "title": "ROCKY 6 - ROCKY BALBOA VS MASON DIXON ROUND FINAL",
+    "views": 922873
+   },
+   {
+    "channel": "Le_jeune_vieux_Musclé",
+    "duration": 60,
+    "id": "ZdVJx6WqT4w",
+    "score": 11.26,
+    "title": "Rocky balboa mason dixon entrance (three 6 mafia \" it's a fight\")",
+    "views": 491606
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 162,
+    "id": "ZR2txV7X8sE",
+    "score": 11.25,
+    "title": "Rocky Balboa (2/11) Movie CLIP - The ESPN Simulation (2006) HD",
+    "views": 2824736
+   },
+   {
+    "channel": "cocotazo",
+    "duration": 73,
+    "id": "jpTD9AMLGCs",
+    "score": 11.14,
+    "title": "Mason Dixon Trainer \"Baptism Under Fire\" Speech - Antonio Tarver Movie Clip from Rocky Balboa 6",
+    "views": 293347
+   }
+  ],
+  "channel": "zuidhoek1",
+  "duration": 485,
+  "end": 190,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Rocky Balboa vs Mason Dixon fight scene",
+  "start": 160,
+  "status": "ok",
+  "title": "Rocky Balboa vs Mason Dixon part 1",
+  "video": "TNAGh8cAEzQ",
+  "views": 3857570
+ },
  "rocky-ii-1979-final-round-the-double-knockdown": {
   "alts": [
    {
@@ -50705,6 +54604,99 @@
   "video": "u500JIqfdjk",
   "views": 0
  },
+ "rush-2013-niki-lauda-s-fiery-crash-at-the-nurburgr": {
+  "alts": [
+   {
+    "channel": "TheAOL102",
+    "id": "yDEq4mVqocY",
+    "start": 109,
+    "title": "Rush [2013 movie] - Niki Lauda's Comeback @Italian Grand Prix"
+   },
+   {
+    "channel": "Aaqib Md. Shatil",
+    "id": "ANfm-v_-MKE",
+    "start": 144,
+    "title": "Nikki Lauda meets Marlene-Rush (2013)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Chris Wong",
+    "duration": 291,
+    "id": "8F5BaQ6a6Jw",
+    "score": 11.47,
+    "title": "Niki Lauda Crash - Rush (2013)",
+    "views": 7223208
+   },
+   {
+    "channel": "TheAOL102",
+    "duration": 332,
+    "id": "yDEq4mVqocY",
+    "score": 11.18,
+    "title": "Rush [2013 movie] - Niki Lauda's Comeback @Italian Grand Prix",
+    "views": 2143522
+   },
+   {
+    "channel": "Aaqib Md. Shatil",
+    "duration": 437,
+    "id": "ANfm-v_-MKE",
+    "score": 9.76,
+    "title": "Nikki Lauda meets Marlene-Rush (2013)",
+    "views": 5849076
+   },
+   {
+    "channel": "01Distribution",
+    "duration": 211,
+    "id": "yopmVqFYJqI",
+    "score": 9.72,
+    "title": "Rush - Clip 1 \"Il Ritorno di Niki Lauda\"",
+    "views": 823187
+   },
+   {
+    "channel": "Cut Entertainment",
+    "duration": 117,
+    "id": "oh-LSyljCWQ",
+    "score": 9.66,
+    "title": "Rush (2013): Opening scene | Niki Lauda Intro",
+    "views": 121576
+   },
+   {
+    "channel": "Family Channel",
+    "duration": 141,
+    "id": "XcrzB8gCe7I",
+    "score": 9.57,
+    "title": "RUSH: Niki Lauda wird bei einer Autopanne erkannt - Szene aus Rush / HD",
+    "views": 434354
+   },
+   {
+    "channel": "KinoMan",
+    "duration": 122,
+    "id": "EVyMM-L_eIc",
+    "score": 9.18,
+    "title": "RUSH (2013) | Niki Lauda is back - Italian GP 1976 | Kinoman",
+    "views": 15828
+   },
+   {
+    "channel": "Shortcut Movies",
+    "duration": 241,
+    "id": "67Et75jKCsw",
+    "score": 9.15,
+    "title": "RUSH (2013) | 1976 German GP | niki lauda crash | SHORTCUTMOVIES",
+    "views": 421
+   }
+  ],
+  "channel": "Chris Wong",
+  "duration": 291,
+  "end": 240,
+  "heat": "110000000000001111111111232112111123774332122121",
+  "pick": "most-replayed",
+  "query": "Rush Lauda crash Nurburgring scene",
+  "start": 210,
+  "status": "ok",
+  "title": "Niki Lauda Crash - Rush (2013)",
+  "video": "8F5BaQ6a6Jw",
+  "views": 7223208
+ },
  "safety-last-1923-harold-lloyd-hanging-from-the-clock": {
   "alts": [
    {
@@ -50797,6 +54789,99 @@
   "title": "Harold Lloyd's \"Safety Last\"- 1923",
   "video": "QEcTjhUN_7U",
   "views": 4007272
+ },
+ "salt-2010-highway-escape-across-the-truck-roofs": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "wTGRsKLqkGM",
+    "start": 68,
+    "title": "Salt (2010) - Freeway Chase Scene (3/10) | Movieclips"
+   },
+   {
+    "channel": "Scene City",
+    "id": "bKPWr6He_IQ",
+    "start": 126,
+    "title": "Salt: Highway Car Chase (ACTION SCENE)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 70,
+    "id": "NG5ijPnfYV8",
+    "score": 12.03,
+    "title": "Salt #2 Movie CLIP - Truck Jump (2010) HD",
+    "views": 68255
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 208,
+    "id": "wTGRsKLqkGM",
+    "score": 11.47,
+    "title": "Salt (2010) - Freeway Chase Scene (3/10) | Movieclips",
+    "views": 7215953
+   },
+   {
+    "channel": "Scene City",
+    "duration": 384,
+    "id": "bKPWr6He_IQ",
+    "score": 9.42,
+    "title": "Salt: Highway Car Chase (ACTION SCENE)",
+    "views": 7621308
+   },
+   {
+    "channel": "Movie Central",
+    "duration": 389,
+    "id": "x_83a525I68",
+    "score": 9.13,
+    "title": "Salt | Highway Car Chase | Full Scene | Angelina Jolie",
+    "views": 2284851
+   },
+   {
+    "channel": "Action Coded",
+    "duration": 375,
+    "id": "wBpHaJxpE7w",
+    "score": 9.04,
+    "title": "salt (2010) - the CIA can’t keep up with salt’s wild highway getaway",
+    "views": 295966
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 289,
+    "id": "sbGent7-x1U",
+    "score": 8.78,
+    "title": "Angelina Jolie jumps from truck to truck | Salt | CLIP",
+    "views": 8138
+   },
+   {
+    "channel": "Clips & Chill",
+    "duration": 433,
+    "id": "qcHB03JlEoQ",
+    "score": 8.36,
+    "title": "Highway Car Chase | Salt (Angelina Jolie)",
+    "views": 90369
+   },
+   {
+    "channel": "FilmIsNow Epic Scenes",
+    "duration": 612,
+    "id": "46EqCAL7bfY",
+    "score": 8.29,
+    "title": "High-Speed Chase… Pushed to the Edge | Salt | Highway Chase Scene",
+    "views": 1951427
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 70,
+  "end": 41,
+  "heat": "111111111222222223345667898421111000000000000000",
+  "pick": "most-replayed",
+  "query": "Salt truck jump scene highway",
+  "start": 11,
+  "status": "ok",
+  "title": "Salt #2 Movie CLIP - Truck Jump (2010) HD",
+  "video": "NG5ijPnfYV8",
+  "views": 68255
  },
  "samurai-champloo-2004-mugen-and-jin-s-first-clash-in-the-teaho": {
   "alts": [
@@ -51704,6 +55789,99 @@
   "video": "ysVsMQGfzN4",
   "views": 3973761
  },
+ "scott-pilgrim-vs-the-world-2010-scott-vs-matthew-patel-at-the-battle-of": {
+  "alts": [
+   {
+    "channel": "Universal Pictures",
+    "id": "YyFGnad27yw",
+    "start": 122,
+    "title": "Scott Pilgrim vs. The World | Chris Evans Fights Michael Cera to the Death"
+   },
+   {
+    "channel": "Universal Pictures",
+    "id": "TVaIEZN3LFE",
+    "start": 92,
+    "title": "Scott Pilgrim vs. The World | First Evil Ex Boyfriend"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "cammq24",
+    "duration": 80,
+    "id": "mtQFz0oPvEU",
+    "score": 10.5,
+    "title": "Scott Pilgrim Vs. the World-Matthew Patel Fight (evil ex #1)",
+    "views": 667946
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 372,
+    "id": "YyFGnad27yw",
+    "score": 10.29,
+    "title": "Scott Pilgrim vs. The World | Chris Evans Fights Michael Cera to the Death",
+    "views": 2189098
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 281,
+    "id": "TVaIEZN3LFE",
+    "score": 10.01,
+    "title": "Scott Pilgrim vs. The World | First Evil Ex Boyfriend",
+    "views": 691085
+   },
+   {
+    "channel": "iiJ0K3RZii",
+    "duration": 242,
+    "id": "PW38-91zGGU",
+    "score": 9.97,
+    "title": "Scott Pilgrim vs. the World - Matthew Patel Fight (Video) Good Quality!",
+    "views": 70877
+   },
+   {
+    "channel": "CrocodileFunkee",
+    "duration": 198,
+    "id": "j_hgZqRlJY4",
+    "score": 9.85,
+    "title": "Scott Pilgrim vs. The World: The Game - Matthew Patel Boss Fight (1st Evil Ex-Boyfriend)",
+    "views": 44160
+   },
+   {
+    "channel": "Sky Avenger",
+    "duration": 425,
+    "id": "rgSluOeZcrA",
+    "score": 9.83,
+    "title": "Scott Pilgrim VS. Matthew Patel Fight Scene - Scott Pilgrim vs. the World (2010) 4K Movie Clip",
+    "views": 7441
+   },
+   {
+    "channel": "Mark Dykemn",
+    "duration": 241,
+    "id": "6SUTBl1KuRI",
+    "score": 9.36,
+    "title": "Scott Pilgrim vs. the World - Matthew Patel Fight (Video) Good Quality!",
+    "views": 5481
+   },
+   {
+    "channel": "Komm 666",
+    "duration": 188,
+    "id": "mfJ4p6JNU-M",
+    "score": 8.77,
+    "title": "Scott Pilgrim vs. the World: The Game - Matthew Patel Boss Fight",
+    "views": 469
+   }
+  ],
+  "channel": "cammq24",
+  "duration": 80,
+  "end": 56,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Scott Pilgrim vs Matthew Patel fight scene",
+  "start": 26,
+  "status": "ok",
+  "title": "Scott Pilgrim Vs. the World-Matthew Patel Fight (evil ex #1)",
+  "video": "mtQFz0oPvEU",
+  "views": 667946
+ },
  "seabiscuit-2003-match-race-against-war-admiral-at-pimlic": {
   "alts": [
    {
@@ -52206,6 +56384,99 @@
   "video": "PWYj_DNy330",
   "views": 0
  },
+ "shang-chi-and-the-legend-of-the-2021-bamboo-scaffolding-fight-in-macau": {
+  "alts": [
+   {
+    "channel": "View clip",
+    "id": "_7W8IMBd3Ro",
+    "start": 5,
+    "title": "bamboo scaffolding Fighting Shang-Chi | Shang-Chi and the Legend of the Ten Rings | View Clip"
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "id": "miI9dmmFpbg",
+    "start": 32,
+    "title": "Family Showdown: Xialing vs Shang-Chi in the film Shang-Chi and the Legend of the Ten Rings (2021)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Marvel Entertainment",
+    "duration": 62,
+    "id": "4b28WqJ5z-U",
+    "score": 11.82,
+    "title": "“Scaffolding Escape” Clip | Marvel Studios’ Shang-Chi and the Legend of the Ten Rings",
+    "views": 1234214
+   },
+   {
+    "channel": "View clip",
+    "duration": 38,
+    "id": "_7W8IMBd3Ro",
+    "score": 9.04,
+    "title": "bamboo scaffolding Fighting Shang-Chi | Shang-Chi and the Legend of the Ten Rings | View Clip",
+    "views": 1274
+   },
+   {
+    "channel": "ПрОбУжДеНиЕ ТеЛа 🙏",
+    "duration": 99,
+    "id": "miI9dmmFpbg",
+    "score": 8.63,
+    "title": "Family Showdown: Xialing vs Shang-Chi in the film Shang-Chi and the Legend of the Ten Rings (2021)",
+    "views": 1690401
+   },
+   {
+    "channel": "Top Movie Scenes",
+    "duration": 268,
+    "id": "z8eXRyxJKsk",
+    "score": 8.6,
+    "title": "Ten Rings and Villagers vs. Minions Fight Scene [No BGM] | Shang-Chi and the Legend of the Ten Rings",
+    "views": 8164810
+   },
+   {
+    "channel": "Top Movie Scenes",
+    "duration": 214,
+    "id": "7Bmnd7m7MN0",
+    "score": 8.49,
+    "title": "The Ten Rings vs. The Villagers Fight Scene [No BGM] | Shang-Chi and the Legend of the Ten Rings",
+    "views": 5093185
+   },
+   {
+    "channel": "AlphaClips",
+    "duration": 146,
+    "id": "FGhgKRztpdE",
+    "score": 8.4,
+    "title": "Shang Chi Vs Death Dealer - Fight Scene - Shang Chi And The Legend Of The Ten Rings (2021)",
+    "views": 655104
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 253,
+    "id": "MNCxGNcuIb4",
+    "score": 8.4,
+    "title": "SHANG-CHI AND THE LEGENDS OF THE TEN RINGS Clip - \"Scaffolding Escape\" (2021)",
+    "views": 17471
+   },
+   {
+    "channel": "Top Movie Scenes",
+    "duration": 198,
+    "id": "DmZoLiXdpRI",
+    "score": 7.89,
+    "title": "Shang-Chi and Xialing vs. The Ten Rings Fight Scene[No BGM|Shang-Chi and the Legend of the Ten Rings",
+    "views": 419507
+   }
+  ],
+  "channel": "Marvel Entertainment",
+  "duration": 62,
+  "end": 31,
+  "heat": "666666668888999887766555544444444443443333221000",
+  "pick": "most-replayed",
+  "query": "Shang-Chi scaffolding fight scene Macau",
+  "start": 1,
+  "status": "ok",
+  "title": "“Scaffolding Escape” Clip | Marvel Studios’ Shang-Chi and the Legend of the Ten Rings",
+  "video": "4b28WqJ5z-U",
+  "views": 1234214
+ },
  "shang-chi-and-the-legend-of-the-2021-san-francisco-bus-fight": {
   "alts": [
    {
@@ -52484,6 +56755,192 @@
   "title": "Shaun of the Dead: Don't Stop Me Now",
   "video": "W4tVH7BPb-Q",
   "views": 3951073
+ },
+ "sherlock-holmes-2009-bare-knuckle-bout-planned-in-slow-motion": {
+  "alts": [
+   {
+    "channel": "xXJEashXx",
+    "id": "ltFyEcoGnbQ",
+    "start": 33,
+    "title": "Sherlock Holmes slow motion fighting scene"
+   },
+   {
+    "channel": "Fahad Rather",
+    "id": "lLuhWLNqpiA",
+    "start": 75,
+    "title": "Sherlock Holmes 2009 - Fight Scene 1080p HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 148,
+    "id": "u-z5139CW1I",
+    "score": 12.43,
+    "title": "Sherlock Holmes (2009) - Boxing Match Scene (3/10) | Movieclips",
+    "views": 19989310
+   },
+   {
+    "channel": "xXJEashXx",
+    "duration": 101,
+    "id": "ltFyEcoGnbQ",
+    "score": 9.21,
+    "title": "Sherlock Holmes slow motion fighting scene",
+    "views": 263537
+   },
+   {
+    "channel": "Fahad Rather",
+    "duration": 230,
+    "id": "lLuhWLNqpiA",
+    "score": 8.87,
+    "title": "Sherlock Holmes 2009 - Fight Scene 1080p HD",
+    "views": 4609733
+   },
+   {
+    "channel": "Warner Bros. Rewind",
+    "duration": 412,
+    "id": "x5NY7o2DPGs",
+    "score": 8.5,
+    "title": "Sherlock Holmes | Boxing Fight | Warner Bros. Rewind Warner Bros. Rewind",
+    "views": 272901
+   },
+   {
+    "channel": "illuminightstudios",
+    "duration": 154,
+    "id": "-E7s6KpFtQs",
+    "score": 7.97,
+    "title": "Sherlock Holmes Slow Motion Fight Scene (The Woods)",
+    "views": 1468
+   },
+   {
+    "channel": "HIRExUP",
+    "duration": 236,
+    "id": "nX9wWlNoBu0",
+    "score": 7.86,
+    "title": "Sherlock Holmes-Take Downs (Fight Scene Slow Motion)",
+    "views": 920
+   },
+   {
+    "channel": "S K",
+    "duration": 148,
+    "id": "EHIQp5gBN3c",
+    "score": 7.8,
+    "title": "Sherlock Holmes Fight Scene Music",
+    "views": 279686
+   },
+   {
+    "channel": "KING DUB",
+    "duration": 128,
+    "id": "QrGyvu_tg9w",
+    "score": 7.58,
+    "title": "Sherlock Holmes 1 -fighting scene slow motion scene",
+    "views": 275
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 148,
+  "end": 90,
+  "heat": "444566654444344343444435789864433334554100000000",
+  "pick": "most-replayed",
+  "query": "Sherlock Holmes boxing fight scene slow motion",
+  "start": 60,
+  "status": "ok",
+  "title": "Sherlock Holmes (2009) - Boxing Match Scene (3/10) | Movieclips",
+  "video": "u-z5139CW1I",
+  "views": 19989310
+ },
+ "sherlock-holmes-a-game-of-shadow-2011-escape-through-the-forest-under-artiller": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "QOpjxhNMDoM",
+    "start": 63,
+    "title": "Sherlock Holmes: A Game of Shadows (2011) - Holmes vs. Moriarty Scene (9/10) | Movieclips"
+   },
+   {
+    "channel": "Trailer Crunch",
+    "id": "IJjZxFhNCso",
+    "start": 103,
+    "title": "Forest Scene - Sherlock Holmes A Game of Shadows (2011) Movie CLIP HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 178,
+    "id": "6SDFxGZ5fJw",
+    "score": 11.63,
+    "title": "Sherlock Holmes: A Game of Shadows (2011) - Forest Chase Scene (6/10) | Movieclips",
+    "views": 1011781
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 193,
+    "id": "QOpjxhNMDoM",
+    "score": 11.3,
+    "title": "Sherlock Holmes: A Game of Shadows (2011) - Holmes vs. Moriarty Scene (9/10) | Movieclips",
+    "views": 3454673
+   },
+   {
+    "channel": "Trailer Crunch",
+    "duration": 314,
+    "id": "IJjZxFhNCso",
+    "score": 8.9,
+    "title": "Forest Scene - Sherlock Holmes A Game of Shadows (2011) Movie CLIP HD",
+    "views": 395314
+   },
+   {
+    "channel": "CinemaGalaxy",
+    "duration": 244,
+    "id": "scKuWTAb51U",
+    "score": 8.52,
+    "title": "Sherlock Holmes:  A Game Of Shadows (2011) - Forest Chase Scene",
+    "views": 78094
+   },
+   {
+    "channel": "Alexander Angelus",
+    "duration": 376,
+    "id": "KmSjXK_rpDA",
+    "score": 8.35,
+    "title": "Sherlock Holmes A Game of Shadows All Slow Motion Fights",
+    "views": 15052
+   },
+   {
+    "channel": "Иван Чичасов",
+    "duration": 213,
+    "id": "u_HGOrX2WFE",
+    "score": 8.05,
+    "title": "Sherlock Holmes/Шерлок Холмс A Game of Shadows Slow Motion Scenes",
+    "views": 4288
+   },
+   {
+    "channel": "Tristan C. Pina",
+    "duration": 74,
+    "id": "XrBKhQodMqU",
+    "score": 7.42,
+    "title": "Sherlock Holmes: Game of Shadows Forest Scene (Animated)",
+    "views": 4154
+   },
+   {
+    "channel": "ASITAKA",
+    "duration": 259,
+    "id": "LzksZjqydc4",
+    "score": 7.37,
+    "title": "Sherlock Holmes: A Game Of Shadows (2011) - Forest Chase Scene [Open Matte]",
+    "views": 626
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 178,
+  "end": 166,
+  "heat": "233356654555555567865566444443333222576556889510",
+  "pick": "most-replayed",
+  "query": "Sherlock Holmes A Game of Shadows forest escape scene slow motion",
+  "start": 136,
+  "status": "ok",
+  "title": "Sherlock Holmes: A Game of Shadows (2011) - Forest Chase Scene (6/10) | Movieclips",
+  "video": "6SDFxGZ5fJw",
+  "views": 1011781
  },
  "sherlock-jr-1924-handlebar-ride-on-the-driverless-motorcy": {
   "alts": [
@@ -53091,6 +57548,99 @@
   "video": "xnMy9cbnYwc",
   "views": 483525
  },
+ "sicario-day-of-the-soldado-2018-convoy-ambush-by-the-mexican-police-esco": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "gA0u3Iir0CU",
+    "start": 73,
+    "title": "Sicario: Day of the Soldado (2018) - Racing to the Border Scene (7/10) | Movieclips"
+   },
+   {
+    "channel": "Sony Pictures Entertainment",
+    "id": "vRNnYrM40Gs",
+    "start": 39,
+    "title": "SICARIO: DAY OF THE SOLDADO - The Convoy Ambush"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 148,
+    "id": "uvZImlL51Io",
+    "score": 11.77,
+    "title": "Sicario: Day of the Soldado (2018) - Kill 'Em All Scene (9/10) | Movieclips",
+    "views": 25351964
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 223,
+    "id": "gA0u3Iir0CU",
+    "score": 11.65,
+    "title": "Sicario: Day of the Soldado (2018) - Racing to the Border Scene (7/10) | Movieclips",
+    "views": 15391340
+   },
+   {
+    "channel": "Sony Pictures Entertainment",
+    "duration": 121,
+    "id": "vRNnYrM40Gs",
+    "score": 11.64,
+    "title": "SICARIO: DAY OF THE SOLDADO - The Convoy Ambush",
+    "views": 148663
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 121,
+    "id": "YOUt-qq-snc",
+    "score": 11.29,
+    "title": "Sicario: Day of the Soldado (2018) - Night Raid Scene (2/10) | Movieclips",
+    "views": 3401427
+   },
+   {
+    "channel": "Clips & Chill",
+    "duration": 508,
+    "id": "XYSHd4Z3iVY",
+    "score": 10.47,
+    "title": "Shooting With Police Escort | Sicario: Day of the Soldado (Josh Brolin, Benicio Del Toro)",
+    "views": 4660000
+   },
+   {
+    "channel": "Piece of the Action",
+    "duration": 209,
+    "id": "UVRRQMgnTkc",
+    "score": 8.37,
+    "title": "Sicario: Day Of The Soldado | \"Killing Kings Doesn't Start Wars. It Ends Them.\"",
+    "views": 3130134
+   },
+   {
+    "channel": "Clips & Chill",
+    "duration": 373,
+    "id": "fxwmuULvwew",
+    "score": 8.3,
+    "title": "There Are No Rules Today | Sicario: Day of the Soldado (Josh Brolin)",
+    "views": 2321242
+   },
+   {
+    "channel": "In Action",
+    "duration": 352,
+    "id": "VEt_NA25qtc",
+    "score": 8.29,
+    "title": "Convoy gets into ambush - Sicario: Day of the Soldado 2018 (Action,Crime,Thriller)",
+    "views": 84
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 148,
+  "end": 90,
+  "heat": "111112222222222233569656887798643333222111100000",
+  "pick": "most-replayed",
+  "query": "Sicario Day of the Soldado convoy ambush scene",
+  "start": 60,
+  "status": "ok",
+  "title": "Sicario: Day of the Soldado (2018) - Kill 'Em All Scene (9/10) | Movieclips",
+  "video": "uvZImlL51Io",
+  "views": 25351964
+ },
  "silverado-1985-final-duel-paden-vs-cobb": {
   "alts": [
    {
@@ -53183,6 +57733,99 @@
   "title": "Silverado (8/8) Movie CLIP - Final Showdown (1985) HD",
   "video": "eug4wbPSykc",
   "views": 2379256
+ },
+ "sin-city-2005-old-town-ambush-the-big-fat-kill": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "rp4nf7xR9Uk",
+    "start": 48,
+    "title": "Sin City (12/12) Movie CLIP - An Old Man Dies (2005) HD"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "cwJFMjOz_l0",
+    "start": 52,
+    "title": "Sin City (4/12) Movie CLIP - You Can Scream Now (2005) HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 163,
+    "id": "6mBFhNSqBk8",
+    "score": 13.17,
+    "title": "Sin City (8/12) Movie CLIP - The Big Fat Kill (2005) HD",
+    "views": 1132226
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 147,
+    "id": "rp4nf7xR9Uk",
+    "score": 11.7,
+    "title": "Sin City (12/12) Movie CLIP - An Old Man Dies (2005) HD",
+    "views": 959393
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 160,
+    "id": "cwJFMjOz_l0",
+    "score": 11.2,
+    "title": "Sin City (4/12) Movie CLIP - You Can Scream Now (2005) HD",
+    "views": 2285447
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 112,
+    "id": "sNom4k5Pwb8",
+    "score": 10.88,
+    "title": "Sin City (1/12) Movie CLIP - I'll Be Right Out (2005) HD",
+    "views": 594013
+   },
+   {
+    "channel": "Flashback FM",
+    "duration": 161,
+    "id": "WrVas7obXRU",
+    "score": 10.12,
+    "title": "Dwight & Miho vs Brian | Sin City",
+    "views": 1070571
+   },
+   {
+    "channel": "Justin Harrison",
+    "duration": 254,
+    "id": "Z5u1XBAOe9M",
+    "score": 8.73,
+    "title": "A Righteous End to a A Long Bad Night, from SIN CITY: A DAME TO KILL FOR",
+    "views": 708658
+   },
+   {
+    "channel": "Flashback FM",
+    "duration": 45,
+    "id": "hiSLhNxAfVc",
+    "score": 8.67,
+    "title": "Arrow Miho | Sin City",
+    "views": 71715
+   },
+   {
+    "channel": "3D Movie Channel!",
+    "duration": 60,
+    "id": "7UYkB-sIehU",
+    "score": 8.18,
+    "title": "SIN CITY: A DAME TO KILL FOR 3D - OLD TOWN",
+    "views": 164
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 163,
+  "end": 57,
+  "heat": "221111246778458997544333544466666644333211101000",
+  "pick": "most-replayed",
+  "query": "Sin City Old Town shootout scene",
+  "start": 27,
+  "status": "ok",
+  "title": "Sin City (8/12) Movie CLIP - The Big Fat Kill (2005) HD",
+  "video": "6mBFhNSqBk8",
+  "views": 1132226
  },
  "sink-the-bismarck-1960-bismarck-sinks-hms-hood": {
   "alts": [],
@@ -53324,6 +57967,192 @@
   "title": "Skyfall - Opening Scene: Train Fight (1080p)",
   "video": "eZ_Ki2yfkKQ",
   "views": 2448465
+ },
+ "skyfall-2012-shanghai-skyscraper-fight-in-silhouette": {
+  "alts": [
+   {
+    "channel": "TheSupererogatoryGuy",
+    "id": "fFacxpBhXFg",
+    "start": 36,
+    "title": "Skyfall - Shanghai: Bond vs. Patrice (1080p)"
+   },
+   {
+    "channel": "TheSupererogatoryGuy",
+    "id": "8mS7gFX6tKE",
+    "start": 5,
+    "title": "Skyfall - Shanghai (1080p)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "James Bond 007",
+    "duration": 338,
+    "id": "-qrzbbfoylA",
+    "score": 10.12,
+    "title": "SKYFALL | Bond vs Patrice in Shanghai",
+    "views": 4410820
+   },
+   {
+    "channel": "TheSupererogatoryGuy",
+    "duration": 112,
+    "id": "fFacxpBhXFg",
+    "score": 9.65,
+    "title": "Skyfall - Shanghai: Bond vs. Patrice (1080p)",
+    "views": 614679
+   },
+   {
+    "channel": "TheSupererogatoryGuy",
+    "duration": 71,
+    "id": "8mS7gFX6tKE",
+    "score": 9.55,
+    "title": "Skyfall - Shanghai (1080p)",
+    "views": 407539
+   },
+   {
+    "channel": "BlackView HD",
+    "duration": 105,
+    "id": "Uh-5BS7ecgs",
+    "score": 9.18,
+    "title": "\"Skyfall\" - Shanghai Drive Scene HD",
+    "views": 85082
+   },
+   {
+    "channel": "Movie Classics",
+    "duration": 564,
+    "id": "fDiR_2COenQ",
+    "score": 9.07,
+    "title": "James Bond - Skyfall Shanghai Fight Scene [HD]",
+    "views": 54492
+   },
+   {
+    "channel": "James Fleming",
+    "duration": 65,
+    "id": "hUJut8aNvvA",
+    "score": 8.77,
+    "title": "Skyfall Complete Score 14 - Silhouette Fight",
+    "views": 15540
+   },
+   {
+    "channel": "4K Archivist",
+    "duration": 260,
+    "id": "WLcFKn_EnwE",
+    "score": 8.54,
+    "title": "Skyfall (2012) - Bond vs. Patrice in Shanghai",
+    "views": 1100
+   },
+   {
+    "channel": "DB Film Scenes",
+    "duration": 196,
+    "id": "AmxObSMifW8",
+    "score": 8.32,
+    "title": "Skyfall - Court Shootout",
+    "views": 2561049
+   }
+  ],
+  "channel": "James Bond 007",
+  "duration": 338,
+  "end": 278,
+  "heat": "123100000000111000000011118011011125876543442220",
+  "pick": "most-replayed",
+  "query": "Skyfall Shanghai fight scene silhouette",
+  "start": 248,
+  "status": "ok",
+  "title": "SKYFALL | Bond vs Patrice in Shanghai",
+  "video": "-qrzbbfoylA",
+  "views": 4410820
+ },
+ "skyfall-2012-siege-of-skyfall-lodge": {
+  "alts": [
+   {
+    "channel": "Welshman Movie Scenes",
+    "id": "vaJEjcqnsGE",
+    "start": 160,
+    "title": "Skyfall - Final Fight (2/2)"
+   },
+   {
+    "channel": "James Bond 007",
+    "id": "-qrzbbfoylA",
+    "start": 111,
+    "title": "SKYFALL | Bond vs Patrice in Shanghai"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Welshman Movie Scenes",
+    "duration": 585,
+    "id": "dJY3ZQPR1NE",
+    "score": 8.52,
+    "title": "Skyfall - Final Fight (1/2)",
+    "views": 30488
+   },
+   {
+    "channel": "Welshman Movie Scenes",
+    "duration": 486,
+    "id": "vaJEjcqnsGE",
+    "score": 8.52,
+    "title": "Skyfall - Final Fight (2/2)",
+    "views": 30801
+   },
+   {
+    "channel": "James Bond 007",
+    "duration": 338,
+    "id": "-qrzbbfoylA",
+    "score": 8.45,
+    "title": "SKYFALL | Bond vs Patrice in Shanghai",
+    "views": 4410820
+   },
+   {
+    "channel": "James Bond 007",
+    "duration": 461,
+    "id": "nCmNvUAz_l4",
+    "score": 8.41,
+    "title": "SKYFALL | Bond's home destroyed",
+    "views": 3697096
+   },
+   {
+    "channel": "PopcornTrigger",
+    "duration": 60,
+    "id": "-uv1l7vrkUs",
+    "score": 8.34,
+    "title": "Skyfall (2012) | Bond’s Icy Pursuit and Final Confrontation with Silva",
+    "views": 2751
+   },
+   {
+    "channel": "DB Film Scenes",
+    "duration": 196,
+    "id": "AmxObSMifW8",
+    "score": 8.32,
+    "title": "Skyfall - Court Shootout",
+    "views": 2561049
+   },
+   {
+    "channel": "movies3d",
+    "duration": 38,
+    "id": "0SHFLB2lHA0",
+    "score": 7.98,
+    "title": "⚔️ Final Battle – \"Skyfall Arena\"",
+    "views": 488
+   },
+   {
+    "channel": "Film Clips ",
+    "duration": 242,
+    "id": "qohvLzLEDYA",
+    "score": 7.85,
+    "title": "Skyfall (2012) - \"Welcome To Scotland\" - Skyfall Assault Scene",
+    "views": 66444
+   }
+  ],
+  "channel": "Welshman Movie Scenes",
+  "duration": 585,
+  "end": 223,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Skyfall lodge final battle scene",
+  "start": 193,
+  "status": "ok",
+  "title": "Skyfall - Final Fight (1/2)",
+  "video": "dJY3ZQPR1NE",
+  "views": 30488
  },
  "sleeping-beauty-1959-prince-phillip-vs-maleficent-the-dragon": {
   "alts": [
@@ -54621,6 +59450,99 @@
   "title": "Speed (2/5) Movie CLIP - Jumping the Gap (1994) HD",
   "video": "dKJa-KQNjQU",
   "views": 4481960
+ },
+ "speed-racer-2008-grand-prix-finale-and-speed-s-trance": {
+  "alts": [
+   {
+    "channel": "The Filmmaking & Fandom Station",
+    "id": "3FtBAGMSw-I",
+    "start": 98,
+    "title": "'The Final Race' Scene | Speed Racer (2008) Movie Clip"
+   },
+   {
+    "channel": "just sceptical",
+    "id": "S18Hm1q0srE",
+    "start": 98,
+    "title": "Using \"The Top\" Initial D to make Speed Racer Final Race better"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 157,
+    "id": "YiCzTGRqCQ4",
+    "score": 11.07,
+    "title": "Speed Racer (2008) - More Like A Non-ja Scene (5/7) | Movieclips",
+    "views": 1335041
+   },
+   {
+    "channel": "The Filmmaking & Fandom Station",
+    "duration": 297,
+    "id": "3FtBAGMSw-I",
+    "score": 10.1,
+    "title": "'The Final Race' Scene | Speed Racer (2008) Movie Clip",
+    "views": 2029979
+   },
+   {
+    "channel": "just sceptical",
+    "duration": 298,
+    "id": "S18Hm1q0srE",
+    "score": 9.97,
+    "title": "Using \"The Top\" Initial D to make Speed Racer Final Race better",
+    "views": 6268699
+   },
+   {
+    "channel": "Fastfour XF",
+    "duration": 223,
+    "id": "wyTRxlChZNQ",
+    "score": 9.5,
+    "title": "Speed racer | Final Race | beginning",
+    "views": 872761
+   },
+   {
+    "channel": "Warner Bros. Entertainment",
+    "duration": 309,
+    "id": "JiDx2UI3wjk",
+    "score": 9.24,
+    "title": "Speed Racer 4K | Speed & Trixie Date Interrupted | Movie Clip | Warner Bros. Entertainment",
+    "views": 26795
+   },
+   {
+    "channel": "ClipZone: High Octane Hits",
+    "duration": 621,
+    "id": "5klrQYS-IOU",
+    "score": 9.13,
+    "title": "Speed Racer | Race To The Finish Line | ClipZone: High Octane Hits",
+    "views": 1640353
+   },
+   {
+    "channel": "Capt. Boedeker",
+    "duration": 250,
+    "id": "UBmlxF3dhSE",
+    "score": 8.53,
+    "title": "Speed Racer: Grand Prix",
+    "views": 15292
+   },
+   {
+    "channel": "David Morrison",
+    "duration": 190,
+    "id": "YP1zQA8U3OA",
+    "score": 8.5,
+    "title": "Speed Racer - Grand Prix Race Ending High Tone",
+    "views": 664
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 157,
+  "end": 97,
+  "heat": "112211122122222343344568964555555554443100000000",
+  "pick": "most-replayed",
+  "query": "Speed Racer final race Grand Prix scene",
+  "start": 67,
+  "status": "ok",
+  "title": "Speed Racer (2008) - More Like A Non-ja Scene (5/7) | Movieclips",
+  "video": "YiCzTGRqCQ4",
+  "views": 1335041
  },
  "speed-racer-2008-opening-race-at-thunderhead-and-rex-s-gh": {
   "alts": [
@@ -61611,6 +66533,99 @@
   "video": "2ETruidd5lQ",
   "views": 1998714
  },
+ "the-bourne-legacy-2012-manila-rooftop-and-motorbike-chase": {
+  "alts": [
+   {
+    "channel": "Universal Pictures",
+    "id": "H1ht8Ar7X8s",
+    "start": 158,
+    "title": "The Bourne Legacy | Jeremy Renner’s Bike Chase Through the Streets of Manila"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "8QYlXDYOhM0",
+    "start": 35,
+    "title": "The Bourne Legacy (8/8) Movie CLIP - From a Chase to a Crash (2012) HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 278,
+    "id": "4oJlFH_1q3Q",
+    "score": 13.17,
+    "title": "The Bourne Legacy (7/8) Movie CLIP - Motorcycle Chase (2012) HD",
+    "views": 2012971
+   },
+   {
+    "channel": "Universal Pictures",
+    "duration": 481,
+    "id": "H1ht8Ar7X8s",
+    "score": 12.42,
+    "title": "The Bourne Legacy | Jeremy Renner’s Bike Chase Through the Streets of Manila",
+    "views": 3773224
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 107,
+    "id": "8QYlXDYOhM0",
+    "score": 12.07,
+    "title": "The Bourne Legacy (8/8) Movie CLIP - From a Chase to a Crash (2012) HD",
+    "views": 1354616
+   },
+   {
+    "channel": "DCRJMovieTrailers",
+    "duration": 73,
+    "id": "XW2QOvSHsr0",
+    "score": 10.83,
+    "title": "THE BOURNE LEGACY (2012) - MANILA Motorcycle Chase Scene - JEREMY RENNER",
+    "views": 59730
+   },
+   {
+    "channel": "Screen Bites",
+    "duration": 158,
+    "id": "zINPjQymNro",
+    "score": 10.47,
+    "title": "Wild Motorbike Chase Through Manila | The Bourne Legacy (2012) | SceneScreen",
+    "views": 13482
+   },
+   {
+    "channel": "Boxoffice Movie Scenes",
+    "duration": 252,
+    "id": "y3R_fgNw2S4",
+    "score": 10.34,
+    "title": "Motorcycle Chase Part 1 | The Bourne Legacy | CLIP",
+    "views": 40769
+   },
+   {
+    "channel": "Awesome Random Vidz (TORCHD)",
+    "duration": 254,
+    "id": "mCfaJjMTvN8",
+    "score": 10.11,
+    "title": "The Bourne Legacy 2012 Manila Motorcycle chase part 1",
+    "views": 3021
+   },
+   {
+    "channel": "Awesome Random Vidz (TORCHD)",
+    "duration": 243,
+    "id": "bZwZcQX-P2I",
+    "score": 10.06,
+    "title": "The Bourne Legacy 2012 Manila Motorcycle chase part 2",
+    "views": 2371
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 278,
+  "end": 247,
+  "heat": "211112221223111111111211122221100011148448831000",
+  "pick": "most-replayed",
+  "query": "Bourne Legacy Manila motorcycle chase scene",
+  "start": 217,
+  "status": "ok",
+  "title": "The Bourne Legacy (7/8) Movie CLIP - Motorcycle Chase (2012) HD",
+  "video": "4oJlFH_1q3Q",
+  "views": 2012971
+ },
  "the-bourne-supremacy-2004-goa-chase-and-marie-s-death-on-the-bridg": {
   "alts": [
    {
@@ -62713,6 +67728,99 @@
   "title": "The Dark Knight (2008) - The Car Chase Scene | Movieclips",
   "video": "cFdDCTumLks",
   "views": 281945
+ },
+ "the-dark-knight-2008-hong-kong-skyhook-extraction": {
+  "alts": [
+   {
+    "channel": "Flashback FM",
+    "id": "Da1cVjPlduY",
+    "start": 63,
+    "title": "New suit, new toys | The Dark Knight [4k, HDR, IMAX]"
+   },
+   {
+    "channel": "JB Hunkamunka",
+    "id": "8-iwwalCr9E",
+    "start": 66,
+    "title": "35mm film THE DARK KNIGHT (2008) \"Hong Kong Skyhook\""
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Flashback FM",
+    "duration": 271,
+    "id": "-FW9Sqxb-4o",
+    "score": 13.32,
+    "title": "Batman kidnaps Lau from Hong Kong | The Dark Knight [4k, HDR, IMAX]",
+    "views": 20598290
+   },
+   {
+    "channel": "Flashback FM",
+    "duration": 192,
+    "id": "Da1cVjPlduY",
+    "score": 10.71,
+    "title": "New suit, new toys | The Dark Knight [4k, HDR, IMAX]",
+    "views": 12692901
+   },
+   {
+    "channel": "JB Hunkamunka",
+    "duration": 202,
+    "id": "8-iwwalCr9E",
+    "score": 10.47,
+    "title": "35mm film THE DARK KNIGHT (2008) \"Hong Kong Skyhook\"",
+    "views": 581
+   },
+   {
+    "channel": "Mr. Fahrenheit",
+    "duration": 132,
+    "id": "sHzhRbPvuck",
+    "score": 10.44,
+    "title": "Fox and Lau / Hong Kong Scene l The Dark Knight (2008)",
+    "views": 95683
+   },
+   {
+    "channel": "Cinerama",
+    "duration": 185,
+    "id": "dfLk834k-aM",
+    "score": 9.54,
+    "title": "Hong Kong Jump - The Dark Knight",
+    "views": 11613
+   },
+   {
+    "channel": "DC Fanbase",
+    "duration": 90,
+    "id": "oeOcHtlhVfk",
+    "score": 9.46,
+    "title": "The Dark Knight (2008) | Lucius Fox Visits Lau In Hong Kong Scene",
+    "views": 1604
+   },
+   {
+    "channel": "Chaitanya V.V.S.K",
+    "duration": 86,
+    "id": "Y8U2w2QvKZo",
+    "score": 8.8,
+    "title": "🛩️ Skyhook Extraction – Iconic & Epic Scene - Dark Knight",
+    "views": 515
+   },
+   {
+    "channel": "MOVIE CLIPS",
+    "duration": 276,
+    "id": "1owiBkAMx5E",
+    "score": 8.1,
+    "title": "Batman's First Appearance   Parking Garage Scene  The Dark Knight 2008 Movie Clip 4K720p6",
+    "views": 187040
+   }
+  ],
+  "channel": "Flashback FM",
+  "duration": 271,
+  "end": 229,
+  "heat": "122212343322111113422222421112343223569854462110",
+  "pick": "most-replayed",
+  "query": "The Dark Knight Hong Kong scene skyhook",
+  "start": 199,
+  "status": "ok",
+  "title": "Batman kidnaps Lau from Hong Kong | The Dark Knight [4k, HDR, IMAX]",
+  "video": "-FW9Sqxb-4o",
+  "views": 20598290
  },
  "the-dark-knight-2008-opening-bank-heist": {
   "alts": [
@@ -64364,6 +69472,99 @@
   "video": "_LaPfc4O1wc",
   "views": 0
  },
+ "the-equalizer-2014-home-mart-finale-with-hardware-store-wea": {
+  "alts": [
+   {
+    "channel": "Scene City",
+    "id": "mVkCPFAHrNU",
+    "start": 84,
+    "title": "The Equalizer: Store Robbery Scene (DENZEL WASHINGTON SCENE) | With Captions"
+   },
+   {
+    "channel": "Moving Pictures",
+    "id": "Po5z-ejVjEs",
+    "start": 79,
+    "title": "Robert Gets Revenge After Store Is Robbed | The Equalizer (Denzel Washington)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 297,
+    "id": "DyxkjYmlzhg",
+    "score": 11.69,
+    "title": "The Equalizer (2014) - Brick by Brick Scene (8/10) | Movieclips",
+    "views": 17771773
+   },
+   {
+    "channel": "Scene City",
+    "duration": 255,
+    "id": "mVkCPFAHrNU",
+    "score": 9.57,
+    "title": "The Equalizer: Store Robbery Scene (DENZEL WASHINGTON SCENE) | With Captions",
+    "views": 14665211
+   },
+   {
+    "channel": "Moving Pictures",
+    "duration": 241,
+    "id": "Po5z-ejVjEs",
+    "score": 9.31,
+    "title": "Robert Gets Revenge After Store Is Robbed | The Equalizer (Denzel Washington)",
+    "views": 4883104
+   },
+   {
+    "channel": "Scene City",
+    "duration": 499,
+    "id": "mEWa1IA2n4E",
+    "score": 9.05,
+    "title": "McCall Turns the Hardware Store into a Trap | The Equalizer (Denzel Washington, Marton Csokas)",
+    "views": 48919
+   },
+   {
+    "channel": "Scene City",
+    "duration": 200,
+    "id": "9pC0hfI32to",
+    "score": 8.57,
+    "title": "The Equalizer: Teddy Threatens Bob (Denzel Washington HD CLIP) | With Captions",
+    "views": 7199925
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 312,
+    "id": "IIDl8mNdBxg",
+    "score": 8.51,
+    "title": "Denzel Stomps Wall Street Cokeheads | The Equalizer 2",
+    "views": 5560792
+   },
+   {
+    "channel": "Clip",
+    "duration": 258,
+    "id": "_D5OWddpf90",
+    "score": 8.49,
+    "title": "Deadly Diner Fight Scene - The Equalizer (2014)",
+    "views": 948460
+   },
+   {
+    "channel": "FilmIsNow Epic Scenes",
+    "duration": 260,
+    "id": "HBLXKfWwWr4",
+    "score": 8.47,
+    "title": "Robert McCall Serves Brutal Justice At The Diner | THE EQUALIZER",
+    "views": 4667637
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 297,
+  "end": 179,
+  "heat": "443233222222222321122222245632222222233344443320",
+  "pick": "most-replayed",
+  "query": "The Equalizer Home Mart fight scene",
+  "start": 149,
+  "status": "ok",
+  "title": "The Equalizer (2014) - Brick by Brick Scene (8/10) | Movieclips",
+  "video": "DyxkjYmlzhg",
+  "views": 17771773
+ },
  "the-equalizer-2014-russian-mob-office-the-stopwatch-fight": {
   "alts": [
    {
@@ -64969,6 +70170,99 @@
   "title": "The Fast and the Furious (2001) - Brian Races Dominic Scene (10/10) | Movieclips",
   "video": "nfV87TgYH78",
   "views": 16930677
+ },
+ "the-fast-and-the-furious-tokyo-d-2006-downhill-drift-race-against-d-k": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "UbTBbTDjjHI",
+    "start": 37,
+    "title": "The Fast and the Furious: Tokyo Drift (3/12) Movie CLIP - Mastering The Drift (2006) HD"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "qOKE4dxjayU",
+    "start": 40,
+    "title": "The Fast and the Furious: Tokyo Drift (4/12) Movie CLIP - Drifting with Neela (2006) HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 158,
+    "id": "kvVlP50LSq8",
+    "score": 12.82,
+    "title": "The Fast and the Furious: Tokyo Drift (11/12) Movie CLIP - The Mountain Race (2006) HD",
+    "views": 5237578
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 114,
+    "id": "UbTBbTDjjHI",
+    "score": 11.71,
+    "title": "The Fast and the Furious: Tokyo Drift (3/12) Movie CLIP - Mastering The Drift (2006) HD",
+    "views": 19206138
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 122,
+    "id": "qOKE4dxjayU",
+    "score": 11.41,
+    "title": "The Fast and the Furious: Tokyo Drift (4/12) Movie CLIP - Drifting with Neela (2006) HD",
+    "views": 5550601
+   },
+   {
+    "channel": "The Fast Saga",
+    "duration": 374,
+    "id": "hqXSg-qIAM8",
+    "score": 10.13,
+    "title": "The Fast and the Furious: Tokyo Drift | Sean & D.K.'s Mountain Showdown",
+    "views": 629805
+   },
+   {
+    "channel": "Movie Car Chases HD",
+    "duration": 368,
+    "id": "-YKuNraTe9Y",
+    "score": 10.11,
+    "title": "FAST and FURIOUS: TOKYO DRIFT - Final Race (Mustang vs 350Z) #1080HD",
+    "views": 11257472
+   },
+   {
+    "channel": "Full Throttle",
+    "duration": 326,
+    "id": "uP5vAMMe3DE",
+    "score": 9.47,
+    "title": "Sean Races Takashi (Tokyo Drift Final Race) | The Fast & The Furious: Tokyo Drift | Full Throttle",
+    "views": 794820
+   },
+   {
+    "channel": "All Action",
+    "duration": 326,
+    "id": "Q_lnUWDry0o",
+    "score": 8.96,
+    "title": "The Fast & The Furious: Tokyo Drift Final Race (Sean vs. Takashi) | All Action",
+    "views": 92209
+   },
+   {
+    "channel": "𝙈𝙧. 𝙏𝘿",
+    "duration": 151,
+    "id": "g-tTbktbDzI",
+    "score": 8.93,
+    "title": "The Fast and the Furious: Tokyo Drift (2006) // Race Scene Ending (LONG CUT) 𝑴𝒓. 𝑻𝑫 𝑺𝒑𝒆𝒄𝒊𝒂𝒍",
+    "views": 299052
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 158,
+  "end": 35,
+  "heat": "334323468963222222111111123343433222221122110001",
+  "pick": "most-replayed",
+  "query": "Tokyo Drift final race scene mountain",
+  "start": 5,
+  "status": "ok",
+  "title": "The Fast and the Furious: Tokyo Drift (11/12) Movie CLIP - The Mountain Race (2006) HD",
+  "video": "kvVlP50LSq8",
+  "views": 5237578
  },
  "the-fast-and-the-furious-tokyo-d-2006-first-drift-race-against-d-k-in-the-car": {
   "alts": [
@@ -66724,6 +72018,99 @@
   "video": "_c-hMCnwyRc",
   "views": 0
  },
+ "the-international-2009-guggenheim-museum-shootout": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "QlXTIvWXDLU",
+    "start": 60,
+    "title": "The International (2009) - Two Snipers Scene (3/10) | Movieclips"
+   },
+   {
+    "channel": "ThePeacent",
+    "id": "q88dfF68YMw",
+    "start": 129,
+    "title": "The International Guggenheim Museum shootout scene"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 217,
+    "id": "PizvnJWQIcg",
+    "score": 14.46,
+    "title": "The International (2009) - Museum Shootout Scene (7/10) | Movieclips",
+    "views": 1701387
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 182,
+    "id": "QlXTIvWXDLU",
+    "score": 11.75,
+    "title": "The International (2009) - Two Snipers Scene (3/10) | Movieclips",
+    "views": 22803251
+   },
+   {
+    "channel": "ThePeacent",
+    "duration": 391,
+    "id": "q88dfF68YMw",
+    "score": 11.18,
+    "title": "The International Guggenheim Museum shootout scene",
+    "views": 315
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 144,
+    "id": "pgORZsOltjM",
+    "score": 10.97,
+    "title": "The International (2009) - Mafia Justice Scene (10/10) | Movieclips",
+    "views": 875376
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 163,
+    "id": "pwgh9hZkXUY",
+    "score": 10.94,
+    "title": "The International (2009) - Can't Fight the Bank Scene (8/10) | Movieclips",
+    "views": 781930
+   },
+   {
+    "channel": "Paldo Movie Clip",
+    "duration": 478,
+    "id": "HumId-frYd4",
+    "score": 10.59,
+    "title": "THE INTERNATIONAL: Guggenheim Museum scene",
+    "views": 29473
+   },
+   {
+    "channel": "Clips & Chill",
+    "duration": 498,
+    "id": "QY2g5ZLTCtI",
+    "score": 7.6,
+    "title": "This Wasn’t a Random Hit | The International (Clive Owen, Naomi Watts)",
+    "views": 125492
+   },
+   {
+    "channel": "Sally Hagras",
+    "duration": 418,
+    "id": "NW_f7NcWJ18",
+    "score": 7.2,
+    "title": "The International - Ending",
+    "views": 23478
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 217,
+  "end": 157,
+  "heat": "233112222101233122333211011133873432111121321100",
+  "pick": "most-replayed",
+  "query": "The International Guggenheim shootout scene",
+  "start": 127,
+  "status": "ok",
+  "title": "The International (2009) - Museum Shootout Scene (7/10) | Movieclips",
+  "video": "PizvnJWQIcg",
+  "views": 1701387
+ },
  "the-iron-giant-1999-the-giant-s-battle-mode-against-the-army": {
   "alts": [],
   "candidates": [
@@ -66957,6 +72344,99 @@
   "title": "THE KILLER church gun scene with CHOW YUN FAT + DANNY LEE directed by JOHN WOO",
   "video": "dtuWGO6JD38",
   "views": 0
+ },
+ "the-killer-2023-fight-with-the-brute-in-the-florida-hous": {
+  "alts": [
+   {
+    "channel": "HKKino",
+    "id": "70F-4AkcvRk",
+    "start": 5,
+    "title": "Netflix THE KILLER | David Fincher, Michael Fassbender | I don't give a F*CK feat. The Smiths"
+   },
+   {
+    "channel": "PrimeClips",
+    "id": "gVdqaIvD_mQ",
+    "start": 56,
+    "title": "The Killer (2023) Assassination Attempt Scene | HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Cinema Paradise",
+    "duration": 179,
+    "id": "XCveYdOIfvs",
+    "score": 8.99,
+    "title": "The Killer vs The Brute Fight Scene | The Killer (2023)",
+    "views": 41732
+   },
+   {
+    "channel": "HKKino",
+    "duration": 72,
+    "id": "70F-4AkcvRk",
+    "score": 8.5,
+    "title": "Netflix THE KILLER | David Fincher, Michael Fassbender | I don't give a F*CK feat. The Smiths",
+    "views": 28809
+   },
+   {
+    "channel": "PrimeClips",
+    "duration": 171,
+    "id": "gVdqaIvD_mQ",
+    "score": 7.83,
+    "title": "The Killer (2023) Assassination Attempt Scene | HD",
+    "views": 61696
+   },
+   {
+    "channel": "Screaming Avenue",
+    "duration": 91,
+    "id": "GmN49U8YlA4",
+    "score": 7.72,
+    "title": "Best Fight Scene from \"The Killer\"||David Fincher||Netflix",
+    "views": 1072
+   },
+   {
+    "channel": "Cyrius",
+    "duration": 141,
+    "id": "CoH3O2P5Sc4",
+    "score": 7.72,
+    "title": "The Killer︱ 4K Edit",
+    "views": 204775
+   },
+   {
+    "channel": "PrimeClips",
+    "duration": 124,
+    "id": "r6pon721vUQ",
+    "score": 7.68,
+    "title": "The Killer (2023) Storage Unit Scene | HD",
+    "views": 32447
+   },
+   {
+    "channel": "PrimeClips",
+    "duration": 154,
+    "id": "4qwSOq5A8ng",
+    "score": 7.68,
+    "title": "The Killer (2023) Ending Scene | HD",
+    "views": 32629
+   },
+   {
+    "channel": "Amazon Prime Video UK & IE",
+    "duration": 94,
+    "id": "b6W4NvP6fls",
+    "score": 7.63,
+    "title": "Dave Bautista's EPIC Musical Fight Scene | The Killer's Game",
+    "views": 137344
+   }
+  ],
+  "channel": "Cinema Paradise",
+  "duration": 179,
+  "end": 89,
+  "heat": "",
+  "pick": "estimated",
+  "query": "The Killer Fincher fight scene the Brute",
+  "start": 59,
+  "status": "ok",
+  "title": "The Killer vs The Brute Fight Scene | The Killer (2023)",
+  "video": "XCveYdOIfvs",
+  "views": 41732
  },
  "the-king-2019-battle-of-agincourt-mud-scrum": {
   "alts": [
@@ -69450,6 +74930,30 @@
   "title": "FILIPINO KALI KNIFE FIGHTING | The Man From Nowhere Fight Scene",
   "video": "t4rXCgu0l3o",
   "views": 299195
+ },
+ "the-man-from-u-n-c-l-e-2015-east-berlin-escape-and-chase": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Cool Clips",
+    "duration": 326,
+    "id": "dU--rVFU45g",
+    "score": 99,
+    "title": "The Man from U.N.C.L.E. Full Car Chase",
+    "views": 0
+   }
+  ],
+  "channel": "Cool Clips",
+  "duration": 326,
+  "end": 137,
+  "heat": "",
+  "pick": "estimated",
+  "query": "The Man from UNCLE opening chase scene Berlin",
+  "start": 107,
+  "status": "ok",
+  "title": "The Man from U.N.C.L.E. Full Car Chase",
+  "video": "dU--rVFU45g",
+  "views": 0
  },
  "the-man-who-shot-liberty-valance-1962-night-street-showdown-ranse-vs-liberty-v": {
   "alts": [
@@ -73004,6 +78508,83 @@
   "video": "B8j5IA0L_MI",
   "views": 23761702
  },
+ "the-raid-2011-mad-dog-vs-jaka": {
+  "alts": [
+   {
+    "channel": "CrimeCore",
+    "id": "OZVo5CX8jQA",
+    "start": 83,
+    "title": "Mad Dog VS Jaka Fight | The Raid: Redemption | Crimecore"
+   },
+   {
+    "channel": "Action Society",
+    "id": "jXsDGwW99lQ",
+    "start": 199,
+    "title": "Rama And Andi Kill Mad Dog | The Raid (Iko Uwais)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Piece of the Action",
+    "duration": 262,
+    "id": "Ts8rVL5gkZM",
+    "score": 13.59,
+    "title": "Mad Dog VS. Jaka Hand To Hand Fight | The Raid: Redemption",
+    "views": 7812783
+   },
+   {
+    "channel": "CrimeCore",
+    "duration": 252,
+    "id": "OZVo5CX8jQA",
+    "score": 11.93,
+    "title": "Mad Dog VS Jaka Fight | The Raid: Redemption | Crimecore",
+    "views": 7535
+   },
+   {
+    "channel": "Action Society",
+    "duration": 605,
+    "id": "jXsDGwW99lQ",
+    "score": 10.88,
+    "title": "Rama And Andi Kill Mad Dog | The Raid (Iko Uwais)",
+    "views": 2783018
+   },
+   {
+    "channel": "Piece of the Action",
+    "duration": 309,
+    "id": "B8j5IA0L_MI",
+    "score": 8.86,
+    "title": "Rama Defeats The Machete Gang | The Raid: Redemption",
+    "views": 23761990
+   },
+   {
+    "channel": "Clips & Chill",
+    "duration": 310,
+    "id": "VgXQhpZulds",
+    "score": 7.96,
+    "title": "Destroying The Machete Gang | The Raid",
+    "views": 565909
+   },
+   {
+    "channel": "ActionCore",
+    "duration": 293,
+    "id": "lU1VdnnMqfE",
+    "score": 7.11,
+    "title": "👊 Rama DEFEATS the Machete Gang BAREHANDED 💀 | The Raid: Redemption | ActionCore",
+    "views": 15991
+   }
+  ],
+  "channel": "Piece of the Action",
+  "duration": 262,
+  "end": 174,
+  "heat": "111111233334886533343334334657973222421122221000",
+  "pick": "most-replayed",
+  "query": "The Raid Jaka vs Mad Dog fight scene",
+  "start": 144,
+  "status": "ok",
+  "title": "Mad Dog VS. Jaka Hand To Hand Fight | The Raid: Redemption",
+  "video": "Ts8rVL5gkZM",
+  "views": 7812783
+ },
  "the-raid-2011-mad-dog-vs-rama-and-andi": {
   "alts": [
    {
@@ -75082,6 +80663,30 @@
   "video": "hidqZE3rigo",
   "views": 31384
  },
+ "the-town-2010-nun-masked-getaway-through-the-north-end": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Vee XXL",
+    "duration": 130,
+    "id": "TcWGYbu07PE",
+    "score": 99,
+    "title": "The Town - Robbery Escape Scene - 4K",
+    "views": 0
+   }
+  ],
+  "channel": "Vee XXL",
+  "duration": 130,
+  "end": 72,
+  "heat": "",
+  "pick": "estimated",
+  "query": "The Town nun mask car chase scene",
+  "start": 42,
+  "status": "ok",
+  "title": "The Town - Robbery Escape Scene - 4K",
+  "video": "TcWGYbu07PE",
+  "views": 0
+ },
  "the-transporter-2002-the-oil-fight-in-the-bus-depot": {
   "alts": [
    {
@@ -75591,6 +81196,99 @@
   "title": "The Villainess (악녀) | Fighting Scene",
   "video": "d3Lc09ELXhw",
   "views": 89750
+ },
+ "the-walk-2015-high-wire-walk-between-the-twin-towers": {
+  "alts": [
+   {
+    "channel": "NOW PLAYING",
+    "id": "6nFiWkSBGjs",
+    "start": 130,
+    "title": "Tightrope Walk Between the Twin Towers | The Walk"
+   },
+   {
+    "channel": "FilMonger Entertainment",
+    "id": "mDvoAJDpQ_A",
+    "start": 217,
+    "title": "Joseph Gordon - Levitt Walks the Twin Towers High-Wire | The Walk 4K"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Moving Pictures",
+    "duration": 512,
+    "id": "Lktkf_uMUnM",
+    "score": 11.03,
+    "title": "Walking The Tightrope Between The Twin Towers | The Walk (Joseph Gordon-Levitt)",
+    "views": 754092
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 396,
+    "id": "6nFiWkSBGjs",
+    "score": 10.7,
+    "title": "Tightrope Walk Between the Twin Towers | The Walk",
+    "views": 190735
+   },
+   {
+    "channel": "FilMonger Entertainment",
+    "duration": 658,
+    "id": "mDvoAJDpQ_A",
+    "score": 10.57,
+    "title": "Joseph Gordon - Levitt Walks the Twin Towers High-Wire | The Walk 4K",
+    "views": 46993
+   },
+   {
+    "channel": "MovieMerit",
+    "duration": 297,
+    "id": "vq2MAEf-ANI",
+    "score": 10.52,
+    "title": "The Walk - First walk between the  Twin Towers",
+    "views": 87283
+   },
+   {
+    "channel": "CBS Sunday Morning",
+    "duration": 356,
+    "id": "kwss1OjxGh4",
+    "score": 10.12,
+    "title": "Philippe Petit on his Twin Towers walk, 50 years later",
+    "views": 1110179
+   },
+   {
+    "channel": "adlib Films",
+    "duration": 187,
+    "id": "8MoTWk7NGGM",
+    "score": 9.71,
+    "title": "An unbelievable story of Philippe Petit’s tightrope walk between the twin towers",
+    "views": 3000
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 336,
+    "id": "37aT4i1yiTs",
+    "score": 9.4,
+    "title": "Twin Towers Scene | THE WALK (2015) Movie CLIP HD",
+    "views": 9816
+   },
+   {
+    "channel": "NOW PLAYING",
+    "duration": 115,
+    "id": "oTFIS549nNI",
+    "score": 9.31,
+    "title": "Philippe Walks Between Notre Dame’s Towers  | The Walk",
+    "views": 35873
+   }
+  ],
+  "channel": "Moving Pictures",
+  "duration": 512,
+  "end": 504,
+  "heat": "010001000010011110011230011100000000001137111782",
+  "pick": "most-replayed",
+  "query": "The Walk wire walk scene twin towers",
+  "start": 474,
+  "status": "ok",
+  "title": "Walking The Tightrope Between The Twin Towers | The Walk (Joseph Gordon-Levitt)",
+  "video": "Lktkf_uMUnM",
+  "views": 754092
  },
  "the-walking-dead-2010-rick-rides-into-atlanta-and-hides-in-the": {
   "alts": [],
@@ -76516,6 +82214,261 @@
   "title": "The Witcher Netflix l Geralt vs Striga l  Epic Action Fight Scene (S01S03)",
   "video": "H6PEXnmnFwI",
   "views": 0
+ },
+ "the-wolverine-2013-fight-on-the-roof-of-the-bullet-train": {
+  "alts": [
+   {
+    "channel": "Filmey Box",
+    "id": "DI1yETDtvqY",
+    "start": 63,
+    "title": "Wolverine vs Yakuza - Bullet Train Fight Scene | The Wolverine (2013) 4K HDR Movie Clip"
+   },
+   {
+    "channel": "X-Men Movies",
+    "id": "eUAywpTbI9g",
+    "start": 26,
+    "title": "The Wolverine - Extended Train Fight Scene"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Dc Comics & Marvel",
+    "duration": 164,
+    "id": "qpyZxYbnOmg",
+    "score": 11.39,
+    "title": "Wolverine Bullet Train Fight Clip | Wolverine (2013) | HD Movie Scene",
+    "views": 156980
+   },
+   {
+    "channel": "Filmey Box",
+    "duration": 191,
+    "id": "DI1yETDtvqY",
+    "score": 10.98,
+    "title": "Wolverine vs Yakuza - Bullet Train Fight Scene | The Wolverine (2013) 4K HDR Movie Clip",
+    "views": 28218
+   },
+   {
+    "channel": "X-Men Movies",
+    "duration": 79,
+    "id": "eUAywpTbI9g",
+    "score": 9.64,
+    "title": "The Wolverine - Extended Train Fight Scene",
+    "views": 577336
+   },
+   {
+    "channel": "Rotten Tomatoes Coming Soon",
+    "duration": 80,
+    "id": "7av1gDaXIxw",
+    "score": 9.35,
+    "title": "The Wolverine Extended CLIP - Train Fight (2013) - Hugh Jackman Movie HD",
+    "views": 32465
+   },
+   {
+    "channel": "Charly Cherkessk",
+    "duration": 80,
+    "id": "8-ibln7XPEM",
+    "score": 7.83,
+    "title": "The Wolverine    Extended Train Fight Scene",
+    "views": 297
+   }
+  ],
+  "channel": "Dc Comics & Marvel",
+  "duration": 164,
+  "end": 144,
+  "heat": "000111000000110000000000000000001112793111122100",
+  "pick": "most-replayed",
+  "query": "The Wolverine bullet train fight scene",
+  "start": 114,
+  "status": "ok",
+  "title": "Wolverine Bullet Train Fight Clip | Wolverine (2013) | HD Movie Scene",
+  "video": "qpyZxYbnOmg",
+  "views": 156980
+ },
+ "the-world-s-end-2013-pub-toilet-fight-against-the-blanks": {
+  "alts": [
+   {
+    "channel": "Movieclips",
+    "id": "Fhhbua6ELxo",
+    "start": 68,
+    "title": "The World's End (6/10) Movie CLIP - I Hate This Town! (2013) HD"
+   },
+   {
+    "channel": "Movieclips",
+    "id": "0oHT-rtiFZk",
+    "start": 66,
+    "title": "The World's End (8/10) Movie CLIP - There's Only One Gary King (2013) HD"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movieclips",
+    "duration": 199,
+    "id": "tYs7uguB_JQ",
+    "score": 12.18,
+    "title": "The World's End (3/10) Movie CLIP - The Bathroom Fight (2013) HD",
+    "views": 2143017
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 207,
+    "id": "Fhhbua6ELxo",
+    "score": 11.43,
+    "title": "The World's End (6/10) Movie CLIP - I Hate This Town! (2013) HD",
+    "views": 6012331
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 202,
+    "id": "0oHT-rtiFZk",
+    "score": 11.11,
+    "title": "The World's End (8/10) Movie CLIP - There's Only One Gary King (2013) HD",
+    "views": 1589391
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 192,
+    "id": "l9LOKUiY0Dg",
+    "score": 11.1,
+    "title": "The World's End (9/10) Movie CLIP - It's All I've Got (2013) HD",
+    "views": 1494867
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 210,
+    "id": "UOsM81pRVWo",
+    "score": 10.95,
+    "title": "The World's End (5/10) Movie CLIP - Fighting the Twins (2013) HD",
+    "views": 811299
+   },
+   {
+    "channel": "Movieclips",
+    "duration": 160,
+    "id": "Gtt2ibEe1NY",
+    "score": 10.83,
+    "title": "The World's End (4/10) Movie CLIP - One of Them or One of Them? (2013) HD",
+    "views": 498989
+   },
+   {
+    "channel": "Screen Bites",
+    "duration": 127,
+    "id": "nNJPPLg6aJE",
+    "score": 8.9,
+    "title": "Toilet scene | The World's End (2013) | Screen Bites",
+    "views": 81507
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 337,
+    "id": "X_fG39cjI84",
+    "score": 8.44,
+    "title": "THE WORLD'S END Clip - \"Bathroom Fight\" (2013) Edgar Wright",
+    "views": 11715
+   }
+  ],
+  "channel": "Movieclips",
+  "duration": 199,
+  "end": 142,
+  "heat": "311001111234222234444566557787667776646894101100",
+  "pick": "most-replayed",
+  "query": "The World's End bathroom fight scene",
+  "start": 112,
+  "status": "ok",
+  "title": "The World's End (3/10) Movie CLIP - The Bathroom Fight (2013) HD",
+  "video": "tYs7uguB_JQ",
+  "views": 2143017
+ },
+ "the-wrestler-2008-the-ram-s-last-match": {
+  "alts": [
+   {
+    "channel": "Jerry Dane",
+    "id": "S_Yn2xOGNhI",
+    "start": 57,
+    "title": "The Wrestler - Ram's speech in the end"
+   },
+   {
+    "channel": "Kalci",
+    "id": "nbTXd1AkFvQ",
+    "start": 168,
+    "title": "The Wrestler [2008] - Last Fight [4K] - Mickey Rourke"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Movie Classics",
+    "duration": 597,
+    "id": "mvXfUQ_54aA",
+    "score": 9.73,
+    "title": "The Wrestler (2008) | Randy 'The Ram' Final Match [HD]",
+    "views": 4859
+   },
+   {
+    "channel": "Jerry Dane",
+    "duration": 173,
+    "id": "S_Yn2xOGNhI",
+    "score": 9.09,
+    "title": "The Wrestler - Ram's speech in the end",
+    "views": 58549
+   },
+   {
+    "channel": "Kalci",
+    "duration": 512,
+    "id": "nbTXd1AkFvQ",
+    "score": 8.84,
+    "title": "The Wrestler [2008] - Last Fight [4K] - Mickey Rourke",
+    "views": 125772
+   },
+   {
+    "channel": "Adam Ohjeezus",
+    "duration": 108,
+    "id": "DeGm63cawAU",
+    "score": 8.67,
+    "title": "The Ram Mickey Rourke \"The Wrestler\" (2008)",
+    "views": 61549
+   },
+   {
+    "channel": "Shareware Hunger",
+    "duration": 86,
+    "id": "B9_GlZo-6yc",
+    "score": 8.3,
+    "title": "Final Words of The Wrestler",
+    "views": 69320
+   },
+   {
+    "channel": "Alex Radke's Portfolio",
+    "duration": 432,
+    "id": "B-h9dUEQGjY",
+    "score": 7.8,
+    "title": "The Wrestler (2008) Scene (Audio Rework)",
+    "views": 54324
+   },
+   {
+    "channel": "Andy Dufresne",
+    "duration": 217,
+    "id": "O1dmtWR9RxA",
+    "score": 7.74,
+    "title": "The Wrestler - \"I belong there\"",
+    "views": 224234
+   },
+   {
+    "channel": "Madiesmaster",
+    "duration": 203,
+    "id": "wxLAcm31otU",
+    "score": 7.63,
+    "title": "The Wrestler-I Quit",
+    "views": 140160
+   }
+  ],
+  "channel": "Movie Classics",
+  "duration": 597,
+  "end": 227,
+  "heat": "",
+  "pick": "estimated",
+  "query": "The Wrestler final scene Ram Jam",
+  "start": 197,
+  "status": "ok",
+  "title": "The Wrestler (2008) | Randy 'The Ram' Final Match [HD]",
+  "video": "mvXfUQ_54aA",
+  "views": 4859
  },
  "thelma-louise-1991-grand-canyon-finale-driving-over-the-edg": {
   "alts": [
@@ -79326,6 +85279,30 @@
   "video": "eLyhRYJXf1U",
   "views": 4934755
  },
+ "undisputed-iii-redemption-2010-final-bout-boyka-vs-dolor": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "you baller",
+    "duration": 554,
+    "id": "7dg7hlg7vDY",
+    "score": 99,
+    "title": "Undisputed 3: Final fight (Boyka vs Dolor)",
+    "views": 0
+   }
+  ],
+  "channel": "you baller",
+  "duration": 554,
+  "end": 212,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Undisputed 3 Boyka vs Dolor final fight",
+  "start": 182,
+  "status": "ok",
+  "title": "Undisputed 3: Final fight (Boyka vs Dolor)",
+  "video": "7dg7hlg7vDY",
+  "views": 0
+ },
  "unforgiven-1992-saloon-finale-munny-confronts-little-bil": {
   "alts": [],
   "candidates": [
@@ -79348,6 +85325,123 @@
   "status": "ok",
   "title": "Unforgiven | I'm Here to Kill You, Little Bill | Warner Classics",
   "video": "pZNHc6o8wjU",
+  "views": 0
+ },
+ "unleashed-2005-bathroom-fight-in-the-cramped-toilet": {
+  "alts": [
+   {
+    "channel": "Carrabba",
+    "id": "rm5-637K8nc",
+    "start": 66,
+    "title": "Jet Li (unleashed)"
+   },
+   {
+    "channel": "Forever Immortal",
+    "id": "nL4ltIsh3EA",
+    "start": 84,
+    "title": "Jet Li Fighting Scene (Unleashed)"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Best Fight Scene",
+    "duration": 231,
+    "id": "3OgSXytU_Ns",
+    "score": 10.16,
+    "title": "Jet Li vs Mike Lambert | Unleashed 2005 | Best Fight Scene",
+    "views": 241584
+   },
+   {
+    "channel": "Carrabba",
+    "duration": 200,
+    "id": "rm5-637K8nc",
+    "score": 9.85,
+    "title": "Jet Li (unleashed)",
+    "views": 353798
+   },
+   {
+    "channel": "Forever Immortal",
+    "duration": 257,
+    "id": "nL4ltIsh3EA",
+    "score": 8.66,
+    "title": "Jet Li Fighting Scene (Unleashed)",
+    "views": 2380
+   },
+   {
+    "channel": "clips movies",
+    "duration": 133,
+    "id": "1TBP04viffc",
+    "score": 8.6,
+    "title": "Unleashed(Danny the Dog) Jet Li fight scene",
+    "views": 1897
+   },
+   {
+    "channel": "Martialartsguy01",
+    "duration": 125,
+    "id": "MaKLW1UUafk",
+    "score": 7.98,
+    "title": "Unleashed - Underground Fight Scene",
+    "views": 616868
+   },
+   {
+    "channel": "The Dragon Phoenix",
+    "duration": 122,
+    "id": "pHF8mHp3QDo",
+    "score": 7.66,
+    "title": "Epic Movie Scenes - Unleashed: First Fight Scene",
+    "views": 155873
+   },
+   {
+    "channel": "Action Master",
+    "duration": 84,
+    "id": "uZcu97HPslM",
+    "score": 7.37,
+    "title": "Unleashed 2005 (Danny the Dog) Fight Scene 3 II Edited",
+    "views": 8724
+   },
+   {
+    "channel": "Tickled Funny Bone",
+    "duration": 208,
+    "id": "wlPZep6VdXI",
+    "score": 7.26,
+    "title": "Unleashed - Healing",
+    "views": 29460
+   }
+  ],
+  "channel": "Best Fight Scene",
+  "duration": 231,
+  "end": 106,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Unleashed Jet Li bathroom fight scene",
+  "start": 76,
+  "status": "ok",
+  "title": "Jet Li vs Mike Lambert | Unleashed 2005 | Best Fight Scene",
+  "video": "3OgSXytU_Ns",
+  "views": 241584
+ },
+ "unstoppable-2010-catching-runaway-train-777-at-the-stanto": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "Simba 1996",
+    "duration": 116,
+    "id": "908fMPSGOqo",
+    "score": 99,
+    "title": "Unstoppable (2010) Stanton Curve",
+    "views": 0
+   }
+  ],
+  "channel": "Simba 1996",
+  "duration": 116,
+  "end": 68,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Unstoppable final scene train Stanton curve",
+  "start": 38,
+  "status": "ok",
+  "title": "Unstoppable (2010) Stanton Curve",
+  "video": "908fMPSGOqo",
   "views": 0
  },
  "upgrade-2018-kitchen-fight-stem-takes-control": {
@@ -79465,6 +85559,30 @@
   "status": "ok",
   "title": "Uri - The Surgical Strike | 2018 | Action Scene | Full Movie Link in Description",
   "video": "IpTbT3l3y88",
+  "views": 0
+ },
+ "v-for-vendetta-2005-v-s-knife-fight-in-the-underground-stati": {
+  "alts": [],
+  "candidates": [
+   {
+    "channel": "jdfingers",
+    "duration": 233,
+    "id": "RXLMCtcb9rI",
+    "score": 99,
+    "title": "V for Vendetta Ending Fight Scene (1080p)",
+    "views": 0
+   }
+  ],
+  "channel": "jdfingers",
+  "duration": 233,
+  "end": 106,
+  "heat": "",
+  "pick": "estimated",
+  "query": "V for Vendetta final fight scene knives",
+  "start": 76,
+  "status": "ok",
+  "title": "V for Vendetta Ending Fight Scene (1080p)",
+  "video": "RXLMCtcb9rI",
   "views": 0
  },
  "vertical-limit-2000-opening-climbing-accident-cutting-the-ro": {
@@ -81532,6 +87650,85 @@
   "video": "tm-j1RpQmAE",
   "views": 14499
  },
+ "wind-river-2017-standoff-at-the-drilling-site": {
+  "alts": [
+   {
+    "channel": "Utah Film Studios",
+    "id": "_2DpJhRDeWw",
+    "start": 5,
+    "title": "Taylor Sheridan Wind River Shootout Scene Rehearsals"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "Shamus Bob",
+    "duration": 281,
+    "id": "7AxWVLSvnWQ",
+    "score": 10.18,
+    "title": "Wind River Standoff/Shootout Scene - Abridged -  Shortened The Gunfight",
+    "views": 175839
+   },
+   {
+    "channel": "Alphin",
+    "duration": 283,
+    "id": "OeaSmH2MsGA",
+    "score": 9.56,
+    "title": "Wind River shootout scene",
+    "views": 2450079
+   },
+   {
+    "channel": "MEMO Clips",
+    "duration": 185,
+    "id": "m8ZReG4FQys",
+    "score": 8.67,
+    "title": "Wind River 2017 - Intense Firefight Shootout Scene (Best Scene)",
+    "views": 10865
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 285,
+    "id": "TsvzTujPULM",
+    "score": 8.66,
+    "title": "WIND RIVER | Deadly Standoff in the Frozen Wild (4K)",
+    "views": 54671
+   },
+   {
+    "channel": "STXfilms UK & Ireland",
+    "duration": 88,
+    "id": "MK_edxQ5awc",
+    "score": 7.92,
+    "title": "Wind River \"Stand-off\" Clip - In Cinemas Friday",
+    "views": 475055
+   },
+   {
+    "channel": "Utah Film Studios",
+    "duration": 53,
+    "id": "_2DpJhRDeWw",
+    "score": 7.4,
+    "title": "Taylor Sheridan Wind River Shootout Scene Rehearsals",
+    "views": 8044
+   },
+   {
+    "channel": "Clip Kings",
+    "duration": 166,
+    "id": "pi91YC6-L0c",
+    "score": 7.26,
+    "title": "FBI vs. Local Police | Wind River",
+    "views": 30146
+   }
+  ],
+  "channel": "JoBlo Movie Clips",
+  "duration": 285,
+  "end": 124,
+  "heat": "",
+  "pick": "estimated",
+  "query": "Wind River standoff shootout scene",
+  "start": 94,
+  "status": "ok",
+  "title": "WIND RIVER | Deadly Standoff in the Frozen Wild (4K)",
+  "video": "TsvzTujPULM",
+  "views": 54671
+ },
  "wings-1927-battle-of-saint-mihiel-and-the-aerial-do": {
   "alts": [
    {
@@ -82841,6 +89038,99 @@
   "title": "YOU ONLY LIVE TWICE | Little Nellie",
   "video": "xFozWDLne7c",
   "views": 4676597
+ },
+ "you-were-never-really-here-2017-hammer-raid-on-the-brothel-seen-through": {
+  "alts": [
+   {
+    "channel": "Prime Movies",
+    "id": "SXxwFyZ46xc",
+    "start": 5,
+    "title": "You Were Never Really Here - Clip: Senator | Amazon Studios"
+   },
+   {
+    "channel": "Prime Movies",
+    "id": "apZs3eRCQeQ",
+    "start": 5,
+    "title": "You Were Never Really Here - Clip: Alphabet | Amazon Studios"
+   }
+  ],
+  "candidates": [
+   {
+    "channel": "LUCÄS RENTØN",
+    "duration": 285,
+    "id": "lT6JM1K7o1U",
+    "score": 8.48,
+    "title": "You Were Never Really Here - Hammer Fight in Apartment Scene (1080p)",
+    "views": 152074
+   },
+   {
+    "channel": "Prime Movies",
+    "duration": 69,
+    "id": "SXxwFyZ46xc",
+    "score": 7.87,
+    "title": "You Were Never Really Here - Clip: Senator | Amazon Studios",
+    "views": 384746
+   },
+   {
+    "channel": "Prime Movies",
+    "duration": 62,
+    "id": "apZs3eRCQeQ",
+    "score": 7.61,
+    "title": "You Were Never Really Here - Clip: Alphabet | Amazon Studios",
+    "views": 129295
+   },
+   {
+    "channel": "LUCÄS RENTØN",
+    "duration": 296,
+    "id": "gGId40oaQOY",
+    "score": 7.41,
+    "title": "You Were Never Really Here - Joe's Suicide Attempt Scene (1080p)",
+    "views": 54618
+   },
+   {
+    "channel": "To kill a narrator",
+    "duration": 179,
+    "id": "6D7nyodo6nk",
+    "score": 7.32,
+    "title": "You were never really here scene (burial at lake)",
+    "views": 37617
+   },
+   {
+    "channel": "Prime Movies",
+    "duration": 102,
+    "id": "WgQ-i9IYLZQ",
+    "score": 7.3,
+    "title": "You Were Never Really Here - Clip: Hardware Store | Amazon Studios",
+    "views": 34646
+   },
+   {
+    "channel": "JoBlo Movie Clips",
+    "duration": 178,
+    "id": "7fXhx5Bc8CE",
+    "score": 7.15,
+    "title": "Driving Scene | YOU WERE NEVER REALLY HERE (2017) Movie CLIP HD",
+    "views": 3466
+   },
+   {
+    "channel": "Prime Movies",
+    "duration": 106,
+    "id": "a8rxo2QozdU",
+    "score": 7.04,
+    "title": "You Were Never Really Here - Clip: Opening | Amazon Studios",
+    "views": 11852
+   }
+  ],
+  "channel": "LUCÄS RENTØN",
+  "duration": 285,
+  "end": 124,
+  "heat": "",
+  "pick": "estimated",
+  "query": "You Were Never Really Here hammer scene CCTV",
+  "start": 94,
+  "status": "ok",
+  "title": "You Were Never Really Here - Hammer Fight in Apartment Scene (1080p)",
+  "video": "lT6JM1K7o1U",
+  "views": 152074
  },
  "zatoichi-2003-zatoichi-vs-hattori-duel": {
   "alts": [

@@ -95,7 +95,7 @@ def scene_id(scene):
 
 
 # Channels that post real combat footage, documentaries, recaps or animated history, not film scenes.
-BAD_CHANNELS = {"vgs - video game sophistication", "insider", "godzilla reacts", "funker530 - veteran community & combat footage", "funker530", "yarnhub", "war&history", "bocah spoiler",
+BAD_CHANNELS = {"ap archive", "british pathé", "vgs - video game sophistication", "insider", "godzilla reacts", "funker530 - veteran community & combat footage", "funker530", "yarnhub", "war&history", "bocah spoiler",
                 "simple history", "kings and generals", "epic history tv", "the great war", "mark felton productions"}
 
 

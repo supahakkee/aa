@@ -1,0 +1,5733 @@
+[
+  {
+    "film": "John Wick",
+    "year": 2014,
+    "scene": "Home-invasion fight at John's house",
+    "query": "John Wick house fight scene home invasion",
+    "what_happens": "Viggo sends a twelve-man hit squad to John Wick's house at night; back in his old life, John moves through the dark rooms killing them one by one with pistols, knives and judo throws.",
+    "why": "The first showcase of the series' gun-fu: throws flow straight into point-blank shots, held in clean, wide takes. It established a style in which the star visibly performs the fighting himself.",
+    "director": "Chad Stahelski",
+    "country": "USA",
+    "craft": [
+      "DP: Jonathan Sela"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "ambush"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "John Wick's house outside New York, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun",
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "wide_framing",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "keanu reeves",
+      "home invasion",
+      "viggo",
+      "judo throws",
+      "gun-fu",
+      "cleaners"
+    ]
+  },
+  {
+    "film": "John Wick: Chapter 2",
+    "year": 2017,
+    "scene": "Hall-of-mirrors finale ('Reflections of the Soul')",
+    "query": "John Wick Chapter 2 mirror room fight scene",
+    "what_happens": "Wick pursues Santino into a museum art installation of mirrored rooms, where reflections multiply every gunman; he fights through Santino's bodyguards as glass shatters and his own image surrounds him.",
+    "why": "The set becomes a puzzle: mirrors multiply the threat and confuse the eye, yet wide, steady framing keeps each kill readable. Colour-washed glass turns gun-fu into a gallery piece.",
+    "director": "Chad Stahelski",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Mirrored art installation in a New York museum, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "neon",
+      "debris_sparks"
+    ],
+    "mood": [
+      "stylish",
+      "surreal",
+      "tense"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "gun_fu",
+      "wide_framing",
+      "color_grading",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "mirror maze",
+      "reflections of the soul",
+      "keanu reeves",
+      "santino",
+      "art installation",
+      "museum"
+    ]
+  },
+  {
+    "film": "John Wick: Chapter 3 – Parabellum",
+    "year": 2019,
+    "scene": "Antique knife-throwing fight",
+    "query": "John Wick 3 knife fight scene antique",
+    "what_happens": "Ambushed among glass cases of antique blades, Wick and a squad of assassins smash the displays and hurl knife after knife at one another, until he ends it with a relentless barrage of thrown blades.",
+    "why": "A gag built from one prop: the fight escalates by grabbing whatever blade is nearest. Long, wide takes and the rhythm of real throws make it funny and brutal at once, a model of environmental choreography.",
+    "director": "Chad Stahelski",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Antique-weapons collection in Manhattan, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "mall_store"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "playful",
+      "relentless"
+    ],
+    "combatants": [
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "knife",
+      "improvised",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "single_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "knife throwing",
+      "antique knives",
+      "display cases",
+      "excommunicado",
+      "keanu reeves",
+      "glass"
+    ]
+  },
+  {
+    "film": "John Wick: Chapter 3 – Parabellum",
+    "year": 2019,
+    "scene": "Horseback chase through Manhattan",
+    "query": "John Wick 3 horse chase scene",
+    "what_happens": "After fighting off gunmen in a stable by turning the horses' kicks on them, Wick gallops through Manhattan's night traffic on horseback, pursued by motorcycle gunmen he shoots from the saddle.",
+    "why": "Anachronism as spectacle: a horse among taxis and buses. Real riding stunts on city streets, with camera vehicles tracking at hoof level, make an absurd chase feel physical rather than digital.",
+    "director": "Chad Stahelski",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Manhattan streets at night, present day",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "stylish",
+      "relentless",
+      "playful"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [
+      "horse",
+      "motorcycle",
+      "car"
+    ],
+    "technique": [
+      "practical_stunts",
+      "tracking_shot",
+      "real_location",
+      "vehicle_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "horseback",
+      "manhattan",
+      "stables",
+      "horse kicks",
+      "keanu reeves",
+      "motorcycle gunmen"
+    ]
+  },
+  {
+    "film": "John Wick: Chapter 4",
+    "year": 2023,
+    "scene": "Fight through the traffic around the Arc de Triomphe",
+    "query": "John Wick 4 Arc de Triomphe fight scene",
+    "what_happens": "Racing to a dawn duel, Wick is caught in the night traffic circling the Arc de Triomphe and fights a horde of bounty hunters among speeding cars, shooting, brawling and being struck by vehicles again and again.",
+    "why": "The roundabout becomes a lethal conveyor belt. Stunt performers time falls and car hits to the circling traffic, and wide angles keep the geography clear, so the chaos stays legible.",
+    "director": "Chad Stahelski",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Arc de Triomphe roundabout, Paris, present day",
+    "region": "western_europe",
+    "environment": [
+      "plaza_square",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "stylish"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "fists_feet",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "practical_stunts",
+      "gun_fu",
+      "wide_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "arc de triomphe",
+      "paris traffic",
+      "roundabout",
+      "hit by cars",
+      "bounty hunters",
+      "keanu reeves"
+    ],
+    "video": "-JB2AG7iad0"
+  },
+  {
+    "film": "Ballerina",
+    "year": 2025,
+    "scene": "Flamethrower fight in the alpine village",
+    "query": "Ballerina flamethrower fight scene",
+    "what_happens": "Hunted through a snowbound alpine village whose residents are all cult assassins, Eve seizes a flamethrower and torches attackers through houses and streets, then counters a flamethrower-wielding enemy with a fire hose.",
+    "why": "Wiseman stages a duel of elements, fire against water. Wide frames let the practical flames and stunt burns read clearly, and each new weapon resets the rhythm of the fight.",
+    "director": "Len Wiseman",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "duel"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Cult village in the Austrian Alps, present day",
+    "region": "western_europe",
+    "environment": [
+      "village",
+      "snow_ice",
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "snow",
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "flamethrower",
+      "improvised",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "practical_stunts",
+      "wide_framing",
+      "gun_fu"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ana de armas",
+      "eve macarro",
+      "flamethrower",
+      "fire hose",
+      "hallstatt",
+      "john wick universe"
+    ]
+  },
+  {
+    "film": "Mission: Impossible III",
+    "year": 2006,
+    "scene": "Drone attack on the convoy across the bridge",
+    "query": "Mission Impossible 3 bridge attack scene",
+    "what_happens": "Davian's mercenaries ambush the IMF convoy carrying him across a long causeway bridge, a drone firing missiles that flip cars, and Hunt is hurled sideways into a car by a blast as Davian is freed.",
+    "why": "Abrams keeps the camera close to Cruise as explosions throw vehicles around him; the famous sideways slam into a parked car sells the scale of the blast through a single body.",
+    "director": "J. J. Abrams",
+    "country": "USA",
+    "craft": [
+      "DP: Dan Mindel",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Causeway bridge over Chesapeake Bay, Virginia, present day",
+    "region": "usa",
+    "environment": [
+      "bridge",
+      "highway"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "mercenaries"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "automatic_weapons",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "practical_explosions",
+      "practical_stunts",
+      "handheld",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "chesapeake bay bridge",
+      "drone strike",
+      "owen davian",
+      "convoy ambush",
+      "tom cruise",
+      "philip seymour hoffman"
+    ]
+  },
+  {
+    "film": "Mission: Impossible – Ghost Protocol",
+    "year": 2011,
+    "scene": "Moscow prison break to Dean Martin",
+    "query": "Mission Impossible Ghost Protocol prison escape scene",
+    "what_happens": "As Benji remotely unlocks the cells of a Moscow prison, a riot erupts; Hunt strolls through the chaos to free an informant, fighting inmates and guards while a Dean Martin song plays over the speakers.",
+    "why": "Brad Bird, moving from animation to live action, choreographs the riot around clear goals and comic counterpoint: Cruise's calm walk against escalating chaos and a crooner's tune.",
+    "director": "Brad Bird",
+    "country": "USA",
+    "craft": [
+      "DP: Robert Elswit",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "escape",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Prison in Moscow, present day",
+    "region": "russia",
+    "environment": [
+      "prison",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "playful",
+      "chaotic",
+      "stylish"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "practical_stunts",
+      "large_crowds",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "tom cruise",
+      "simon pegg",
+      "dean martin",
+      "prison riot",
+      "bogdan",
+      "moscow"
+    ]
+  },
+  {
+    "film": "Mission: Impossible – Rogue Nation",
+    "year": 2015,
+    "scene": "Assassination plot at the Vienna State Opera",
+    "query": "Mission Impossible Rogue Nation opera scene Turandot",
+    "what_happens": "During a performance of Turandot at the Vienna State Opera, Hunt hunts the snipers targeting the Austrian chancellor, fighting one in the rigging above the stage while Ilsa Faust lines up her own shot.",
+    "why": "McQuarrie cuts the fight to the opera's score and lands the crucial gunshot on a sung climax. Cross-cutting between stage, rigging and audience builds suspense from geography and timing rather than speed.",
+    "director": "Christopher McQuarrie",
+    "country": "USA",
+    "craft": [
+      "DP: Robert Elswit",
+      "Editor: Eddie Hamilton",
+      "Composer: Joe Kraemer"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "stealth_infiltration",
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Vienna State Opera during Turandot, present day",
+    "region": "western_europe",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "graceful"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "sniper_rifle",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cross_cutting",
+      "score_driven",
+      "sound_design",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "vienna state opera",
+      "turandot",
+      "nessun dorma",
+      "ilsa faust",
+      "flute rifle",
+      "rigging"
+    ]
+  },
+  {
+    "film": "Mission: Impossible – The Final Reckoning",
+    "year": 2025,
+    "scene": "Dive into the sunken submarine Sevastopol",
+    "query": "Mission Impossible Final Reckoning submarine scene",
+    "what_happens": "Hunt dives to the wreck of the Russian submarine Sevastopol in Arctic waters, edging through its flooded compartments as the hull rolls on the seabed and torpedoes slide loose, then sheds his diving suit for a desperate ascent.",
+    "why": "A near-wordless sequence built on a huge rotating set in a water tank: the interior turns around Cruise, so gravity, water and debris move for real. Silence and breathing carry the suspense.",
+    "director": "Christopher McQuarrie",
+    "country": "USA",
+    "craft": [
+      "DP: Fraser Taggart",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "scene_type": "stunt.set_piece",
+    "format": [
+      "escape"
+    ],
+    "scale": "solo",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Wreck of the submarine Sevastopol in Arctic waters, present day",
+    "region": "polar",
+    "environment": [
+      "submarine_interior",
+      "underwater"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "relentless",
+      "terrifying"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "stunt_hero"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "submarine"
+    ],
+    "technique": [
+      "rotating_set",
+      "underwater_filming",
+      "practical_stunts",
+      "silence",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "sevastopol",
+      "sunken submarine",
+      "torpedo",
+      "diving suit",
+      "tom cruise",
+      "rotating set"
+    ]
+  },
+  {
+    "film": "Casino Royale",
+    "year": 2006,
+    "scene": "Black-and-white prologue: Bond's first kills",
+    "query": "Casino Royale opening scene black and white bathroom fight",
+    "what_happens": "In stark black and white, Bond confronts a corrupt section chief in his Prague office, intercut with his first kill: a savage public-bathroom fight in which he half-drowns his target in a sink before shooting him.",
+    "why": "Campbell reboots Bond through contrast: a quiet, controlled office scene against handheld, clumsy, desperate violence. Grainy monochrome and the gun-barrel shot born from the fight announce a rawer 007.",
+    "director": "Martin Campbell",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Phil Méheux",
+      "Composer: David Arnold"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Prague office and a public bathroom, Bond's first kills",
+    "region": "eastern_europe",
+    "environment": [
+      "building_interior",
+      "office_tower"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "gritty",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "cross_cutting",
+      "handheld",
+      "fast_cutting"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "daniel craig",
+      "first kill",
+      "bathroom",
+      "gun barrel",
+      "dryden",
+      "prague"
+    ],
+    "video": "I4fTKmbtu8E"
+  },
+  {
+    "film": "Casino Royale",
+    "year": 2006,
+    "scene": "Sinking palazzo in Venice",
+    "query": "Casino Royale Venice building sinking scene",
+    "what_happens": "Bond chases Vesper's captors into a Venetian palazzo under renovation; gunfire ruptures the flotation bags holding it up, the building sinks into the Grand Canal as he fights, and Vesper drowns in a lift cage.",
+    "why": "The set is the antagonist. A tilting, flooding build lets the fight unfold while the floor drops away, and the underwater finale turns spectacle into grief.",
+    "director": "Martin Campbell",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Phil Méheux",
+      "Composer: David Arnold"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rescue",
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Palazzo on the Grand Canal, Venice, present day",
+    "region": "southern_europe",
+    "environment": [
+      "palace_mansion",
+      "underwater",
+      "river_lake"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tragic",
+      "chaotic",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "underwater_filming",
+      "cgi",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "vesper lynd",
+      "eva green",
+      "sinking palazzo",
+      "grand canal",
+      "nail gun",
+      "drowning"
+    ],
+    "video": "k5qV5XAEeuw"
+  },
+  {
+    "film": "Skyfall",
+    "year": 2012,
+    "scene": "Shanghai skyscraper fight in silhouette",
+    "query": "Skyfall Shanghai fight scene silhouette",
+    "what_happens": "High in a glass Shanghai tower, Bond watches the assassin Patrice shoot a man across the street, then fights him hand to hand in silhouette against a giant shifting neon advertisement until Patrice falls.",
+    "why": "Deakins lights the fight almost entirely from the video screens outside the glass, reducing the fighters to silhouettes. One wide, mostly static frame makes the choreography read as pure shape and movement.",
+    "director": "Sam Mendes",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Roger Deakins",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song",
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Office tower in Shanghai's Pudong district, present day",
+    "region": "china",
+    "environment": [
+      "office_tower",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "graceful",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "sniper_rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "silhouette",
+      "wide_framing",
+      "color_grading",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "roger deakins",
+      "silhouette fight",
+      "neon jellyfish",
+      "patrice",
+      "shanghai",
+      "glass tower"
+    ]
+  },
+  {
+    "film": "No Time to Die",
+    "year": 2021,
+    "scene": "Santiago de Cuba party shootout with Paloma",
+    "query": "No Time to Die Paloma fight scene Cuba",
+    "what_happens": "At a Spectre party in Santiago de Cuba, Bond teams up with nervous rookie CIA agent Paloma; when the night turns deadly she fights in an evening gown, kicking and shooting her way through gunmen with glee.",
+    "why": "Fukunaga keeps the action wide and breezy so Ana de Armas's kicks and shots read cleanly. A short set-piece that steals the film by mixing glamour, comic timing and crisp physical action.",
+    "director": "Cary Joji Fukunaga",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Linus Sandgren",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "small_group_fight",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Spectre party in Santiago de Cuba, present day",
+    "region": "latin_america",
+    "environment": [
+      "nightclub_bar",
+      "palace_mansion",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "gun_fu"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "ana de armas",
+      "paloma",
+      "daniel craig",
+      "evening gown",
+      "santiago de cuba",
+      "cia"
+    ]
+  },
+  {
+    "film": "No Time to Die",
+    "year": 2021,
+    "scene": "Stairwell one-take on Safin's island",
+    "query": "No Time to Die stairwell fight scene one take",
+    "what_happens": "Storming Safin's island base, Bond fights his way up a concrete stairwell floor by floor, shooting and grappling with a stream of guards in what plays as one continuous shot.",
+    "why": "An apparently unbroken climb that mixes gunplay with close-quarters fighting. The camera rises with Craig, holding geography and exhaustion, borrowing the long-take vocabulary of modern action cinema.",
+    "director": "Cary Joji Fukunaga",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Linus Sandgren",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "assault_raid"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Safin's island base in waters disputed by Russia and Japan",
+    "region": "russia",
+    "environment": [
+      "stairwell",
+      "military_base"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "smoke",
+      "strobe_flash"
+    ],
+    "mood": [
+      "relentless",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen",
+      "mercenaries"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "gun_fu",
+      "tracking_shot",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "stairwell oner",
+      "single take",
+      "safin",
+      "daniel craig",
+      "island base",
+      "final mission"
+    ],
+    "video": "gqc2nBmhbgM"
+  },
+  {
+    "film": "The Bourne Legacy",
+    "year": 2012,
+    "scene": "Manila rooftop and motorbike chase",
+    "query": "Bourne Legacy Manila motorcycle chase scene",
+    "what_happens": "Hunted by Manila police and a chemically enhanced assassin, Aaron Cross and Dr Marta Shearing escape across corrugated rooftops, then weave a motorbike through dense traffic until the assassin is sent crashing.",
+    "why": "Gilroy keeps the series' handheld immediacy but holds shots longer, so the real stunt riding through traffic reads clearly. Geography stays legible across rooftops, streets and bikes.",
+    "director": "Tony Gilroy",
+    "country": "USA",
+    "craft": [
+      "DP: Robert Elswit"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "escape",
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Rooftops and streets of Manila, present day",
+    "region": "southeast_asia",
+    "environment": [
+      "rooftops",
+      "city_street",
+      "slum_shantytown"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "heat_sun"
+    ],
+    "mood": [
+      "relentless",
+      "tense",
+      "chaotic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen",
+      "police"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [
+      "motorcycle",
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "real_location",
+      "handheld",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "jeremy renner",
+      "aaron cross",
+      "rachel weisz",
+      "manila",
+      "rooftops",
+      "motorbike chase"
+    ]
+  },
+  {
+    "film": "Jason Bourne",
+    "year": 2016,
+    "scene": "Las Vegas Strip SWAT-truck chase",
+    "query": "Jason Bourne Las Vegas chase scene SWAT truck",
+    "what_happens": "The Asset commandeers a SWAT armoured truck and smashes it down the crowded Las Vegas Strip, ploughing through dozens of cars, while Bourne chases him through the wreckage in a muscle car until both crash into a casino.",
+    "why": "Greengrass pushes his handheld, fast-cut style to its limit, with real cars destroyed on the Strip. Study the trade-off between visceral immediacy and spatial clarity.",
+    "director": "Paul Greengrass",
+    "country": "USA",
+    "craft": [
+      "DP: Barry Ackroyd",
+      "Editor: Christopher Rouse"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Las Vegas Strip at night, present day",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "hotel"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "relentless"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen",
+      "police"
+    ],
+    "weapons": [
+      "vehicle_as_weapon",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "truck",
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "handheld",
+      "fast_cutting",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "swat truck",
+      "las vegas strip",
+      "vincent cassel",
+      "the asset",
+      "pile-up",
+      "matt damon"
+    ]
+  },
+  {
+    "film": "Extraction 2",
+    "year": 2023,
+    "scene": "Prison riot and escape in one take",
+    "query": "Extraction 2 prison oner scene",
+    "what_happens": "Tyler Rake breaks a gangster's ex-wife and her children out of a Georgian prison, fighting through a full-scale riot of inmates and guards in the yard before a car chase out of the compound, all in one apparent take.",
+    "why": "Hargrave, a former stuntman, stitches hidden cuts into a single moving camera that follows Rake through crowds and vehicles. Hundreds of extras and rehearsed beats make the long take feel improvised.",
+    "director": "Sam Hargrave",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "escape"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Prison in the country of Georgia, present day",
+    "region": "eastern_europe",
+    "environment": [
+      "prison",
+      "highway"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "mercenaries",
+      "gangsters",
+      "police"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "automatic_weapons",
+      "knife"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "long_take",
+      "practical_stunts",
+      "large_crowds",
+      "vehicle_stunts",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "chris hemsworth",
+      "tyler rake",
+      "prison riot",
+      "one-take",
+      "sam hargrave",
+      "netflix"
+    ]
+  },
+  {
+    "film": "Hanna",
+    "year": 2011,
+    "scene": "Erik Heller's single-take fight in the U-Bahn",
+    "query": "Hanna Eric Bana subway fight one take",
+    "what_happens": "Former agent Erik Heller walks off a bus and down into a Berlin underground station, tailed by a team of operatives, then turns and takes them all down with brutal close-quarters moves, in one continuous shot.",
+    "why": "Wright's Steadicam follows Bana from street to platform without a cut, so tension builds in real time before the explosive fight. The Chemical Brothers' pulse sets the pacing.",
+    "director": "Joe Wright",
+    "country": "UK/USA/Germany",
+    "craft": [
+      "DP: Alwin Küchler",
+      "Composer: The Chemical Brothers"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "thriller",
+      "spy"
+    ],
+    "era": "contemporary",
+    "period": "Underground station in Berlin, present day",
+    "region": "western_europe",
+    "environment": [
+      "train_station",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "gritty",
+      "graceful"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "long_take",
+      "steadicam",
+      "score_driven",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "eric bana",
+      "erik heller",
+      "u-bahn",
+      "single take",
+      "chemical brothers",
+      "berlin"
+    ],
+    "video": "8Gvj2xE9ZA0"
+  },
+  {
+    "film": "The Raid",
+    "year": 2011,
+    "scene": "Mad Dog vs. Jaka",
+    "query": "The Raid Jaka vs Mad Dog fight scene",
+    "what_happens": "Mad Dog captures Sergeant Jaka, then lays down his gun and invites him to fight bare-handed; in a cramped, dim room the wiry enforcer outlasts and brutally kills the bigger cop.",
+    "why": "Yayan Ruhian's speed and cruelty define the villain before his famous later fight. Evans stages long, wide silat exchanges, showing technique and exhaustion rather than cutting around them.",
+    "director": "Gareth Evans",
+    "country": "Indonesia",
+    "craft": [
+      "Fight choreography: Iko Uwais, Yayan Ruhian"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Gang-held tower block in Jakarta, present day",
+    "region": "southeast_asia",
+    "environment": [
+      "building_interior",
+      "apartment_house"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "single_location",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "indonesian",
+    "keywords": [
+      "yayan ruhian",
+      "mad dog",
+      "joe taslim",
+      "jaka",
+      "silat",
+      "drops the gun"
+    ]
+  },
+  {
+    "film": "Exiled",
+    "year": 2006,
+    "scene": "Red Bull can showdown in the hotel lobby",
+    "query": "Exiled final shootout Red Bull can",
+    "what_happens": "Facing the gang boss and his men across a hotel lobby, the four friends send a can of Red Bull spinning into the air; when it lands they open fire, and the slow, smoke-filled shootout leaves almost no one standing.",
+    "why": "Johnnie To choreographs gunfights like Leone duels: still compositions, ritual gestures and a single cue for violence, then operatic slow motion and drifting smoke. Pure staging over cutting.",
+    "director": "Johnnie To",
+    "country": "Hong Kong",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "standoff",
+      "small_group_fight"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "action",
+      "noir"
+    ],
+    "era": "late_20th_century",
+    "period": "Hotel lobby in Macau on the eve of the 1999 handover",
+    "region": "hong_kong",
+    "environment": [
+      "hotel"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "stylish",
+      "tragic",
+      "tense"
+    ],
+    "combatants": [
+      "triads_yakuza",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "wide_framing",
+      "gun_fu",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "cantonese",
+    "keywords": [
+      "red bull can",
+      "johnnie to",
+      "anthony wong",
+      "francis ng",
+      "macau",
+      "milkyway image"
+    ]
+  },
+  {
+    "film": "Drug War",
+    "year": 2012,
+    "scene": "Final shootout outside the primary school",
+    "query": "Drug War final shootout scene Johnnie To",
+    "what_happens": "A sting on a drug syndicate collapses into an all-out gun battle on the street outside a primary school, police and traffickers firing from behind buses and cars as officers fall one by one.",
+    "why": "To strips the shootout of glamour: deliberate wide compositions, long sustained exchanges and quick, unsentimental deaths. A Hong Kong master making procedural realism the style.",
+    "director": "Johnnie To",
+    "country": "China/Hong Kong",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "team_vs_team",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Street outside a primary school in a northern Chinese port city",
+    "region": "china",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "gritty",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun",
+      "rifle",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "bus",
+      "car"
+    ],
+    "technique": [
+      "wide_framing",
+      "real_location",
+      "sound_design",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "mandarin",
+    "keywords": [
+      "johnnie to",
+      "louis koo",
+      "sun honglei",
+      "drug syndicate",
+      "school bus",
+      "sting operation"
+    ]
+  },
+  {
+    "film": "Ip Man 3",
+    "year": 2015,
+    "scene": "Elevator fight with the Muay Thai boxer",
+    "query": "Ip Man 3 elevator fight scene",
+    "what_happens": "Ip Man is set upon by a hired Muay Thai fighter in a narrow stairwell and inside a cramped elevator, trading elbows, knees and wing chun strikes in a space barely wider than the two men.",
+    "why": "Yuen Woo-ping turns confinement into choreography: walls, rails and the closing doors shape every exchange, contrasting Muay Thai elbows with wing chun's close-range economy.",
+    "director": "Wilson Yip",
+    "country": "Hong Kong",
+    "craft": [
+      "Action director: Yuen Woo-ping"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel",
+      "ambush"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Apartment building in Hong Kong, 1959",
+    "region": "hong_kong",
+    "environment": [
+      "stairwell",
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "brutal",
+      "graceful"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "single_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "keywords": [
+      "donnie yen",
+      "muay thai",
+      "elevator fight",
+      "wing chun",
+      "stairwell",
+      "yuen woo-ping"
+    ]
+  },
+  {
+    "film": "Ip Man 4: The Finale",
+    "year": 2019,
+    "scene": "Final fight vs. Barton Geddes",
+    "query": "Ip Man 4 final fight Scott Adkins",
+    "what_happens": "Ill with cancer and defending the honour of San Francisco's Chinese community, Ip Man faces Marine gunnery sergeant Barton Geddes, a karate-trained bully, and gradually breaks him down with wing chun.",
+    "why": "Yuen Woo-ping contrasts styles: Scott Adkins' powerful kicks and strikes against Donnie Yen's compact, economical wing chun. Wide framing lets both performers' speed show.",
+    "director": "Wilson Yip",
+    "country": "Hong Kong",
+    "craft": [
+      "Action director: Yuen Woo-ping"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "US Marine base near San Francisco, 1964",
+    "region": "usa",
+    "environment": [
+      "military_base",
+      "dojo_gym"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "brutal",
+      "intimate"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "cold_war_soldiers"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "cantonese",
+    "keywords": [
+      "donnie yen",
+      "scott adkins",
+      "wing chun",
+      "karate",
+      "marines",
+      "san francisco chinatown"
+    ]
+  },
+  {
+    "film": "Unleashed",
+    "year": 2005,
+    "scene": "Bathroom fight in the cramped toilet",
+    "query": "Unleashed Jet Li bathroom fight scene",
+    "what_happens": "Danny, raised as a human attack dog, fights a skilled assassin inside a cramped public toilet, the pair using cubicle walls, sinks and toilet bowls in a rapid-fire close-quarters exchange.",
+    "why": "Yuen Woo-ping designs the fight for a space barely wider than the fighters, turning walls into weapons and squeezing the camera in with them. A model for confined-space choreography.",
+    "director": "Louis Leterrier",
+    "country": "France/UK/USA",
+    "craft": [
+      "Action director: Yuen Woo-ping",
+      "Composer: Massive Attack"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Public toilet in Glasgow, mid-2000s",
+    "region": "british_isles",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "single_location",
+      "practical_stunts",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "jet li",
+      "danny the dog",
+      "bathroom fight",
+      "yuen woo-ping",
+      "confined space",
+      "glasgow"
+    ]
+  },
+  {
+    "film": "Monkey Man",
+    "year": 2024,
+    "scene": "Final assault on the Kings club",
+    "query": "Monkey Man final fight scene",
+    "what_happens": "Kid storms the Kings club tower to reach the corrupt police chief who murdered his mother, battling guards through its corridors with knives and fists, joined by a band of hijra fighters.",
+    "why": "Patel shoots tight and handheld, mixing Indian action-cinema energy with John Wick-style continuity. Blood, neon and a frantic score make the revenge feel ritual and messy rather than slick.",
+    "director": "Dev Patel",
+    "country": "USA",
+    "craft": [
+      "DP: Sharone Meir"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "assault_raid",
+      "one_vs_many"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Kings club tower in the fictional Indian city of Yatana",
+    "region": "south_asia",
+    "environment": [
+      "nightclub_bar",
+      "corridor",
+      "stairwell"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "relentless",
+      "heroic"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "police",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "knife",
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "tight_framing",
+      "practical_stunts",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "dev patel",
+      "kid",
+      "hijra",
+      "revenge",
+      "yatana",
+      "hanuman"
+    ]
+  },
+  {
+    "film": "Wind River",
+    "year": 2017,
+    "scene": "Standoff at the drilling site",
+    "query": "Wind River standoff shootout scene",
+    "what_happens": "FBI agent Jane Banner and reservation police confront a drilling crew's security men at their trailers; accusations escalate into a ring of drawn guns, then a sudden, deafening close-range firefight while tracker Cory covers from a ridge.",
+    "why": "Sheridan lets tension rise through talk and widening gun barrels, then makes the shooting abrupt, loud and ugly. Realistic sound and plain framing deny any heroics.",
+    "director": "Taylor Sheridan",
+    "country": "USA",
+    "craft": [
+      "DP: Ben Richardson"
+    ],
+    "accolades": [
+      "Cannes Un Certain Regard: Best Director"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "standoff",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "crime",
+      "western"
+    ],
+    "era": "contemporary",
+    "period": "Drilling site on the Wind River Reservation, Wyoming, winter",
+    "region": "usa",
+    "environment": [
+      "snow_ice",
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "gritty"
+    ],
+    "combatants": [
+      "federal_agents",
+      "police",
+      "mercenaries"
+    ],
+    "weapons": [
+      "rifle",
+      "shotgun",
+      "handgun",
+      "sniper_rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "real_location",
+      "wide_framing",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "mexican standoff",
+      "elizabeth olsen",
+      "jeremy renner",
+      "drilling rig",
+      "wyoming",
+      "sniper cover"
+    ]
+  },
+  {
+    "film": "Sicario: Day of the Soldado",
+    "year": 2018,
+    "scene": "Convoy ambush by the Mexican police escort",
+    "query": "Sicario Day of the Soldado convoy ambush scene",
+    "what_happens": "Escorting a cartel boss's kidnapped daughter back toward the border, Matt Graver's armoured convoy is turned on by its Mexican police escort; the Americans answer with overwhelming firepower in a short, savage battle on a desert road.",
+    "why": "Sollima stages the ambush with a cold, procedural eye: wide desert frames, sudden escalation and heavy-calibre sound. Violence is shown as overwhelming force rather than heroics.",
+    "director": "Stefano Sollima",
+    "country": "USA",
+    "craft": [
+      "Composer: Hildur Guðnadóttir"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "team_vs_team"
+    ],
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Desert highway in northern Mexico, present day",
+    "region": "latin_america",
+    "environment": [
+      "highway",
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "smoke",
+      "heat_sun"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "special_forces",
+      "police",
+      "federal_agents"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "wide_framing",
+      "sound_design",
+      "real_location",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "josh brolin",
+      "benicio del toro",
+      "isabela merced",
+      "armoured convoy",
+      "mexican police",
+      "border"
+    ]
+  },
+  {
+    "film": "Public Enemies",
+    "year": 2009,
+    "scene": "Little Bohemia Lodge shootout",
+    "query": "Public Enemies Little Bohemia shootout scene",
+    "what_happens": "FBI agents surround the Little Bohemia Lodge in the Wisconsin woods at night; Dillinger's gang shoots its way out, and Purvis duels Baby Face Nelson among the trees as Tommy guns light up the dark.",
+    "why": "Mann shot on high-definition digital video, so muzzle flashes light the forest and the night feels immediate rather than glossy. Handheld coverage and harsh gunfire make 1934 feel like news footage.",
+    "director": "Michael Mann",
+    "country": "USA",
+    "craft": [
+      "DP: Dante Spinotti"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "drama",
+      "action"
+    ],
+    "era": "early_20th_century",
+    "period": "Little Bohemia Lodge, northern Wisconsin, April 1934",
+    "region": "usa",
+    "environment": [
+      "forest",
+      "hotel"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "gritty"
+    ],
+    "combatants": [
+      "federal_agents",
+      "gangsters"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "natural_light",
+      "real_location",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "john dillinger",
+      "baby face nelson",
+      "tommy guns",
+      "digital video",
+      "johnny depp",
+      "melvin purvis"
+    ]
+  },
+  {
+    "film": "Den of Thieves",
+    "year": 2018,
+    "scene": "Shootout in the downtown traffic jam",
+    "query": "Den of Thieves traffic shootout scene",
+    "what_happens": "Fleeing a Federal Reserve heist, Merrimen's crew is trapped in gridlocked Los Angeles traffic; sheriff's detectives close in, and a brutal firefight erupts among the stalled cars and terrified commuters.",
+    "why": "Gudegast stages a modern homage to Heat: realistic weapon handling, cover-to-cover movement and loud, punishing sound inside a confined, civilian-packed space.",
+    "director": "Christian Gudegast",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "standoff",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "heist",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Gridlocked traffic near downtown Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "highway",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "gritty",
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "police",
+      "gangsters",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "handgun"
+    ],
+    "vehicles": [
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "handheld",
+      "sound_design",
+      "wide_framing",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "gerard butler",
+      "pablo schreiber",
+      "traffic jam",
+      "federal reserve heist",
+      "heat homage",
+      "50 cent"
+    ],
+    "video": "jT20TRSZh3A"
+  },
+  {
+    "film": "Killing Them Softly",
+    "year": 2012,
+    "scene": "Slow-motion hit on Markie in the rain",
+    "query": "Killing Them Softly slow motion shooting scene",
+    "what_happens": "Hitman Jackie Cogan pulls up beside Markie Trattman's car on a rainy night and fires into it; in extreme slow motion, glass, raindrops and shell casings drift through the air as Markie dies to a dreamy 1960s ballad.",
+    "why": "Dominik turns a killing into an aria: high-speed photography isolates every fragment while a gentle love song plays against the violence. A study of slow motion as irony rather than spectacle.",
+    "director": "Andrew Dominik",
+    "country": "USA",
+    "craft": [
+      "DP: Greig Fraser"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "contemporary",
+    "period": "Rain-soaked street at night, autumn 2008",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "car_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "rain",
+      "debris_sparks"
+    ],
+    "mood": [
+      "stylish",
+      "melancholic",
+      "brutal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "slow_motion",
+      "sound_design",
+      "score_driven",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "brad pitt",
+      "jackie cogan",
+      "ray liotta",
+      "love letters",
+      "slow-motion bullets",
+      "rain"
+    ]
+  },
+  {
+    "film": "A History of Violence",
+    "year": 2005,
+    "scene": "Diner hold-up and Tom's lightning response",
+    "query": "A History of Violence diner scene",
+    "what_happens": "Two drifting killers hold up Tom Stall's small-town diner at closing time; when one threatens a waitress, the mild owner moves in a blur, smashing a coffee pot into a face, seizing a gun and shooting both men dead.",
+    "why": "Cronenberg makes violence sudden, efficient and ugly, with no slow motion and a frank look at the wounds. The speed of the action itself reveals that Tom is not who he seems.",
+    "director": "David Cronenberg",
+    "country": "USA/Canada",
+    "craft": [
+      "DP: Peter Suschitzky",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "small_group_fight",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "thriller",
+      "crime",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Stall's Diner, Millbrook, Indiana, present day",
+    "region": "usa",
+    "environment": [
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "brutal",
+      "gritty"
+    ],
+    "combatants": [
+      "civilians",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "single_location",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "viggo mortensen",
+      "tom stall",
+      "coffee pot",
+      "small town",
+      "hidden past",
+      "cronenberg"
+    ],
+    "video": "hFoeoIi_k3g"
+  },
+  {
+    "film": "You Were Never Really Here",
+    "year": 2017,
+    "scene": "Hammer raid on the brothel seen through CCTV",
+    "query": "You Were Never Really Here hammer scene CCTV",
+    "what_happens": "To rescue a senator's abducted daughter, hired enforcer Joe walks into a guarded Manhattan brothel with a ball-peen hammer; the violence plays almost entirely on grainy black-and-white security-camera monitors.",
+    "why": "Ramsay withholds the action: fixed CCTV angles, cut between floors, make the violence clinical and distant while sound and Jonny Greenwood's score carry the dread. Restraint as a stylistic weapon.",
+    "director": "Lynne Ramsay",
+    "country": "UK/USA",
+    "craft": [
+      "Composer: Jonny Greenwood"
+    ],
+    "accolades": [
+      "Cannes: Best Actor",
+      "Cannes: Best Screenplay"
+    ],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "rescue",
+      "assault_raid"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "thriller",
+      "crime",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Guarded brownstone brothel in Manhattan, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "corridor",
+      "stairwell"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "melancholic"
+    ],
+    "combatants": [
+      "thugs_henchmen",
+      "civilians"
+    ],
+    "weapons": [
+      "axe_mace",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "score_driven",
+      "single_location",
+      "silence"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "joaquin phoenix",
+      "hammer",
+      "cctv",
+      "rescue",
+      "lynne ramsay",
+      "security monitors"
+    ]
+  },
+  {
+    "film": "The Killer",
+    "year": 2023,
+    "scene": "Fight with the Brute in the Florida house",
+    "query": "The Killer Fincher fight scene the Brute",
+    "what_happens": "Hunting the people who attacked his partner, the Killer breaks into the dark Florida house of a hulking enforcer, the Brute, and a vicious brawl rages through the rooms with whatever comes to hand.",
+    "why": "Fincher stages the fight with almost no music, low light and grounded choreography, so every smash and gasp is heard. Exhaustion and clumsiness make a cool professional suddenly vulnerable.",
+    "director": "David Fincher",
+    "country": "USA",
+    "craft": [
+      "DP: Erik Messerschmidt",
+      "Composers: Trent Reznor, Atticus Ross"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "thriller",
+      "crime",
+      "noir"
+    ],
+    "era": "contemporary",
+    "period": "The Brute's house in Florida, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "silence",
+      "practical_stunts",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "michael fassbender",
+      "the brute",
+      "david fincher",
+      "netflix",
+      "florida",
+      "fight in the dark"
+    ]
+  },
+  {
+    "film": "Inglourious Basterds",
+    "year": 2009,
+    "scene": "Cinema massacre at the Nazi premiere",
+    "query": "Inglourious Basterds cinema ending scene",
+    "what_happens": "At the Paris premiere of a Nazi propaganda film, Shosanna's face laughs from the screen as the locked cinema is set ablaze, while two Basterds burst into Hitler's box and machine-gun him and the trapped audience.",
+    "why": "Tarantino rewrites history with operatic excess: nitrate film as fuel, a face projected onto smoke and revenge literally larger than life. Fire, gunfire and cross-cutting converge into one counterfactual climax.",
+    "director": "Quentin Tarantino",
+    "country": "USA/Germany",
+    "craft": [
+      "DP: Robert Richardson"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Cannes: Best Actor"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rampage",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "thriller",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Cinema in Nazi-occupied Paris, 1944",
+    "region": "western_europe",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "surreal"
+    ],
+    "combatants": [
+      "ww2_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "practical_explosions",
+      "cross_cutting",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "multiple",
+    "keywords": [
+      "shosanna",
+      "hitler",
+      "nitrate film",
+      "burning cinema",
+      "eli roth",
+      "propaganda premiere"
+    ]
+  },
+  {
+    "film": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "scene": "Cliff and Brandy vs. the Manson intruders",
+    "query": "Once Upon a Time in Hollywood ending fight scene",
+    "what_happens": "Three Manson followers break into Rick Dalton's house to kill him but find stuntman Cliff Booth and his pit bull Brandy; the intruders are mauled, smashed against walls and finally torched with a flamethrower.",
+    "why": "Tarantino flips history: a long, calm build-up, then explosive comic violence. The stuntman hero, the dog's precise attack and the absurd flamethrower payoff turn revenge fantasy into choreography.",
+    "director": "Quentin Tarantino",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Robert Richardson"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Production Design"
+    ],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "comedy",
+      "drama",
+      "crime"
+    ],
+    "era": "mid_20th_century",
+    "period": "Rick Dalton's house on Cielo Drive, Los Angeles, 8 August 1969",
+    "region": "usa",
+    "environment": [
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire"
+    ],
+    "mood": [
+      "playful",
+      "brutal",
+      "chaotic"
+    ],
+    "combatants": [
+      "civilians",
+      "apes_animals"
+    ],
+    "weapons": [
+      "improvised",
+      "flamethrower",
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "practical_effects",
+      "single_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "brad pitt",
+      "cliff booth",
+      "brandy",
+      "manson family",
+      "flamethrower",
+      "leonardo dicaprio"
+    ],
+    "video": "Iiw8c3-cd6o"
+  },
+  {
+    "film": "Sin City",
+    "year": 2005,
+    "scene": "Old Town ambush ('The Big Fat Kill')",
+    "query": "Sin City Old Town shootout scene",
+    "what_happens": "Dwight leads a crew of mob mercenaries into a dead-end alley of Old Town, where the armed women who rule it open fire from the rooftops and Miho finishes survivors with her swords, white blood splashing against black.",
+    "why": "Rodriguez and Miller shot on green screen to replicate the comic's panels: high-contrast monochrome, selective colour and silhouettes. The look is the lesson: graphic design as cinematography.",
+    "director": "Frank Miller, Robert Rodriguez",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "noir",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Alleys of Old Town, Basin City",
+    "region": "unspecified_city",
+    "environment": [
+      "alley",
+      "rooftops"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash"
+    ],
+    "mood": [
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "mercenaries",
+      "gangsters",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "katana",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "black_and_white",
+      "color_grading",
+      "silhouette",
+      "cgi"
+    ],
+    "look": "live_action_bw",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "clive owen",
+      "dwight",
+      "miho",
+      "old town girls",
+      "green screen",
+      "frank miller"
+    ]
+  },
+  {
+    "film": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "scene": "House fight between the married assassins",
+    "query": "Mr and Mrs Smith house fight scene",
+    "what_happens": "Discovering they are rival assassins, John and Jane Smith tear their suburban home apart trying to kill each other, trading gunfire and blows through the kitchen and halls until the fight collapses into passion.",
+    "why": "Liman stages a marital row as a full action set-piece: every room hides weapons and the house disintegrates around the couple. The comedy comes from domestic space turned into a battlefield.",
+    "director": "Doug Liman",
+    "country": "USA",
+    "craft": [
+      "DP: Bojan Bazelli",
+      "Composer: John Powell"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "comedy",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "The Smiths' suburban home, mid-2000s",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "intimate"
+    ],
+    "combatants": [
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun",
+      "shotgun",
+      "fists_feet",
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "practical_effects",
+      "single_location",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "brad pitt",
+      "angelina jolie",
+      "married assassins",
+      "house destroyed",
+      "hidden weapons",
+      "doug liman"
+    ]
+  },
+  {
+    "film": "Nobody",
+    "year": 2021,
+    "scene": "Booby-trapped factory finale",
+    "query": "Nobody factory final fight scene",
+    "what_happens": "Hutch lures the Russian mobster Yulian's army to the machine-parts factory where he works, rigged with claymores, tripwires and spikes, and wipes them out with help from his father and his brother.",
+    "why": "Naishuller turns Home Alone logic into a hard-R siege, revealing traps one by one. A clear spatial set-up before the fight lets every gadget pay off.",
+    "director": "Ilya Naishuller",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "last_stand",
+      "one_vs_many"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "thriller",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Hutch's factory in suburban America, present day",
+    "region": "usa",
+    "environment": [
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "gangsters",
+      "civilians",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "explosives",
+      "shotgun",
+      "handgun",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "practical_stunts",
+      "gun_fu",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "bob odenkirk",
+      "hutch mansell",
+      "booby traps",
+      "christopher lloyd",
+      "rza",
+      "russian mob"
+    ]
+  },
+  {
+    "film": "The Equalizer",
+    "year": 2014,
+    "scene": "Home Mart finale with hardware-store weapons",
+    "query": "The Equalizer Home Mart fight scene",
+    "what_happens": "Trapped after hours in the hardware superstore where he works, McCall picks off Teddy's Russian enforcers one at a time with tools from the shelves, ending with a nail gun, as the fire sprinklers rain down.",
+    "why": "Fuqua inverts the slasher film: the hero stalks the villains through the aisles, each kill set up by a visible tool. Sprinkler rain and moody light give the climax its texture.",
+    "director": "Antoine Fuqua",
+    "country": "USA",
+    "craft": [
+      "DP: Mauro Fiore",
+      "Composer: Harry Gregson-Williams"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "stealth_infiltration"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Home Mart hardware store in Boston, present day",
+    "region": "usa",
+    "environment": [
+      "mall_store",
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "water_spray",
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "brutal",
+      "stylish"
+    ],
+    "combatants": [
+      "gangsters",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "improvised",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "single_location",
+      "sound_design",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "denzel washington",
+      "robert mccall",
+      "nail gun",
+      "hardware store",
+      "sprinklers",
+      "marton csokas"
+    ]
+  },
+  {
+    "film": "Kick-Ass",
+    "year": 2010,
+    "scene": "Hit-Girl's night-vision warehouse rescue",
+    "query": "Kick-Ass Hit-Girl warehouse rescue scene night vision",
+    "what_happens": "As Big Daddy and Kick-Ass are tortured on a live webcast, Hit-Girl kills the lights and storms the warehouse, gunning down mobsters through night-vision goggles amid strobing muzzle flashes.",
+    "why": "Vaughn switches between night-vision POV and strobe-lit wides, turning darkness into a design device. It marries comic-book cool to the shock of a child doing the killing, the film's central provocation.",
+    "director": "Matthew Vaughn",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Ben Davis"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rescue",
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Gangster's warehouse in New York, present day",
+    "region": "usa",
+    "environment": [
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash",
+      "fire"
+    ],
+    "mood": [
+      "stylish",
+      "brutal",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "pov",
+      "gun_fu",
+      "practical_stunts",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hit-girl",
+      "chloë grace moretz",
+      "night vision",
+      "big daddy",
+      "nicolas cage",
+      "webcast"
+    ]
+  },
+  {
+    "film": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "scene": "Opening taxi fight with Charlie",
+    "query": "Kingsman The Golden Circle taxi fight scene",
+    "what_happens": "Ambushed outside the tailor's shop by former recruit Charlie and his robotic arm, Eggsy fights him inside a speeding London black cab while gunmen in pursuing cars open fire, the camera spinning through the cabin.",
+    "why": "Vaughn's virtual camera swoops in and out of the car through windows and around bodies, stitching CGI and stunts into one fluid move. Study it for speed and for how far digital camera paths can go.",
+    "director": "Matthew Vaughn",
+    "country": "UK/USA",
+    "craft": [
+      "DP: George Richmond"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel",
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Central London streets at night, present day",
+    "region": "british_isles",
+    "environment": [
+      "car_interior",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "playful",
+      "chaotic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "automatic_weapons",
+      "improvised"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "tracking_shot",
+      "vehicle_stunts",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "eggsy",
+      "taron egerton",
+      "robotic arm",
+      "black cab",
+      "charlie",
+      "golden circle"
+    ]
+  },
+  {
+    "film": "The Man from U.N.C.L.E.",
+    "year": 2015,
+    "scene": "East Berlin escape and chase",
+    "query": "The Man from UNCLE opening chase scene Berlin",
+    "what_happens": "CIA agent Napoleon Solo spirits mechanic Gaby Teller out of East Berlin by car, while the seemingly unstoppable KGB agent Illya Kuryakin chases them on foot and by car through the night streets toward the Wall.",
+    "why": "Ritchie plays the chase as a 1960s spy caper: period cars, a cool score and wry reactions. Illya's superhuman persistence establishes both rivals through action rather than exposition.",
+    "director": "Guy Ritchie",
+    "country": "UK/USA",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Daniel Pemberton"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "escape",
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "comedy"
+    ],
+    "era": "mid_20th_century",
+    "period": "East Berlin at night, 1963",
+    "region": "western_europe",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "playful",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "score_driven",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "henry cavill",
+      "armie hammer",
+      "alicia vikander",
+      "berlin wall",
+      "kgb",
+      "cold war"
+    ],
+    "video": "dU--rVFU45g"
+  },
+  {
+    "film": "Sherlock Holmes",
+    "year": 2009,
+    "scene": "Bare-knuckle bout planned in slow motion",
+    "query": "Sherlock Holmes boxing fight scene slow motion",
+    "what_happens": "In an underground boxing ring, Holmes faces a hulking opponent; in his head a slow-motion sequence plots every blow and its injury, then the fight plays out at full speed exactly as planned.",
+    "why": "Ritchie visualises thought: ultra-slow motion with Holmes's narration, then a rapid replay. The device reveals character and doubles as a choreography breakdown, a template for 'planned' fights on screen.",
+    "director": "Guy Ritchie",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Philippe Rousselot",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "adventure",
+      "action",
+      "crime"
+    ],
+    "era": "19th_century",
+    "period": "Underground boxing ring, Victorian London, 1890",
+    "region": "british_isles",
+    "environment": [
+      "arena_ring",
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "playful",
+      "brutal"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "fast_cutting",
+      "sound_design",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "robert downey jr",
+      "bare-knuckle",
+      "pre-visualised fight",
+      "slow motion",
+      "guy ritchie",
+      "victorian london"
+    ]
+  },
+  {
+    "film": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "scene": "Escape through the forest under artillery fire",
+    "query": "Sherlock Holmes A Game of Shadows forest escape scene slow motion",
+    "what_happens": "Holmes, Watson and their Romani allies flee through a German forest as Moriarty's men shell them with artillery; the camera slows almost to stillness as bullets splinter trees and shells burst around the runners.",
+    "why": "Ritchie shot the run at very high frame rates and constantly varies speed, so time stretches and snaps back. Every splinter and shockwave reads, turning a retreat into a study in speed ramping.",
+    "director": "Guy Ritchie",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Philippe Rousselot",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "escape",
+      "bombardment"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "adventure",
+      "action",
+      "crime"
+    ],
+    "era": "19th_century",
+    "period": "Forest in Germany, 1891",
+    "region": "western_europe",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "relentless",
+      "chaotic",
+      "awe"
+    ],
+    "combatants": [
+      "civilians",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "practical_explosions",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "robert downey jr",
+      "jude law",
+      "moriarty",
+      "speed ramping",
+      "forest run",
+      "high frame rate"
+    ]
+  },
+  {
+    "film": "The World's End",
+    "year": 2013,
+    "scene": "Pub toilet fight against the Blanks",
+    "query": "The World's End bathroom fight scene",
+    "what_happens": "Five middle-aged friends on a pub crawl discover that a gang of teenagers in the toilets are robots; the scuffle becomes a full brawl, heads popping off and blue ink spraying across the tiles.",
+    "why": "Wright stages a long, wide-shot brawl in a cramped toilet where every gag is choreographed. Robots that shatter like porcelain keep it comic while allowing full-contact violence.",
+    "director": "Edgar Wright",
+    "country": "UK",
+    "craft": [
+      "DP: Bill Pope"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "comedy",
+      "sci_fi",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Pub toilets in the English town of Newton Haven, present day",
+    "region": "british_isles",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "playful",
+      "chaotic"
+    ],
+    "combatants": [
+      "civilians",
+      "robots_androids"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "single_location",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "simon pegg",
+      "nick frost",
+      "blanks",
+      "pub crawl",
+      "robot teenagers",
+      "blue ink"
+    ]
+  },
+  {
+    "film": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "scene": "Scott vs. Matthew Patel at the battle of the bands",
+    "query": "Scott Pilgrim vs Matthew Patel fight scene",
+    "what_happens": "At a battle of the bands, Ramona's first evil ex flies down onto the stage and attacks Scott; their fight erupts in video-game moves, on-screen sound effects and a Bollywood-style song, ending with Patel bursting into coins.",
+    "why": "Wright translates comics and arcade games into film grammar: hit counters, graphics, whip-pans and punches cut to musical beats. A case study in stylised fight design.",
+    "director": "Edgar Wright",
+    "country": "USA/UK/Canada",
+    "craft": [
+      "DP: Bill Pope"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "comedy",
+      "action",
+      "fantasy"
+    ],
+    "era": "contemporary",
+    "period": "Rock club in Toronto, present day",
+    "region": "canada",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "strobe_flash"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "surreal"
+    ],
+    "combatants": [
+      "civilians",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "fast_cutting",
+      "wire_work",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "michael cera",
+      "evil exes",
+      "video game",
+      "bollywood number",
+      "coins",
+      "toronto"
+    ]
+  },
+  {
+    "film": "V for Vendetta",
+    "year": 2005,
+    "scene": "V's knife fight in the underground station",
+    "query": "V for Vendetta final fight scene knives",
+    "what_happens": "Having surrendered himself, V absorbs a hail of bullets from Creedy's men in an abandoned Underground station, then kills them all with spinning daggers in slow motion, the blades trailing arcs through the air.",
+    "why": "McTeigue uses speed ramping and digital blade trails to turn the fight into calligraphy. The stillness before the strike and the bullets V absorbs give the climax its operatic weight.",
+    "director": "James McTeigue",
+    "country": "USA/UK/Germany",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "thriller",
+      "sci_fi"
+    ],
+    "era": "near_future",
+    "period": "Abandoned London Underground station, 5 November, near-future Britain",
+    "region": "british_isles",
+    "environment": [
+      "train_station",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "stylish",
+      "graceful",
+      "brutal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "police"
+    ],
+    "weapons": [
+      "knife",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hugo weaving",
+      "guy fawkes mask",
+      "creedy",
+      "knife trails",
+      "slow motion",
+      "fifth of november"
+    ],
+    "video": "RXLMCtcb9rI"
+  },
+  {
+    "film": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "scene": "Lemurian Star raid and Cap vs. Batroc",
+    "query": "Captain America Winter Soldier ship fight Batroc",
+    "what_happens": "Captain America leads a S.H.I.E.L.D. team to retake a hijacked ship at sea, leaping from a plane without a parachute, clearing the deck by stealth and then fighting the mercenary Batroc hand to hand below decks.",
+    "why": "The Russos ground superhero action in martial arts: Georges St-Pierre's real kicking skill and tight, fast combinations show Cap fighting with technique rather than powers. The deck sweep plays like a special-forces raid.",
+    "director": "Anthony Russo, Joe Russo",
+    "country": "USA",
+    "craft": [
+      "DP: Trent Opaloch"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "assault_raid",
+      "duel"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "spy"
+    ],
+    "era": "contemporary",
+    "period": "Hijacked ship Lemurian Star at sea, night, present day",
+    "region": "open_ocean",
+    "environment": [
+      "ship_deck",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "heroic",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "special_forces",
+      "mercenaries"
+    ],
+    "weapons": [
+      "fists_feet",
+      "shield",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "warship"
+    ],
+    "technique": [
+      "practical_stunts",
+      "fast_cutting",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "chris evans",
+      "georges st-pierre",
+      "batroc",
+      "lemurian star",
+      "shield throw",
+      "no-parachute jump"
+    ]
+  },
+  {
+    "film": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "scene": "Bamboo-scaffolding fight in Macau",
+    "query": "Shang-Chi scaffolding fight scene Macau",
+    "what_happens": "At his sister's fight club in Macau, Shang-Chi is attacked by his father's assassins and battles them on bamboo scaffolding wrapped around the outside of the tower, climbing and swinging high above the city.",
+    "why": "Stunt coordinator Brad Allan's team brings Jackie Chan-style action to a superhero film: practical stunts, props and the vertical set used for gags and danger. A tribute to Hong Kong action grammar.",
+    "director": "Destin Daniel Cretton",
+    "country": "USA",
+    "craft": [
+      "DP: Bill Pope",
+      "Stunt coordinator: Brad Allan"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "martial_arts",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Golden Daggers Club tower, Macau, present day",
+    "region": "hong_kong",
+    "environment": [
+      "construction_site",
+      "skyscraper_exterior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "playful",
+      "relentless",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes",
+      "martial_artists_modern",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "staff_stick",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "practical_stunts",
+      "cgi",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "simu liu",
+      "bamboo scaffolding",
+      "macau",
+      "razor fist",
+      "brad allan",
+      "jackie chan homage"
+    ]
+  },
+  {
+    "film": "The Wolverine",
+    "year": 2013,
+    "scene": "Fight on the roof of the bullet train",
+    "query": "The Wolverine bullet train fight scene",
+    "what_happens": "Escaping yakuza killers, Logan fights them on the roof of a speeding Shinkansen, driving his claws into the metal to cling on and timing leaps over the attackers as signal gantries flash overhead.",
+    "why": "Mangold keeps an absurd premise playful: wire work and digital speed sell the wind, and the recurring overhead gantries create a rhythmic threat that structures the whole fight.",
+    "director": "James Mangold",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Shinkansen bullet train leaving Tokyo, present day",
+    "region": "japan",
+    "environment": [
+      "train"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "storm_wind"
+    ],
+    "mood": [
+      "playful",
+      "relentless",
+      "heroic"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "triads_yakuza"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "knife",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "wire_work",
+      "cgi",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "hugh jackman",
+      "logan",
+      "shinkansen",
+      "yakuza",
+      "adamantium claws",
+      "train roof"
+    ]
+  },
+  {
+    "film": "Black Panther",
+    "year": 2018,
+    "scene": "Busan casino fight and car chase",
+    "query": "Black Panther Busan car chase scene",
+    "what_happens": "In Busan, T'Challa, Okoye and Nakia ambush Ulysses Klaue's arms deal in an underground casino; the fight spills into a night chase through the streets as Shuri drives a car remotely from her lab in Wakanda.",
+    "why": "Coogler pairs a grounded casino brawl, staged as a flowing long take, with a playful chase in which remote driving and Panther-suit stunts sell Wakandan technology.",
+    "director": "Ryan Coogler",
+    "country": "USA",
+    "craft": [
+      "DP: Rachel Morrison",
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [
+      "Oscar: Best Original Score",
+      "Oscar: Best Costume Design",
+      "Oscar: Best Production Design"
+    ],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "adventure"
+    ],
+    "era": "contemporary",
+    "period": "Underground casino and streets of Busan, South Korea, present day",
+    "region": "korea",
+    "environment": [
+      "city_street",
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "playful",
+      "heroic",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "spear_polearm",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "long_take",
+      "vehicle_stunts",
+      "cgi",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "chadwick boseman",
+      "danai gurira",
+      "lupita nyong'o",
+      "ulysses klaue",
+      "busan",
+      "remote driving"
+    ]
+  },
+  {
+    "film": "The Dark Knight",
+    "year": 2008,
+    "scene": "Hong Kong skyhook extraction",
+    "query": "The Dark Knight Hong Kong scene skyhook",
+    "what_happens": "Batman leaps from the top of Hong Kong's tallest tower, glides to the building where the fugitive accountant Lau is hiding, blasts in and overpowers his guards, then is snatched skyward with Lau by a cargo plane's skyhook line.",
+    "why": "Nolan shot aerials over the real Hong Kong skyline in IMAX, so the leap and the pickup feel vertiginous. A heist-film beat that extends Batman's reach beyond Gotham through scale and plausible technology.",
+    "director": "Christopher Nolan",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Wally Pfister"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "stunt.set_piece",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "IFC tower and Victoria Harbour skyline, Hong Kong, late 2000s",
+    "region": "hong_kong",
+    "environment": [
+      "skyscraper_exterior",
+      "sky",
+      "office_tower"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "awe",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "superheroes",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "explosives"
+    ],
+    "vehicles": [
+      "propeller_aircraft",
+      "parachute_wingsuit"
+    ],
+    "technique": [
+      "imax_large_format",
+      "real_location",
+      "crane_aerial",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "skyhook",
+      "hong kong",
+      "ifc tower",
+      "lau",
+      "c-130",
+      "christian bale"
+    ]
+  },
+  {
+    "film": "Baby Driver",
+    "year": 2017,
+    "scene": "Arms-deal shootout to 'Tequila'",
+    "query": "Baby Driver Tequila shootout scene",
+    "what_happens": "When Bats realises the gun dealers at a night-time arms buy are police, he opens fire and a chaotic gunfight erupts, every burst of gunfire landing on the beat of the instrumental 'Tequila' playing in Baby's earbuds.",
+    "why": "Wright choreographs gunfire as percussion: shots, reloads and impacts are timed to the track, so sound design and editing become the choreography. A lesson in planning action to music.",
+    "director": "Edgar Wright",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Bill Pope",
+      "Editors: Paul Machliss, Jonathan Amos"
+    ],
+    "accolades": [
+      "BAFTA: Best Editing"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "crime",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Night-time arms deal in Atlanta, 2010s",
+    "region": "usa",
+    "environment": [
+      "warehouse_factory"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "stylish",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "gangsters",
+      "police",
+      "drivers_racers"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "sound_design",
+      "fast_cutting",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "tequila",
+      "gunshots on the beat",
+      "jamie foxx",
+      "bats",
+      "ansel elgort",
+      "music sync"
+    ]
+  },
+  {
+    "film": "Drive",
+    "year": 2011,
+    "scene": "Elevator kiss and head stomp",
+    "query": "Drive elevator scene",
+    "what_happens": "In an apartment elevator the Driver spots a hitman's gun, pulls Irene aside and kisses her in slowed time as the light softens, then turns and stomps the man's head to pulp in front of her.",
+    "why": "Refn suspends time: the kiss plays in slow motion under lighting that shifts to a dreamy glow, then snaps back to real speed for savage violence. One tiny set holds romance and horror in a single beat.",
+    "director": "Nicolas Winding Refn",
+    "country": "USA",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Composer: Cliff Martinez"
+    ],
+    "accolades": [
+      "Cannes: Best Director"
+    ],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "noir",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Apartment-block elevator, Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "apartment_house"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "intimate",
+      "brutal",
+      "surreal"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "assassins_hitmen",
+      "civilians"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "single_location",
+      "tight_framing",
+      "sound_design",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "elevator kiss",
+      "head stomp",
+      "ryan gosling",
+      "carey mulligan",
+      "slow motion",
+      "lighting shift"
+    ]
+  },
+  {
+    "film": "Jack Reacher",
+    "year": 2012,
+    "scene": "Night chase through Pittsburgh in the Chevelle",
+    "query": "Jack Reacher car chase scene Chevelle",
+    "what_happens": "Reacher pursues the conspirators' car through Pittsburgh at night in a borrowed muscle car, then has to shake off the police in turn, finally slipping away on foot among people at a bus stop.",
+    "why": "McQuarrie strips away the score and lets engines, tyres and gear changes drive the scene, with Cruise doing much of the driving himself. Grounded speed and clear geography over spectacle.",
+    "director": "Christopher McQuarrie",
+    "country": "USA",
+    "craft": [
+      "DP: Caleb Deschanel",
+      "Composer: Joe Kraemer"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "thriller",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Pittsburgh streets and bridges at night, present day",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "bridge",
+      "highway"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "gritty",
+      "tense",
+      "relentless"
+    ],
+    "combatants": [
+      "police",
+      "thugs_henchmen",
+      "drivers_racers"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "sound_design",
+      "real_location",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "chevelle",
+      "pittsburgh",
+      "tom cruise driving",
+      "no score",
+      "muscle car",
+      "bus stop"
+    ]
+  },
+  {
+    "film": "The Town",
+    "year": 2010,
+    "scene": "Nun-masked getaway through the North End",
+    "query": "The Town nun mask car chase scene",
+    "what_happens": "In rubber nun masks after an armoured-car robbery, Doug's crew flees through the narrow streets of Boston's North End, ramming police cruisers and firing back from the getaway car.",
+    "why": "Affleck uses Boston's real, tight streets so every turn is a near-collision. Handheld coverage inside the car and the eerie nun masks give the chase a texture beyond speed.",
+    "director": "Ben Affleck",
+    "country": "USA",
+    "craft": [
+      "DP: Robert Elswit"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "escape",
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "heist"
+    ],
+    "era": "contemporary",
+    "period": "Boston's North End, present day",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "alley"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "gritty",
+      "chaotic"
+    ],
+    "combatants": [
+      "gangsters",
+      "police"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "real_location",
+      "handheld",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "nun masks",
+      "ben affleck",
+      "jeremy renner",
+      "north end",
+      "armored car robbery",
+      "boston"
+    ],
+    "video": "TcWGYbu07PE"
+  },
+  {
+    "film": "Live Free or Die Hard",
+    "year": 2007,
+    "scene": "Police car launched into the helicopter",
+    "query": "Live Free or Die Hard car into helicopter scene",
+    "what_happens": "Chased through a highway tunnel by a helicopter full of gunmen, John McClane sends a police car up a toll-plaza ramp, bailing out as it flies into the hovering helicopter and destroys it.",
+    "why": "Wiseman builds a classic stunt beat: set up the threat, find an absurd solution, then pay it off with a practical car launch and pyrotechnics. A study in escalating set-piece logic.",
+    "director": "Len Wiseman",
+    "country": "USA",
+    "craft": [
+      "DP: Simon Duggan"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Highway tunnel and toll plaza near Washington, D.C., present day",
+    "region": "usa",
+    "environment": [
+      "tunnel_sewer",
+      "highway"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "heroic",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "police",
+      "mercenaries"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car",
+      "helicopter"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "practical_explosions",
+      "practical_stunts",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "bruce willis",
+      "john mcclane",
+      "helicopter",
+      "toll booth",
+      "justin long",
+      "die hard 4"
+    ]
+  },
+  {
+    "film": "Fast Five",
+    "year": 2011,
+    "scene": "Desert train heist and the cliff jump",
+    "query": "Fast Five train heist scene",
+    "what_happens": "Dom, Brian and Mia steal seized cars from a moving train in the Brazilian countryside, until a double-cross leaves Dom and Brian in a Corvette racing toward a cliff, which they leap from into a river far below.",
+    "why": "Lin mixes a real train, trucks and cars with an absurd climax that set the franchise's new tone: heist plotting plus physics-defying stunts, cut with the clear geography of a parallel run.",
+    "director": "Justin Lin",
+    "country": "USA",
+    "craft": [
+      "DP: Stephen F. Windon"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "heist",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Railway through the dry countryside outside Rio de Janeiro, present day",
+    "region": "latin_america",
+    "environment": [
+      "desert",
+      "train",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "heat_sun"
+    ],
+    "mood": [
+      "playful",
+      "relentless",
+      "heroic"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "gangsters",
+      "federal_agents"
+    ],
+    "weapons": [
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "train",
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "practical_stunts",
+      "real_location",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "vin diesel",
+      "paul walker",
+      "train heist",
+      "corvette",
+      "cliff jump",
+      "river"
+    ]
+  },
+  {
+    "film": "Fast & Furious 6",
+    "year": 2013,
+    "scene": "Tank on the Spanish highway",
+    "query": "Fast and Furious 6 tank scene",
+    "what_happens": "Owen Shaw's team unleashes a tank on a Spanish highway, crushing cars in its path; when Letty is flung off the tank across a gap, Dom launches himself from his car to catch her in mid-air.",
+    "why": "Lin escalates practical vehicle destruction, with a real tank flattening real cars, then caps it with a gravity-defying rescue. Study how the franchise trades realism for crowd-pleasing heroics.",
+    "director": "Justin Lin",
+    "country": "USA",
+    "craft": [
+      "DP: Stephen F. Windon"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Highway in Spain, present day",
+    "region": "southern_europe",
+    "environment": [
+      "highway",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "explosions"
+    ],
+    "mood": [
+      "playful",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "mercenaries"
+    ],
+    "weapons": [
+      "tank_armour",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "tank_armoured",
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "practical_stunts",
+      "cgi",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "tank",
+      "dom catches letty",
+      "vin diesel",
+      "michelle rodriguez",
+      "owen shaw",
+      "mid-air catch"
+    ]
+  },
+  {
+    "film": "Furious 7",
+    "year": 2015,
+    "scene": "Supercar leaps between the Etihad Towers",
+    "query": "Furious 7 tower jump scene Abu Dhabi",
+    "what_happens": "Trapped in an Abu Dhabi penthouse with a stolen hypercar, Dom and Brian drive it out through the window and fly from one Etihad Tower into the next, then crash through into a third.",
+    "why": "Wan sells an absurd stunt with crisp geography and a single clear goal: a hypercar, three towers, no brakes. The repeated jump shows how the franchise escalates with comic timing.",
+    "director": "James Wan",
+    "country": "USA",
+    "craft": [
+      "DPs: Stephen F. Windon, Marc Spicer"
+    ],
+    "accolades": [],
+    "scene_type": "stunt.set_piece",
+    "format": [
+      "escape",
+      "spectacle"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Etihad Towers, Abu Dhabi, present day",
+    "region": "middle_east",
+    "environment": [
+      "skyscraper_exterior",
+      "sky",
+      "office_tower"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "heroic",
+      "awe"
+    ],
+    "combatants": [
+      "drivers_racers"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "vehicle_stunts",
+      "practical_stunts",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "lykan hypersport",
+      "etihad towers",
+      "vin diesel",
+      "paul walker",
+      "abu dhabi",
+      "car jump"
+    ]
+  },
+  {
+    "film": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "scene": "Downhill drift race against D.K.",
+    "query": "Tokyo Drift final race scene mountain",
+    "what_happens": "To settle his feud with the Drift King, Sean races him down a narrow, winding mountain road at night in a rebuilt Mustang, the two cars sliding sideways through hairpins inches from the drop.",
+    "why": "Lin uses professional drift drivers and low tracking cars to capture sustained slides, making car control itself the spectacle. The downhill format turns the race into a duel of nerve, not top speed.",
+    "director": "Justin Lin",
+    "country": "USA",
+    "craft": [
+      "DP: Stephen F. Windon"
+    ],
+    "accolades": [],
+    "scene_type": "race",
+    "format": [
+      "race",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Mountain pass outside Tokyo, mid-2000s",
+    "region": "japan",
+    "environment": [
+      "hills_mountains",
+      "cliff_canyon"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "triads_yakuza"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "tracking_shot",
+      "practical_stunts",
+      "crane_aerial"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "drift king",
+      "touge",
+      "mustang",
+      "lucas black",
+      "drifting",
+      "downhill race"
+    ]
+  },
+  {
+    "film": "Unstoppable",
+    "year": 2010,
+    "scene": "Catching runaway train 777 at the Stanton curve",
+    "query": "Unstoppable final scene train Stanton curve",
+    "what_happens": "Veteran engineer Frank and young conductor Will chase an unmanned freight train loaded with toxic chemicals, couple their locomotive to its rear and brake it through an elevated curve, Will leaping aboard from a racing pickup.",
+    "why": "Tony Scott shot real trains at speed with helicopters, trackside cameras and restless zooms, making the mass of steel the menace. Cross-cutting to TV news coverage turns the rescue into public spectacle.",
+    "director": "Tony Scott",
+    "country": "USA",
+    "craft": [
+      "DP: Ben Seresin"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "action",
+      "thriller",
+      "disaster"
+    ],
+    "era": "contemporary",
+    "period": "Elevated curve above Stanton, Pennsylvania, present day",
+    "region": "usa",
+    "environment": [
+      "train",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "heroic",
+      "relentless"
+    ],
+    "combatants": [
+      "civilians",
+      "stunt_hero"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "train",
+      "truck",
+      "helicopter"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "crane_aerial",
+      "cross_cutting",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "runaway train",
+      "denzel washington",
+      "chris pine",
+      "train 777",
+      "stanton curve",
+      "tony scott"
+    ],
+    "video": "908fMPSGOqo"
+  },
+  {
+    "film": "Captain Phillips",
+    "year": 2013,
+    "scene": "Somali pirates board the Maersk Alabama",
+    "query": "Captain Phillips pirates boarding scene",
+    "what_happens": "Pirate skiffs chase the container ship Maersk Alabama across the Indian Ocean; Captain Phillips swerves the ship and turns fire hoses on them, but four pirates manage to hook a ladder and climb aboard.",
+    "why": "Greengrass shot at sea on real ships with handheld cameras, so the chase builds from radio chatter, wake and swell. Tension comes from scale contrast: a tiny skiff against a towering hull.",
+    "director": "Paul Greengrass",
+    "country": "USA",
+    "craft": [
+      "DP: Barry Ackroyd",
+      "Editor: Christopher Rouse"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "assault_raid"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "thriller",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Indian Ocean off the Somali coast, April 2009",
+    "region": "open_ocean",
+    "environment": [
+      "open_sea",
+      "ship_deck"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "water_spray"
+    ],
+    "mood": [
+      "tense",
+      "gritty",
+      "relentless"
+    ],
+    "combatants": [
+      "pirates",
+      "civilians",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "rifle"
+    ],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "handheld",
+      "real_location",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "tom hanks",
+      "barkhad abdi",
+      "maersk alabama",
+      "somali pirates",
+      "fire hoses",
+      "ladder"
+    ]
+  },
+  {
+    "film": "'71",
+    "year": 2014,
+    "scene": "Gary Hook's flight through Belfast after the riot",
+    "query": "'71 chase scene Belfast riot",
+    "what_happens": "During a house search in a Catholic district of Belfast a riot erupts; young British soldier Gary Hook is left behind, sees a comrade shot dead, and runs for his life through back alleys pursued by armed men.",
+    "why": "Demange shoots the riot and pursuit handheld and on the run, with muffled sound and confusing geography that mirror Hook's panic. Grounded, breathless filmmaking that turns the city itself hostile.",
+    "director": "Yann Demange",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "thriller",
+      "war",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "Catholic district of west Belfast, 1971",
+    "region": "british_isles",
+    "environment": [
+      "city_street",
+      "alley",
+      "apartment_house"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "relentless",
+      "gritty"
+    ],
+    "combatants": [
+      "cold_war_soldiers",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "rifle",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "real_location",
+      "sound_design",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "jack o'connell",
+      "gary hook",
+      "the troubles",
+      "belfast riot",
+      "ira",
+      "yann demange"
+    ],
+    "video": "UlS3QAnxhLI"
+  },
+  {
+    "film": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "scene": "Three-way sword fight on the rolling water wheel",
+    "query": "Pirates of the Caribbean Dead Man's Chest water wheel fight",
+    "what_happens": "On Isla Cruces, Jack Sparrow, Will Turner and James Norrington duel three ways for the key to Davy Jones's chest; a giant mill wheel breaks loose and rolls through the jungle with Will and Norrington fighting on and inside it.",
+    "why": "Verbinski stacks comic beats on a rolling set-piece, mixing practical wheel rigs, wire work and CG, with swordplay timed to each rotation. The geography keeps three rival agendas clear.",
+    "director": "Gore Verbinski",
+    "country": "USA",
+    "craft": [
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight",
+      "duel"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "swashbuckler",
+      "adventure",
+      "fantasy"
+    ],
+    "era": "early_modern",
+    "period": "Isla Cruces, Caribbean, early 18th century",
+    "region": "latin_america",
+    "environment": [
+      "jungle",
+      "beach"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "playful",
+      "relentless",
+      "graceful"
+    ],
+    "combatants": [
+      "pirates",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "sabre_rapier",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "cgi",
+      "practical_stunts",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "johnny depp",
+      "orlando bloom",
+      "norrington",
+      "mill wheel",
+      "dead man's chest",
+      "key"
+    ]
+  },
+  {
+    "film": "Mortal Kombat",
+    "year": 2021,
+    "scene": "Opening: Hanzo Hasashi vs. the Lin Kuei in 1617 Japan",
+    "query": "Mortal Kombat 2021 opening scene Hanzo",
+    "what_happens": "In 17th-century Japan, Lin Kuei assassins led by Bi-Han attack the ninja Hanzo Hasashi's home; Hanzo fights them off with blades before Bi-Han, wielding ice powers, kills his family and then him.",
+    "why": "A self-contained samurai prologue largely in Japanese, it grounds a video-game franchise in real weapons choreography and tragedy before the fantasy begins.",
+    "director": "Simon McQuoid",
+    "country": "USA/Australia",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight",
+      "last_stand"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "fantasy",
+      "martial_arts",
+      "action"
+    ],
+    "era": "early_modern",
+    "period": "Hanzo Hasashi's home in Japan, 1617",
+    "region": "japan",
+    "environment": [
+      "village",
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "brutal",
+      "tense"
+    ],
+    "combatants": [
+      "ninja",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "knife",
+      "improvised",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wire_work",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hiroyuki sanada",
+      "hanzo hasashi",
+      "scorpion",
+      "sub-zero",
+      "joe taslim",
+      "lin kuei"
+    ]
+  },
+  {
+    "film": "Rush",
+    "year": 2013,
+    "scene": "Niki Lauda's fiery crash at the Nürburgring",
+    "query": "Rush Lauda crash Nurburgring scene",
+    "what_happens": "At a rain-soaked 1976 German Grand Prix that he had argued should be cancelled, Niki Lauda's Ferrari spins off the Nürburgring, bursts into flames and is struck by other cars while drivers rush to pull him out.",
+    "why": "Howard alternates fast onboard shots with an abrupt, sickening loss of control, then lets the roar of fire take over the soundtrack. A blend of practical cars and CGI keeps a known event terrifying.",
+    "director": "Ron Howard",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Anthony Dod Mantle",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "scene_type": "race",
+    "format": [
+      "race",
+      "catastrophe"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "mid_20th_century",
+    "period": "German Grand Prix at the Nürburgring, 1 August 1976",
+    "region": "western_europe",
+    "environment": [
+      "stadium_racetrack",
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "rain",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "tense"
+    ],
+    "combatants": [
+      "drivers_racers"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "tracking_shot",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "niki lauda",
+      "daniel brühl",
+      "nürburgring",
+      "fire crash",
+      "ferrari",
+      "formula one 1976"
+    ]
+  },
+  {
+    "film": "Ferrari",
+    "year": 2023,
+    "scene": "Mille Miglia and de Portago's crash",
+    "query": "Ferrari 2023 Mille Miglia crash scene",
+    "what_happens": "During the 1957 Mille Miglia road race, Ferrari's cars hurtle through villages and countryside lined with spectators until Alfonso de Portago's car blows a tyre at speed and cartwheels into the crowd.",
+    "why": "Mann builds the race from long, rhythmic stretches of period cars on open roads, so the sudden crash lands with horrific shock. A study in restraint before impact.",
+    "director": "Michael Mann",
+    "country": "USA/Italy",
+    "craft": [
+      "DP: Erik Messerschmidt"
+    ],
+    "accolades": [],
+    "scene_type": "race",
+    "format": [
+      "race",
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "drama",
+      "sports"
+    ],
+    "era": "mid_20th_century",
+    "period": "Mille Miglia road race, northern Italy, May 1957",
+    "region": "southern_europe",
+    "environment": [
+      "highway",
+      "village",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "terrifying"
+    ],
+    "combatants": [
+      "drivers_racers",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "real_location",
+      "tracking_shot",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "adam driver",
+      "enzo ferrari",
+      "mille miglia",
+      "de portago",
+      "spectator crash",
+      "1957"
+    ]
+  },
+  {
+    "film": "Speed Racer",
+    "year": 2008,
+    "scene": "Grand Prix finale and Speed's trance",
+    "query": "Speed Racer final race Grand Prix scene",
+    "what_happens": "In the Grand Prix final, Speed drives the Mach 5 through a hostile field of rivals on a looping candy-coloured track; as he slips into a trance, memories of his brother Rex flood the screen and he races to victory.",
+    "why": "The Wachowskis treat the race as pop art: anime-style wipes, layered backgrounds and saturated colour. The trance sequence fuses past and present in one frame, a bold rethink of race grammar.",
+    "director": "The Wachowskis",
+    "country": "USA",
+    "craft": [
+      "DP: David Tattersall"
+    ],
+    "accolades": [],
+    "scene_type": "race",
+    "format": [
+      "race"
+    ],
+    "scale": "medium",
+    "genre": [
+      "action",
+      "sports",
+      "adventure"
+    ],
+    "era": "near_future",
+    "period": "Grand Prix circuit in a stylised retro-futurist world",
+    "region": "unspecified_city",
+    "environment": [
+      "stadium_racetrack"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "drivers_racers"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "color_grading",
+      "cross_cutting",
+      "montage"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "mach 5",
+      "emile hirsch",
+      "wachowskis",
+      "grand prix",
+      "anime adaptation",
+      "trance"
+    ]
+  },
+  {
+    "film": "Cars",
+    "year": 2006,
+    "scene": "Piston Cup tiebreaker race",
+    "query": "Cars final race scene Piston Cup",
+    "what_happens": "In the Piston Cup tiebreaker, rookie Lightning McQueen races The King and Chick Hicks; after Chick sends The King into a horrific crash, McQueen stops just short of the line to push the old champion home.",
+    "why": "Pixar animates race-car physics with broadcast-style coverage, then subverts the sports climax: the hero gives up the win. Familiar race grammar sets up an emotional reversal.",
+    "director": "John Lasseter",
+    "country": "USA",
+    "craft": [
+      "Composer: Randy Newman"
+    ],
+    "accolades": [],
+    "scene_type": "race",
+    "format": [
+      "race"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sports",
+      "comedy",
+      "adventure"
+    ],
+    "era": "contemporary",
+    "period": "Piston Cup tiebreaker at the Los Angeles International Speedway",
+    "region": "usa",
+    "environment": [
+      "stadium_racetrack"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "heroic",
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "drivers_racers"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "animation_3d",
+      "tracking_shot",
+      "sound_design"
+    ],
+    "look": "animation_3d",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "lightning mcqueen",
+      "the king",
+      "chick hicks",
+      "piston cup",
+      "pixar",
+      "sportsmanship"
+    ],
+    "video": "Y0hdEWXRqCI"
+  },
+  {
+    "film": "Undisputed III: Redemption",
+    "year": 2010,
+    "scene": "Final bout: Boyka vs. Dolor",
+    "query": "Undisputed 3 Boyka vs Dolor final fight",
+    "what_happens": "In the final of a brutal prison tournament, Russian fighter Yuri Boyka, his knee badly injured, faces the favoured Raul 'Dolor' Quiñones and wins with flying, spinning kicks.",
+    "why": "Florentine shoots full-body action in wide, steady frames and lets Scott Adkins' real acrobatics land without hiding cuts. A direct-to-video benchmark for showing martial-arts skill on a small budget.",
+    "director": "Isaac Florentine",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "action",
+      "sports"
+    ],
+    "era": "contemporary",
+    "period": "Underground prison fight tournament in Eastern Europe, present day",
+    "region": "eastern_europe",
+    "environment": [
+      "prison",
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "heroic",
+      "relentless"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "scott adkins",
+      "yuri boyka",
+      "marko zaror",
+      "prison tournament",
+      "spinning kicks",
+      "direct-to-video"
+    ],
+    "video": "7dg7hlg7vDY"
+  },
+  {
+    "film": "Rocky Balboa",
+    "year": 2006,
+    "scene": "Rocky vs. Mason 'The Line' Dixon",
+    "query": "Rocky Balboa vs Mason Dixon fight scene",
+    "what_happens": "Long-retired Rocky Balboa returns to the ring in Las Vegas against undefeated heavyweight champion Mason Dixon, taking a beating, rising from the canvas and lasting all ten rounds before a split decision.",
+    "why": "Stallone shoots the bout like a live pay-per-view broadcast, with real commentators, TV graphics and a big crowd, intercut with stylised flashes of Rocky's memories. A climax built on fatigue and heart.",
+    "director": "Sylvester Stallone",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Exhibition bout in a Las Vegas arena, 2006",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "heroic",
+      "intimate",
+      "brutal"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cross_cutting",
+      "slow_motion",
+      "large_crowds",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "sylvester stallone",
+      "mason dixon",
+      "antonio tarver",
+      "exhibition bout",
+      "split decision",
+      "las vegas"
+    ]
+  },
+  {
+    "film": "The Wrestler",
+    "year": 2008,
+    "scene": "The Ram's last match",
+    "query": "The Wrestler final scene Ram Jam",
+    "what_happens": "Ignoring his heart condition, ageing wrestler Randy 'The Ram' Robinson steps into the ring for a rematch with the Ayatollah, struggles through the match in pain, then climbs the top rope for his signature leap.",
+    "why": "Aronofsky follows Mickey Rourke with a close, documentary-style handheld camera among real wrestling crowds. Cutting to black on the leap leaves the outcome to the audience.",
+    "director": "Darren Aronofsky",
+    "country": "USA",
+    "craft": [
+      "DP: Maryse Alberti"
+    ],
+    "accolades": [
+      "Venice: Golden Lion",
+      "Golden Globe: Best Actor – Drama"
+    ],
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Wrestling convention arena, late 2000s",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "tragic",
+      "intimate",
+      "heroic"
+    ],
+    "combatants": [
+      "boxers_fighters"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "natural_light",
+      "tight_framing",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "mickey rourke",
+      "randy the ram",
+      "the ayatollah",
+      "ram jam",
+      "top rope",
+      "professional wrestling"
+    ]
+  },
+  {
+    "film": "The Walk",
+    "year": 2015,
+    "scene": "High-wire walk between the Twin Towers",
+    "query": "The Walk wire walk scene twin towers",
+    "what_happens": "On a morning in August 1974, Philippe Petit steps onto a cable strung between the roofs of the World Trade Center towers and walks, kneels and lies on the wire high above New York as police wait at both ends.",
+    "why": "Zemeckis uses stereoscopic 3D, dizzying high angles and digital recreations of the towers to induce real vertigo, letting the long walk play as a performance rather than a thriller.",
+    "director": "Robert Zemeckis",
+    "country": "USA",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "scene_type": "stunt.set_piece",
+    "format": [
+      "spectacle"
+    ],
+    "scale": "solo",
+    "genre": [
+      "drama",
+      "adventure"
+    ],
+    "era": "mid_20th_century",
+    "period": "Between the World Trade Center towers, New York, 7 August 1974",
+    "region": "usa",
+    "environment": [
+      "skyscraper_exterior",
+      "sky",
+      "rooftops"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "awe",
+      "tense",
+      "graceful"
+    ],
+    "combatants": [
+      "stunt_hero",
+      "police"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wire_work",
+      "crane_aerial",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "philippe petit",
+      "joseph gordon-levitt",
+      "twin towers",
+      "high wire",
+      "world trade center",
+      "3d"
+    ]
+  },
+  {
+    "film": "Skyfall",
+    "year": 2012,
+    "scene": "Siege of Skyfall Lodge",
+    "query": "Skyfall lodge final battle scene",
+    "what_happens": "Bond, M and the old gamekeeper Kincade defend Bond's childhood home in the Scottish Highlands against Silva's mercenaries with booby traps and shotguns, until Bond blows up the lodge to bring down the attacking helicopter.",
+    "why": "Deakins lights the finale with fire and flare against black moorland, so the burning house becomes a silhouette stage. Improvised traps and old weapons make the last stand feel personal.",
+    "director": "Sam Mendes",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Roger Deakins",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song",
+      "Oscar: Best Sound Editing"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "last_stand",
+      "siege"
+    ],
+    "scale": "medium",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Skyfall Lodge, Scottish Highlands, present day",
+    "region": "british_isles",
+    "environment": [
+      "palace_mansion",
+      "grassland",
+      "hills_mountains"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "explosions",
+      "fog_mist"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "mercenaries"
+    ],
+    "weapons": [
+      "shotgun",
+      "explosives",
+      "automatic_weapons",
+      "knife"
+    ],
+    "vehicles": [
+      "helicopter"
+    ],
+    "technique": [
+      "silhouette",
+      "practical_explosions",
+      "practical_effects",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "daniel craig",
+      "judi dench",
+      "albert finney",
+      "silva",
+      "booby traps",
+      "scottish highlands"
+    ]
+  },
+  {
+    "film": "News of the World",
+    "year": 2020,
+    "scene": "Hilltop gunfight loaded with dimes",
+    "query": "News of the World shootout scene dimes",
+    "what_happens": "Pinned among rocks on a hilltop by three men who want to buy the girl he is escorting, Captain Kidd fights back with an old shotgun, loading it with dimes at Johanna's suggestion when his birdshot runs out.",
+    "why": "Greengrass shoots the gunfight among real rocks with handheld cameras and sparse cover, so every reload and shift of position matters. Resourcefulness, not marksmanship, drives the action.",
+    "director": "Paul Greengrass",
+    "country": "USA",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: James Newton Howard"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "small_group_fight",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "western",
+      "drama",
+      "adventure"
+    ],
+    "era": "19th_century",
+    "period": "Rocky hilltop in north Texas, 1870",
+    "region": "american_frontier",
+    "environment": [
+      "hills_mountains",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "gritty",
+      "intimate"
+    ],
+    "combatants": [
+      "civilians",
+      "outlaws_bandits"
+    ],
+    "weapons": [
+      "shotgun",
+      "rifle",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "real_location",
+      "sound_design",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "tom hanks",
+      "helena zengel",
+      "captain kidd",
+      "dimes",
+      "johanna",
+      "texas 1870"
+    ]
+  },
+  {
+    "film": "Okja",
+    "year": 2017,
+    "scene": "Okja's stampede through the Seoul underground mall",
+    "query": "Okja chase scene Seoul underground mall",
+    "what_happens": "As Mirando's men truck Okja through Seoul, Mija clings to the vehicle; the giant super-pig breaks loose and stampedes through an underground shopping arcade with Mija on her back, smashing shopfronts as guards and activists give chase.",
+    "why": "Bong blends a CG creature with practical destruction in real locations, keeping the chase funny and frantic. The animal's weight and the girl's stubbornness drive the slapstick.",
+    "director": "Bong Joon-ho",
+    "country": "South Korea/USA",
+    "craft": [
+      "DP: Darius Khondji"
+    ],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "escape",
+      "pursuit"
+    ],
+    "scale": "medium",
+    "genre": [
+      "adventure",
+      "sci_fi",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Streets and underground shopping arcade in Seoul, present day",
+    "region": "korea",
+    "environment": [
+      "mall_store",
+      "city_street",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "chaotic",
+      "relentless"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians",
+      "thugs_henchmen"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "truck"
+    ],
+    "technique": [
+      "cgi",
+      "real_location",
+      "handheld",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "multiple",
+    "keywords": [
+      "okja",
+      "super-pig",
+      "ahn seo-hyun",
+      "mija",
+      "animal liberation front",
+      "netflix"
+    ],
+    "video": "axQmW9i-bi8"
+  },
+  {
+    "film": "The International",
+    "year": 2009,
+    "scene": "Guggenheim Museum shootout",
+    "query": "The International Guggenheim shootout scene",
+    "what_happens": "Interpol agent Louis Salinger tracks a bank's hired assassin into New York's Guggenheim Museum, where the bank sends gunmen to silence him; Salinger fights alongside his quarry as the battle spirals down the white ramps and shatters the glass dome.",
+    "why": "Tykwer built a full-scale replica of the Guggenheim's spiral and stages the gunfight vertically, using the atrium's sightlines and pale walls so every bullet hole and fall reads across levels.",
+    "director": "Tom Tykwer",
+    "country": "USA/Germany/UK",
+    "craft": [
+      "DP: Frank Griebe"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "team_vs_team",
+      "ambush"
+    ],
+    "scale": "medium",
+    "genre": [
+      "thriller",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Solomon R. Guggenheim Museum, New York, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "stylish"
+    ],
+    "combatants": [
+      "federal_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "wide_framing",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "clive owen",
+      "naomi watts",
+      "guggenheim",
+      "spiral ramp",
+      "replica set",
+      "interpol"
+    ]
+  },
+  {
+    "film": "Salt",
+    "year": 2010,
+    "scene": "Highway escape across the truck roofs",
+    "query": "Salt truck jump scene highway",
+    "what_happens": "Escaping CIA agents, Evelyn Salt drops from an overpass onto the roof of a moving truck and leaps from roof to roof across speeding trucks on the highway below before vanishing into traffic.",
+    "why": "Noyce builds the escape from a clear chain of practical jumps, making Angelina Jolie's physicality the spectacle. A classic set-piece grown from one absurd but readable idea.",
+    "director": "Phillip Noyce",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "escape",
+      "pursuit"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Highway near Washington, D.C., present day",
+    "region": "usa",
+    "environment": [
+      "highway",
+      "bridge"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "federal_agents"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "truck",
+      "car"
+    ],
+    "technique": [
+      "practical_stunts",
+      "vehicle_stunts",
+      "wire_work",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "angelina jolie",
+      "evelyn salt",
+      "truck jumping",
+      "overpass",
+      "cia",
+      "sleeper agent"
+    ]
+  },
+  {
+    "film": "Birds of Prey",
+    "year": 2020,
+    "scene": "Harley's police evidence-room fight",
+    "query": "Birds of Prey evidence room fight scene",
+    "what_happens": "Harley Quinn storms the Gotham police station with a shotgun firing beanbags and glitter, then fights a swarm of officers in the evidence room with acrobatic kicks and whatever she can grab.",
+    "why": "Yan gives superhero action a grounded, gymnastic style: long, readable takes, real impacts and comic bursts of colour instead of CG powers.",
+    "director": "Cathy Yan",
+    "country": "USA",
+    "craft": [
+      "DP: Matthew Libatique"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many",
+      "assault_raid"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "Gotham City police precinct, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks",
+      "smoke"
+    ],
+    "mood": [
+      "playful",
+      "stylish",
+      "chaotic"
+    ],
+    "combatants": [
+      "supervillains",
+      "police"
+    ],
+    "weapons": [
+      "shotgun",
+      "improvised",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "margot robbie",
+      "harley quinn",
+      "beanbag shotgun",
+      "glitter",
+      "evidence room",
+      "gotham police"
+    ],
+    "video": "pIEtFBOeSSg"
+  },
+  {
+    "film": "Quantum of Solace",
+    "year": 2008,
+    "scene": "Tosca opera shootout at Bregenz",
+    "query": "Quantum of Solace opera scene Tosca",
+    "what_happens": "Bond eavesdrops on a secret Quantum meeting held by earpiece during a performance of Tosca on Bregenz's floating stage, flushes out its members, then fights his way out while the opera's tragedy plays on.",
+    "why": "Forster mutes the gunfire and lets Puccini carry the action, cross-cutting the opera's violence with the real shootout. A study in counterpoint between sound and image.",
+    "director": "Marc Forster",
+    "country": "UK/USA",
+    "craft": [
+      "DP: Roberto Schaefer",
+      "Composer: David Arnold"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "spy",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Floating opera stage at Bregenz, Austria, present day",
+    "region": "western_europe",
+    "environment": [
+      "building_interior",
+      "river_lake"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "tense",
+      "melancholic"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "handgun",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cross_cutting",
+      "silence",
+      "score_driven",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "tosca",
+      "bregenz",
+      "floating stage",
+      "quantum",
+      "daniel craig",
+      "puccini"
+    ],
+    "video": "OFx7hEt940c"
+  },
+  {
+    "film": "Gemini Man",
+    "year": 2019,
+    "scene": "Motorcycle chase through Cartagena",
+    "query": "Gemini Man motorcycle chase scene",
+    "what_happens": "In Cartagena, retired assassin Henry Brogan is hunted through the streets by his own younger clone on a motorbike, the clone even swinging his bike as a weapon when the chase collapses into a brawl.",
+    "why": "Ang Lee shot at 120 frames per second in 3D, so the chase looks hyper-clear, while Will Smith's younger double is a fully digital human. A test case for high frame rates and CG actors in action.",
+    "director": "Ang Lee",
+    "country": "USA",
+    "craft": [
+      "DP: Dion Beebe"
+    ],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "sci_fi",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Streets of Cartagena, Colombia, present day",
+    "region": "latin_america",
+    "environment": [
+      "city_street",
+      "alley"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "heat_sun"
+    ],
+    "mood": [
+      "relentless",
+      "tense",
+      "surreal"
+    ],
+    "combatants": [
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "vehicle_as_weapon",
+      "handgun",
+      "fists_feet"
+    ],
+    "vehicles": [
+      "motorcycle"
+    ],
+    "technique": [
+      "cgi",
+      "motion_capture",
+      "vehicle_stunts",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "film",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "will smith",
+      "clone",
+      "high frame rate",
+      "cartagena",
+      "de-aging",
+      "120fps"
+    ]
+  }
+]
