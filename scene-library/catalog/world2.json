@@ -17,6 +17,7 @@
       "Golden Globe: Best Television Series – Drama"
     ],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "stealth_infiltration",
       "assault_raid"
@@ -90,6 +91,7 @@
       "Emmy: Outstanding Drama Series"
     ],
     "scene_type": "fight.blades",
+    "tier": "replaceable",
     "format": [
       "duel",
       "demonstration"
@@ -156,6 +158,7 @@
       "Emmy: Outstanding Drama Series"
     ],
     "scene_type": "fight.creature",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "rescue"
@@ -230,6 +233,7 @@
       "Golden Globe: Best Television Series – Drama"
     ],
     "scene_type": "chase.air",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -295,6 +299,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "ambush"
@@ -370,6 +375,7 @@
       "Emmy: Outstanding Miniseries"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "last_stand"
@@ -442,6 +448,7 @@
       "Emmy: Outstanding Miniseries"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "last_stand"
     ],
@@ -509,6 +516,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "stealth_infiltration",
       "escape"
@@ -581,6 +589,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "escape",
       "assault_raid"
@@ -650,6 +659,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "rampage",
       "escape"
@@ -715,6 +725,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "escape"
@@ -785,6 +796,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "excellent",
     "format": [
       "rampage",
       "ambush"
@@ -855,6 +867,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "replaceable",
     "format": [
       "siege",
       "last_stand"
@@ -930,6 +943,7 @@
       "Golden Globe: Best Original Song"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -995,6 +1009,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "spectacle",
       "rescue"
@@ -1063,6 +1078,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "team_vs_team"
     ],
@@ -1129,6 +1145,7 @@
       "Golden Horse: Best Director"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -1198,6 +1215,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "rescue"
@@ -1265,6 +1283,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "canon",
     "format": [
       "assault_raid",
       "escape"
@@ -1338,6 +1357,7 @@
       "Berlin: Golden Bear"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush",
       "rescue"
@@ -1412,6 +1432,7 @@
       "BAFTA: Best Film Not in the English Language"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "canon",
     "format": [
       "pursuit",
       "escape"
@@ -1483,6 +1504,7 @@
       "Oscar: Best Foreign Language Film"
     ],
     "scene_type": "chase.foot",
+    "tier": "canon",
     "format": [
       "pursuit"
     ],
@@ -1542,6 +1564,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],

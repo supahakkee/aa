@@ -19,6 +19,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "team_vs_team",
       "last_stand"
@@ -93,6 +94,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -167,6 +169,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "duel"
@@ -236,6 +239,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "massed_battle"
     ],
@@ -309,6 +313,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "duel"
@@ -373,6 +378,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "massed_battle"
     ],
@@ -439,6 +445,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "small_group_fight"
@@ -510,6 +517,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "ambush",
       "massed_battle"
@@ -582,6 +590,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "massed_battle"
@@ -655,6 +664,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "massed_battle"
     ],
@@ -722,6 +732,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -797,6 +808,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -873,6 +885,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "ambush"
@@ -944,6 +957,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "canon",
     "format": [
       "siege",
       "last_stand"
@@ -1028,6 +1042,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "assault_raid"
     ],
@@ -1106,6 +1121,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "massed_battle"
@@ -1190,6 +1206,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "massed_battle"
     ],
@@ -1266,6 +1283,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "rampage",
       "siege"
@@ -1333,6 +1351,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "massed_battle"
     ],
@@ -1404,6 +1423,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "siege",
       "last_stand"
@@ -1473,6 +1493,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "ambush"
@@ -1545,6 +1566,7 @@
       "National Film Award: Best Feature Film"
     ],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "excellent",
     "format": [
       "massed_battle"
     ],
@@ -1620,6 +1642,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "excellent",
     "format": [
       "ambush",
       "rescue"
@@ -1688,6 +1711,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "duel"
@@ -1761,6 +1785,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "replaceable",
     "format": [
       "massed_battle"
     ],
@@ -1832,6 +1857,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -1902,6 +1928,7 @@
       "Oscar: Best Supporting Actress"
     ],
     "scene_type": "battle.black_powder",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -1973,6 +2000,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "excellent",
     "format": [
       "ambush",
       "massed_battle"
@@ -2044,6 +2072,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "rescue"
@@ -2115,6 +2144,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "ambush"
@@ -2187,6 +2217,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "escape"
     ],
@@ -2256,6 +2287,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -2327,6 +2359,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "duel",
       "standoff"
@@ -2395,6 +2428,7 @@
       "Golden Globe: Best Miniseries or Television Film"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "ambush"
@@ -2463,6 +2497,7 @@
       "Golden Globe: Best Miniseries or Television Film"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "bombardment"
     ],
@@ -2534,6 +2569,7 @@
       "Golden Globe: Best Miniseries or Television Film"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid"
     ],
@@ -2602,6 +2638,7 @@
       "Emmy: Outstanding Miniseries"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -2675,6 +2712,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "ambush"
@@ -2746,6 +2784,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "bombardment",
       "assault_raid"
@@ -2814,6 +2853,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "ambush"
     ],
@@ -2880,6 +2920,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "last_stand"
     ],
@@ -2952,6 +2993,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "canon",
     "format": [
       "assault_raid",
       "stealth_infiltration"
@@ -3023,6 +3065,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "siege"
@@ -3099,6 +3142,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "escape"
@@ -3174,6 +3218,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "rescue"
@@ -3255,6 +3300,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "ambush",
       "escape"
@@ -3326,6 +3372,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "duel"
@@ -3393,6 +3440,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "siege"
@@ -3465,6 +3513,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.air",
+    "tier": "replaceable",
     "format": [
       "dogfight"
     ],
@@ -3530,6 +3579,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.air",
+    "tier": "replaceable",
     "format": [
       "bombardment",
       "last_stand"
@@ -3603,6 +3653,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "battle.air",
+    "tier": "excellent",
     "format": [
       "dogfight",
       "escape"
@@ -3668,6 +3719,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.air",
+    "tier": "replaceable",
     "format": [
       "dogfight",
       "assault_raid"
@@ -3739,6 +3791,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "battle.air",
+    "tier": "replaceable",
     "format": [
       "bombardment",
       "assault_raid"
@@ -3810,6 +3863,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.naval",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -3883,6 +3937,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.naval",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -3957,6 +4012,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.naval",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "ambush"
@@ -4034,6 +4090,7 @@
       "Hugo: Best Dramatic Presentation, Short Form"
     ],
     "scene_type": "battle.naval",
+    "tier": "canon",
     "format": [
       "ambush"
     ],
@@ -4107,6 +4164,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.naval",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "assault_raid"

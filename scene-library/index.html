@@ -215,7 +215,7 @@ details.facet .fv { padding-left: 12px; }
 .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.35s ease, filter 0.35s ease; }
 .thumb:hover img { transform: scale(1.04); filter: brightness(0.82); }
 .thumb::after { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06); border-radius: inherit; }
-.tag, .tc, .disk {
+.tag, .tc, .disk, .canon {
   position: absolute; display: inline-flex; align-items: center; gap: 6px;
   background: var(--scrim); color: var(--on-scrim); border-radius: 3px; padding: 2px 7px;
 }
@@ -223,6 +223,7 @@ details.facet .fv { padding-left: 12px; }
 .tag i { width: 7px; height: 7px; background: var(--g); border-radius: 1px; }
 .tc { right: 8px; bottom: 8px; font-size: 11px; font-variant-numeric: tabular-nums; }
 .disk { left: 8px; bottom: 8px; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; }
+.canon { right: 8px; top: 8px; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent); color: var(--accent-ink); }
 .pick { width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid currentColor; }
 .pick.hot { background: currentColor; }
 .play-ico {
@@ -376,6 +377,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
       <label><span class="sr">Sort</span>
         <select class="select" id="sort">
           <option value="curated">Sort: by scene type</option>
+          <option value="tier">Sort: canon first</option>
           <option value="new">Sort: newest first</option>
           <option value="old">Sort: oldest first</option>
           <option value="story">Sort: story era</option>
@@ -445,13 +447,14 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   const TYPE_ORDER = FAMILIES.flatMap((f) => f.types);
   const FAMILY_OF = {};
   FAMILIES.forEach((f) => f.types.forEach((t) => (FAMILY_OF[t] = f)));
-  const RAIL_FACETS = ["genre", "era", "region", "environment", "combatants", "weapons", "vehicles", "mood", "atmosphere",
+  const RAIL_FACETS = ["tier", "genre", "era", "region", "environment", "combatants", "weapons", "vehicles", "mood", "atmosphere",
     "time_of_day", "scale", "format", "technique", "look", "violence", "language", "medium"];
-  const DETAIL_FACETS = ["scene_type", "format", "scale", "genre", "era", "region", "environment", "time_of_day", "atmosphere",
+  const DETAIL_FACETS = ["scene_type", "tier", "format", "scale", "genre", "era", "region", "environment", "time_of_day", "atmosphere",
     "mood", "combatants", "weapons", "vehicles", "technique", "look", "violence", "language", "medium"];
   const ERA_ORDER = Object.keys(TAX.era ? TAX.era.values : {});
   const WINDOW_LABEL = { most_replayed: "Most-replayed window", motion_peak: "Busiest 30 s by motion", hand_picked: "Hand-picked window", estimated: "Estimated window" };
   const LABEL = {
+    canon: "Canon", excellent: "Excellent", replaceable: "Replaceable",
     ww2: "WW2", usa: "USA", "19th_century": "19th century", early_20th_century: "Early 20th century", mid_20th_century: "Mid 20th century",
     late_20th_century: "Late 20th century", cgi: "CGI", pov: "POV", imax_large_format: "IMAX / large format", animation_2d: "2D animation",
     animation_3d: "3D animation", live_action_color: "Live action, colour", live_action_bw: "Live action, black & white",
@@ -582,8 +585,10 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   }
   const selected = (facet) => state.f[facet] || (state.f[facet] = new Set());
   const filterCount = () => Object.values(state.f).reduce((n, set) => n + set.size, 0);
+  const TIER_RANK = { canon: 0, excellent: 1, replaceable: 2 };
   const SORTS = {
     curated: (a, b) => a.order - b.order,
+    tier: (a, b) => TIER_RANK[a.tier] - TIER_RANK[b.tier] || a.order - b.order,
     new: (a, b) => b.year - a.year || a.order - b.order,
     old: (a, b) => a.year - b.year || a.order - b.order,
     story: (a, b) => ERA_ORDER.indexOf(a.era) - ERA_ORDER.indexOf(b.era) || a.order - b.order,
@@ -668,6 +673,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
         <img loading="lazy" decoding="async" src="${esc(thumbOf(s.clip.youtube_id))}" alt="">
         <span class="tag mono"><i></i>${esc(TYPE_LABEL[s.scene_type])}</span>
         ${LOCAL[s.id] ? `<span class="disk mono">On disk</span>` : ""}
+        ${s.tier === "canon" ? `<span class="canon mono" title="Canon: a scene every filmmaker should know">Canon</span>` : ""}
         <span class="tc mono"><span class="pick${s.clip.window === "estimated" ? "" : " hot"}" title="${WINDOW_LABEL[s.clip.window]}"></span>${clock(s.clip.start)}–${clock(s.clip.end)}</span>
         <span class="play-ico">${PLAY}</span>
       </button>

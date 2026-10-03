@@ -40,6 +40,9 @@ mcp = FastMCP(
 )
 
 
+TIER_RANK = {"canon": 0, "excellent": 1, "replaceable": 2}
+
+
 def _facet_param(facet):
     spec = TAXONOMY[facet]
     values = Literal[tuple(spec["values"])]
@@ -65,6 +68,7 @@ def _summary(scene):
         "year": scene["year"],
         "scene": scene["scene"],
         "scene_type": scene["scene_type"],
+        "tier": scene["tier"],
         "period": scene["period"],
         "mood": scene["mood"],
         "what_happens": scene["what_happens"],
@@ -101,6 +105,7 @@ def list_tags(facet: Annotated[Optional[str], Field(
 @mcp.tool()
 def search_scenes(
     scene_type: _facet_param("scene_type") = None,
+    tier: _facet_param("tier") = None,
     format: _facet_param("format") = None,
     scale: _facet_param("scale") = None,
     genre: _facet_param("genre") = None,
@@ -135,6 +140,7 @@ def search_scenes(
     limit: Annotated[int, Field(ge=1, le=200, description="Maximum results.")] = 20,
 ) -> dict:
     """Find scenes by tag. Values within one facet are OR; different facets are AND.
+    Results list canon scenes first. Pass tier=["canon"] for only the essential references.
     Returns short summaries; call get_scene for the full record."""
     given = locals()
     filters = [(f, set(given[f]), False) for f in TAXONOMY if given.get(f)]
@@ -143,6 +149,7 @@ def search_scenes(
                             min_avg_shot_seconds, max_avg_shot_seconds)
     if downloaded_only:
         found = [s for s in found if _local_file(s)]
+    found = sorted(found, key=lambda s: TIER_RANK[s["tier"]])  # canon first, order otherwise kept
     return {"total": len(found), "scenes": [_summary(s) for s in found[:limit]]}
 
 

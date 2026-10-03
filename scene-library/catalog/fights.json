@@ -14,6 +14,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "small_group_fight"
     ],
@@ -82,6 +83,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -149,6 +151,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "small_group_fight"
     ],
@@ -221,6 +224,7 @@
       "Hong Kong Film Award: Best Action Choreography"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -287,6 +291,7 @@
       "Hong Kong Film Award: Best Action Choreography"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -354,6 +359,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -423,6 +429,7 @@
       "Cannes: Grand Prix"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -497,6 +504,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -561,6 +569,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "rescue"
@@ -632,6 +641,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "escape"
@@ -701,6 +711,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -767,6 +778,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -835,6 +847,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -907,6 +920,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "rampage"
@@ -977,6 +991,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "small_group_fight",
       "ambush"
@@ -1041,6 +1056,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -1107,6 +1123,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "pursuit"
@@ -1184,6 +1201,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "small_group_fight"
     ],
@@ -1255,6 +1273,7 @@
       "Venice: Silver Lion for Best Director"
     ],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "duel"
@@ -1318,6 +1337,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "canon",
     "format": [
       "ambush",
       "massed_battle"
@@ -1390,6 +1410,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "small_group_fight"
     ],
@@ -1466,6 +1487,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -1533,6 +1555,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -1597,6 +1620,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -1664,6 +1688,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "duel",
       "bout"
@@ -1738,6 +1763,7 @@
       "Golden Globe: Best Television Series – Drama"
     ],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "last_stand"
@@ -1800,6 +1826,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "duel",
       "bout"
@@ -1869,6 +1896,7 @@
       "Golden Globe: Best Supporting Actor – Motion Picture"
     ],
     "scene_type": "fight.ring_sport",
+    "tier": "canon",
     "format": [
       "bout"
     ],
@@ -1937,6 +1965,7 @@
       "Oscar: Best Supporting Actor"
     ],
     "scene_type": "fight.ring_sport",
+    "tier": "replaceable",
     "format": [
       "bout"
     ],
@@ -2000,6 +2029,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout"
     ],
@@ -2064,6 +2094,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout"
     ],
@@ -2133,6 +2164,7 @@
       "Oscar: Best Supporting Actress"
     ],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout"
     ],
@@ -2194,6 +2226,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout"
     ],
@@ -2260,6 +2293,7 @@
       "BAFTA: Best Cinematography"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -2333,6 +2367,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "ambush",
       "standoff"
@@ -2406,6 +2441,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -2479,6 +2515,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "one_vs_many"
     ],
@@ -2545,6 +2582,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -2610,6 +2648,7 @@
       "BAFTA: Best Production Design"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "canon",
     "format": [
       "escape",
       "massed_battle"
@@ -2691,6 +2730,7 @@
       "Cannes: Best Director"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush",
       "small_group_fight"
@@ -2758,6 +2798,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -2831,6 +2872,7 @@
       "Oscar: Best Adapted Screenplay"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "ambush",
       "duel"

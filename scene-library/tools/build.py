@@ -102,7 +102,9 @@ def update_readme(scenes):
     countries = {c.strip() for s in scenes for c in s["production_country"].replace(",", "/").split("/") if c.strip()}
     table = "\n".join([
         f"**{len(scenes)} scenes** from {len({s['film'] for s in scenes})} films and series, {min(years)}-{max(years)}, "
-        f"made in {len(countries)} countries; {len(scenes) * 30 // 3600} h {len(scenes) * 30 % 3600 // 60} min of clips.",
+        f"made in {len(countries)} countries; {len(scenes) * 30 // 3600} h {len(scenes) * 30 % 3600 // 60} min of clips. "
+        + " · ".join(f"{n} {t}" for t, n in sorted(Counter(s["tier"] for s in scenes).items(),
+                                                  key=lambda kv: ["canon", "excellent", "replaceable"].index(kv[0]))) + ".",
         "", "| Family | Scenes | Scene types |", "|---|---|---|", *rows])
     text = readme.read_text()
     head, rest = text.split("<!-- counts -->", 1)

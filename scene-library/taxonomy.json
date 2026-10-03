@@ -32,6 +32,16 @@
         "space.travel": "Spaceflight without combat: launch, docking, landing, wormholes, journeys through space, first sight of a spacecraft."
       }
     },
+    "tier": {
+      "description": "How essential the scene is as a reference. canon = the ones every filmmaker should know; excellent = among the best of its kind.",
+      "min": 1,
+      "max": 1,
+      "values": {
+        "canon": "Canon: routinely on greatest-scene lists, award-defining or widely taught and broken down.",
+        "excellent": "Excellent: a widely praised set-piece with a strong, specific craft lesson; among the best of its kind.",
+        "replaceable": "Replaceable: good but not reference-grade; a better example of the same kind exists."
+      }
+    },
     "format": {
       "label": "Action format",
       "min": 1,

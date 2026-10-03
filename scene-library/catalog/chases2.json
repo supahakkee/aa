@@ -23,6 +23,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "ambush"
@@ -103,6 +104,7 @@
       "BAFTA: Best Production Design"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "canon",
     "format": [
       "ambush",
       "escape"
@@ -174,6 +176,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -246,6 +249,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -316,6 +320,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit"
     ],
@@ -394,6 +399,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "escape"
@@ -467,6 +473,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "escape"
@@ -540,6 +547,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "escape"
@@ -613,6 +621,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "escape",
       "pursuit"
@@ -685,6 +694,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"
@@ -763,6 +773,7 @@
       "Oscar: Best Original Song"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "escape",
       "ambush"
@@ -841,6 +852,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "pursuit"
@@ -913,6 +925,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "one_vs_many"
@@ -982,6 +995,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -1044,6 +1058,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "replaceable",
     "format": [
       "pursuit"
     ],
@@ -1120,6 +1135,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "chase.foot",
+    "tier": "canon",
     "format": [
       "stealth_infiltration",
       "escape"
@@ -1189,6 +1205,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "duel"
@@ -1266,6 +1283,7 @@
       "BAFTA: Best Editing"
     ],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"
@@ -1335,6 +1353,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -1403,6 +1422,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "chase.foot",
+    "tier": "canon",
     "format": [
       "pursuit",
       "duel"
@@ -1468,6 +1488,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "pursuit"
     ],
@@ -1534,6 +1555,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.air",
+    "tier": "replaceable",
     "format": [
       "escape",
       "pursuit"
@@ -1605,6 +1627,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race"
     ],
@@ -1669,6 +1692,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race"
     ],
@@ -1734,6 +1758,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "replaceable",
     "format": [
       "race",
       "duel"
@@ -1799,6 +1824,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race",
       "duel"
@@ -1863,6 +1889,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "replaceable",
     "format": [
       "race",
       "duel"
@@ -1932,6 +1959,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race"
     ],
@@ -2003,6 +2031,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "replaceable",
     "format": [
       "rescue",
       "catastrophe"
@@ -2067,6 +2096,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "spectacle"
     ],
@@ -2135,6 +2165,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "escape",
       "catastrophe"
@@ -2203,6 +2234,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "ambush",
       "rescue"
@@ -2279,6 +2311,7 @@
       "Oscar: Best Original Song"
     ],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "rescue"
     ],
@@ -2352,6 +2385,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "ambush"
@@ -2431,6 +2465,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "standoff",
       "ambush"
@@ -2500,6 +2535,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "ambush",
       "rampage"
@@ -2566,6 +2602,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -2629,6 +2666,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"

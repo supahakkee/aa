@@ -1,18 +1,19 @@
 # Set-Piece Vault
 
 A reference library of great action set-pieces from live-action films and series released since
-2000, built for filmmakers and for the AI agents that help them. Every scene is a **30-second clip** with notes on what happens and what
-to study, its crew and awards, and **18 tag facets** from a controlled vocabulary: scene type,
-action format, scale, genre, story era and exact period, region, environment, time of day,
-atmosphere, mood, who is fighting, weapons, vehicles, filmmaking technique, look, release format,
-violence level and language.
+2000, built for filmmakers and for the AI agents that help them. Every scene is a **30-second clip**
+with notes on what happens and what to study, its crew and awards, and **19 tag facets** from a
+controlled vocabulary: scene type, tier (canon, excellent, replaceable), action format, scale,
+genre, story era and exact period, region, environment, time of day, atmosphere, mood, who is
+fighting, weapons, vehicles, filmmaking technique, look, release format, violence level and
+language.
 
 The tags keep similar-looking scenes apart: a samurai duel in the rain (`fight.blades`, `japan`,
 `samurai`, `katana`, `rain`) never mixes with a medieval army clash (`battle.pre_gunpowder`,
 `british_isles`, `knights`, `european_sword`).
 
 <!-- counts -->
-**730 scenes** from 462 films and series, 2000-2025, made in 32 countries; 6 h 5 min of clips.
+**730 scenes** from 462 films and series, 2000-2025, made in 32 countries; 6 h 5 min of clips. 143 canon · 375 excellent · 212 replaceable.
 
 | Family | Scenes | Scene types |
 |---|---|---|

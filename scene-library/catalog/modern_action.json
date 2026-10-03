@@ -13,6 +13,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "ambush"
@@ -82,6 +83,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "one_vs_many"
     ],
@@ -152,6 +154,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -219,6 +222,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "escape"
@@ -289,6 +293,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "one_vs_many"
     ],
@@ -359,6 +364,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "one_vs_many",
       "duel"
@@ -429,6 +435,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush"
     ],
@@ -502,6 +509,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "escape",
       "rescue"
@@ -573,6 +581,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "stealth_infiltration",
       "small_group_fight"
@@ -643,6 +652,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "escape"
     ],
@@ -712,6 +722,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -781,6 +792,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "rescue",
       "small_group_fight"
@@ -857,6 +869,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -928,6 +941,7 @@
       "Oscar: Best Original Song"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "small_group_fight",
       "escape"
@@ -1000,6 +1014,7 @@
       "Oscar: Best Original Song"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "one_vs_many",
       "assault_raid"
@@ -1072,6 +1087,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "escape",
       "pursuit"
@@ -1145,6 +1161,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit"
     ],
@@ -1214,6 +1231,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "escape"
@@ -1288,6 +1306,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "ambush"
@@ -1357,6 +1376,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -1422,6 +1442,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "standoff",
       "small_group_fight"
@@ -1487,6 +1508,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "team_vs_team",
       "ambush"
@@ -1559,6 +1581,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel",
       "ambush"
@@ -1622,6 +1645,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -1686,6 +1710,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -1750,6 +1775,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "one_vs_many"
@@ -1823,6 +1849,7 @@
       "Cannes Un Certain Regard: Best Director"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "standoff",
       "ambush"
@@ -1894,6 +1921,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "ambush",
       "team_vs_team"
@@ -1968,6 +1996,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush",
       "assault_raid"
@@ -2037,6 +2066,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "standoff",
       "ambush"
@@ -2112,6 +2142,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush"
     ],
@@ -2182,6 +2213,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "small_group_fight",
       "rescue"
@@ -2250,6 +2282,7 @@
       "Cannes: Best Screenplay"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "rescue",
       "assault_raid"
@@ -2321,6 +2354,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -2390,6 +2424,7 @@
       "Cannes: Best Actor"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "rampage",
       "ambush"
@@ -2462,6 +2497,7 @@
       "Oscar: Best Production Design"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "small_group_fight",
       "ambush"
@@ -2530,6 +2566,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush"
     ],
@@ -2600,6 +2637,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -2667,6 +2705,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "one_vs_many"
@@ -2740,6 +2779,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "one_vs_many",
       "stealth_infiltration"
@@ -2810,6 +2850,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "rescue",
       "one_vs_many"
@@ -2880,6 +2921,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "duel",
       "pursuit"
@@ -2950,6 +2992,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "escape",
       "pursuit"
@@ -3016,6 +3059,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout",
       "duel"
@@ -3083,6 +3127,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "escape",
       "bombardment"
@@ -3152,6 +3197,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "small_group_fight"
     ],
@@ -3215,6 +3261,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -3280,6 +3327,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -3346,6 +3394,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "duel"
@@ -3418,6 +3467,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "one_vs_many"
     ],
@@ -3485,6 +3535,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "one_vs_many"
     ],
@@ -3557,6 +3608,7 @@
       "Oscar: Best Production Design"
     ],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "ambush"
@@ -3630,6 +3682,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "stealth_infiltration",
       "escape"
@@ -3705,6 +3758,7 @@
       "BAFTA: Best Editing"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "ambush",
       "small_group_fight"
@@ -3778,6 +3832,7 @@
       "Cannes: Best Director"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "duel"
     ],
@@ -3846,6 +3901,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "escape"
@@ -3913,6 +3969,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"
@@ -3982,6 +4039,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "escape"
@@ -4054,6 +4112,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "escape"
@@ -4128,6 +4187,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "rescue"
@@ -4200,6 +4260,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "replaceable",
     "format": [
       "escape",
       "spectacle"
@@ -4267,6 +4328,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "replaceable",
     "format": [
       "race",
       "duel"
@@ -4331,6 +4393,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "rescue"
@@ -4402,6 +4465,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "assault_raid"
@@ -4470,6 +4534,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "escape"
@@ -4543,6 +4608,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "small_group_fight",
       "duel"
@@ -4607,6 +4673,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "replaceable",
     "format": [
       "small_group_fight",
       "last_stand"
@@ -4674,6 +4741,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race",
       "catastrophe"
@@ -4741,6 +4809,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race",
       "catastrophe"
@@ -4809,6 +4878,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "excellent",
     "format": [
       "race"
     ],
@@ -4871,6 +4941,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout",
       "duel"
@@ -4934,6 +5005,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.ring_sport",
+    "tier": "replaceable",
     "format": [
       "bout"
     ],
@@ -4998,6 +5070,7 @@
       "Golden Globe: Best Actor – Drama"
     ],
     "scene_type": "fight.ring_sport",
+    "tier": "excellent",
     "format": [
       "bout"
     ],
@@ -5060,6 +5133,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "spectacle"
     ],
@@ -5126,6 +5200,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "siege"
@@ -5202,6 +5277,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "replaceable",
     "format": [
       "small_group_fight",
       "ambush"
@@ -5272,6 +5348,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"
@@ -5342,6 +5419,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "team_vs_team",
       "ambush"
@@ -5408,6 +5486,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "chase.foot",
+    "tier": "replaceable",
     "format": [
       "escape",
       "pursuit"
@@ -5473,6 +5552,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "one_vs_many",
       "assault_raid"
@@ -5544,6 +5624,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "stealth_infiltration",
       "escape"
@@ -5611,6 +5692,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "duel"

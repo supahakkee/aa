@@ -23,6 +23,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "bombardment"
@@ -109,6 +110,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "one_vs_many"
@@ -182,6 +184,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "fight.blades",
+    "tier": "canon",
     "format": [
       "bout",
       "small_group_fight"
@@ -253,6 +256,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -324,6 +328,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.air",
+    "tier": "excellent",
     "format": [
       "bombardment",
       "rampage"
@@ -402,6 +407,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -478,6 +484,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.air",
+    "tier": "replaceable",
     "format": [
       "bombardment",
       "ambush"
@@ -551,6 +558,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "bombardment"
@@ -628,6 +636,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -696,6 +705,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "small_group_fight"
     ],
@@ -767,6 +777,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "ambush",
       "spectacle"
@@ -844,6 +855,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "ambush"
@@ -920,6 +932,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "escape"
@@ -992,6 +1005,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "duel",
       "standoff"
@@ -1059,6 +1073,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.pre_gunpowder",
+    "tier": "replaceable",
     "format": [
       "siege",
       "assault_raid"
@@ -1134,6 +1149,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.naval",
+    "tier": "replaceable",
     "format": [
       "bout",
       "team_vs_team"
@@ -1207,6 +1223,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.black_powder",
+    "tier": "replaceable",
     "format": [
       "siege",
       "assault_raid"
@@ -1286,6 +1303,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "battle.air",
+    "tier": "excellent",
     "format": [
       "dogfight",
       "catastrophe"
@@ -1363,6 +1381,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "rescue",
       "stealth_infiltration"
@@ -1432,6 +1451,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "last_stand"
     ],
@@ -1510,6 +1530,7 @@
       "Oscar: Best Production Design"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "assault_raid"
@@ -1586,6 +1607,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "escape"
     ],
@@ -1654,6 +1676,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "standoff"
     ],
@@ -1721,6 +1744,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "spectacle",
       "stealth_infiltration"
@@ -1793,6 +1817,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.modern_ground",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -1867,6 +1892,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.air",
+    "tier": "excellent",
     "format": [
       "bombardment",
       "escape"
@@ -1939,6 +1965,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -2010,6 +2037,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -2087,6 +2115,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "fight.gunfight",
+    "tier": "canon",
     "format": [
       "assault_raid"
     ],
@@ -2163,6 +2192,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -2231,6 +2261,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "rescue",
       "catastrophe"
@@ -2303,6 +2334,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "team_vs_team"
     ],
@@ -2371,6 +2403,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "ambush"
@@ -2442,6 +2475,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "excellent",
     "format": [
       "rampage",
       "escape"
@@ -2515,6 +2549,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "rescue"
     ],
@@ -2583,6 +2618,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "rescue"
@@ -2648,6 +2684,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "one_vs_many"
     ],
@@ -2717,6 +2754,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "bout",
       "duel"
@@ -2788,6 +2826,7 @@
     ],
     "accolades": [],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "spectacle"
     ],
@@ -2851,6 +2890,7 @@
     ],
     "accolades": [],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "demonstration",
       "escape"
@@ -2927,6 +2967,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "small_group_fight"
     ],
@@ -3000,6 +3041,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "pursuit",
       "rescue"
@@ -3071,6 +3113,7 @@
     ],
     "accolades": [],
     "scene_type": "race",
+    "tier": "replaceable",
     "format": [
       "race",
       "one_vs_many"
@@ -3141,6 +3184,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "replaceable",
     "format": [
       "bout",
       "pursuit"
@@ -3212,6 +3256,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "one_vs_many"
     ],
@@ -3281,6 +3326,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "replaceable",
     "format": [
       "siege",
       "last_stand"
@@ -3357,6 +3403,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "last_stand",
       "rescue"
@@ -3429,6 +3476,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.blades",
+    "tier": "excellent",
     "format": [
       "team_vs_team",
       "ambush"
@@ -3501,6 +3549,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
+    "tier": "excellent",
     "format": [
       "duel"
     ],
@@ -3566,6 +3615,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.gunfight",
+    "tier": "excellent",
     "format": [
       "bombardment",
       "ambush"
@@ -3640,6 +3690,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "siege"
@@ -3718,6 +3769,7 @@
       "Oscar: Best Makeup"
     ],
     "scene_type": "stunt.set_piece",
+    "tier": "replaceable",
     "format": [
       "assault_raid",
       "small_group_fight"
@@ -3788,6 +3840,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.creature",
+    "tier": "excellent",
     "format": [
       "one_vs_many",
       "escape"
@@ -3860,6 +3913,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "replaceable",
     "format": [
       "rampage",
       "escape"
@@ -3925,6 +3979,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe",
       "escape"
@@ -3994,6 +4049,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "canon",
     "format": [
       "rampage"
     ],
@@ -4059,6 +4115,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "excellent",
     "format": [
       "escape",
       "catastrophe"
@@ -4130,6 +4187,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "replaceable",
     "format": [
       "duel"
     ],
@@ -4200,6 +4258,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "replaceable",
     "format": [
       "rampage"
     ],
@@ -4274,6 +4333,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "last_stand"
     ],
@@ -4346,6 +4406,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "replaceable",
     "format": [
       "siege",
       "massed_battle"
@@ -4417,6 +4478,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.creature",
+    "tier": "replaceable",
     "format": [
       "bout",
       "pursuit"
@@ -4485,6 +4547,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "excellent",
     "format": [
       "escape",
       "pursuit"
@@ -4555,6 +4618,7 @@
     ],
     "accolades": [],
     "scene_type": "creature.attack",
+    "tier": "excellent",
     "format": [
       "ambush",
       "escape"
@@ -4624,6 +4688,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "escape"
@@ -4693,6 +4758,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe"
     ],
@@ -4761,6 +4827,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe",
       "escape"
@@ -4830,6 +4897,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe",
       "escape"
@@ -4904,6 +4972,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "spectacle"
     ],
@@ -4973,6 +5042,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "replaceable",
     "format": [
       "stealth_infiltration",
       "spectacle"
@@ -5041,6 +5111,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "rescue"
@@ -5109,6 +5180,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "escape"
@@ -5176,6 +5248,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe"
     ],
@@ -5243,6 +5316,7 @@
       "Cannes: Best Actress"
     ],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "spectacle"
@@ -5306,6 +5380,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "rescue"
@@ -5373,6 +5448,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "canon",
     "format": [
       "catastrophe"
     ],
@@ -5441,6 +5517,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "excellent",
     "format": [
       "catastrophe",
       "escape"
@@ -5509,6 +5586,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe",
       "escape"
@@ -5589,6 +5667,7 @@
       "Oscar: Best Sound Mixing"
     ],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe"
     ],
@@ -5655,6 +5734,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.giants",
+    "tier": "excellent",
     "format": [
       "rampage",
       "catastrophe"
@@ -5726,6 +5806,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "escape",
       "rescue"
@@ -5795,6 +5876,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "catastrophe"
     ],
@@ -5860,6 +5942,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "ambush",
       "catastrophe"
@@ -5927,6 +6010,7 @@
       "Emmy: Outstanding Directing for a Drama Series"
     ],
     "scene_type": "disaster",
+    "tier": "canon",
     "format": [
       "catastrophe",
       "rescue"

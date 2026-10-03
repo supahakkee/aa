@@ -14,6 +14,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.space",
+    "tier": "excellent",
     "format": [
       "dogfight",
       "massed_battle"
@@ -89,6 +90,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.space",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "dogfight"
@@ -160,6 +162,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.space",
+    "tier": "canon",
     "format": [
       "spectacle",
       "catastrophe"
@@ -236,6 +239,7 @@
       "Oscar: Best Makeup"
     ],
     "scene_type": "battle.space",
+    "tier": "excellent",
     "format": [
       "ambush",
       "last_stand"
@@ -313,6 +317,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.space",
+    "tier": "canon",
     "format": [
       "assault_raid",
       "rescue"
@@ -386,6 +391,7 @@
     "craft": [],
     "accolades": [],
     "scene_type": "battle.space",
+    "tier": "replaceable",
     "format": [
       "massed_battle",
       "dogfight"
@@ -466,6 +472,7 @@
       "Hugo: Best Dramatic Presentation, Long Form"
     ],
     "scene_type": "battle.space",
+    "tier": "excellent",
     "format": [
       "massed_battle",
       "pursuit"
@@ -543,6 +550,7 @@
       "Hugo: Best Dramatic Presentation, Long Form"
     ],
     "scene_type": "battle.space",
+    "tier": "replaceable",
     "format": [
       "last_stand",
       "massed_battle"
@@ -619,6 +627,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "space.travel",
+    "tier": "canon",
     "format": [
       "rescue"
     ],
@@ -694,6 +703,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "space.travel",
+    "tier": "excellent",
     "format": [
       "journey",
       "spectacle"
@@ -770,6 +780,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "disaster",
+    "tier": "canon",
     "format": [
       "catastrophe",
       "escape"
@@ -845,6 +856,7 @@
       "Golden Globe: Best Motion Picture – Musical or Comedy"
     ],
     "scene_type": "space.travel",
+    "tier": "replaceable",
     "format": [
       "rescue"
     ],
@@ -916,6 +928,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "space.travel",
+    "tier": "excellent",
     "format": [
       "journey"
     ],
@@ -984,6 +997,7 @@
     ],
     "accolades": [],
     "scene_type": "space.travel",
+    "tier": "excellent",
     "format": [
       "escape",
       "rescue"
@@ -1055,6 +1069,7 @@
     ],
     "accolades": [],
     "scene_type": "chase.vehicle",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "ambush"
@@ -1131,6 +1146,7 @@
       "Golden Globe: Best Original Score"
     ],
     "scene_type": "space.travel",
+    "tier": "canon",
     "format": [
       "spectacle",
       "journey"
@@ -1206,6 +1222,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "vfx.showcase",
+    "tier": "excellent",
     "format": [
       "escape",
       "journey"
@@ -1278,6 +1295,7 @@
     ],
     "accolades": [],
     "scene_type": "space.travel",
+    "tier": "excellent",
     "format": [
       "journey",
       "spectacle"
@@ -1350,6 +1368,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "vfx.showcase",
+    "tier": "canon",
     "format": [
       "demonstration",
       "spectacle"
@@ -1420,6 +1439,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "fight.hand_to_hand",
+    "tier": "canon",
     "format": [
       "small_group_fight"
     ],
@@ -1488,6 +1508,7 @@
     ],
     "accolades": [],
     "scene_type": "stunt.set_piece",
+    "tier": "excellent",
     "format": [
       "spectacle",
       "stealth_infiltration"
@@ -1560,6 +1581,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "replaceable",
     "format": [
       "escape",
       "catastrophe"
@@ -1630,6 +1652,7 @@
     ],
     "accolades": [],
     "scene_type": "disaster",
+    "tier": "canon",
     "format": [
       "catastrophe"
     ],
@@ -1705,6 +1728,7 @@
       "Oscar: Best Makeup"
     ],
     "scene_type": "fight.creature",
+    "tier": "canon",
     "format": [
       "duel",
       "last_stand"
@@ -1779,6 +1803,7 @@
     ],
     "accolades": [],
     "scene_type": "fight.superpowered",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "small_group_fight"
@@ -1854,6 +1879,7 @@
       "Oscar: Best Original Score"
     ],
     "scene_type": "disaster",
+    "tier": "canon",
     "format": [
       "demonstration",
       "spectacle"
@@ -1930,6 +1956,7 @@
       "Oscar: Best Visual Effects"
     ],
     "scene_type": "fight.creature",
+    "tier": "excellent",
     "format": [
       "pursuit",
       "rampage"
@@ -2005,6 +2032,7 @@
     ],
     "accolades": [],
     "scene_type": "battle.modern_ground",
+    "tier": "excellent",
     "format": [
       "assault_raid",
       "massed_battle"
@@ -2091,6 +2119,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "creature.attack",
+    "tier": "canon",
     "format": [
       "rescue",
       "escape"
@@ -2168,6 +2197,7 @@
       "Oscar: Best Sound"
     ],
     "scene_type": "vfx.showcase",
+    "tier": "canon",
     "format": [
       "demonstration",
       "spectacle"
@@ -2242,6 +2272,7 @@
       "Oscar: Best Sound Editing"
     ],
     "scene_type": "battle.giants",
+    "tier": "canon",
     "format": [
       "one_vs_many",
       "rescue"
