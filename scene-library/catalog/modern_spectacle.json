@@ -2268,9 +2268,13 @@
     ],
     "combatants": [
       "superheroes",
-      "civilians"
+      "civilians",
+      "thugs_henchmen"
     ],
-    "weapons": [],
+    "weapons": [
+      "fists_feet",
+      "rifle"
+    ],
     "vehicles": [],
     "technique": [
       "silhouette",
@@ -5362,7 +5366,7 @@
       "plane crash",
       "single take",
       "nicolas cage",
-      "highway",
+      "traffic jam",
       "burning survivors",
       "prophecy"
     ]
@@ -5718,73 +5722,6 @@
       "arya",
       "burning city",
       "the bells"
-    ]
-  },
-  {
-    "film": "The Lord of the Rings: The Rings of Power",
-    "year": 2022,
-    "scene": "Mount Doom erupts (S1E6 'Udûn')",
-    "query": "Rings of Power Udun Mount Doom eruption scene",
-    "what_happens": "Floodwater released into the tunnels beneath the Southlands triggers a volcanic eruption, and a towering pyroclastic cloud rolls over the village as Galadriel and the villagers are engulfed.",
-    "why": "The eruption is staged as a slow-building reveal, from rushing water to rising fire to a wall of ash, so the birth of Mordor lands as mythic catastrophe on a feature-film scale of effects.",
-    "director": "Created by J. D. Payne and Patrick McKay",
-    "country": "USA",
-    "craft": [
-      "Composer: Bear McCreary"
-    ],
-    "accolades": [],
-    "scene_type": "disaster",
-    "format": [
-      "catastrophe"
-    ],
-    "scale": "city_scale",
-    "genre": [
-      "fantasy",
-      "adventure",
-      "drama"
-    ],
-    "era": "fantasy_world",
-    "period": "The Southlands, Second Age of Middle-earth (fictional)",
-    "region": "fantasy_world",
-    "environment": [
-      "village",
-      "hills_mountains"
-    ],
-    "time_of_day": "day",
-    "atmosphere": [
-      "fire",
-      "smoke",
-      "explosions"
-    ],
-    "mood": [
-      "awe",
-      "terrifying",
-      "tragic"
-    ],
-    "combatants": [
-      "civilians",
-      "medieval_soldiers"
-    ],
-    "weapons": [],
-    "vehicles": [
-      "horse"
-    ],
-    "technique": [
-      "cgi",
-      "wide_framing",
-      "sound_design"
-    ],
-    "look": "live_action_color",
-    "medium": "series",
-    "violence": "moderate",
-    "language": "english",
-    "keywords": [
-      "orodruin",
-      "mount doom",
-      "eruption",
-      "birth of mordor",
-      "pyroclastic cloud",
-      "galadriel"
     ]
   },
   {

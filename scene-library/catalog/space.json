@@ -1491,7 +1491,7 @@
     "scene_type": "stunt.set_piece",
     "format": [
       "spectacle",
-      "assault_raid"
+      "stealth_infiltration"
     ],
     "scale": "medium",
     "genre": [
@@ -1535,7 +1535,7 @@
     "look": "live_action_color",
     "medium": "film",
     "violence": "none",
-    "language": "none_or_minimal",
+    "language": "english",
     "period": "San Francisco, present day",
     "keywords": [
       "halo jump",

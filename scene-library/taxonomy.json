@@ -427,7 +427,8 @@
         "propeller_aircraft": "Propeller fighters and bombers.",
         "biplane": "Biplanes and WWI aircraft.",
         "sailing_ship": "Sailing ships.",
-        "warship": "Powered warships and transports.",
+        "warship": "Powered military ships: warships, troopships and naval transports.",
+        "civilian_ship": "Large non-military ship: freighter, tanker, liner, cruise ship, ferry, trawler.",
         "submarine": "Submarines.",
         "small_boat": "Boats and landing craft.",
         "starfighter": "Small spacecraft and fighters.",
@@ -545,6 +546,10 @@
         "portuguese": "Portuguese.",
         "spanish": "Spanish.",
         "italian": "Italian.",
+        "norwegian": "Norwegian.",
+        "tamil": "Tamil.",
+        "kannada": "Kannada.",
+        "malayalam": "Malayalam.",
         "multiple": "Several languages.",
         "none_or_minimal": "No meaningful dialogue (silent films, wordless scenes)."
       }

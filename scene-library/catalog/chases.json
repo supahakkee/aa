@@ -2296,7 +2296,6 @@
     "language": "english",
     "period": "South Africa, 2020s",
     "keywords": [
-      "biplane",
       "wing walk",
       "plane-to-plane transfer",
       "yellow biplane",
@@ -2436,7 +2435,9 @@
     "weapons": [
       "rifle"
     ],
-    "vehicles": [],
+    "vehicles": [
+      "helicopter"
+    ],
     "technique": [
       "long_take",
       "steadicam",
@@ -2604,7 +2605,6 @@
       "logan holladay",
       "ryan gosling",
       "film within a film",
-      "beach",
       "stunt crew"
     ]
   },

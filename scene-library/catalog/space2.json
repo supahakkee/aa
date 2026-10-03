@@ -1913,7 +1913,7 @@
       "helicopter rescue",
       "skyscraper collapse",
       "dwayne johnson",
-      "rooftop",
+      "rooftop restaurant",
       "los angeles"
     ]
   },
@@ -1972,7 +1972,7 @@
     "look": "live_action_color",
     "medium": "film",
     "violence": "moderate",
-    "language": "multiple",
+    "language": "norwegian",
     "keywords": [
       "tsunami",
       "fjord",
@@ -2107,6 +2107,7 @@
     ],
     "weapons": [],
     "vehicles": [
+      "civilian_ship",
       "small_boat"
     ],
     "technique": [
@@ -2153,7 +2154,7 @@
       "adventure"
     ],
     "era": "late_20th_century",
-    "period": "Over the South Pacific, during a storm",
+    "period": "Over the South Pacific, December 1995",
     "region": "open_ocean",
     "environment": [
       "aircraft",

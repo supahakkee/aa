@@ -591,7 +591,7 @@
     "scale": "city_scale",
     "genre": [
       "fantasy",
-      "disaster",
+      "adventure",
       "drama"
     ],
     "era": "fantasy_world",
@@ -1297,13 +1297,13 @@
     "look": "live_action_color",
     "medium": "series",
     "violence": "mild",
-    "language": "multiple",
+    "language": "japanese",
     "keywords": [
       "earthquake",
       "landslide",
       "toranaga",
       "blackthorne",
-      "rescue",
+      "buried alive",
       "mariko"
     ],
     "video": "pRon459WA2I"
@@ -1461,8 +1461,7 @@
     "scale": "city_scale",
     "genre": [
       "drama",
-      "historical_epic",
-      "disaster"
+      "historical_epic"
     ],
     "era": "early_20th_century",
     "period": "Kantō region, Japan, 1 September 1923",
@@ -1503,7 +1502,7 @@
       "korean massacre",
       "1923",
       "collapse",
-      "fires"
+      "vigilante mob"
     ],
     "video": "epPjlgXzT9A"
   },
@@ -2652,7 +2651,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "disaster"
+      "drama"
     ],
     "era": "far_future",
     "period": "Earth under the Free Navy's attack, 24th century",
