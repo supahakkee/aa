@@ -1,0 +1,149 @@
+# Set-Piece Vault: guide for agents
+
+This folder is a reference library of 377 action set-pieces from film and TV (fights, battles,
+chases, stunts, disasters, space). Each scene is a **30-second clip** described by a fixed set of
+**facets**, every one drawn from a controlled vocabulary. Use the facets to find scenes; don't guess
+from film titles.
+
+## Files
+
+| Path | What it is |
+|---|---|
+| `taxonomy.json` | The vocabulary: every facet, its allowed values, a definition for each value, and how many values a scene carries. Read this before filtering. |
+| `data/scenes.json` | All scenes: `{"version": 2, "count": 377, "scenes": [ ... ]}`. |
+| `data/scenes.jsonl` | The same records, one JSON object per line. |
+| `clips/<scene_type>/<id>.mp4` | The 30-second clip, once downloaded with `tools/download_clips.py`. |
+| `clips/<scene_type>/<id>.json` | The scene's record plus `local_file` and download details. |
+| `clips/index.jsonl` | Every downloaded clip's record, one per line. |
+| `tools/query.py` | Command-line search by facet (below). |
+
+## A record
+
+```json
+{
+  "id": "seven-samurai-1954-final-battle-in-the-rain",
+  "film": "Seven Samurai", "year": 1954, "scene": "Final battle in the rain",
+  "what_happens": "Literal description of what is on screen.",
+  "what_to_study": "The craft lesson: choreography, camera, editing, sound, effects.",
+
+  "scene_type": "battle.pre_gunpowder",
+  "format": ["last_stand", "massed_battle"],
+  "scale": "medium",
+  "genre": ["samurai_jidaigeki", "action"],
+  "era": "early_modern",
+  "period": "Sengoku-period Japan, 1586",
+  "region": "japan",
+  "environment": ["village", "swamp_mud"],
+  "time_of_day": "day",
+  "atmosphere": ["rain", "mud"],
+  "mood": ["chaotic", "epic"],
+  "combatants": ["samurai", "outlaws_bandits", "civilians"],
+  "weapons": ["katana", "spear_polearm", "bow_arrow"],
+  "vehicles": ["horse"],
+  "technique": ["practical_stunts", "real_location", "black_and_white"],
+  "look": "live_action_bw", "medium": "film", "violence": "moderate", "language": "japanese",
+  "keywords": ["village defense", "horse charge"],
+
+  "director": "Akira Kurosawa", "production_country": "Japan",
+  "crew": ["DP: Asakazu Nakai"], "awards": ["Venice: Silver Lion"],
+  "clip": {
+    "file": "clips/battle.pre_gunpowder/seven-samurai-1954-final-battle-in-the-rain.mp4",
+    "youtube_id": "…", "youtube_url": "https://www.youtube.com/watch?v=…&t=123s",
+    "start": 123, "end": 153, "seconds": 30,
+    "window": "most_replayed",
+    "source_title": "…", "source_channel": "…", "source_views": 0, "source_duration": 0,
+    "replay_heat": "0123…", "alternates": [{"youtube_id": "…", "start": 40, "title": "…", "channel": "…"}]
+  }
+}
+```
+
+(Values above are illustrative; read the real record from `data/scenes.json`.)
+
+## The facets
+
+Every value is defined in `taxonomy.json`. Lists are ordered: the first value matters most.
+
+| Facet | Values | Answers |
+|---|---|---|
+| `scene_type` | exactly 1 | What kind of set-piece. `fight.*` = individuals or small groups; `battle.*` = organised forces; `chase.*`, `race`, `stunt.set_piece`, `creature.attack`, `disaster`, `vfx.showcase`, `space.travel`. |
+| `format` | 1-2 | How the action is structured: duel, one_vs_many, ambush, siege, standoff, pursuit, dogfight… |
+| `scale` | 1 | How many participants: solo, one_on_one, small_group, one_vs_many, medium, army, fleet, city_scale. |
+| `genre` | 1-3 | Genre of the source film (first = primary). |
+| `era` | 1 | When the story happens (ancient … contemporary, near/far future, fantasy_world). |
+| `period` | text | The exact setting in a few words. |
+| `region` | 1 | Where the story happens (japan, british_isles, american_frontier, deep_space…). |
+| `environment` | 1-3 | Physical spaces (corridor, rooftops, forest, trench, open_sea, outer_space…). |
+| `time_of_day` | 1 | day, golden_hour, twilight, night, mixed, not_applicable. |
+| `atmosphere` | 0-3 | Weather and elements (rain, snow, fog_mist, smoke, fire, sandstorm…). Empty = clear. |
+| `mood` | 1-3 | How it feels (tense, chaotic, brutal, graceful, epic, terrifying, awe…). |
+| `combatants` | 1-4 | Who is in the action (samurai, knights, vikings, ww2_soldiers, police, jedi_sith, kaiju…). |
+| `weapons` | 0-5 | Weapons in use (katana, european_sword, handgun, artillery_cannon, superpowers…). |
+| `vehicles` | 0-3 | Vehicles and mounts (car, motorcycle, horse, warship, starfighter…). |
+| `technique` | 2-6 | Craft worth studying (long_take, practical_stunts, wire_work, cgi, imax_large_format…). |
+| `look` | 1 | live_action_color, live_action_bw, animation_2d, animation_3d. |
+| `medium` | 1 | film or series. |
+| `violence` | 1 | none, mild, moderate, graphic. |
+| `language` | 1 | Original spoken language. |
+
+### Telling similar scenes apart
+
+The facets are designed so that superficially similar scenes never collapse together:
+
+- **Samurai sword duel**: `scene_type=fight.blades`, `region=japan`, `combatants` has `samurai` or `ronin`, `weapons` has `katana`.
+- **Medieval knights in battle**: `scene_type=battle.pre_gunpowder`, `era=medieval`, `region` in Europe, `combatants` has `knights` or `medieval_soldiers`, `weapons` has `european_sword`.
+- **Samurai army battle**: `scene_type=battle.pre_gunpowder` (or `battle.black_powder` when arquebuses dominate), `region=japan`, `combatants` has `ashigaru_japanese_army` or `samurai`.
+- **Lightsaber duel**: `scene_type=fight.blades`, `weapons` has `lightsaber`, `era=fantasy_world`.
+
+## Querying
+
+```bash
+python3 tools/query.py --facets                      # every facet and value with counts
+python3 tools/query.py --facets region combatants    # just these
+python3 tools/query.py scene_type=fight.blades region=japan --format table
+python3 tools/query.py scene_type=battle.pre_gunpowder era=medieval combatants=knights,medieval_soldiers
+python3 tools/query.py scene_type=chase.vehicle time_of_day=night environment=city_street,highway
+python3 tools/query.py scene_type=fight technique=long_take          # "fight" matches every fight.*
+python3 tools/query.py scene_type=battle.space format=dogfight --format urls
+python3 tools/query.py atmosphere=rain mood=tense not.violence=graphic
+python3 tools/query.py --text "hallway" --local --format paths        # downloaded clips only
+```
+
+Rules: `facet=value` filters; commas inside one filter mean OR; separate filters are AND; a
+list facet matches when any of its values matches; `not.` excludes. Unknown facets or values are
+rejected with a suggestion, so a typo never silently returns nothing. Output formats: `jsonl`
+(default), `json`, `ids`, `paths`, `urls`, `table`. The count goes to stderr.
+
+In Python:
+
+```python
+import json
+scenes = json.load(open("data/scenes.json"))["scenes"]
+rain_duels = [s for s in scenes
+              if s["scene_type"] == "fight.blades" and "rain" in s["atmosphere"]]
+for s in rain_duels:
+    print(s["film"], s["year"], s["scene"], s["clip"]["file"], s["clip"]["youtube_url"])
+```
+
+## Getting the clips
+
+`clip.file` is where the MP4 lives once downloaded. Check that it exists; if not, use
+`clip.youtube_url` (opens YouTube at the window start; watch until `clip.end`). To download:
+
+```bash
+pip install -U yt-dlp            # and ffmpeg
+python3 tools/download_clips.py                              # all 377
+python3 tools/download_clips.py scene_type=fight.blades      # same filters as query.py
+python3 tools/download_clips.py --cookies-from-browser chrome  # if YouTube asks to sign in
+```
+
+YouTube blocks downloads from cloud servers, so run it on a desktop or home connection.
+
+## Notes
+
+- `clip.window`: `most_replayed` means the 30 seconds come from YouTube's replay graph (the part
+  viewers rewatch most); `estimated` means about a third of the way into the upload;
+  `hand_picked` means set by hand.
+- `what_happens` and `what_to_study` are original descriptions, not dialogue or script.
+- `awards` are wins for the film or episode, not the clip; absence does not mean none.
+- Use `violence` to choose what is safe to show a given audience.
+- The footage belongs to its rights holders. Use the clips for internal reference and study.

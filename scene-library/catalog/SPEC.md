@@ -1,57 +1,65 @@
-# Scene catalog spec
+# Catalog format
 
-We are building a filmmaker's reference library of the best action / fight / chase / war / space / VFX
-scenes ever filmed. Each entry is ONE specific scene (not a whole film). A separate pipeline will search
-YouTube for each scene and cut a 30-second window, so each scene must be specific and searchable.
-
-Write a JSON array (UTF-8, pretty-printed) of objects with exactly these keys:
+Each file in `catalog/` is a JSON array of scenes. One entry is one specific scene (not a whole
+film). `tools/resolve.py` finds a YouTube clip for it and picks a 30-second window;
+`tools/validate.py` checks the tags; `tools/build.py` writes the agent-facing records to `data/`.
 
 ```json
 {
-  "film": "Mad Max: Fury Road",
-  "year": 2015,
-  "scene": "War Rig vs. the Buzzards (Fury Road chase)",
-  "category": "car-chase",
+  "film": "Seven Samurai",
+  "year": 1954,
+  "scene": "Final battle in the rain",
+  "query": "Seven Samurai final battle rain scene",
+  "what_happens": "Samurai and armed farmers defend their village against mounted bandits in a torrential downpour, fighting hand to hand in the mud.",
+  "why": "One or two sentences on the craft to study: blocking, choreography, camera, editing, sound, effects.",
+  "director": "Akira Kurosawa",
+  "country": "Japan",
+  "craft": ["DP: Asakazu Nakai"],
+  "accolades": ["Venice: Silver Lion"],
+
+  "scene_type": "battle.pre_gunpowder",
+  "format": ["last_stand", "massed_battle"],
+  "scale": "medium",
+  "genre": ["samurai_jidaigeki", "action"],
+  "era": "early_modern",
+  "period": "Sengoku-period Japan, 1586",
+  "region": "japan",
+  "environment": ["village", "swamp_mud"],
+  "time_of_day": "day",
+  "atmosphere": ["rain", "mud"],
+  "mood": ["chaotic", "epic"],
+  "combatants": ["samurai", "outlaws_bandits", "civilians"],
+  "weapons": ["katana", "spear_polearm", "bow_arrow", "musket_flintlock"],
+  "vehicles": ["horse"],
+  "technique": ["practical_stunts", "real_location", "black_and_white"],
+  "look": "live_action_bw",
   "medium": "film",
-  "country": "Australia/USA",
-  "director": "George Miller",
-  "craft": ["Stunt coordinator: Guy Norris", "DP: John Seale", "Editor: Margaret Sixel"],
-  "accolades": ["Oscar: Best Film Editing", "Oscar: Best Production Design"],
-  "techniques": ["practical stunts", "center framing", "undercranking", "vehicle stunts"],
-  "why": "One or two sentences: what a filmmaker should study in THIS scene — blocking, choreography, camera, editing rhythm, VFX method, sound.",
-  "query": "Mad Max Fury Road war rig buzzards chase scene"
+  "violence": "moderate",
+  "language": "japanese",
+  "keywords": ["village defense", "horse charge", "mud"]
 }
 ```
 
-Field rules
-- `category`: exactly one key from the category list in your assignment.
-- `medium`: one of `film`, `series`, `anime`, `animation`.
-- `craft`: 1–4 key credits relevant to the scene (fight choreographer, stunt coordinator, DP, editor,
-  VFX supervisor/house, composer). ONLY credits you are certain of. Empty list is fine.
-- `accolades`: major WINS for the film/episode that you are CERTAIN of (Academy Awards, BAFTA, Emmy,
-  Golden Globe, Cannes/Venice/Berlin prizes, Hong Kong Film Awards, Golden Horse, Japan Academy Prize,
-  Annie, VES Awards, Taurus World Stunt Awards, Saturn, Hugo). Format `"Oscar: Best Visual Effects"`,
-  `"BAFTA: Best Sound"`, `"Hong Kong Film Award: Best Action Choreography"`, `"Cannes: Palme d'Or"`.
-  Wins only, no nominations. NEVER guess — an empty list is far better than a wrong award.
-  Unsure of the exact category name? Leave it out.
-- `techniques`: 2–6 short lowercase tags from the shared vocabulary below where possible (you may add
-  others if truly needed): long take, oner, handheld, steadicam, practical stunts, practical effects,
-  miniatures, cgi, motion capture, wire work, gun-fu, slow motion, bullet time, undercranking,
-  shaky cam, wide-angle choreography, center framing, vehicle stunts, real aircraft, imax, crowd
-  simulation, motion control, rear projection, stop motion, rotoscope, 2d animation, 3d animation,
-  sound design, practical explosions, aerial photography, underwater, zero-g, single location,
-  cross-cutting, montage, real location, tracking shot, pov, drone, crane, night, rain, fire, snow,
-  silhouette, color grading, score-driven, improvised weapons, one vs many, duel, siege, cavalry,
-  infantry, trench, beach landing, urban combat, jungle, desert.
-- `why`: concrete and craft-focused, max ~45 words. No plot summaries.
-- `query`: the YouTube search string most likely to surface a clip of exactly this scene
-  (film title + recognisable scene name + "scene"; add year if title is ambiguous).
+## Field rules
 
-Selection rules
-- Only genuinely great, widely acclaimed scenes — the kind that appear on "greatest scene" lists,
-  are taught in film schools, or won/defined craft awards. Classics through 2025 releases.
-- Prefer scenes that are famous enough that a clip of them exists on YouTube.
-- Include international cinema (Hong Kong, Japan, Korea, India, Indonesia, Thailand, France, USSR/Russia,
-  Poland, China, etc.) alongside Hollywood, and select TV series where they are landmark-level.
-- No duplicates. Several different scenes from one film are allowed only if each is iconic.
-- Accuracy over volume: if you are unsure a scene exists as described, skip it.
+- **Facets** (`scene_type` through `language`): only values from `taxonomy.json`, which defines every
+  value. Single-value facets are strings; the others are lists ordered by importance, within the
+  min/max counts the taxonomy gives.
+- `scene_type`: `fight.*` is individuals or small groups; `battle.*` is organised forces. Classify by
+  what dominates the 30-second window. A samurai duel and a medieval army clash differ in
+  `scene_type`, `era`, `region`, `combatants` and `weapons`; tag all of them precisely.
+- `era`, `region`, `period`: the story setting, not where or when the film was made.
+- `what_happens`: 6-45 words describing what is visibly on screen, in your own words. No dialogue.
+- `why`: the craft lesson, around 45 words at most.
+- `period`: the exact setting in 1-14 words ("Omaha Beach, Normandy, 6 June 1944").
+- `keywords`: 2-10 lowercase search terms the facets don't already cover.
+- `craft` and `accolades`: only facts you are sure of. Accolades are wins for the film or episode.
+- `query`: the YouTube search most likely to surface a clip of exactly this scene.
+
+## Optional clip controls
+
+- `"video": "<YouTube id>"` pins the upload when the resolver picks the wrong one.
+- `"start": <seconds>` sets the window start by hand.
+- `"range": [from, to]` limits the window search to part of a long upload (such as a full film).
+
+Run `python3 tools/resolve.py && python3 tools/validate.py && python3 tools/build.py` after editing.

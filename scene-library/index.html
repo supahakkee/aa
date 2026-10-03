@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* Layout: edit bay. Bins of scene types on the left, a contact sheet of 30-second clips, a viewer on top. */
+/* Layout: edit bay. A faceted filter rail on the left, a contact sheet of 30-second clips, a viewer on top. */
 :root {
   --bg: #0c0f13;
   --panel: #141920;
@@ -23,9 +23,8 @@
   --on-scrim: #f4f0e7;
   --scrim: rgba(7, 9, 12, 0.78);
   --fight: #e47b61;
+  --battle: #b8ad8c;
   --pursuit: #94c57f;
-  --war: #b8ad8c;
-  --space: #82abe8;
   --spectacle: #c993dc;
   --display: "Big Shoulders Display", "Oswald", "Arial Narrow", sans-serif;
   --body: "Archivo", "Helvetica Neue", Arial, sans-serif;
@@ -38,7 +37,7 @@
     --bg: #eceef1; --panel: #ffffff; --raise: #f4f5f7; --line: #d4d8de;
     --fg: #14181e; --muted: #56606c; --faint: #858d98;
     --accent: #a5630a; --accent-ink: #fff9ee;
-    --fight: #b5462e; --pursuit: #44822f; --war: #75693f; --space: #2f61b0; --spectacle: #87449f;
+    --fight: #b5462e; --battle: #75693f; --pursuit: #44822f; --spectacle: #87449f;
     color-scheme: light;
   }
 }
@@ -46,19 +45,14 @@
   --bg: #eceef1; --panel: #ffffff; --raise: #f4f5f7; --line: #d4d8de;
   --fg: #14181e; --muted: #56606c; --faint: #858d98;
   --accent: #a5630a; --accent-ink: #fff9ee;
-  --fight: #b5462e; --pursuit: #44822f; --war: #75693f; --space: #2f61b0; --spectacle: #87449f;
+  --fight: #b5462e; --battle: #75693f; --pursuit: #44822f; --spectacle: #87449f;
   color-scheme: light;
 }
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
 html { -webkit-text-size-adjust: 100%; }
-body {
-  margin: 0;
-  background: var(--bg);
-  color: var(--fg);
-  font: 15px/1.5 var(--body);
-}
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 var(--body); }
 button, input, select { font: inherit; color: inherit; }
 button { cursor: pointer; }
 a { color: inherit; }
@@ -77,7 +71,7 @@ a { color: inherit; }
   border-bottom: 1px solid var(--line);
 }
 .top-in {
-  max-width: 1680px;
+  max-width: 1720px;
   margin: 0 auto;
   padding-inline: clamp(16px, 3vw, 40px);
   padding-block: 12px;
@@ -87,14 +81,7 @@ a { color: inherit; }
   flex-wrap: wrap;
 }
 .mark { display: flex; flex-direction: column; text-decoration: none; min-width: 0; }
-.mark-name {
-  font-family: var(--display);
-  font-weight: 800;
-  font-size: 28px;
-  line-height: 0.95;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
+.mark-name { font-family: var(--display); font-weight: 800; font-size: 28px; line-height: 0.95; letter-spacing: 0.04em; text-transform: uppercase; }
 .mark-name b { color: var(--accent); font-weight: 800; }
 .mark-sub { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; }
 .search {
@@ -110,22 +97,8 @@ a { color: inherit; }
 }
 .search:focus-within { border-color: var(--accent); }
 .search svg { flex: none; color: var(--faint); }
-.search input {
-  flex: 1;
-  min-width: 0;
-  border: 0;
-  background: transparent;
-  padding-block: 10px;
-  outline: none;
-}
-.search kbd {
-  font-family: var(--mono);
-  font-size: 11px;
-  color: var(--faint);
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  padding: 1px 6px;
-}
+.search input { flex: 1; min-width: 0; border: 0; background: transparent; padding-block: 10px; outline: none; }
+.search kbd { font-family: var(--mono); font-size: 11px; color: var(--faint); border: 1px solid var(--line); border-radius: 4px; padding: 1px 6px; }
 .top-actions { display: flex; gap: 8px; flex-wrap: wrap; }
 .btn {
   display: inline-flex;
@@ -143,251 +116,133 @@ a { color: inherit; }
 .btn[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
 .btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
 .btn-primary:hover { border-color: var(--fg); }
-.btn .count {
-  font-family: var(--mono);
-  font-size: 11px;
-  background: var(--raise);
-  color: var(--fg);
-  border-radius: 10px;
-  padding: 0 7px;
-}
+.btn .count { font-family: var(--mono); font-size: 11px; background: var(--raise); color: var(--fg); border-radius: 10px; padding: 0 7px; }
 .btn[disabled] { opacity: 0.45; cursor: default; }
+.filters-btn { display: none; }
 
-.hint {
-  max-width: 1680px;
-  margin: 12px auto 0;
-  padding-inline: clamp(16px, 3vw, 40px);
-}
-.hint p {
-  margin: 0;
-  border: 1px dashed var(--line);
-  border-radius: var(--radius);
-  padding: 10px 14px;
-  color: var(--muted);
-  font-size: 13px;
-}
+.hint { max-width: 1720px; margin: 12px auto 0; padding-inline: clamp(16px, 3vw, 40px); }
+.hint p { margin: 0; border: 1px dashed var(--line); border-radius: var(--radius); padding: 10px 14px; color: var(--muted); font-size: 13px; }
 .hint code { font-family: var(--mono); color: var(--fg); }
 
 /* Page grid */
 .app {
-  max-width: 1680px;
+  max-width: 1720px;
   margin: 0 auto;
   padding-inline: clamp(16px, 3vw, 40px);
   padding-block: 20px 64px;
   display: grid;
-  grid-template-columns: 236px minmax(0, 1fr);
+  grid-template-columns: 260px minmax(0, 1fr);
   gap: 32px;
 }
 
-/* Bins (sidebar) */
-.bins {
+/* Filter rail */
+.side {
   position: sticky;
-  top: calc(env(safe-area-inset-top, 0px) + 92px);
+  top: calc(env(safe-area-inset-top, 0px) + 84px);
   align-self: start;
-  max-height: calc(100vh - 112px);
+  max-height: calc(100vh - 100px);
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 18px;
-  padding-bottom: 12px;
+  gap: 14px;
+  padding-bottom: 16px;
   scrollbar-width: thin;
 }
-.bin-group { display: flex; flex-direction: column; gap: 1px; }
-.bin-head {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  border: 0;
-  background: none;
-  padding: 4px 8px;
-  font-family: var(--mono);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--g);
-  text-align: left;
+.side-head { display: none; }
+.rail-title { margin: 0; font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); padding-inline: 8px; }
+.tree { display: flex; flex-direction: column; gap: 10px; }
+.fam { display: flex; flex-direction: column; gap: 1px; }
+.fam-head {
+  display: flex; align-items: center; gap: 8px; justify-content: space-between;
+  border: 0; background: none; border-radius: 4px; padding: 4px 8px;
+  font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--g); text-align: left;
 }
-.bin-head::before { content: ""; width: 8px; height: 8px; background: var(--g); border-radius: 1px; }
-.bin {
-  display: flex;
-  justify-content: space-between;
-  gap: 8px;
-  border: 0;
-  background: none;
-  border-radius: 4px;
-  padding: 5px 8px 5px 24px;
-  text-align: left;
-  color: var(--muted);
+.fam-head span:first-child { display: inline-flex; align-items: center; gap: 8px; }
+.fam-head span:first-child::before { content: ""; width: 8px; height: 8px; background: var(--g); border-radius: 1px; }
+.fam-head[aria-pressed="true"] { background: var(--panel); box-shadow: inset 2px 0 0 var(--g); }
+.fv {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 8px;
+  border: 0; background: none; border-radius: 4px; padding: 4px 8px 4px 24px;
+  text-align: left; color: var(--muted); font-size: 14px; line-height: 1.35; width: 100%;
 }
-.bin:hover { color: var(--fg); background: var(--panel); }
-.bin span:last-child { font-family: var(--mono); font-size: 11px; color: var(--faint); padding-top: 2px; }
-.bin[aria-pressed="true"], .bin-head[aria-pressed="true"] { background: var(--panel); color: var(--fg); box-shadow: inset 2px 0 0 var(--g, var(--accent)); }
-.bin-all { padding-left: 8px; font-weight: 600; color: var(--fg); --g: var(--accent); }
-.legend { color: var(--faint); font-size: 12px; line-height: 1.5; padding-inline: 8px; border-top: 1px solid var(--line); padding-top: 14px; }
-.legend p { margin: 0 0 8px; }
+.fv:hover { color: var(--fg); background: var(--panel); }
+.fv .n { font-family: var(--mono); font-size: 11px; color: var(--faint); flex: none; }
+.fv[aria-pressed="true"] { color: var(--fg); background: var(--panel); box-shadow: inset 2px 0 0 var(--g, var(--accent)); }
+.fv.zero { opacity: 0.4; }
+.fv-all { padding-left: 8px; font-weight: 600; color: var(--fg); --g: var(--accent); }
+details.facet { border-top: 1px solid var(--line); padding-top: 8px; }
+details.facet summary {
+  list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+  padding: 4px 8px; border-radius: 4px; font-weight: 600; font-size: 14px;
+}
+details.facet summary::-webkit-details-marker { display: none; }
+details.facet summary::after { content: "+"; font-family: var(--mono); color: var(--faint); }
+details.facet[open] summary::after { content: "−"; }
+details.facet summary .sel { font-family: var(--mono); font-size: 11px; color: var(--accent); margin-left: auto; margin-right: 10px; }
+details.facet .fv { padding-left: 12px; }
+.more { border: 0; background: none; color: var(--accent); font-size: 13px; padding: 4px 12px; text-align: left; }
 
-.bin-strip { display: none; gap: 6px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
-.bin-strip::-webkit-scrollbar { display: none; }
-.chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  flex: none;
-  border: 1px solid var(--line);
-  background: var(--panel);
-  border-radius: 999px;
-  padding: 4px 11px;
-  font-size: 13px;
-  color: var(--muted);
-  white-space: nowrap;
-}
-.chip:hover { color: var(--fg); border-color: var(--faint); }
-.chip[aria-pressed="true"] { color: var(--fg); border-color: var(--g, var(--accent)); background: var(--raise); }
-.chip .dot { width: 7px; height: 7px; border-radius: 1px; background: var(--g); }
-.chip .n { font-family: var(--mono); font-size: 10px; color: var(--faint); }
-
-/* Filters */
-.main { min-width: 0; display: flex; flex-direction: column; gap: 16px; }
-.filters { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
-.seg { display: inline-flex; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; flex-wrap: wrap; }
-.seg button {
-  border: 0;
-  background: var(--panel);
-  padding: 6px 11px;
-  font-size: 13px;
-  color: var(--muted);
-  border-right: 1px solid var(--line);
-}
-.seg button:last-child { border-right: 0; }
-.seg button:hover { color: var(--fg); }
-.seg button[aria-pressed="true"] { background: var(--raise); color: var(--accent); }
-.check { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
-.check input { accent-color: var(--accent); width: 16px; height: 16px; }
-.select {
-  border: 1px solid var(--line);
-  background: var(--panel);
-  border-radius: var(--radius);
-  padding: 6px 10px;
-  font-size: 13px;
-}
-.tech { display: flex; gap: 10px; align-items: baseline; min-width: 0; }
-.tech-label { flex: none; color: var(--faint); text-transform: uppercase; letter-spacing: 0.1em; font-size: 11px; }
-.tech-chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; min-width: 0; scrollbar-width: thin; }
-
+/* Results */
+.main { min-width: 0; display: flex; flex-direction: column; gap: 14px; }
 .status { display: flex; align-items: baseline; gap: 6px 16px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
 .status h1 {
-  margin: 0;
-  font-family: var(--display);
-  font-weight: 800;
-  font-size: clamp(30px, 4vw, 44px);
-  line-height: 1;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  text-wrap: balance;
+  margin: 0; font-family: var(--display); font-weight: 800; font-size: clamp(30px, 4vw, 44px);
+  line-height: 1; text-transform: uppercase; letter-spacing: 0.02em; text-wrap: balance;
 }
 .status .meta { color: var(--muted); }
 .status .spacer { flex: 1; }
+.select { border: 1px solid var(--line); background: var(--panel); border-radius: var(--radius); padding: 6px 10px; font-size: 13px; }
 .linkbtn { border: 0; background: none; color: var(--accent); padding: 0; font-size: 13px; text-decoration: underline; text-underline-offset: 3px; }
+.active { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px; flex: none;
+  border: 1px solid var(--line); background: var(--panel); border-radius: 999px;
+  padding: 4px 11px; font-size: 13px; color: var(--muted); white-space: nowrap;
+}
+.chip:hover { color: var(--fg); border-color: var(--faint); }
+.chip b { font-weight: 500; color: var(--faint); }
+.chip.on { color: var(--fg); border-color: var(--accent); }
+.chip .x { font-family: var(--mono); color: var(--faint); }
 
 /* Contact sheet */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 236px), 1fr));
-  gap: 26px 18px;
-}
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 236px), 1fr)); gap: 26px 18px; }
 .card { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
 .thumb {
-  position: relative;
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  aspect-ratio: 16 / 9;
-  border: 0;
-  padding: 0;
-  border-radius: var(--radius);
-  overflow: hidden;
-  background: var(--raise);
+  position: relative; display: block; width: 100%; max-width: 100%; aspect-ratio: 16 / 9;
+  border: 0; padding: 0; border-radius: var(--radius); overflow: hidden; background: var(--raise);
 }
 .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.35s ease, filter 0.35s ease; }
 .thumb:hover img { transform: scale(1.04); filter: brightness(0.82); }
 .thumb::after { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06); border-radius: inherit; }
-.tag {
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--scrim);
-  color: var(--on-scrim);
-  border-radius: 3px;
-  padding: 2px 7px;
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
+.tag, .tc, .disk {
+  position: absolute; display: inline-flex; align-items: center; gap: 6px;
+  background: var(--scrim); color: var(--on-scrim); border-radius: 3px; padding: 2px 7px;
 }
+.tag { left: 8px; top: 8px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; }
 .tag i { width: 7px; height: 7px; background: var(--g); border-radius: 1px; }
-.tc {
-  position: absolute;
-  right: 8px;
-  bottom: 8px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--scrim);
-  color: var(--on-scrim);
-  border-radius: 3px;
-  padding: 2px 7px;
-  font-size: 11px;
-  font-variant-numeric: tabular-nums;
-}
+.tc { right: 8px; bottom: 8px; font-size: 11px; font-variant-numeric: tabular-nums; }
+.disk { left: 8px; bottom: 8px; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; }
 .pick { width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid currentColor; }
 .pick.hot { background: currentColor; }
 .play-ico {
-  position: absolute;
-  inset: 0;
-  margin: auto;
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  background: var(--accent);
-  color: var(--accent-ink);
-  display: grid;
-  place-items: center;
-  opacity: 0;
-  transform: scale(0.85);
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  position: absolute; inset: 0; margin: auto; width: 48px; height: 48px; border-radius: 50%;
+  background: var(--accent); color: var(--accent-ink); display: grid; place-items: center;
+  opacity: 0; transform: scale(0.85); transition: opacity 0.2s ease, transform 0.2s ease;
 }
 .thumb:hover .play-ico, .thumb:focus-visible .play-ico { opacity: 1; transform: scale(1); }
 .card-body { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
-.film {
-  margin: 0;
-  font-family: var(--display);
-  font-weight: 800;
-  font-size: 21px;
-  line-height: 1.05;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  overflow-wrap: anywhere;
-}
+.film { margin: 0; font-family: var(--display); font-weight: 800; font-size: 21px; line-height: 1.05; text-transform: uppercase; letter-spacing: 0.02em; overflow-wrap: anywhere; }
 .film .yr { font-family: var(--mono); font-weight: 400; font-size: 12px; color: var(--muted); letter-spacing: 0; margin-left: 4px; vertical-align: 2px; }
 .scene { margin: 2px 0 0; font-weight: 500; line-height: 1.35; overflow-wrap: anywhere; }
-.by { margin: 0; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
-.card-foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 6px; min-height: 28px; }
+.period { margin: 0; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.feel { margin: 2px 0 0; color: var(--faint); font-size: 12px; overflow-wrap: anywhere; }
+.card-foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 6px; min-height: 30px; }
 .award { display: inline-flex; align-items: center; gap: 5px; color: var(--accent); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; min-width: 0; }
 .award span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .star {
-  flex: none;
-  margin-left: auto;
-  border: 1px solid var(--line);
-  background: none;
-  border-radius: 50%;
-  width: 30px;
-  height: 30px;
-  display: grid;
-  place-items: center;
-  color: var(--faint);
+  flex: none; margin-left: auto; border: 1px solid var(--line); background: none; border-radius: 50%;
+  width: 30px; height: 30px; display: grid; place-items: center; color: var(--faint);
 }
 .star:hover { color: var(--fg); border-color: var(--faint); }
 .star[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); }
@@ -396,68 +251,27 @@ a { color: inherit; }
 
 /* Viewer */
 dialog.viewer {
-  width: min(1320px, calc(100% - 24px));
-  max-height: calc(100% - 24px);
-  padding: 0;
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  background: var(--panel);
-  color: var(--fg);
-  overflow: auto;
+  width: min(1320px, calc(100% - 24px)); max-height: calc(100% - 24px); padding: 0;
+  border: 1px solid var(--line); border-radius: 10px; background: var(--panel); color: var(--fg); overflow: auto;
 }
 dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur(3px); }
-.v-wrap { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); }
+.v-wrap { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); }
 .v-stage { background: #000; display: flex; flex-direction: column; min-width: 0; }
 .screen { position: relative; width: 100%; max-width: 100%; aspect-ratio: 16 / 9; background: #000; }
-.screen iframe, .screen > div { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.screen iframe, .screen video, .screen > div { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.screen video { background: #000; }
 .poster { display: block; text-decoration: none; color: var(--on-scrim); }
 .poster img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; display: block; }
-.poster .cta {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-  text-align: center;
-}
-.poster .cta b {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  background: var(--accent);
-  color: var(--accent-ink);
-  border-radius: 999px;
-  padding: 12px 22px;
-  font-weight: 600;
-}
+.poster .cta { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: flex; flex-direction: column; align-items: center; gap: 10px; text-align: center; }
+.poster .cta b { display: inline-flex; align-items: center; gap: 10px; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 12px 22px; font-weight: 600; }
 .poster .cta span { background: var(--scrim); border-radius: 4px; padding: 3px 8px; }
 .screen-msg {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  padding: 24px;
-  text-align: center;
-  background: #0a0c0f;
-  color: #ece7dd;
+  position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 12px; padding: 24px; text-align: center; background: #0a0c0f; color: #ece7dd;
 }
 .screen-msg .row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
 .screen-msg .btn { background: #1c232c; border-color: #3a4350; color: #ece7dd; }
-.transport {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;
-  padding: 12px 14px;
-  background: #0b0d10;
-  color: #ece7dd;
-}
+.transport { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 12px 14px; background: #0b0d10; color: #ece7dd; }
 .transport .btn { background: #161b22; border-color: #2c3440; color: #ece7dd; padding: 6px 11px; font-size: 13px; }
 .transport .btn:hover { border-color: #6b7480; }
 .transport .btn[aria-pressed="true"] { border-color: #f0b24a; color: #f0b24a; }
@@ -483,23 +297,19 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
 .v-list { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 3px; }
 .v-list.awards li { color: var(--accent); }
 .v-list.awards li::before { content: "◆ "; font-size: 9px; vertical-align: 2px; }
-.v-chips { display: flex; gap: 6px; flex-wrap: wrap; }
-.v-src { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.facets { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 6px 14px; margin: 0; }
+.facets dt { font-family: var(--mono); font-size: 11px; color: var(--faint); text-transform: uppercase; letter-spacing: 0.06em; padding-top: 5px; }
+.facets dd { margin: 0; display: flex; gap: 5px; flex-wrap: wrap; min-width: 0; }
+.facets .chip { padding: 2px 9px; font-size: 12px; white-space: normal; }
 .v-links { display: flex; gap: 8px; flex-wrap: wrap; }
 .v-links .btn { padding: 6px 12px; font-size: 13px; }
+.v-src { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; margin: 0; }
+.v-src code { font-family: var(--mono); font-size: 12px; color: var(--fg); }
 
 .copybox { width: 100%; min-height: 140px; font-family: var(--mono); font-size: 12px; background: var(--panel); color: var(--fg); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px; }
 .toast {
-  position: fixed;
-  left: 50%;
-  bottom: calc(env(safe-area-inset-bottom, 0px) + 20px);
-  transform: translateX(-50%);
-  background: var(--fg);
-  color: var(--bg);
-  border-radius: var(--radius);
-  padding: 8px 16px;
-  font-size: 13px;
-  z-index: 50;
+  position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom, 0px) + 20px); transform: translateX(-50%);
+  background: var(--fg); color: var(--bg); border-radius: var(--radius); padding: 8px 16px; font-size: 13px; z-index: 50;
 }
 
 @media (max-width: 980px) {
@@ -507,15 +317,17 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
 }
 @media (max-width: 860px) {
   .app { grid-template-columns: minmax(0, 1fr); padding-top: 14px; }
-  .bins { display: none; }
-  .bin-strip { display: flex; }
   .mark-name { font-size: 24px; }
   .top-actions { width: 100%; }
-  .filters { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
-  .filters::-webkit-scrollbar { display: none; }
-  .seg { flex-wrap: nowrap; flex: none; }
-  .seg button { white-space: nowrap; }
-  .check { flex: none; white-space: nowrap; }
+  .filters-btn { display: inline-flex; }
+  .side {
+    display: none; position: fixed; inset: 0; z-index: 40; max-height: none; background: var(--bg);
+    padding: calc(env(safe-area-inset-top, 0px) + 12px) 16px calc(env(safe-area-inset-bottom, 0px) + 24px);
+  }
+  .side.open { display: flex; }
+  .side-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; position: sticky; top: 0; background: var(--bg); padding-bottom: 8px; z-index: 1; }
+  .facets { grid-template-columns: minmax(0, 1fr); }
+  .facets dt { padding-top: 4px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }
@@ -533,51 +345,46 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     <label class="search">
       <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.6 3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" fill="none"/></svg>
       <span class="sr">Search scenes</span>
-      <input id="q" type="search" autocomplete="off" placeholder="Film, director, choreographer, technique, award…">
+      <input id="q" type="search" autocomplete="off" placeholder="Film, period, choreographer, keyword…">
       <kbd>/</kbd>
     </label>
     <div class="top-actions">
+      <button class="btn filters-btn" id="filtersBtn" type="button">Filters <span class="count" id="filterCount">0</span></button>
       <button class="btn btn-primary" id="reelBtn" type="button">
         <svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M2 1.2v9.6L10.4 6z" fill="currentColor"/></svg>
         Play reel
       </button>
-      <button class="btn" id="pullBtn" type="button" aria-pressed="false">
-        Pull list <span class="count" id="pullCount">0</span>
-      </button>
+      <button class="btn" id="pullBtn" type="button" aria-pressed="false">Pull list <span class="count" id="pullCount">0</span></button>
     </div>
   </div>
 </header>
 <div class="hint" id="hint" hidden><p></p></div>
 
 <div class="app">
-  <nav class="bins" id="bins" aria-label="Scene types"></nav>
+  <aside class="side" id="side" aria-label="Filters">
+    <div class="side-head">
+      <strong>Filters</strong>
+      <button class="btn" type="button" id="sideDone">Show results</button>
+    </div>
+    <div id="rail"></div>
+  </aside>
   <main class="main">
-    <div class="bin-strip" id="binStrip" aria-label="Scene types"></div>
-    <div class="filters">
-      <div class="seg" id="mediumSeg" role="group" aria-label="Medium"></div>
-      <div class="seg" id="eraSeg" role="group" aria-label="Era"></div>
-      <label class="check"><input type="checkbox" id="awardsOnly"> Award winners only</label>
-      <label class="check"><span class="sr">Sort</span>
+    <div class="status">
+      <h1 id="viewTitle">All scenes</h1>
+      <span class="meta mono" id="viewMeta"></span>
+      <span class="spacer"></span>
+      <label><span class="sr">Sort</span>
         <select class="select" id="sort">
           <option value="curated">Sort: by scene type</option>
           <option value="new">Sort: newest first</option>
           <option value="old">Sort: oldest first</option>
+          <option value="story">Sort: story era</option>
           <option value="az">Sort: film A–Z</option>
           <option value="views">Sort: most watched clip</option>
         </select>
       </label>
     </div>
-    <div class="tech">
-      <span class="tech-label mono">Technique</span>
-      <div class="tech-chips" id="techChips"></div>
-    </div>
-    <div class="status">
-      <h1 id="viewTitle">All scenes</h1>
-      <span class="meta mono" id="viewMeta"></span>
-      <span class="spacer"></span>
-      <button class="linkbtn" id="copyBtn" type="button" hidden>Copy pull list</button>
-      <button class="linkbtn" id="clearBtn" type="button" hidden>Clear filters</button>
-    </div>
+    <div class="active" id="active" hidden></div>
     <div id="copyWrap" hidden><textarea class="copybox" id="copyBox" readonly aria-label="Pull list text"></textarea></div>
     <div class="grid" id="grid"></div>
     <div class="empty" id="empty" hidden>No scenes match these filters. <button class="linkbtn" type="button" id="emptyClear">Clear filters</button></div>
@@ -588,7 +395,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   <div class="v-wrap">
     <div class="v-stage">
       <div class="screen" id="screen"></div>
-      <div class="transport" id="transport">
+      <div class="transport">
         <button class="btn" type="button" id="prevBtn" aria-label="Previous scene">◀ Prev</button>
         <button class="btn" type="button" id="replayBtn" aria-label="Replay the 30-second window">⟲ Replay</button>
         <button class="btn" type="button" id="loopBtn" aria-pressed="true">Loop</button>
@@ -605,254 +412,285 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
 </dialog>
 <div class="toast" id="toast" hidden></div>
 
+<script src="clips/manifest.js" onerror="this.remove()"></script>
 <script src="data/scenes.js"></script><!-- @data -->
 <script>
 (() => {
   "use strict";
 
-  const SCENES = (window.SCENE_DATA && window.SCENE_DATA.scenes) || [];
+  const DATA = window.SCENE_DATA || { taxonomy: {}, scenes: [] };
+  const TAX = DATA.taxonomy;
+  const SCENES = DATA.scenes;
+  const LOCAL = window.LOCAL_CLIPS || {};
   const THUMBS = window.SCENE_THUMBS || null;
   const FILE_MODE = location.protocol === "file:";
   const MODE = window.SL_MODE || (FILE_MODE ? "link" : "embed");
   const CLIP = 30;
 
-  const GROUPS = [
-    { key: "fight", label: "Fight", color: "var(--fight)", cats: ["hand-to-hand", "blades", "gunfights", "boxing", "western"] },
-    { key: "pursuit", label: "Pursuit & Stunts", color: "var(--pursuit)", cats: ["car-chase", "foot-chase", "stunts"] },
-    { key: "war", label: "War", color: "var(--war)", cats: ["war-modern", "epic-battle", "aerial", "naval"] },
-    { key: "space", label: "Space", color: "var(--space)", cats: ["space-battle", "space-travel"] },
-    { key: "spectacle", label: "Spectacle", color: "var(--spectacle)", cats: ["vfx-destruction", "creature", "superhero", "animation"] },
+  const FAMILIES = [
+    { key: "fight", label: "Fight", color: "var(--fight)", types: ["fight.hand_to_hand", "fight.blades", "fight.gunfight", "fight.ring_sport", "fight.superpowered", "fight.creature"] },
+    { key: "battle", label: "Battle", color: "var(--battle)", types: ["battle.pre_gunpowder", "battle.black_powder", "battle.modern_ground", "battle.air", "battle.naval", "battle.space", "battle.giants"] },
+    { key: "pursuit", label: "Chase & race", color: "var(--pursuit)", types: ["chase.vehicle", "chase.foot", "chase.air", "race"] },
+    { key: "spectacle", label: "Stunts & spectacle", color: "var(--spectacle)", types: ["stunt.set_piece", "vfx.showcase", "disaster", "creature.attack", "space.travel"] },
   ];
-  const CATS = {
-    "hand-to-hand": ["Hand-to-Hand & Martial Arts", "Hand-to-hand"],
-    "blades": ["Swords & Blades", "Blades"],
-    "gunfights": ["Gunfights & Shootouts", "Gunfight"],
-    "boxing": ["Boxing & Combat Sports", "Boxing"],
-    "western": ["Westerns & Showdowns", "Western"],
-    "car-chase": ["Vehicle Chases", "Vehicle chase"],
-    "foot-chase": ["Foot Chases & Parkour", "Foot chase"],
-    "stunts": ["Practical Stunts", "Stunt"],
-    "war-modern": ["Modern War", "Modern war"],
-    "epic-battle": ["Epic Battles", "Epic battle"],
-    "aerial": ["Aerial Combat", "Aerial"],
-    "naval": ["Naval & Submarine", "Naval"],
-    "space-battle": ["Space Battles", "Space battle"],
-    "space-travel": ["Space Travel & Cosmic", "Space travel"],
-    "vfx-destruction": ["VFX Spectacle & Disaster", "VFX"],
-    "creature": ["Creatures, Kaiju & Mechs", "Creature"],
-    "superhero": ["Superhero", "Superhero"],
-    "animation": ["Anime & Animation", "Animation"],
+  const TYPE_LABEL = {
+    "fight.hand_to_hand": "Hand-to-hand & martial arts", "fight.blades": "Swords & blades", "fight.gunfight": "Gunfights & standoffs",
+    "fight.ring_sport": "Ring & combat sports", "fight.superpowered": "Superpowered fights", "fight.creature": "Fighting creatures",
+    "battle.pre_gunpowder": "Sword & spear battles", "battle.black_powder": "Musket & cannon battles", "battle.modern_ground": "Modern ground war",
+    "battle.air": "Air combat", "battle.naval": "Naval combat", "battle.space": "Space battles", "battle.giants": "Kaiju, mechs & giants",
+    "chase.vehicle": "Vehicle chases", "chase.foot": "Foot chases & parkour", "chase.air": "Air chases", "race": "Races",
+    "stunt.set_piece": "Practical stunts", "vfx.showcase": "VFX showcases", "disaster": "Disasters", "creature.attack": "Creature attacks",
+    "space.travel": "Space travel",
   };
-  const CAT_ORDER = GROUPS.flatMap((g) => g.cats);
-  const GROUP_OF = {};
-  GROUPS.forEach((g) => g.cats.forEach((c) => (GROUP_OF[c] = g)));
-  const MEDIUMS = [["", "All"], ["film", "Film"], ["series", "Series"], ["anime", "Anime"], ["animation", "Animation"]];
-  const ERAS = [["", "Any era"], ["classic", "≤1969"], ["1970", "70s"], ["1980", "80s"], ["1990", "90s"], ["2000", "00s"], ["2010", "10s"], ["2020", "20s"]];
+  const TYPE_ORDER = FAMILIES.flatMap((f) => f.types);
+  const FAMILY_OF = {};
+  FAMILIES.forEach((f) => f.types.forEach((t) => (FAMILY_OF[t] = f)));
+  const RAIL_FACETS = ["genre", "era", "region", "environment", "combatants", "weapons", "vehicles", "mood", "atmosphere",
+    "time_of_day", "scale", "format", "technique", "look", "violence", "language", "medium"];
+  const DETAIL_FACETS = ["scene_type", "format", "scale", "genre", "era", "region", "environment", "time_of_day", "atmosphere",
+    "mood", "combatants", "weapons", "vehicles", "technique", "look", "violence", "language", "medium"];
+  const ERA_ORDER = Object.keys(TAX.era ? TAX.era.values : {});
+  const LABEL = {
+    ww2: "WW2", usa: "USA", "19th_century": "19th century", early_20th_century: "Early 20th century", mid_20th_century: "Mid 20th century",
+    late_20th_century: "Late 20th century", cgi: "CGI", pov: "POV", imax_large_format: "IMAX / large format", animation_2d: "2D animation",
+    animation_3d: "3D animation", live_action_color: "Live action, colour", live_action_bw: "Live action, black & white",
+    samurai_jidaigeki: "Samurai / jidaigeki", sci_fi: "Sci-fi", none_or_minimal: "No dialogue", not_applicable: "No time of day",
+    ww1_soldiers: "WW1 soldiers", ww2_soldiers: "WW2 soldiers", jedi_sith: "Jedi & Sith", one_on_one: "One on one", one_vs_many: "One vs many",
+    hong_kong: "Hong Kong", eastern_europe: "Eastern Europe", western_europe: "Western Europe", southern_europe: "Southern Europe",
+    northern_europe: "Northern Europe", british_isles: "British Isles", latin_america: "Latin America", middle_east: "Middle East",
+    north_africa: "North Africa", sub_saharan_africa: "Sub-Saharan Africa", south_asia: "South Asia", southeast_asia: "Southeast Asia",
+    central_asia: "Central Asia", american_frontier: "American frontier", earth_orbit: "Earth orbit", dj: "DJ",
+  };
+  const label = (facet, v) => facet === "scene_type" ? TYPE_LABEL[v] || v : LABEL[v] || (v.charAt(0).toUpperCase() + v.slice(1)).replace(/_/g, " ");
+  const describe = (facet, v) => (TAX[facet] && TAX[facet].values[v]) || "";
 
   const $ = (sel) => document.querySelector(sel);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const fold = (s) => String(s ?? "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const arr = (v) => (Array.isArray(v) ? v : v == null || v === "" ? [] : [v]);
   const clock = (sec) => {
     sec = Math.max(0, Math.round(sec));
     const h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60), s = sec % 60;
-    const mm = String(m).padStart(h ? 2 : 2, "0"), ss = String(s).padStart(2, "0");
-    return h ? `${h}:${mm}:${ss}` : `${mm}:${ss}`;
+    return h ? `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}` : `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
   };
-  const eraOf = (y) => (y < 1970 ? "classic" : String(Math.floor(y / 10) * 10));
   const thumbOf = (vid) => (THUMBS && THUMBS[vid]) || `https://i.ytimg.com/vi/${vid}/mqdefault.jpg`;
   const watchUrl = (vid, t) => `https://www.youtube.com/watch?v=${vid}&t=${Math.max(0, Math.floor(t))}s`;
   const searchUrl = (s) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${s.film} ${s.year} ${s.scene}`)}`;
   const awardOrg = (a) => a.split(":")[0].trim();
 
   SCENES.forEach((s, i) => {
-    s.order = CAT_ORDER.indexOf(s.category) * 10000 + i;
-    s.hay = fold([s.film, s.scene, s.year, s.director, s.country, s.medium, (s.craft || []).join(" "),
-      (s.accolades || []).join(" "), (s.techniques || []).join(" "), s.why, CATS[s.category]?.[0]].join(" "));
+    s.order = TYPE_ORDER.indexOf(s.scene_type) * 10000 + i;
+    const tagText = DETAIL_FACETS.flatMap((f) => arr(s[f]).map((v) => label(f, v) + " " + v)).join(" ");
+    s.hay = fold([s.film, s.scene, s.year, s.what_happens, s.what_to_study, s.period, s.keywords.join(" "), s.director,
+      s.production_country, s.crew.join(" "), s.awards.join(" "), tagText].join(" "));
   });
   const BY_ID = Object.fromEntries(SCENES.map((s) => [s.id, s]));
 
-  /* Per-viewer conveniences only: the pull list and nothing else. */
+  /* Per-viewer conveniences only: the pull list and the open filter sections. */
   const store = {
-    get() { try { return JSON.parse(localStorage.getItem("spv-pull") || "[]"); } catch { return []; } },
-    set(v) { try { localStorage.setItem("spv-pull", JSON.stringify(v)); } catch { /* storage unavailable */ } },
+    get(k, d) { try { return JSON.parse(localStorage.getItem(k) || "null") ?? d; } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* storage unavailable */ } },
   };
-  let pull = new Set(store.get().filter((id) => BY_ID[id]));
+  let pull = new Set(store.get("spv-pull", []).filter((id) => BY_ID[id]));
+  const openSections = new Set(store.get("spv-open", ["genre", "era", "region"]));
+  const expanded = new Set();
 
-  const state = { bin: "", medium: "", era: "", tech: new Set(), q: "", awards: false, pullOnly: false, sort: "curated" };
+  const state = { f: {}, q: "", pullOnly: false, sort: "curated" };
   let list = [];
 
-  /* ---------- Filters ---------- */
-  function matches(s) {
-    if (state.bin.startsWith("g:") && GROUP_OF[s.category]?.key !== state.bin.slice(2)) return false;
-    if (state.bin.startsWith("c:") && s.category !== state.bin.slice(2)) return false;
-    if (state.medium && s.medium !== state.medium) return false;
-    if (state.era && eraOf(s.year) !== state.era) return false;
-    if (state.awards && !(s.accolades || []).length) return false;
-    if (state.pullOnly && !pull.has(s.id)) return false;
-    for (const t of state.tech) if (!(s.techniques || []).includes(t)) return false;
-    if (state.q) {
-      for (const w of fold(state.q).split(/\s+/).filter(Boolean)) if (!s.hay.includes(w)) return false;
+  /* ---------- Filtering ---------- */
+  function matches(s, skip) {
+    for (const facet in state.f) {
+      if (facet === skip) continue;
+      const want = state.f[facet];
+      if (want.size && !arr(s[facet]).some((v) => want.has(v))) return false;
     }
+    if (state.pullOnly && !pull.has(s.id)) return false;
+    if (state.q) for (const w of fold(state.q).split(/\s+/).filter(Boolean)) if (!s.hay.includes(w)) return false;
     return true;
   }
+  function countsFor(facet) {
+    const c = {};
+    for (const s of SCENES) if (matches(s, facet)) for (const v of arr(s[facet])) c[v] = (c[v] || 0) + 1;
+    return c;
+  }
+  const selected = (facet) => state.f[facet] || (state.f[facet] = new Set());
+  const filterCount = () => Object.values(state.f).reduce((n, set) => n + set.size, 0);
   const SORTS = {
     curated: (a, b) => a.order - b.order,
     new: (a, b) => b.year - a.year || a.order - b.order,
     old: (a, b) => a.year - b.year || a.order - b.order,
+    story: (a, b) => ERA_ORDER.indexOf(a.era) - ERA_ORDER.indexOf(b.era) || a.order - b.order,
     az: (a, b) => a.film.localeCompare(b.film) || a.year - b.year,
-    views: (a, b) => (b.views || 0) - (a.views || 0),
+    views: (a, b) => (b.clip.source_views || 0) - (a.clip.source_views || 0),
   };
 
-  function counts(exceptBin) {
-    const c = {};
-    const saved = state.bin;
-    if (exceptBin) state.bin = "";
-    SCENES.forEach((s) => { if (matches(s)) c[s.category] = (c[s.category] || 0) + 1; });
-    state.bin = saved;
-    return c;
-  }
-
-  /* ---------- Rendering ---------- */
-  function renderBins() {
-    const c = counts(true);
-    const total = Object.values(c).reduce((a, b) => a + b, 0);
-    const pressed = (v) => `aria-pressed="${state.bin === v}"`;
-    let html = `<button class="bin bin-all" type="button" data-bin="" ${pressed("")}><span>All scenes</span><span>${total}</span></button>`;
-    for (const g of GROUPS) {
-      const gTotal = g.cats.reduce((a, k) => a + (c[k] || 0), 0);
-      html += `<div class="bin-group" style="--g:${g.color}">
-        <button class="bin-head" type="button" data-bin="g:${g.key}" ${pressed("g:" + g.key)}>${esc(g.label)} · ${gTotal}</button>`;
-      for (const k of g.cats) {
-        html += `<button class="bin" type="button" data-bin="c:${k}" ${pressed("c:" + k)}><span>${esc(CATS[k][0])}</span><span>${c[k] || 0}</span></button>`;
+  /* ---------- Rendering: filter rail ---------- */
+  function renderRail() {
+    const types = countsFor("scene_type");
+    const sel = selected("scene_type");
+    const total = SCENES.filter((s) => matches(s, "scene_type")).length;
+    let html = `<p class="rail-title">Scene type</p><div class="tree">
+      <button class="fv fv-all" type="button" data-all="scene_type" aria-pressed="${!sel.size}"><span>All scene types</span><span class="n">${total}</span></button>`;
+    for (const fam of FAMILIES) {
+      const famTotal = fam.types.reduce((n, t) => n + (types[t] || 0), 0);
+      const famOn = fam.types.every((t) => sel.has(t));
+      html += `<div class="fam" style="--g:${fam.color}">
+        <button class="fam-head" type="button" data-family="${fam.key}" aria-pressed="${famOn}"><span>${esc(fam.label)}</span><span class="n mono">${famTotal}</span></button>`;
+      for (const t of fam.types) {
+        const n = types[t] || 0;
+        html += `<button class="fv${n ? "" : " zero"}" type="button" data-facet="scene_type" data-value="${t}" aria-pressed="${sel.has(t)}" title="${esc(describe("scene_type", t))}"><span>${esc(TYPE_LABEL[t])}</span><span class="n">${n}</span></button>`;
       }
       html += `</div>`;
     }
-    html += `<div class="legend"><p><span class="pick hot" style="display:inline-block;vertical-align:-1px"></span> Window cut at the clip's most-replayed 30 seconds.</p>
-      <p><span class="pick" style="display:inline-block;vertical-align:-1px"></span> Estimated window. Nudge it in the viewer.</p></div>`;
-    $("#bins").innerHTML = html;
-
-    let strip = `<button class="chip" type="button" data-bin="" ${pressed("")} style="--g:var(--accent)">All <span class="n">${total}</span></button>`;
-    for (const g of GROUPS) for (const k of g.cats) {
-      strip += `<button class="chip" type="button" data-bin="c:${k}" ${pressed("c:" + k)} style="--g:${g.color}"><span class="dot"></span>${esc(CATS[k][0])} <span class="n">${c[k] || 0}</span></button>`;
+    html += `</div>`;
+    for (const facet of RAIL_FACETS) {
+      const spec = TAX[facet];
+      if (!spec) continue;
+      const counts = countsFor(facet);
+      const on = selected(facet);
+      const values = Object.keys(spec.values)
+        .filter((v) => counts[v] || on.has(v))
+        .sort((a, b) => (on.has(b) - on.has(a)) || (counts[b] || 0) - (counts[a] || 0));
+      if (!values.length) continue;
+      const shown = expanded.has(facet) ? values : values.slice(0, 8);
+      html += `<details class="facet" data-section="${facet}"${openSections.has(facet) || on.size ? " open" : ""}>
+        <summary title="${esc(spec.description)}">${esc(spec.label)}${on.size ? `<span class="sel">${on.size}</span>` : ""}</summary>
+        ${shown.map((v) => `<button class="fv" type="button" data-facet="${facet}" data-value="${esc(v)}" aria-pressed="${on.has(v)}" title="${esc(describe(facet, v))}"><span>${esc(label(facet, v))}</span><span class="n">${counts[v] || 0}</span></button>`).join("")}
+        ${values.length > 8 ? `<button class="more" type="button" data-more="${facet}">${expanded.has(facet) ? "Show fewer" : `Show all ${values.length}`}</button>` : ""}
+      </details>`;
     }
-    $("#binStrip").innerHTML = strip;
+    $("#rail").innerHTML = html;
   }
 
-  function renderSegs() {
-    $("#mediumSeg").innerHTML = MEDIUMS.map(([v, l]) => `<button type="button" data-medium="${v}" aria-pressed="${state.medium === v}">${l}</button>`).join("");
-    $("#eraSeg").innerHTML = ERAS.map(([v, l]) => `<button type="button" data-era="${v}" aria-pressed="${state.era === v}">${l}</button>`).join("");
+  function renderActive() {
+    const chips = [];
+    for (const facet of DETAIL_FACETS) {
+      for (const v of state.f[facet] || []) {
+        chips.push(`<button class="chip on" type="button" data-remove="${facet}" data-value="${esc(v)}" title="${esc(describe(facet, v))}"><b>${esc(TAX[facet].label)}:</b> ${esc(label(facet, v))} <span class="x">✕</span></button>`);
+      }
+    }
+    if (state.pullOnly) chips.push(`<button class="chip on" type="button" data-remove="pull"><b>Pull list</b> <span class="x">✕</span></button>`);
+    if (chips.length) {
+      chips.push(`<button class="linkbtn" type="button" data-clear>Clear all</button>`);
+      if (state.pullOnly) chips.push(`<button class="linkbtn" type="button" id="copyBtn">Copy pull list</button>`);
+    }
+    $("#active").innerHTML = chips.join("");
+    $("#active").hidden = !chips.length;
   }
 
-  const TECH_TOP = (() => {
-    const f = {};
-    SCENES.forEach((s) => (s.techniques || []).forEach((t) => (f[t] = (f[t] || 0) + 1)));
-    return Object.entries(f).filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).slice(0, 36).map(([t, n]) => [t, n]);
-  })();
-  /* Counts follow the current filters; techniques with no scenes in this view are hidden. */
-  function renderTech() {
-    const saved = state.tech;
-    const countWith = (t) => {
-      state.tech = new Set([...saved, t]);
-      let n = 0;
-      for (const s of SCENES) if (matches(s)) n++;
-      return n;
-    };
-    const shown = new Set(TECH_TOP.map(([t]) => t));
-    const chips = [...[...saved].filter((t) => !shown.has(t)), ...TECH_TOP.map(([t]) => t)]
-      .map((t) => [t, countWith(t)])
-      .filter(([t, n]) => n > 0 || saved.has(t));
-    state.tech = saved;
-    $("#techChips").innerHTML = chips.map(([t, n]) =>
-      `<button class="chip" type="button" data-tech="${esc(t)}" aria-pressed="${saved.has(t)}">${esc(t)} <span class="n">${n}</span></button>`).join("");
-  }
-
+  /* ---------- Rendering: cards ---------- */
   const STAR = `<svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M7 1.2l1.75 3.6 3.95.55-2.87 2.77.7 3.93L7 10.2l-3.53 1.85.7-3.93L1.3 5.35l3.95-.55z" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round"/></svg>`;
   const LAUREL = `<svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1.5l1.3 2.7 3 .4-2.2 2.1.5 3L6 8.3 3.4 9.7l.5-3L1.7 4.6l3-.4z" fill="currentColor"/></svg>`;
   const PLAY = `<svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M5 3v12l10-6z" fill="currentColor"/></svg>`;
 
+  function awardText(s) {
+    const orgs = [...new Set(s.awards.map(awardOrg))];
+    const oscars = s.awards.filter((a) => /^oscar/i.test(a)).length;
+    if (oscars) return `${oscars} Oscar${oscars > 1 ? "s" : ""}${orgs.length > 1 ? ` + ${orgs.length - 1} more` : ""}`;
+    return orgs.length ? orgs[0] + (orgs.length > 1 ? ` + ${orgs.length - 1}` : "") : "";
+  }
+  function feel(s) {
+    return [label("mood", s.mood[0]), s.time_of_day !== "not_applicable" ? label("time_of_day", s.time_of_day) : "",
+      ...s.atmosphere.slice(0, 2).map((v) => label("atmosphere", v))].filter(Boolean).join(" · ").toLowerCase();
+  }
   function cardHtml(s) {
-    const g = GROUP_OF[s.category];
-    const acc = s.accolades || [];
-    const orgs = [...new Set(acc.map(awardOrg))];
-    const oscars = acc.filter((a) => /^oscar/i.test(a)).length;
-    const awardText = oscars ? `${oscars} Oscar${oscars > 1 ? "s" : ""}${orgs.length > 1 ? ` + ${orgs.length - 1} more` : ""}` : orgs.length ? orgs[0] + (orgs.length > 1 ? ` + ${orgs.length - 1}` : "") : "";
-    return `<article class="card" style="--g:${g.color}">
+    const fam = FAMILY_OF[s.scene_type] || FAMILIES[0];
+    const award = awardText(s);
+    return `<article class="card" style="--g:${fam.color}">
       <button class="thumb" type="button" data-open="${esc(s.id)}" aria-label="Play 30 seconds: ${esc(s.scene)}, ${esc(s.film)}">
-        <img loading="lazy" decoding="async" src="${esc(thumbOf(s.video))}" alt="">
-        <span class="tag mono"><i></i>${esc(CATS[s.category][1])}</span>
-        <span class="tc mono"><span class="pick${s.pick === "most-replayed" ? " hot" : ""}" title="${s.pick === "most-replayed" ? "Most-replayed window" : "Estimated window"}"></span>${clock(s.start)}–${clock(s.end)}</span>
+        <img loading="lazy" decoding="async" src="${esc(thumbOf(s.clip.youtube_id))}" alt="">
+        <span class="tag mono"><i></i>${esc(TYPE_LABEL[s.scene_type])}</span>
+        ${LOCAL[s.id] ? `<span class="disk mono">On disk</span>` : ""}
+        <span class="tc mono"><span class="pick${s.clip.window === "most_replayed" ? " hot" : ""}" title="${s.clip.window === "most_replayed" ? "Most-replayed window" : "Estimated window"}"></span>${clock(s.clip.start)}–${clock(s.clip.end)}</span>
         <span class="play-ico">${PLAY}</span>
       </button>
       <div class="card-body">
         <h2 class="film">${esc(s.film)}<span class="yr">${s.year}</span></h2>
         <p class="scene">${esc(s.scene)}</p>
-        <p class="by">${esc(s.director)}${s.country ? " · " + esc(s.country) : ""}</p>
+        <p class="period">${esc(s.period)}</p>
+        <p class="feel">${esc(feel(s))}</p>
         <div class="card-foot">
-          ${awardText ? `<span class="award mono" title="${esc(acc.join("\n"))}">${LAUREL}<span>${esc(awardText)}</span></span>` : ""}
+          ${award ? `<span class="award mono" title="${esc(s.awards.join("\n"))}">${LAUREL}<span>${esc(award)}</span></span>` : ""}
           <button class="star" type="button" data-star="${esc(s.id)}" aria-pressed="${pull.has(s.id)}" aria-label="Add to pull list">${STAR}</button>
         </div>
       </div>
     </article>`;
   }
 
-  function viewLabel() {
-    const parts = [];
-    if (state.pullOnly) parts.push("Pull list");
-    else if (state.bin.startsWith("c:")) parts.push(CATS[state.bin.slice(2)][0]);
-    else if (state.bin.startsWith("g:")) parts.push(GROUPS.find((g) => g.key === state.bin.slice(2)).label);
-    else parts.push("All scenes");
-    return parts[0];
+  function viewTitle() {
+    if (state.pullOnly) return "Pull list";
+    const types = [...(state.f.scene_type || [])];
+    if (types.length === 1) return TYPE_LABEL[types[0]];
+    const fam = FAMILIES.find((f) => f.types.length === types.length && f.types.every((t) => types.includes(t)));
+    if (fam) return fam.label;
+    return types.length ? `${types.length} scene types` : "All scenes";
   }
 
   function render() {
-    list = SCENES.filter(matches).sort(SORTS[state.sort]);
-    renderBins();
-    renderSegs();
-    renderTech();
+    list = SCENES.filter((s) => matches(s)).sort(SORTS[state.sort]);
+    renderRail();
+    renderActive();
     $("#grid").innerHTML = list.map(cardHtml).join("");
     $("#empty").hidden = list.length > 0;
-    $("#viewTitle").textContent = viewLabel();
+    $("#viewTitle").textContent = viewTitle();
     $("#viewMeta").textContent = `${list.length} clip${list.length === 1 ? "" : "s"} · ${clock(list.length * CLIP)} of reference`;
-    const filtered = state.bin || state.medium || state.era || state.tech.size || state.q || state.awards || state.pullOnly;
-    $("#clearBtn").hidden = !filtered;
-    $("#copyBtn").hidden = !(state.pullOnly && list.length);
-    if (!state.pullOnly) $("#copyWrap").hidden = true;
     $("#pullCount").textContent = pull.size;
     $("#pullBtn").setAttribute("aria-pressed", state.pullOnly);
-    $("#reelBtn").disabled = !list.length;
+    $("#filterCount").textContent = filterCount();
+    $("#reelBtn").disabled = !reelList().length;
+    if (!state.pullOnly) $("#copyWrap").hidden = true;
   }
 
   function clearFilters() {
-    Object.assign(state, { bin: "", medium: "", era: "", q: "", awards: false, pullOnly: false });
-    state.tech.clear();
+    state.f = {};
+    state.q = "";
+    state.pullOnly = false;
     $("#q").value = "";
-    $("#awardsOnly").checked = false;
     render();
   }
 
   /* ---------- Events: library ---------- */
   document.addEventListener("click", (e) => {
-    const t = e.target.closest("[data-bin],[data-medium],[data-era],[data-tech],[data-open],[data-star]");
+    const t = e.target.closest("[data-facet],[data-family],[data-all],[data-more],[data-remove],[data-clear],[data-open],[data-star],[data-only]");
     if (!t) return;
-    if (t.dataset.star !== undefined) {
-      togglePull(t.dataset.star);
+    const d = t.dataset;
+    if (d.star !== undefined) { togglePull(d.star); return; }
+    if (d.open !== undefined) { openScene(d.open, { reel: false }); return; }
+    if (d.more !== undefined) { expanded.has(d.more) ? expanded.delete(d.more) : expanded.add(d.more); renderRail(); return; }
+    if (d.only !== undefined) {
+      state.f = { [d.only]: new Set([d.value]) };
+      state.pullOnly = false;
+      closeViewer();
+    } else if (d.facet !== undefined) {
+      const set = selected(d.facet);
+      set.has(d.value) ? set.delete(d.value) : set.add(d.value);
+    } else if (d.family !== undefined) {
+      const fam = FAMILIES.find((f) => f.key === d.family);
+      const set = selected("scene_type");
+      const all = fam.types.every((x) => set.has(x));
+      state.f.scene_type = all ? new Set() : new Set(fam.types);
+    } else if (d.all !== undefined) {
+      state.f[d.all] = new Set();
+    } else if (d.remove !== undefined) {
+      if (d.remove === "pull") state.pullOnly = false;
+      else selected(d.remove).delete(d.value);
+    } else if (d.clear !== undefined) {
+      clearFilters();
       return;
-    }
-    if (t.dataset.open !== undefined) { openScene(t.dataset.open, { reel: false }); return; }
-    if (t.dataset.bin !== undefined) { state.bin = t.dataset.bin; state.pullOnly = false; }
-    if (t.dataset.medium !== undefined) state.medium = t.dataset.medium;
-    if (t.dataset.era !== undefined) state.era = t.dataset.era;
-    if (t.dataset.tech !== undefined) {
-      const k = t.dataset.tech;
-      if (t.closest("#vInfo")) { state.tech = new Set([k]); closeViewer(); }
-      else state.tech.has(k) ? state.tech.delete(k) : state.tech.add(k);
     }
     render();
   });
+  document.addEventListener("toggle", (e) => {
+    const sec = e.target.dataset && e.target.dataset.section;
+    if (!sec) return;
+    e.target.open ? openSections.add(sec) : openSections.delete(sec);
+    store.set("spv-open", [...openSections]);
+  }, true);
 
   function togglePull(id) {
     pull.has(id) ? pull.delete(id) : pull.add(id);
-    store.set([...pull]);
+    store.set("spv-pull", [...pull]);
     document.querySelectorAll(`[data-star="${CSS.escape(id)}"]`).forEach((b) => b.setAttribute("aria-pressed", pull.has(id)));
     $("#pullCount").textContent = pull.size;
     if (state.pullOnly) render();
@@ -863,15 +701,16 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     clearTimeout(qTimer);
     qTimer = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 120);
   });
-  $("#awardsOnly").addEventListener("change", (e) => { state.awards = e.target.checked; render(); });
   $("#sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
   $("#pullBtn").addEventListener("click", () => { state.pullOnly = !state.pullOnly; render(); });
-  $("#clearBtn").addEventListener("click", clearFilters);
   $("#emptyClear").addEventListener("click", clearFilters);
   $("#home").addEventListener("click", (e) => { e.preventDefault(); clearFilters(); window.scrollTo({ top: 0 }); });
-  $("#reelBtn").addEventListener("click", () => { if (list.length) openScene(list[0].id, { reel: true }); });
-  $("#copyBtn").addEventListener("click", async () => {
-    const text = list.map((s) => `${s.film} (${s.year}) — ${s.scene} — https://youtu.be/${s.video}?t=${s.start}  [${s.id}]`).join("\n");
+  $("#filtersBtn").addEventListener("click", () => $("#side").classList.add("open"));
+  $("#sideDone").addEventListener("click", () => { $("#side").classList.remove("open"); window.scrollTo({ top: 0 }); });
+  $("#reelBtn").addEventListener("click", () => { const r = reelList(); if (r.length) openScene(r[0].id, { reel: true }); });
+  $("#active").addEventListener("click", async (e) => {
+    if (!e.target.closest("#copyBtn")) return;
+    const text = list.map((s) => `${s.film} (${s.year}) — ${s.scene} — ${s.clip.youtube_url}  [${s.id}]`).join("\n");
     try {
       await navigator.clipboard.writeText(text);
       toast(`Copied ${list.length} scene${list.length === 1 ? "" : "s"}`);
@@ -899,7 +738,9 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
 
   /* ---------- Viewer ---------- */
   const viewer = $("#viewer");
-  const V = { scene: null, video: null, start: 0, end: 0, loop: true, reel: false, player: null, ticker: null };
+  const V = { scene: null, video: null, start: 0, end: 0, duration: 0, loop: true, reel: false, player: null, ticker: null, local: false };
+  const canPlay = (s) => MODE === "embed" || Boolean(LOCAL[s.id]);
+  const reelList = () => list.filter(canPlay);
 
   let ytReady = null;
   function loadYT() {
@@ -919,60 +760,69 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     const s = BY_ID[id];
     if (!s) return;
     if (opts.reel !== undefined) V.reel = opts.reel;
-    V.scene = s;
-    V.video = s.video;
-    V.start = s.start;
-    V.end = s.end;
-    V.duration = s.duration;
+    Object.assign(V, { scene: s, video: s.clip.youtube_id, start: s.clip.start, end: s.clip.end, duration: s.clip.source_duration, localFailed: false });
     if (!viewer.open) viewer.showModal();
     try { history.replaceState(null, "", "#" + s.id); } catch { /* sandboxed */ }
     renderInfo();
+    loadScreen();
     renderTimeline();
     renderTransport();
-    loadScreen();
   }
-
-  function closeViewer() {
-    if (viewer.open) viewer.close();
-  }
+  function closeViewer() { if (viewer.open) viewer.close(); }
   viewer.addEventListener("close", () => {
     stopTicker();
-    if (V.player && V.player.destroy) { try { V.player.destroy(); } catch { /* already gone */ } }
-    V.player = null;
+    destroyPlayer();
     V.reel = false;
     $("#screen").innerHTML = "";
     try { history.replaceState(null, "", location.pathname + location.search); } catch { /* sandboxed */ }
   });
   viewer.addEventListener("click", (e) => { if (e.target === viewer) closeViewer(); });
 
+  function destroyPlayer() {
+    if (V.player && V.player.destroy) { try { V.player.destroy(); } catch { /* already gone */ } }
+    V.player = null;
+  }
   function step(dir) {
-    if (!list.length || !V.scene) return;
-    let i = list.findIndex((s) => s.id === V.scene.id);
-    i = i < 0 ? 0 : (i + dir + list.length) % list.length;
-    openScene(list[i].id);
+    const pool = V.reel ? reelList() : list;
+    if (!pool.length || !V.scene) return;
+    let i = pool.findIndex((s) => s.id === V.scene.id);
+    i = i < 0 ? 0 : (i + dir + pool.length) % pool.length;
+    openScene(pool[i].id);
   }
 
   function renderTransport() {
-    const embed = MODE === "embed";
-    ["#replayBtn", "#loopBtn"].forEach((sel) => ($(sel).hidden = !embed));
-    ["#nudgeBack", "#nudgeFwd"].forEach((sel) => ($(sel).hidden = false));
+    const yt = !V.local && MODE === "embed";
+    $("#replayBtn").hidden = !(yt || V.local);
+    $("#loopBtn").hidden = !(yt || V.local);
+    $("#nudgeBack").hidden = $("#nudgeFwd").hidden = V.local;
     $("#loopBtn").setAttribute("aria-pressed", V.loop && !V.reel);
     $("#loopBtn").disabled = V.reel;
-    const i = list.findIndex((s) => s.id === V.scene.id);
-    $("#reelState").textContent = V.reel ? `REEL ${i + 1} / ${list.length}` : i >= 0 ? `${i + 1} / ${list.length}` : "";
+    const pool = V.reel ? reelList() : list;
+    const i = pool.findIndex((s) => s.id === V.scene.id);
+    $("#reelState").textContent = i < 0 ? "" : `${V.reel ? "REEL " : ""}${i + 1} / ${pool.length}`;
   }
 
   function loadScreen() {
     const s = V.scene;
     const screen = $("#screen");
+    stopTicker();
+    V.local = Boolean(LOCAL[s.id]) && !V.localFailed;
+    if (V.local) {
+      destroyPlayer();
+      screen.innerHTML = `<video id="vid" src="${esc(LOCAL[s.id])}" controls autoplay playsinline></video>`;
+      const vid = $("#vid");
+      vid.loop = V.loop && !V.reel;
+      vid.addEventListener("ended", () => { if (V.reel) step(1); });
+      vid.addEventListener("error", () => { V.localFailed = true; loadScreen(); renderTransport(); });
+      vid.addEventListener("timeupdate", () => movePlayhead(V.start + vid.currentTime));
+      return;
+    }
     if (MODE !== "embed") {
       screen.innerHTML = `<a class="poster" href="${esc(watchUrl(V.video, V.start))}" target="_blank" rel="noopener">
         <img src="${esc(thumbOf(V.video))}" alt="">
         <span class="cta"><b>${PLAY} Play on YouTube from ${clock(V.start)}</b><span class="mono">Watch to ${clock(V.end)} · 30 s window</span></span></a>`;
       return;
     }
-    stopTicker();
-    const vars = { start: V.start, end: V.end, autoplay: 1, rel: 0, playsinline: 1, modestbranding: 1, iv_load_policy: 3 };
     if (V.player && V.player.loadVideoById) {
       screen.querySelector(".screen-msg")?.remove();
       V.player.loadVideoById({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
@@ -981,11 +831,11 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     }
     screen.innerHTML = `<div id="ytHost"></div>`;
     loadYT().then(() => {
-      if (!viewer.open || V.scene !== s) return;
+      if (!viewer.open || V.scene !== s || V.local) return;
       V.player = new YT.Player("ytHost", {
         videoId: V.video,
         host: "https://www.youtube-nocookie.com",
-        playerVars: { ...vars, origin: location.origin },
+        playerVars: { start: V.start, end: V.end, autoplay: 1, rel: 0, playsinline: 1, modestbranding: 1, iv_load_policy: 3, origin: location.origin },
         events: {
           onReady: () => startTicker(),
           onStateChange: (e) => {
@@ -1003,7 +853,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   function showPlayerError(code) {
     const s = V.scene;
     const why = code === 100 ? "This upload was removed from YouTube." : code === 101 || code === 150 ? "The uploader doesn't allow this clip to play outside YouTube." : code === 153 ? "YouTube refused the embed. Open this page through a web server rather than as a file." : "YouTube couldn't play this clip here.";
-    const alts = (s.alts || []).filter((a) => a.id !== V.video);
+    const alts = s.clip.alternates.filter((a) => a.youtube_id !== V.video);
     const msg = document.createElement("div");
     msg.className = "screen-msg";
     msg.innerHTML = `<p>${esc(why)}</p><div class="row">
@@ -1014,7 +864,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
       const b = e.target.closest("[data-alt]");
       if (!b) return;
       const a = alts[+b.dataset.alt];
-      V.video = a.id; V.start = a.start || 0; V.end = V.start + CLIP; V.duration = 0;
+      Object.assign(V, { video: a.youtube_id, start: a.start || 0, end: (a.start || 0) + CLIP, duration: 0 });
       msg.remove();
       renderTimeline();
       V.player.loadVideoById({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
@@ -1023,22 +873,23 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     if (V.reel) setTimeout(() => { if (V.reel && V.scene === s) step(1); }, 2500);
   }
 
+  function movePlayhead(t) {
+    const d = V.duration;
+    const head = document.getElementById("playhead");
+    if (head && d) { head.setAttribute("x1", (t / d) * 1000); head.setAttribute("x2", (t / d) * 1000); }
+  }
   function startTicker() {
     stopTicker();
     V.ticker = setInterval(() => {
-      if (!V.player || !V.player.getCurrentTime) return;
-      const t = V.player.getCurrentTime();
-      const d = V.duration || V.player.getDuration?.() || 0;
-      const head = document.getElementById("playhead");
-      if (head && d) { head.setAttribute("x1", (t / d) * 1000); head.setAttribute("x2", (t / d) * 1000); }
+      if (V.player && V.player.getCurrentTime) movePlayhead(V.player.getCurrentTime());
     }, 250);
   }
   function stopTicker() { clearInterval(V.ticker); V.ticker = null; }
 
   function renderTimeline() {
     const s = V.scene;
-    const d = V.duration || s.duration || V.end;
-    const heat = V.video === s.video ? s.heat || "" : "";
+    const d = V.duration || s.clip.source_duration || V.end;
+    const heat = V.video === s.clip.youtube_id ? s.clip.replay_heat || "" : "";
     const W = 1000, H = 38, base = 34;
     let area = "";
     if (heat && d) {
@@ -1048,6 +899,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
               <path d="M${pts.join(" L")}" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.7"/>`;
     }
     const x0 = d ? (V.start / d) * W : 0, x1 = d ? (Math.min(V.end, d) / d) * W : W;
+    const kind = V.local ? "downloaded clip" : heat ? "most-replayed window" : s.clip.window === "hand_picked" && V.video === s.clip.youtube_id ? "hand-picked window" : "estimated window";
     $("#timeline").innerHTML = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true">
         <line x1="0" x2="${W}" y1="${base}" y2="${base}" stroke="currentColor" stroke-width="1" opacity="0.5"/>
         ${area}
@@ -1055,43 +907,56 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
         <rect x="${x0}" y="${base - 1}" width="${Math.max(4, x1 - x0)}" height="3" fill="#f0b24a"/>
         <line id="playhead" x1="-10" x2="-10" y1="0" y2="${H}" stroke="#ece7dd" stroke-width="2" vector-effect="non-scaling-stroke"/>
       </svg>
-      <div class="tl-labels mono"><span>00:00</span><span><b>${clock(V.start)}–${clock(V.end)}</b> ${heat ? "most-replayed window" : V.video === s.video && s.pick === "pinned" ? "hand-picked window" : "estimated window"}</span><span>${d ? clock(d) : ""}</span></div>`;
+      <div class="tl-labels mono"><span>00:00</span><span><b>${clock(V.start)}–${clock(V.end)}</b> ${kind}</span><span>${d ? clock(d) : ""}</span></div>`;
   }
 
   function renderInfo() {
     const s = V.scene;
-    const g = GROUP_OF[s.category];
-    const mediumLabel = { film: "Film", series: "Series", anime: "Anime", animation: "Animation" }[s.medium] || "";
+    const fam = FAMILY_OF[s.scene_type] || FAMILIES[0];
     const sec = (title, body) => (body ? `<div class="v-sec"><h4>${title}</h4>${body}</div>` : "");
+    const rows = DETAIL_FACETS.map((f) => {
+      const vals = arr(s[f]);
+      if (!vals.length) return "";
+      const extra = f === "era" ? `<span class="chip" title="Exact setting">${esc(s.period)}</span>` : "";
+      return `<dt>${esc(TAX[f].label)}</dt><dd>${vals.map((v) => `<button class="chip" type="button" data-only="${f}" data-value="${esc(v)}" title="${esc(describe(f, v))} Click to show every scene tagged this way.">${esc(label(f, v))}</button>`).join("")}${extra}</dd>`;
+    }).join("");
     $("#vInfo").innerHTML = `
-      <div class="v-top" style="--g:${g.color}">
-        <span class="v-tag mono"><i></i>${esc(g.label)} / ${esc(CATS[s.category][0])}</span>
+      <div class="v-top" style="--g:${fam.color}">
+        <span class="v-tag mono"><i></i>${esc(fam.label)} / ${esc(TYPE_LABEL[s.scene_type])}</span>
         <button class="v-close" type="button" id="vClose" aria-label="Close viewer">✕</button>
       </div>
       <div>
         <p class="v-film">${esc(s.film)}<span class="yr">${s.year}</span></p>
         <h2 class="v-title" id="vTitle">${esc(s.scene)}</h2>
-        <p class="v-sub">${esc([mediumLabel, s.country, s.director && "Dir. " + s.director].filter(Boolean).join(" · "))}</p>
+        <p class="v-sub">${esc([s.production_country, s.director && "Dir. " + s.director].filter(Boolean).join(" · "))}</p>
       </div>
-      ${sec("What to study", s.why ? `<p>${esc(s.why)}</p>` : "")}
-      ${sec("Awards", (s.accolades || []).length ? `<ul class="v-list awards">${s.accolades.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
-      ${sec("Key crew", (s.craft || []).length ? `<ul class="v-list">${s.craft.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
-      ${sec("Technique", (s.techniques || []).length ? `<div class="v-chips">${s.techniques.map((t) => `<button class="chip" type="button" data-tech="${esc(t)}">${esc(t)}</button>`).join("")}</div>` : "")}
+      ${sec("What happens", `<p>${esc(s.what_happens)}</p>`)}
+      ${sec("What to study", `<p>${esc(s.what_to_study)}</p>`)}
+      ${sec("Tags", `<dl class="facets">${rows}<dt>Keywords</dt><dd>${s.keywords.map((k) => `<span class="chip">${esc(k)}</span>`).join("")}</dd></dl>`)}
+      ${sec("Awards", s.awards.length ? `<ul class="v-list awards">${s.awards.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
+      ${sec("Key crew", s.crew.length ? `<ul class="v-list">${s.crew.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
       <div class="v-links">
         <button class="btn" type="button" data-star="${esc(s.id)}" aria-pressed="${pull.has(s.id)}">${STAR} Pull list</button>
-        <a class="btn" href="${esc(watchUrl(s.video, s.start))}" target="_blank" rel="noopener">Open on YouTube ↗</a>
+        <a class="btn" href="${esc(watchUrl(s.clip.youtube_id, s.clip.start))}" target="_blank" rel="noopener">Open on YouTube ↗</a>
         <a class="btn" href="${esc(searchUrl(s))}" target="_blank" rel="noopener">Find other uploads ↗</a>
       </div>
-      <p class="v-src">Clip source: “${esc(s.title)}” · ${esc(s.channel)}${s.views ? ` · ${Number(s.views).toLocaleString("en-US")} views` : ""}</p>`;
+      <p class="v-src">Clip source: “${esc(s.clip.source_title)}” · ${esc(s.clip.source_channel)}${s.clip.source_views ? ` · ${Number(s.clip.source_views).toLocaleString("en-US")} views` : ""}<br>
+        Scene id <code>${esc(s.id)}</code> · file <code>${esc(s.clip.file)}</code></p>`;
     $("#vClose").addEventListener("click", closeViewer);
   }
 
   $("#prevBtn").addEventListener("click", () => step(-1));
   $("#nextBtn").addEventListener("click", () => step(1));
   $("#replayBtn").addEventListener("click", () => {
+    if (V.local) { const v = $("#vid"); if (v) { v.currentTime = 0; v.play(); } return; }
     V.player?.loadVideoById?.({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
   });
-  $("#loopBtn").addEventListener("click", () => { V.loop = !V.loop; renderTransport(); });
+  $("#loopBtn").addEventListener("click", () => {
+    V.loop = !V.loop;
+    const v = $("#vid");
+    if (v) v.loop = V.loop;
+    renderTransport();
+  });
   function nudge(by) {
     const max = Math.max(0, (V.duration || V.end) - CLIP);
     V.start = Math.min(max, Math.max(0, V.start + by));
@@ -1106,19 +971,19 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     if (e.target.closest("input,select,textarea")) return;
     if (e.key === "ArrowRight") { e.preventDefault(); step(1); }
     else if (e.key === "ArrowLeft") { e.preventDefault(); step(-1); }
-    else if (e.key === "r" && MODE === "embed") $("#replayBtn").click();
+    else if (e.key === "r") $("#replayBtn").click();
     else if (e.key === "s") togglePull(V.scene.id);
   });
 
   /* ---------- Boot ---------- */
   const total = SCENES.length;
-  $("#markSub").textContent = `${total} scenes · ${clock(total * CLIP)} of 30-second reference`;
-  if (MODE !== "embed") {
-    $("#reelBtn").hidden = true;
-    if (FILE_MODE && !window.SL_MODE) {
-      $("#hint").hidden = false;
-      $("#hint p").innerHTML = `Clips open on YouTube because this page was opened as a file. For the built-in 30-second looping player and the reel, run <code>./serve.sh</code> in the <code>scene-library</code> folder and open <code>http://localhost:8000</code>.`;
-    }
+  const onDisk = SCENES.filter((s) => LOCAL[s.id]).length;
+  $("#markSub").textContent = `${total} scenes · ${clock(total * CLIP)} of 30-second reference${onDisk ? ` · ${onDisk} on disk` : ""}`;
+  if (FILE_MODE && !window.SL_MODE && onDisk < total) {
+    $("#hint").hidden = false;
+    $("#hint p").innerHTML = onDisk
+      ? `${onDisk} downloaded clips play here. The rest open on YouTube because this page was opened as a file: run <code>./serve.sh</code> and open <code>http://localhost:8000</code> to play them inline.`
+      : `Clips open on YouTube because this page was opened as a file. Run <code>./serve.sh</code> and open <code>http://localhost:8000</code> for the built-in player, or download the clips with <code>python3 tools/download_clips.py</code> to play them offline.`;
   }
   render();
   const start = decodeURIComponent(location.hash.slice(1));
