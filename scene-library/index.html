@@ -1,0 +1,1130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- @artifact-start -->
+<title>Set-Piece Vault</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: edit bay. Bins of scene types on the left, a contact sheet of 30-second clips, a viewer on top. */
+:root {
+  --bg: #0c0f13;
+  --panel: #141920;
+  --raise: #1c232c;
+  --line: #29313c;
+  --fg: #ece7dd;
+  --muted: #949ca8;
+  --faint: #636c78;
+  --accent: #f0b24a;
+  --accent-ink: #1b1306;
+  --on-scrim: #f4f0e7;
+  --scrim: rgba(7, 9, 12, 0.78);
+  --fight: #e47b61;
+  --pursuit: #94c57f;
+  --war: #b8ad8c;
+  --space: #82abe8;
+  --spectacle: #c993dc;
+  --display: "Big Shoulders Display", "Oswald", "Arial Narrow", sans-serif;
+  --body: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --radius: 6px;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #eceef1; --panel: #ffffff; --raise: #f4f5f7; --line: #d4d8de;
+    --fg: #14181e; --muted: #56606c; --faint: #858d98;
+    --accent: #a5630a; --accent-ink: #fff9ee;
+    --fight: #b5462e; --pursuit: #44822f; --war: #75693f; --space: #2f61b0; --spectacle: #87449f;
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bg: #eceef1; --panel: #ffffff; --raise: #f4f5f7; --line: #d4d8de;
+  --fg: #14181e; --muted: #56606c; --faint: #858d98;
+  --accent: #a5630a; --accent-ink: #fff9ee;
+  --fight: #b5462e; --pursuit: #44822f; --war: #75693f; --space: #2f61b0; --spectacle: #87449f;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 15px/1.5 var(--body);
+}
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mono { font-family: var(--mono); font-size: 12px; letter-spacing: 0.02em; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Header */
+.top {
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 20;
+  background: color-mix(in srgb, var(--bg) 90%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.top-in {
+  max-width: 1680px;
+  margin: 0 auto;
+  padding-inline: clamp(16px, 3vw, 40px);
+  padding-block: 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px 24px;
+  flex-wrap: wrap;
+}
+.mark { display: flex; flex-direction: column; text-decoration: none; min-width: 0; }
+.mark-name {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 28px;
+  line-height: 0.95;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.mark-name b { color: var(--accent); font-weight: 800; }
+.mark-sub { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; }
+.search {
+  flex: 1 1 320px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding-inline: 12px;
+  min-width: 0;
+}
+.search:focus-within { border-color: var(--accent); }
+.search svg { flex: none; color: var(--faint); }
+.search input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  background: transparent;
+  padding-block: 10px;
+  outline: none;
+}
+.search kbd {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--faint);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 1px 6px;
+}
+.top-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 8px 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.btn:hover { border-color: var(--faint); }
+.btn[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+.btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.btn-primary:hover { border-color: var(--fg); }
+.btn .count {
+  font-family: var(--mono);
+  font-size: 11px;
+  background: var(--raise);
+  color: var(--fg);
+  border-radius: 10px;
+  padding: 0 7px;
+}
+.btn[disabled] { opacity: 0.45; cursor: default; }
+
+.hint {
+  max-width: 1680px;
+  margin: 12px auto 0;
+  padding-inline: clamp(16px, 3vw, 40px);
+}
+.hint p {
+  margin: 0;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  color: var(--muted);
+  font-size: 13px;
+}
+.hint code { font-family: var(--mono); color: var(--fg); }
+
+/* Page grid */
+.app {
+  max-width: 1680px;
+  margin: 0 auto;
+  padding-inline: clamp(16px, 3vw, 40px);
+  padding-block: 20px 64px;
+  display: grid;
+  grid-template-columns: 236px minmax(0, 1fr);
+  gap: 32px;
+}
+
+/* Bins (sidebar) */
+.bins {
+  position: sticky;
+  top: calc(env(safe-area-inset-top, 0px) + 92px);
+  align-self: start;
+  max-height: calc(100vh - 112px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding-bottom: 12px;
+  scrollbar-width: thin;
+}
+.bin-group { display: flex; flex-direction: column; gap: 1px; }
+.bin-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 0;
+  background: none;
+  padding: 4px 8px;
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--g);
+  text-align: left;
+}
+.bin-head::before { content: ""; width: 8px; height: 8px; background: var(--g); border-radius: 1px; }
+.bin {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  border: 0;
+  background: none;
+  border-radius: 4px;
+  padding: 5px 8px 5px 24px;
+  text-align: left;
+  color: var(--muted);
+}
+.bin:hover { color: var(--fg); background: var(--panel); }
+.bin span:last-child { font-family: var(--mono); font-size: 11px; color: var(--faint); padding-top: 2px; }
+.bin[aria-pressed="true"], .bin-head[aria-pressed="true"] { background: var(--panel); color: var(--fg); box-shadow: inset 2px 0 0 var(--g, var(--accent)); }
+.bin-all { padding-left: 8px; font-weight: 600; color: var(--fg); --g: var(--accent); }
+.legend { color: var(--faint); font-size: 12px; line-height: 1.5; padding-inline: 8px; border-top: 1px solid var(--line); padding-top: 14px; }
+.legend p { margin: 0 0 8px; }
+
+.bin-strip { display: none; gap: 6px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+.bin-strip::-webkit-scrollbar { display: none; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: none;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: 999px;
+  padding: 4px 11px;
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.chip:hover { color: var(--fg); border-color: var(--faint); }
+.chip[aria-pressed="true"] { color: var(--fg); border-color: var(--g, var(--accent)); background: var(--raise); }
+.chip .dot { width: 7px; height: 7px; border-radius: 1px; background: var(--g); }
+.chip .n { font-family: var(--mono); font-size: 10px; color: var(--faint); }
+
+/* Filters */
+.main { min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; flex-wrap: wrap; }
+.seg button {
+  border: 0;
+  background: var(--panel);
+  padding: 6px 11px;
+  font-size: 13px;
+  color: var(--muted);
+  border-right: 1px solid var(--line);
+}
+.seg button:last-child { border-right: 0; }
+.seg button:hover { color: var(--fg); }
+.seg button[aria-pressed="true"] { background: var(--raise); color: var(--accent); }
+.check { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.check input { accent-color: var(--accent); width: 16px; height: 16px; }
+.select {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 6px 10px;
+  font-size: 13px;
+}
+.tech { display: flex; gap: 10px; align-items: baseline; min-width: 0; }
+.tech-label { flex: none; color: var(--faint); text-transform: uppercase; letter-spacing: 0.1em; font-size: 11px; }
+.tech-chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; min-width: 0; scrollbar-width: thin; }
+
+.status { display: flex; align-items: baseline; gap: 6px 16px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+.status h1 {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 44px);
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-wrap: balance;
+}
+.status .meta { color: var(--muted); }
+.status .spacer { flex: 1; }
+.linkbtn { border: 0; background: none; color: var(--accent); padding: 0; font-size: 13px; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Contact sheet */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 236px), 1fr));
+  gap: 26px 18px;
+}
+.card { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.thumb {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  padding: 0;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--raise);
+}
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.35s ease, filter 0.35s ease; }
+.thumb:hover img { transform: scale(1.04); filter: brightness(0.82); }
+.thumb::after { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.06); border-radius: inherit; }
+.tag {
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--scrim);
+  color: var(--on-scrim);
+  border-radius: 3px;
+  padding: 2px 7px;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.tag i { width: 7px; height: 7px; background: var(--g); border-radius: 1px; }
+.tc {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--scrim);
+  color: var(--on-scrim);
+  border-radius: 3px;
+  padding: 2px 7px;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+.pick { width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid currentColor; }
+.pick.hot { background: currentColor; }
+.play-ico {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  display: grid;
+  place-items: center;
+  opacity: 0;
+  transform: scale(0.85);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.thumb:hover .play-ico, .thumb:focus-visible .play-ico { opacity: 1; transform: scale(1); }
+.card-body { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.film {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 21px;
+  line-height: 1.05;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  overflow-wrap: anywhere;
+}
+.film .yr { font-family: var(--mono); font-weight: 400; font-size: 12px; color: var(--muted); letter-spacing: 0; margin-left: 4px; vertical-align: 2px; }
+.scene { margin: 2px 0 0; font-weight: 500; line-height: 1.35; overflow-wrap: anywhere; }
+.by { margin: 0; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.card-foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 6px; min-height: 28px; }
+.award { display: inline-flex; align-items: center; gap: 5px; color: var(--accent); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; min-width: 0; }
+.award span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.star {
+  flex: none;
+  margin-left: auto;
+  border: 1px solid var(--line);
+  background: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  color: var(--faint);
+}
+.star:hover { color: var(--fg); border-color: var(--faint); }
+.star[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); }
+.star[aria-pressed="true"] svg path { fill: currentColor; }
+.empty { border: 1px dashed var(--line); border-radius: var(--radius); padding: 40px 20px; text-align: center; color: var(--muted); }
+
+/* Viewer */
+dialog.viewer {
+  width: min(1320px, calc(100% - 24px));
+  max-height: calc(100% - 24px);
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  color: var(--fg);
+  overflow: auto;
+}
+dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur(3px); }
+.v-wrap { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); }
+.v-stage { background: #000; display: flex; flex-direction: column; min-width: 0; }
+.screen { position: relative; width: 100%; max-width: 100%; aspect-ratio: 16 / 9; background: #000; }
+.screen iframe, .screen > div { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.poster { display: block; text-decoration: none; color: var(--on-scrim); }
+.poster img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; display: block; }
+.poster .cta {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+.poster .cta b {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-radius: 999px;
+  padding: 12px 22px;
+  font-weight: 600;
+}
+.poster .cta span { background: var(--scrim); border-radius: 4px; padding: 3px 8px; }
+.screen-msg {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px;
+  text-align: center;
+  background: #0a0c0f;
+  color: #ece7dd;
+}
+.screen-msg .row { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+.screen-msg .btn { background: #1c232c; border-color: #3a4350; color: #ece7dd; }
+.transport {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 12px 14px;
+  background: #0b0d10;
+  color: #ece7dd;
+}
+.transport .btn { background: #161b22; border-color: #2c3440; color: #ece7dd; padding: 6px 11px; font-size: 13px; }
+.transport .btn:hover { border-color: #6b7480; }
+.transport .btn[aria-pressed="true"] { border-color: #f0b24a; color: #f0b24a; }
+.transport .grow { flex: 1; }
+.transport .reel { font-family: var(--mono); font-size: 11px; color: #f0b24a; letter-spacing: 0.08em; }
+.timeline { padding: 4px 14px 14px; background: #0b0d10; color: #949ca8; }
+.timeline svg { display: block; width: 100%; height: 38px; }
+.timeline .tl-labels { display: flex; justify-content: space-between; gap: 8px; font-size: 11px; font-variant-numeric: tabular-nums; }
+.timeline .tl-labels b { color: #f0b24a; font-weight: 500; }
+
+.v-info { padding: 22px 24px 26px; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.v-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.v-tag { display: inline-flex; align-items: center; gap: 7px; color: var(--g); text-transform: uppercase; letter-spacing: 0.12em; font-size: 11px; }
+.v-tag i { width: 8px; height: 8px; background: var(--g); border-radius: 1px; }
+.v-close { border: 1px solid var(--line); background: none; border-radius: 50%; width: 34px; height: 34px; display: grid; place-items: center; flex: none; color: var(--muted); }
+.v-close:hover { color: var(--fg); border-color: var(--faint); }
+.v-title { margin: 0; font-size: 22px; line-height: 1.25; font-weight: 600; text-wrap: balance; }
+.v-film { margin: 0; font-family: var(--display); font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; letter-spacing: 0.02em; }
+.v-film .yr { font-family: var(--mono); font-size: 13px; font-weight: 400; color: var(--muted); margin-left: 6px; letter-spacing: 0; vertical-align: 4px; }
+.v-sub { margin: 0; color: var(--muted); }
+.v-sec h4 { margin: 0 0 6px; font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); }
+.v-sec p { margin: 0; max-width: 62ch; }
+.v-list { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 3px; }
+.v-list.awards li { color: var(--accent); }
+.v-list.awards li::before { content: "◆ "; font-size: 9px; vertical-align: 2px; }
+.v-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.v-src { color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
+.v-links { display: flex; gap: 8px; flex-wrap: wrap; }
+.v-links .btn { padding: 6px 12px; font-size: 13px; }
+
+.copybox { width: 100%; min-height: 140px; font-family: var(--mono); font-size: 12px; background: var(--panel); color: var(--fg); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px; }
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 20px);
+  transform: translateX(-50%);
+  background: var(--fg);
+  color: var(--bg);
+  border-radius: var(--radius);
+  padding: 8px 16px;
+  font-size: 13px;
+  z-index: 50;
+}
+
+@media (max-width: 980px) {
+  .v-wrap { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 860px) {
+  .app { grid-template-columns: minmax(0, 1fr); padding-top: 14px; }
+  .bins { display: none; }
+  .bin-strip { display: flex; }
+  .mark-name { font-size: 24px; }
+  .top-actions { width: 100%; }
+  .filters { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+  .filters::-webkit-scrollbar { display: none; }
+  .seg { flex-wrap: nowrap; flex: none; }
+  .seg button { white-space: nowrap; }
+  .check { flex: none; white-space: nowrap; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+</style>
+<!-- @head-end -->
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <a class="mark" href="#" id="home">
+      <span class="mark-name">Set-Piece <b>Vault</b></span>
+      <span class="mark-sub" id="markSub">Reference library</span>
+    </a>
+    <label class="search">
+      <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.6 3.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" fill="none"/></svg>
+      <span class="sr">Search scenes</span>
+      <input id="q" type="search" autocomplete="off" placeholder="Film, director, choreographer, technique, award…">
+      <kbd>/</kbd>
+    </label>
+    <div class="top-actions">
+      <button class="btn btn-primary" id="reelBtn" type="button">
+        <svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M2 1.2v9.6L10.4 6z" fill="currentColor"/></svg>
+        Play reel
+      </button>
+      <button class="btn" id="pullBtn" type="button" aria-pressed="false">
+        Pull list <span class="count" id="pullCount">0</span>
+      </button>
+    </div>
+  </div>
+</header>
+<div class="hint" id="hint" hidden><p></p></div>
+
+<div class="app">
+  <nav class="bins" id="bins" aria-label="Scene types"></nav>
+  <main class="main">
+    <div class="bin-strip" id="binStrip" aria-label="Scene types"></div>
+    <div class="filters">
+      <div class="seg" id="mediumSeg" role="group" aria-label="Medium"></div>
+      <div class="seg" id="eraSeg" role="group" aria-label="Era"></div>
+      <label class="check"><input type="checkbox" id="awardsOnly"> Award winners only</label>
+      <label class="check"><span class="sr">Sort</span>
+        <select class="select" id="sort">
+          <option value="curated">Sort: by scene type</option>
+          <option value="new">Sort: newest first</option>
+          <option value="old">Sort: oldest first</option>
+          <option value="az">Sort: film A–Z</option>
+          <option value="views">Sort: most watched clip</option>
+        </select>
+      </label>
+    </div>
+    <div class="tech">
+      <span class="tech-label mono">Technique</span>
+      <div class="tech-chips" id="techChips"></div>
+    </div>
+    <div class="status">
+      <h1 id="viewTitle">All scenes</h1>
+      <span class="meta mono" id="viewMeta"></span>
+      <span class="spacer"></span>
+      <button class="linkbtn" id="copyBtn" type="button" hidden>Copy pull list</button>
+      <button class="linkbtn" id="clearBtn" type="button" hidden>Clear filters</button>
+    </div>
+    <div id="copyWrap" hidden><textarea class="copybox" id="copyBox" readonly aria-label="Pull list text"></textarea></div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" hidden>No scenes match these filters. <button class="linkbtn" type="button" id="emptyClear">Clear filters</button></div>
+  </main>
+</div>
+
+<dialog class="viewer" id="viewer" aria-labelledby="vTitle">
+  <div class="v-wrap">
+    <div class="v-stage">
+      <div class="screen" id="screen"></div>
+      <div class="transport" id="transport">
+        <button class="btn" type="button" id="prevBtn" aria-label="Previous scene">◀ Prev</button>
+        <button class="btn" type="button" id="replayBtn" aria-label="Replay the 30-second window">⟲ Replay</button>
+        <button class="btn" type="button" id="loopBtn" aria-pressed="true">Loop</button>
+        <button class="btn" type="button" id="nudgeBack" aria-label="Move window 5 seconds earlier">−5s</button>
+        <button class="btn" type="button" id="nudgeFwd" aria-label="Move window 5 seconds later">+5s</button>
+        <span class="grow"></span>
+        <span class="reel" id="reelState"></span>
+        <button class="btn" type="button" id="nextBtn" aria-label="Next scene">Next ▶</button>
+      </div>
+      <div class="timeline" id="timeline"></div>
+    </div>
+    <div class="v-info" id="vInfo"></div>
+  </div>
+</dialog>
+<div class="toast" id="toast" hidden></div>
+
+<script src="data/scenes.js"></script><!-- @data -->
+<script>
+(() => {
+  "use strict";
+
+  const SCENES = (window.SCENE_DATA && window.SCENE_DATA.scenes) || [];
+  const THUMBS = window.SCENE_THUMBS || null;
+  const FILE_MODE = location.protocol === "file:";
+  const MODE = window.SL_MODE || (FILE_MODE ? "link" : "embed");
+  const CLIP = 30;
+
+  const GROUPS = [
+    { key: "fight", label: "Fight", color: "var(--fight)", cats: ["hand-to-hand", "blades", "gunfights", "boxing", "western"] },
+    { key: "pursuit", label: "Pursuit & Stunts", color: "var(--pursuit)", cats: ["car-chase", "foot-chase", "stunts"] },
+    { key: "war", label: "War", color: "var(--war)", cats: ["war-modern", "epic-battle", "aerial", "naval"] },
+    { key: "space", label: "Space", color: "var(--space)", cats: ["space-battle", "space-travel"] },
+    { key: "spectacle", label: "Spectacle", color: "var(--spectacle)", cats: ["vfx-destruction", "creature", "superhero", "animation"] },
+  ];
+  const CATS = {
+    "hand-to-hand": ["Hand-to-Hand & Martial Arts", "Hand-to-hand"],
+    "blades": ["Swords & Blades", "Blades"],
+    "gunfights": ["Gunfights & Shootouts", "Gunfight"],
+    "boxing": ["Boxing & Combat Sports", "Boxing"],
+    "western": ["Westerns & Showdowns", "Western"],
+    "car-chase": ["Vehicle Chases", "Vehicle chase"],
+    "foot-chase": ["Foot Chases & Parkour", "Foot chase"],
+    "stunts": ["Practical Stunts", "Stunt"],
+    "war-modern": ["Modern War", "Modern war"],
+    "epic-battle": ["Epic Battles", "Epic battle"],
+    "aerial": ["Aerial Combat", "Aerial"],
+    "naval": ["Naval & Submarine", "Naval"],
+    "space-battle": ["Space Battles", "Space battle"],
+    "space-travel": ["Space Travel & Cosmic", "Space travel"],
+    "vfx-destruction": ["VFX Spectacle & Disaster", "VFX"],
+    "creature": ["Creatures, Kaiju & Mechs", "Creature"],
+    "superhero": ["Superhero", "Superhero"],
+    "animation": ["Anime & Animation", "Animation"],
+  };
+  const CAT_ORDER = GROUPS.flatMap((g) => g.cats);
+  const GROUP_OF = {};
+  GROUPS.forEach((g) => g.cats.forEach((c) => (GROUP_OF[c] = g)));
+  const MEDIUMS = [["", "All"], ["film", "Film"], ["series", "Series"], ["anime", "Anime"], ["animation", "Animation"]];
+  const ERAS = [["", "Any era"], ["classic", "≤1969"], ["1970", "70s"], ["1980", "80s"], ["1990", "90s"], ["2000", "00s"], ["2010", "10s"], ["2020", "20s"]];
+
+  const $ = (sel) => document.querySelector(sel);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fold = (s) => String(s ?? "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const clock = (sec) => {
+    sec = Math.max(0, Math.round(sec));
+    const h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60), s = sec % 60;
+    const mm = String(m).padStart(h ? 2 : 2, "0"), ss = String(s).padStart(2, "0");
+    return h ? `${h}:${mm}:${ss}` : `${mm}:${ss}`;
+  };
+  const eraOf = (y) => (y < 1970 ? "classic" : String(Math.floor(y / 10) * 10));
+  const thumbOf = (vid) => (THUMBS && THUMBS[vid]) || `https://i.ytimg.com/vi/${vid}/mqdefault.jpg`;
+  const watchUrl = (vid, t) => `https://www.youtube.com/watch?v=${vid}&t=${Math.max(0, Math.floor(t))}s`;
+  const searchUrl = (s) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${s.film} ${s.year} ${s.scene}`)}`;
+  const awardOrg = (a) => a.split(":")[0].trim();
+
+  SCENES.forEach((s, i) => {
+    s.order = CAT_ORDER.indexOf(s.category) * 10000 + i;
+    s.hay = fold([s.film, s.scene, s.year, s.director, s.country, s.medium, (s.craft || []).join(" "),
+      (s.accolades || []).join(" "), (s.techniques || []).join(" "), s.why, CATS[s.category]?.[0]].join(" "));
+  });
+  const BY_ID = Object.fromEntries(SCENES.map((s) => [s.id, s]));
+
+  /* Per-viewer conveniences only: the pull list and nothing else. */
+  const store = {
+    get() { try { return JSON.parse(localStorage.getItem("spv-pull") || "[]"); } catch { return []; } },
+    set(v) { try { localStorage.setItem("spv-pull", JSON.stringify(v)); } catch { /* storage unavailable */ } },
+  };
+  let pull = new Set(store.get().filter((id) => BY_ID[id]));
+
+  const state = { bin: "", medium: "", era: "", tech: new Set(), q: "", awards: false, pullOnly: false, sort: "curated" };
+  let list = [];
+
+  /* ---------- Filters ---------- */
+  function matches(s) {
+    if (state.bin.startsWith("g:") && GROUP_OF[s.category]?.key !== state.bin.slice(2)) return false;
+    if (state.bin.startsWith("c:") && s.category !== state.bin.slice(2)) return false;
+    if (state.medium && s.medium !== state.medium) return false;
+    if (state.era && eraOf(s.year) !== state.era) return false;
+    if (state.awards && !(s.accolades || []).length) return false;
+    if (state.pullOnly && !pull.has(s.id)) return false;
+    for (const t of state.tech) if (!(s.techniques || []).includes(t)) return false;
+    if (state.q) {
+      for (const w of fold(state.q).split(/\s+/).filter(Boolean)) if (!s.hay.includes(w)) return false;
+    }
+    return true;
+  }
+  const SORTS = {
+    curated: (a, b) => a.order - b.order,
+    new: (a, b) => b.year - a.year || a.order - b.order,
+    old: (a, b) => a.year - b.year || a.order - b.order,
+    az: (a, b) => a.film.localeCompare(b.film) || a.year - b.year,
+    views: (a, b) => (b.views || 0) - (a.views || 0),
+  };
+
+  function counts(exceptBin) {
+    const c = {};
+    const saved = state.bin;
+    if (exceptBin) state.bin = "";
+    SCENES.forEach((s) => { if (matches(s)) c[s.category] = (c[s.category] || 0) + 1; });
+    state.bin = saved;
+    return c;
+  }
+
+  /* ---------- Rendering ---------- */
+  function renderBins() {
+    const c = counts(true);
+    const total = Object.values(c).reduce((a, b) => a + b, 0);
+    const pressed = (v) => `aria-pressed="${state.bin === v}"`;
+    let html = `<button class="bin bin-all" type="button" data-bin="" ${pressed("")}><span>All scenes</span><span>${total}</span></button>`;
+    for (const g of GROUPS) {
+      const gTotal = g.cats.reduce((a, k) => a + (c[k] || 0), 0);
+      html += `<div class="bin-group" style="--g:${g.color}">
+        <button class="bin-head" type="button" data-bin="g:${g.key}" ${pressed("g:" + g.key)}>${esc(g.label)} · ${gTotal}</button>`;
+      for (const k of g.cats) {
+        html += `<button class="bin" type="button" data-bin="c:${k}" ${pressed("c:" + k)}><span>${esc(CATS[k][0])}</span><span>${c[k] || 0}</span></button>`;
+      }
+      html += `</div>`;
+    }
+    html += `<div class="legend"><p><span class="pick hot" style="display:inline-block;vertical-align:-1px"></span> Window cut at the clip's most-replayed 30 seconds.</p>
+      <p><span class="pick" style="display:inline-block;vertical-align:-1px"></span> Estimated window. Nudge it in the viewer.</p></div>`;
+    $("#bins").innerHTML = html;
+
+    let strip = `<button class="chip" type="button" data-bin="" ${pressed("")} style="--g:var(--accent)">All <span class="n">${total}</span></button>`;
+    for (const g of GROUPS) for (const k of g.cats) {
+      strip += `<button class="chip" type="button" data-bin="c:${k}" ${pressed("c:" + k)} style="--g:${g.color}"><span class="dot"></span>${esc(CATS[k][0])} <span class="n">${c[k] || 0}</span></button>`;
+    }
+    $("#binStrip").innerHTML = strip;
+  }
+
+  function renderSegs() {
+    $("#mediumSeg").innerHTML = MEDIUMS.map(([v, l]) => `<button type="button" data-medium="${v}" aria-pressed="${state.medium === v}">${l}</button>`).join("");
+    $("#eraSeg").innerHTML = ERAS.map(([v, l]) => `<button type="button" data-era="${v}" aria-pressed="${state.era === v}">${l}</button>`).join("");
+  }
+
+  const TECH_TOP = (() => {
+    const f = {};
+    SCENES.forEach((s) => (s.techniques || []).forEach((t) => (f[t] = (f[t] || 0) + 1)));
+    return Object.entries(f).filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).slice(0, 36).map(([t, n]) => [t, n]);
+  })();
+  /* Counts follow the current filters; techniques with no scenes in this view are hidden. */
+  function renderTech() {
+    const saved = state.tech;
+    const countWith = (t) => {
+      state.tech = new Set([...saved, t]);
+      let n = 0;
+      for (const s of SCENES) if (matches(s)) n++;
+      return n;
+    };
+    const shown = new Set(TECH_TOP.map(([t]) => t));
+    const chips = [...[...saved].filter((t) => !shown.has(t)), ...TECH_TOP.map(([t]) => t)]
+      .map((t) => [t, countWith(t)])
+      .filter(([t, n]) => n > 0 || saved.has(t));
+    state.tech = saved;
+    $("#techChips").innerHTML = chips.map(([t, n]) =>
+      `<button class="chip" type="button" data-tech="${esc(t)}" aria-pressed="${saved.has(t)}">${esc(t)} <span class="n">${n}</span></button>`).join("");
+  }
+
+  const STAR = `<svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M7 1.2l1.75 3.6 3.95.55-2.87 2.77.7 3.93L7 10.2l-3.53 1.85.7-3.93L1.3 5.35l3.95-.55z" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round"/></svg>`;
+  const LAUREL = `<svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1.5l1.3 2.7 3 .4-2.2 2.1.5 3L6 8.3 3.4 9.7l.5-3L1.7 4.6l3-.4z" fill="currentColor"/></svg>`;
+  const PLAY = `<svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M5 3v12l10-6z" fill="currentColor"/></svg>`;
+
+  function cardHtml(s) {
+    const g = GROUP_OF[s.category];
+    const acc = s.accolades || [];
+    const orgs = [...new Set(acc.map(awardOrg))];
+    const oscars = acc.filter((a) => /^oscar/i.test(a)).length;
+    const awardText = oscars ? `${oscars} Oscar${oscars > 1 ? "s" : ""}${orgs.length > 1 ? ` + ${orgs.length - 1} more` : ""}` : orgs.length ? orgs[0] + (orgs.length > 1 ? ` + ${orgs.length - 1}` : "") : "";
+    return `<article class="card" style="--g:${g.color}">
+      <button class="thumb" type="button" data-open="${esc(s.id)}" aria-label="Play 30 seconds: ${esc(s.scene)}, ${esc(s.film)}">
+        <img loading="lazy" decoding="async" src="${esc(thumbOf(s.video))}" alt="">
+        <span class="tag mono"><i></i>${esc(CATS[s.category][1])}</span>
+        <span class="tc mono"><span class="pick${s.pick === "most-replayed" ? " hot" : ""}" title="${s.pick === "most-replayed" ? "Most-replayed window" : "Estimated window"}"></span>${clock(s.start)}–${clock(s.end)}</span>
+        <span class="play-ico">${PLAY}</span>
+      </button>
+      <div class="card-body">
+        <h2 class="film">${esc(s.film)}<span class="yr">${s.year}</span></h2>
+        <p class="scene">${esc(s.scene)}</p>
+        <p class="by">${esc(s.director)}${s.country ? " · " + esc(s.country) : ""}</p>
+        <div class="card-foot">
+          ${awardText ? `<span class="award mono" title="${esc(acc.join("\n"))}">${LAUREL}<span>${esc(awardText)}</span></span>` : ""}
+          <button class="star" type="button" data-star="${esc(s.id)}" aria-pressed="${pull.has(s.id)}" aria-label="Add to pull list">${STAR}</button>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function viewLabel() {
+    const parts = [];
+    if (state.pullOnly) parts.push("Pull list");
+    else if (state.bin.startsWith("c:")) parts.push(CATS[state.bin.slice(2)][0]);
+    else if (state.bin.startsWith("g:")) parts.push(GROUPS.find((g) => g.key === state.bin.slice(2)).label);
+    else parts.push("All scenes");
+    return parts[0];
+  }
+
+  function render() {
+    list = SCENES.filter(matches).sort(SORTS[state.sort]);
+    renderBins();
+    renderSegs();
+    renderTech();
+    $("#grid").innerHTML = list.map(cardHtml).join("");
+    $("#empty").hidden = list.length > 0;
+    $("#viewTitle").textContent = viewLabel();
+    $("#viewMeta").textContent = `${list.length} clip${list.length === 1 ? "" : "s"} · ${clock(list.length * CLIP)} of reference`;
+    const filtered = state.bin || state.medium || state.era || state.tech.size || state.q || state.awards || state.pullOnly;
+    $("#clearBtn").hidden = !filtered;
+    $("#copyBtn").hidden = !(state.pullOnly && list.length);
+    if (!state.pullOnly) $("#copyWrap").hidden = true;
+    $("#pullCount").textContent = pull.size;
+    $("#pullBtn").setAttribute("aria-pressed", state.pullOnly);
+    $("#reelBtn").disabled = !list.length;
+  }
+
+  function clearFilters() {
+    Object.assign(state, { bin: "", medium: "", era: "", q: "", awards: false, pullOnly: false });
+    state.tech.clear();
+    $("#q").value = "";
+    $("#awardsOnly").checked = false;
+    render();
+  }
+
+  /* ---------- Events: library ---------- */
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest("[data-bin],[data-medium],[data-era],[data-tech],[data-open],[data-star]");
+    if (!t) return;
+    if (t.dataset.star !== undefined) {
+      togglePull(t.dataset.star);
+      return;
+    }
+    if (t.dataset.open !== undefined) { openScene(t.dataset.open, { reel: false }); return; }
+    if (t.dataset.bin !== undefined) { state.bin = t.dataset.bin; state.pullOnly = false; }
+    if (t.dataset.medium !== undefined) state.medium = t.dataset.medium;
+    if (t.dataset.era !== undefined) state.era = t.dataset.era;
+    if (t.dataset.tech !== undefined) {
+      const k = t.dataset.tech;
+      if (t.closest("#vInfo")) { state.tech = new Set([k]); closeViewer(); }
+      else state.tech.has(k) ? state.tech.delete(k) : state.tech.add(k);
+    }
+    render();
+  });
+
+  function togglePull(id) {
+    pull.has(id) ? pull.delete(id) : pull.add(id);
+    store.set([...pull]);
+    document.querySelectorAll(`[data-star="${CSS.escape(id)}"]`).forEach((b) => b.setAttribute("aria-pressed", pull.has(id)));
+    $("#pullCount").textContent = pull.size;
+    if (state.pullOnly) render();
+  }
+
+  let qTimer;
+  $("#q").addEventListener("input", (e) => {
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 120);
+  });
+  $("#awardsOnly").addEventListener("change", (e) => { state.awards = e.target.checked; render(); });
+  $("#sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+  $("#pullBtn").addEventListener("click", () => { state.pullOnly = !state.pullOnly; render(); });
+  $("#clearBtn").addEventListener("click", clearFilters);
+  $("#emptyClear").addEventListener("click", clearFilters);
+  $("#home").addEventListener("click", (e) => { e.preventDefault(); clearFilters(); window.scrollTo({ top: 0 }); });
+  $("#reelBtn").addEventListener("click", () => { if (list.length) openScene(list[0].id, { reel: true }); });
+  $("#copyBtn").addEventListener("click", async () => {
+    const text = list.map((s) => `${s.film} (${s.year}) — ${s.scene} — https://youtu.be/${s.video}?t=${s.start}  [${s.id}]`).join("\n");
+    try {
+      await navigator.clipboard.writeText(text);
+      toast(`Copied ${list.length} scene${list.length === 1 ? "" : "s"}`);
+    } catch {
+      $("#copyWrap").hidden = false;
+      $("#copyBox").value = text;
+      $("#copyBox").select();
+    }
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== $("#q") && !$("#viewer").open) {
+      e.preventDefault();
+      $("#q").focus();
+    }
+  });
+
+  let toastTimer;
+  function toast(msg) {
+    const el = $("#toast");
+    el.textContent = msg;
+    el.hidden = false;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => (el.hidden = true), 1800);
+  }
+
+  /* ---------- Viewer ---------- */
+  const viewer = $("#viewer");
+  const V = { scene: null, video: null, start: 0, end: 0, loop: true, reel: false, player: null, ticker: null };
+
+  let ytReady = null;
+  function loadYT() {
+    if (ytReady) return ytReady;
+    ytReady = new Promise((resolve) => {
+      if (window.YT && window.YT.Player) return resolve();
+      const prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => { prev && prev(); resolve(); };
+      const s = document.createElement("script");
+      s.src = "https://www.youtube.com/iframe_api";
+      document.head.appendChild(s);
+    });
+    return ytReady;
+  }
+
+  function openScene(id, opts = {}) {
+    const s = BY_ID[id];
+    if (!s) return;
+    if (opts.reel !== undefined) V.reel = opts.reel;
+    V.scene = s;
+    V.video = s.video;
+    V.start = s.start;
+    V.end = s.end;
+    V.duration = s.duration;
+    if (!viewer.open) viewer.showModal();
+    try { history.replaceState(null, "", "#" + s.id); } catch { /* sandboxed */ }
+    renderInfo();
+    renderTimeline();
+    renderTransport();
+    loadScreen();
+  }
+
+  function closeViewer() {
+    if (viewer.open) viewer.close();
+  }
+  viewer.addEventListener("close", () => {
+    stopTicker();
+    if (V.player && V.player.destroy) { try { V.player.destroy(); } catch { /* already gone */ } }
+    V.player = null;
+    V.reel = false;
+    $("#screen").innerHTML = "";
+    try { history.replaceState(null, "", location.pathname + location.search); } catch { /* sandboxed */ }
+  });
+  viewer.addEventListener("click", (e) => { if (e.target === viewer) closeViewer(); });
+
+  function step(dir) {
+    if (!list.length || !V.scene) return;
+    let i = list.findIndex((s) => s.id === V.scene.id);
+    i = i < 0 ? 0 : (i + dir + list.length) % list.length;
+    openScene(list[i].id);
+  }
+
+  function renderTransport() {
+    const embed = MODE === "embed";
+    ["#replayBtn", "#loopBtn"].forEach((sel) => ($(sel).hidden = !embed));
+    ["#nudgeBack", "#nudgeFwd"].forEach((sel) => ($(sel).hidden = false));
+    $("#loopBtn").setAttribute("aria-pressed", V.loop && !V.reel);
+    $("#loopBtn").disabled = V.reel;
+    const i = list.findIndex((s) => s.id === V.scene.id);
+    $("#reelState").textContent = V.reel ? `REEL ${i + 1} / ${list.length}` : i >= 0 ? `${i + 1} / ${list.length}` : "";
+  }
+
+  function loadScreen() {
+    const s = V.scene;
+    const screen = $("#screen");
+    if (MODE !== "embed") {
+      screen.innerHTML = `<a class="poster" href="${esc(watchUrl(V.video, V.start))}" target="_blank" rel="noopener">
+        <img src="${esc(thumbOf(V.video))}" alt="">
+        <span class="cta"><b>${PLAY} Play on YouTube from ${clock(V.start)}</b><span class="mono">Watch to ${clock(V.end)} · 30 s window</span></span></a>`;
+      return;
+    }
+    stopTicker();
+    const vars = { start: V.start, end: V.end, autoplay: 1, rel: 0, playsinline: 1, modestbranding: 1, iv_load_policy: 3 };
+    if (V.player && V.player.loadVideoById) {
+      screen.querySelector(".screen-msg")?.remove();
+      V.player.loadVideoById({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
+      startTicker();
+      return;
+    }
+    screen.innerHTML = `<div id="ytHost"></div>`;
+    loadYT().then(() => {
+      if (!viewer.open || V.scene !== s) return;
+      V.player = new YT.Player("ytHost", {
+        videoId: V.video,
+        host: "https://www.youtube-nocookie.com",
+        playerVars: { ...vars, origin: location.origin },
+        events: {
+          onReady: () => startTicker(),
+          onStateChange: (e) => {
+            if (e.data === YT.PlayerState.ENDED) {
+              if (V.reel) step(1);
+              else if (V.loop) V.player.loadVideoById({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
+            }
+          },
+          onError: (e) => showPlayerError(e.data),
+        },
+      });
+    });
+  }
+
+  function showPlayerError(code) {
+    const s = V.scene;
+    const why = code === 100 ? "This upload was removed from YouTube." : code === 101 || code === 150 ? "The uploader doesn't allow this clip to play outside YouTube." : code === 153 ? "YouTube refused the embed. Open this page through a web server rather than as a file." : "YouTube couldn't play this clip here.";
+    const alts = (s.alts || []).filter((a) => a.id !== V.video);
+    const msg = document.createElement("div");
+    msg.className = "screen-msg";
+    msg.innerHTML = `<p>${esc(why)}</p><div class="row">
+      ${alts.map((a, i) => `<button class="btn" type="button" data-alt="${i}">Try another upload${a.channel ? " (" + esc(a.channel) + ")" : ""}</button>`).join("")}
+      <a class="btn" href="${esc(watchUrl(V.video, V.start))}" target="_blank" rel="noopener">Open on YouTube</a>
+      <a class="btn" href="${esc(searchUrl(s))}" target="_blank" rel="noopener">Search YouTube</a></div>`;
+    msg.addEventListener("click", (e) => {
+      const b = e.target.closest("[data-alt]");
+      if (!b) return;
+      const a = alts[+b.dataset.alt];
+      V.video = a.id; V.start = a.start || 0; V.end = V.start + CLIP; V.duration = 0;
+      msg.remove();
+      renderTimeline();
+      V.player.loadVideoById({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
+    });
+    $("#screen").appendChild(msg);
+    if (V.reel) setTimeout(() => { if (V.reel && V.scene === s) step(1); }, 2500);
+  }
+
+  function startTicker() {
+    stopTicker();
+    V.ticker = setInterval(() => {
+      if (!V.player || !V.player.getCurrentTime) return;
+      const t = V.player.getCurrentTime();
+      const d = V.duration || V.player.getDuration?.() || 0;
+      const head = document.getElementById("playhead");
+      if (head && d) { head.setAttribute("x1", (t / d) * 1000); head.setAttribute("x2", (t / d) * 1000); }
+    }, 250);
+  }
+  function stopTicker() { clearInterval(V.ticker); V.ticker = null; }
+
+  function renderTimeline() {
+    const s = V.scene;
+    const d = V.duration || s.duration || V.end;
+    const heat = V.video === s.video ? s.heat || "" : "";
+    const W = 1000, H = 38, base = 34;
+    let area = "";
+    if (heat && d) {
+      const n = heat.length;
+      const pts = [...heat].map((c, i) => `${((i + 0.5) / n) * W},${base - (+c / 9) * 26}`);
+      area = `<path d="M0,${base} L${pts.join(" L")} L${W},${base} Z" fill="currentColor" opacity="0.28"/>
+              <path d="M${pts.join(" L")}" fill="none" stroke="currentColor" stroke-width="1.5" opacity="0.7"/>`;
+    }
+    const x0 = d ? (V.start / d) * W : 0, x1 = d ? (Math.min(V.end, d) / d) * W : W;
+    $("#timeline").innerHTML = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true">
+        <line x1="0" x2="${W}" y1="${base}" y2="${base}" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+        ${area}
+        <rect x="${x0}" y="2" width="${Math.max(4, x1 - x0)}" height="${base - 2}" fill="#f0b24a" opacity="0.22"/>
+        <rect x="${x0}" y="${base - 1}" width="${Math.max(4, x1 - x0)}" height="3" fill="#f0b24a"/>
+        <line id="playhead" x1="-10" x2="-10" y1="0" y2="${H}" stroke="#ece7dd" stroke-width="2" vector-effect="non-scaling-stroke"/>
+      </svg>
+      <div class="tl-labels mono"><span>00:00</span><span><b>${clock(V.start)}–${clock(V.end)}</b> ${heat ? "most-replayed window" : V.video === s.video && s.pick === "pinned" ? "hand-picked window" : "estimated window"}</span><span>${d ? clock(d) : ""}</span></div>`;
+  }
+
+  function renderInfo() {
+    const s = V.scene;
+    const g = GROUP_OF[s.category];
+    const mediumLabel = { film: "Film", series: "Series", anime: "Anime", animation: "Animation" }[s.medium] || "";
+    const sec = (title, body) => (body ? `<div class="v-sec"><h4>${title}</h4>${body}</div>` : "");
+    $("#vInfo").innerHTML = `
+      <div class="v-top" style="--g:${g.color}">
+        <span class="v-tag mono"><i></i>${esc(g.label)} / ${esc(CATS[s.category][0])}</span>
+        <button class="v-close" type="button" id="vClose" aria-label="Close viewer">✕</button>
+      </div>
+      <div>
+        <p class="v-film">${esc(s.film)}<span class="yr">${s.year}</span></p>
+        <h2 class="v-title" id="vTitle">${esc(s.scene)}</h2>
+        <p class="v-sub">${esc([mediumLabel, s.country, s.director && "Dir. " + s.director].filter(Boolean).join(" · "))}</p>
+      </div>
+      ${sec("What to study", s.why ? `<p>${esc(s.why)}</p>` : "")}
+      ${sec("Awards", (s.accolades || []).length ? `<ul class="v-list awards">${s.accolades.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
+      ${sec("Key crew", (s.craft || []).length ? `<ul class="v-list">${s.craft.map((a) => `<li>${esc(a)}</li>`).join("")}</ul>` : "")}
+      ${sec("Technique", (s.techniques || []).length ? `<div class="v-chips">${s.techniques.map((t) => `<button class="chip" type="button" data-tech="${esc(t)}">${esc(t)}</button>`).join("")}</div>` : "")}
+      <div class="v-links">
+        <button class="btn" type="button" data-star="${esc(s.id)}" aria-pressed="${pull.has(s.id)}">${STAR} Pull list</button>
+        <a class="btn" href="${esc(watchUrl(s.video, s.start))}" target="_blank" rel="noopener">Open on YouTube ↗</a>
+        <a class="btn" href="${esc(searchUrl(s))}" target="_blank" rel="noopener">Find other uploads ↗</a>
+      </div>
+      <p class="v-src">Clip source: “${esc(s.title)}” · ${esc(s.channel)}${s.views ? ` · ${Number(s.views).toLocaleString("en-US")} views` : ""}</p>`;
+    $("#vClose").addEventListener("click", closeViewer);
+  }
+
+  $("#prevBtn").addEventListener("click", () => step(-1));
+  $("#nextBtn").addEventListener("click", () => step(1));
+  $("#replayBtn").addEventListener("click", () => {
+    V.player?.loadVideoById?.({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
+  });
+  $("#loopBtn").addEventListener("click", () => { V.loop = !V.loop; renderTransport(); });
+  function nudge(by) {
+    const max = Math.max(0, (V.duration || V.end) - CLIP);
+    V.start = Math.min(max, Math.max(0, V.start + by));
+    V.end = V.start + CLIP;
+    renderTimeline();
+    if (MODE === "embed") V.player?.loadVideoById?.({ videoId: V.video, startSeconds: V.start, endSeconds: V.end });
+    else loadScreen();
+  }
+  $("#nudgeBack").addEventListener("click", () => nudge(-5));
+  $("#nudgeFwd").addEventListener("click", () => nudge(5));
+  viewer.addEventListener("keydown", (e) => {
+    if (e.target.closest("input,select,textarea")) return;
+    if (e.key === "ArrowRight") { e.preventDefault(); step(1); }
+    else if (e.key === "ArrowLeft") { e.preventDefault(); step(-1); }
+    else if (e.key === "r" && MODE === "embed") $("#replayBtn").click();
+    else if (e.key === "s") togglePull(V.scene.id);
+  });
+
+  /* ---------- Boot ---------- */
+  const total = SCENES.length;
+  $("#markSub").textContent = `${total} scenes · ${clock(total * CLIP)} of 30-second reference`;
+  if (MODE !== "embed") {
+    $("#reelBtn").hidden = true;
+    if (FILE_MODE && !window.SL_MODE) {
+      $("#hint").hidden = false;
+      $("#hint p").innerHTML = `Clips open on YouTube because this page was opened as a file. For the built-in 30-second looping player and the reel, run <code>./serve.sh</code> in the <code>scene-library</code> folder and open <code>http://localhost:8000</code>.`;
+    }
+  }
+  render();
+  const start = decodeURIComponent(location.hash.slice(1));
+  if (BY_ID[start]) openScene(start);
+})();
+</script>
+<!-- @artifact-end -->
+</body>
+</html>

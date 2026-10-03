@@ -1,0 +1,2083 @@
+[
+  {
+    "film": "Bullitt",
+    "year": 1968,
+    "scene": "Mustang vs. Charger chase over the San Francisco hills",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Peter Yates",
+    "craft": [
+      "Editor: Frank P. Keller",
+      "DP: William A. Fraker",
+      "Composer: Lalo Schifrin"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "practical stunts",
+      "sound design",
+      "pov"
+    ],
+    "why": "No score once the chase starts: only engines, tyre squeal and gear changes. In-car mounts put the viewer behind the wheel while real hills give genuine airborne bounces. The template for realistic chase geography and sound.",
+    "query": "Bullitt San Francisco car chase scene"
+  },
+  {
+    "film": "The French Connection",
+    "year": 1971,
+    "scene": "Car vs. elevated train chase under the Brooklyn El",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "William Friedkin",
+    "craft": [
+      "Editor: Gerald B. Greenberg",
+      "DP: Owen Roizman",
+      "Stunt driver: Bill Hickman"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Actor",
+      "Oscar: Best Adapted Screenplay",
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "pov",
+      "cross-cutting",
+      "handheld"
+    ],
+    "why": "Shot amid real Brooklyn traffic with a bumper-mounted camera at speed. Cross-cutting the car against the runaway train builds pressure; study how low pov shots and genuine near-misses sell danger no set could.",
+    "query": "The French Connection car chase train scene"
+  },
+  {
+    "film": "Ronin",
+    "year": 1998,
+    "scene": "Paris finale chase — wrong-way through the tunnels",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "John Frankenheimer",
+    "craft": [
+      "DP: Robert Fraisse",
+      "Editor: Antony Gibbs"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "practical stunts",
+      "sound design"
+    ],
+    "why": "Frankenheimer put actors in right-hand-drive cars with stunt drivers at the hidden wheel and ran real Paris streets against oncoming traffic. Bumper-level angles, minimal music and raw engine audio make speed feel physical rather than edited.",
+    "query": "Ronin Paris car chase scene"
+  },
+  {
+    "film": "Mad Max: Fury Road",
+    "year": 2015,
+    "scene": "War Rig drives into the sandstorm",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Australia/USA",
+    "director": "George Miller",
+    "craft": [
+      "Stunt coordinator: Guy Norris",
+      "DP: John Seale",
+      "Editor: Margaret Sixel",
+      "Composer: Junkie XL"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Production Design",
+      "Oscar: Best Costume Design",
+      "Oscar: Best Makeup and Hairstyling",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "cgi",
+      "center framing",
+      "desert"
+    ],
+    "why": "Escalates a chase through environment: practical vehicle stunts composited into a CG storm of flaming tornadoes. Center framing keeps rapid cuts instantly readable, and Nux's 'What a lovely day!' gives the chaos an emotional spine.",
+    "query": "Mad Max Fury Road sandstorm scene"
+  },
+  {
+    "film": "Mad Max: Fury Road",
+    "year": 2015,
+    "scene": "Polecats attack on the return run to the Citadel",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Australia/USA",
+    "director": "George Miller",
+    "craft": [
+      "Stunt coordinator: Guy Norris",
+      "DP: John Seale",
+      "Editor: Margaret Sixel"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Production Design",
+      "Oscar: Best Costume Design",
+      "Oscar: Best Makeup and Hairstyling",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "center framing",
+      "undercranking",
+      "desert"
+    ],
+    "why": "Performers swing on real flexible poles between moving vehicles. Center framing and selectively undercranked shots keep hundreds of cuts legible, while the climax braids every character arc into one continuous direction of travel.",
+    "query": "Mad Max Fury Road polecats final chase scene"
+  },
+  {
+    "film": "Mad Max 2: The Road Warrior",
+    "year": 1981,
+    "scene": "Final tanker chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Australia",
+    "director": "George Miller",
+    "craft": [
+      "DP: Dean Semler",
+      "Composer: Brian May"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "desert",
+      "real location"
+    ],
+    "why": "A near-wordless run of escalating attacks staged on real outback highways. Low wide-angle positions and genuine crashes put the camera inside the danger; this sequence defined the post-apocalyptic chase grammar Fury Road later refined.",
+    "query": "Mad Max 2 Road Warrior tanker chase scene"
+  },
+  {
+    "film": "Furiosa: A Mad Max Saga",
+    "year": 2024,
+    "scene": "War Rig run with Praetorian Jack — the Octoboss ambush",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Australia/USA",
+    "director": "George Miller",
+    "craft": [
+      "DP: Simon Duggan",
+      "Editors: Eliot Knapman, Margaret Sixel",
+      "Composer: Tom Holkenborg"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "cgi",
+      "desert"
+    ],
+    "why": "One extended set-piece built like a siege on wheels: attackers from the air, the sand and behind, each phase adding new rules. Study how Miller maps geography along the War Rig's length so you always know who is where.",
+    "query": "Furiosa war rig chase scene Praetorian Jack"
+  },
+  {
+    "film": "Baby Driver",
+    "year": 2017,
+    "scene": "Opening getaway to 'Bellbottoms'",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Edgar Wright",
+    "craft": [
+      "Editors: Paul Machliss, Jonathan Amos",
+      "DP: Bill Pope"
+    ],
+    "accolades": [
+      "BAFTA: Best Editing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "score-driven",
+      "sound design",
+      "real location"
+    ],
+    "why": "Every gear change, siren and swerve is cut to the song. Wright planned the chase to the track's beats, and practical Subaru driving on real Atlanta streets lets the edit dance without losing spatial clarity — music-locked action at its best.",
+    "query": "Baby Driver opening car chase Bellbottoms scene"
+  },
+  {
+    "film": "Drive",
+    "year": 2011,
+    "scene": "Opening getaway — hiding from the police",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Nicolas Winding Refn",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Editor: Matthew Newman",
+      "Composer: Cliff Martinez"
+    ],
+    "accolades": [
+      "Cannes: Best Director"
+    ],
+    "techniques": [
+      "night",
+      "sound design",
+      "pov",
+      "real location"
+    ],
+    "why": "A chase built on restraint: the camera rarely leaves the car, a police scanner and a basketball broadcast set the rhythm, and the Driver wins by hiding, not speeding. Study tension through silence, sound and patient framing.",
+    "query": "Drive 2011 opening getaway scene"
+  },
+  {
+    "film": "The Bourne Supremacy",
+    "year": 2004,
+    "scene": "Moscow taxi chase and tunnel crash",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Paul Greengrass",
+    "craft": [
+      "Second unit director: Dan Bradley",
+      "DP: Oliver Wood",
+      "Editors: Christopher Rouse, Richard Pearson"
+    ],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "shaky cam",
+      "vehicle stunts",
+      "real location"
+    ],
+    "why": "Cameras rigged inside the cars and a jagged editing rhythm make every impact land on the viewer. Real Moscow streets and brutal practical hits culminate in a tunnel crash that redefined the 2000s chase as visceral rather than balletic.",
+    "query": "Bourne Supremacy Moscow car chase scene"
+  },
+  {
+    "film": "The Bourne Identity",
+    "year": 2002,
+    "scene": "Paris Mini Cooper chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Doug Liman",
+    "craft": [
+      "DP: Oliver Wood",
+      "Editor: Saar Klein"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "practical stunts"
+    ],
+    "why": "An underpowered Mini makes the chase about ingenuity: down steps, against traffic, through narrow Paris streets. Clean geography and practical driving show how vehicle choice and driving style can express character.",
+    "query": "Bourne Identity Mini Cooper Paris chase scene"
+  },
+  {
+    "film": "The Matrix Reloaded",
+    "year": 2003,
+    "scene": "Freeway chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA/Australia",
+    "director": "The Wachowskis",
+    "craft": [
+      "DP: Bill Pope",
+      "Fight choreographer: Yuen Woo-ping",
+      "VFX supervisor: John Gaeta",
+      "Editor: Zach Staenberg"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "wire work",
+      "cgi"
+    ],
+    "why": "The production built its own stretch of freeway on a decommissioned naval base. Practical crashes, wire-rigged fights on truck roofs and CG Agents blend; note how the sequence keeps switching modes — car, motorcycle, truck-top fight — to stay fresh.",
+    "query": "Matrix Reloaded freeway chase scene"
+  },
+  {
+    "film": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "scene": "LA River canal chase — tow truck vs. dirt bike",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Cameron",
+    "craft": [
+      "DP: Adam Greenberg",
+      "Editors: Conrad Buff, Mark Goldblatt, Richard A. Harris",
+      "Composer: Brad Fiedel"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing",
+      "Oscar: Best Makeup"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "real location",
+      "score-driven"
+    ],
+    "why": "A real tow truck drops from an overpass into the concrete river channel. Low-angle cameras and Fiedel's pounding score drive a relentless pursuit, and the scale contrast between a kid's dirt bike and the truck builds pure dread.",
+    "query": "Terminator 2 canal truck chase scene"
+  },
+  {
+    "film": "To Live and Die in L.A.",
+    "year": 1985,
+    "scene": "Wrong-way freeway chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "William Friedkin",
+    "craft": [
+      "DP: Robby Müller",
+      "Composer: Wang Chung"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "practical stunts"
+    ],
+    "why": "The climax drives the wrong way into dense freeway traffic. Friedkin keeps the camera inside the car on the actors' faces, letting panic play in close-up while choreographed vehicles swerve around them in real space.",
+    "query": "To Live and Die in LA wrong way freeway chase scene"
+  },
+  {
+    "film": "Raiders of the Lost Ark",
+    "year": 1981,
+    "scene": "Truck chase — Indy under the truck",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "Stunt coordinator: Glenn Randall Jr.",
+      "Stunt performer: Terry Leonard",
+      "Editor: Michael Kahn",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound",
+      "Oscar: Best Art Direction"
+    ],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "desert",
+      "score-driven"
+    ],
+    "why": "The horse-to-truck transfer and under-the-truck drag (a nod to Yakima Canutt) were done practically. Study the clear left-to-right geography, the escalating obstacles and how Williams' score phrases each beat of the fight for the wheel.",
+    "query": "Raiders of the Lost Ark truck chase scene"
+  },
+  {
+    "film": "The Dark Knight",
+    "year": 2008,
+    "scene": "Armored convoy chase and truck flip",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Christopher Nolan",
+    "craft": [
+      "Special effects supervisor: Chris Corbould",
+      "DP: Wally Pfister",
+      "Editor: Lee Smith"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "imax",
+      "practical stunts",
+      "vehicle stunts",
+      "real location",
+      "night"
+    ],
+    "why": "Shot on IMAX in real Chicago streets and Lower Wacker Drive, the chase climaxes with an 18-wheeler flipped end-over-end for real. Study the cross-cutting between vehicles and how a tight underground setting keeps dense action readable.",
+    "query": "The Dark Knight truck chase flip scene"
+  },
+  {
+    "film": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "scene": "Paris motorcycle chase around the Arc de Triomphe",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Rob Hardy",
+      "Editor: Eddie Hamilton",
+      "Composer: Lorne Balfe"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "real location",
+      "tracking shot"
+    ],
+    "why": "Cruise rides helmetless against traffic around the Arc de Triomphe. Camera bikes and low tracking positions keep the star's face in frame, proving the stunt is real, while clear directional geography sustains tension.",
+    "query": "Mission Impossible Fallout Paris motorcycle chase scene"
+  },
+  {
+    "film": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "scene": "Helicopter chase through the Kashmir mountains",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Rob Hardy",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts",
+      "real location"
+    ],
+    "why": "Cruise trained to fly the helicopter himself, including a spiral dive, so cameras could hold on his face. Mountain air-to-air pursuit and cockpit-mounted cameras deliver an authenticity that CG cannot imitate.",
+    "query": "Mission Impossible Fallout helicopter chase scene"
+  },
+  {
+    "film": "Mission: Impossible – Dead Reckoning Part One",
+    "year": 2023,
+    "scene": "Rome Fiat 500 chase, handcuffed",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Fraser Taggart",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "practical stunts"
+    ],
+    "why": "Handcuffed to a co-star in a tiny yellow Fiat 500, Cruise turns the chase into physical comedy and character work. Note the use of real Roman streets and steps, and how vehicle size dictates both stakes and humor.",
+    "query": "Mission Impossible Dead Reckoning Rome Fiat chase scene"
+  },
+  {
+    "film": "Fast Five",
+    "year": 2011,
+    "scene": "Vault heist chase through Rio",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Justin Lin",
+    "craft": [
+      "DP: Stephen F. Windon",
+      "Composer: Brian Tyler"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "practical effects",
+      "real location"
+    ],
+    "why": "Two Chargers drag a bank vault through Rio, wrecking everything in its path. Study how an absurd but crystal-clear premise is sold with practical destruction, varied vehicle-mounted cameras and rhythmic intercutting between drivers.",
+    "query": "Fast Five vault chase scene"
+  },
+  {
+    "film": "Death Proof",
+    "year": 2007,
+    "scene": "Zoë Bell on the hood — 'Ship's Mast' chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Quentin Tarantino",
+    "craft": [
+      "Stunt performer: Zoë Bell",
+      "DP: Quentin Tarantino"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "real location"
+    ],
+    "why": "Stuntwoman Zoë Bell plays herself, clinging to the hood of a speeding Challenger as a Charger rams it on real country roads. No CG: the camera stays wide enough that you know the danger is real.",
+    "query": "Death Proof Zoe Bell hood car chase scene"
+  },
+  {
+    "film": "The Blues Brothers",
+    "year": 1980,
+    "scene": "Dixie Square Mall chase",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Landis",
+    "craft": [
+      "DP: Stephen M. Katz",
+      "Editor: George Folsey Jr."
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "real location"
+    ],
+    "why": "A police chase through a real abandoned mall dressed with working storefronts. Cars crash through shops while deadpan dialogue carries on — a lesson in pairing large-scale practical destruction with comic timing.",
+    "query": "Blues Brothers mall chase scene"
+  },
+  {
+    "film": "Ben-Hur",
+    "year": 1959,
+    "scene": "Chariot race",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "William Wyler",
+    "craft": [
+      "Second unit directors: Andrew Marton, Yakima Canutt",
+      "DP: Robert L. Surtees",
+      "Composer: Miklós Rózsa"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Special Effects"
+    ],
+    "techniques": [
+      "practical stunts",
+      "tracking shot",
+      "sound design",
+      "cross-cutting"
+    ],
+    "why": "The race plays without score — just hooves, wheels and crowd. Canutt and Marton's second unit staged it on a vast arena set; study the track-level tracking shots, real chariot crashes and an edit that keeps rivals readable for minutes.",
+    "query": "Ben-Hur chariot race scene"
+  },
+  {
+    "film": "Rush",
+    "year": 2013,
+    "scene": "1976 Japanese Grand Prix in the rain at Fuji",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "UK/Germany/USA",
+    "director": "Ron Howard",
+    "craft": [
+      "DP: Anthony Dod Mantle",
+      "Editors: Daniel P. Hanley, Mike Hill",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "BAFTA: Best Editing"
+    ],
+    "techniques": [
+      "rain",
+      "vehicle stunts",
+      "sound design",
+      "montage"
+    ],
+    "why": "Tiny cameras on and inside the cars, intimate shots of eyes behind visors and aggressive sound design convey risk without CG excess. Watch how the edit compresses a whole race into a sequence of character decisions.",
+    "query": "Rush 2013 Japan Grand Prix rain race scene",
+    "video": "u500JIqfdjk"
+  },
+  {
+    "film": "Ford v Ferrari",
+    "year": 2019,
+    "scene": "24 Hours of Le Mans 1966",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Mangold",
+    "craft": [
+      "DP: Phedon Papamichael",
+      "Editors: Michael McCusker, Andrew Buckland"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "sound design",
+      "night",
+      "rain",
+      "cgi"
+    ],
+    "why": "Practical racing blended with digital set extension. Hood-level angles, gear-shift close-ups and layered engine sound make speed tangible; the night and rain stints stay clear through disciplined lighting and colour.",
+    "query": "Ford v Ferrari Le Mans race scene"
+  },
+  {
+    "film": "Grand Prix",
+    "year": 1966,
+    "scene": "Monaco opening race and split-screen titles",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Frankenheimer",
+    "craft": [
+      "Visual consultant / titles: Saul Bass",
+      "DP: Lionel Lindon",
+      "Composer: Maurice Jarre"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "pov",
+      "real location",
+      "montage"
+    ],
+    "why": "Frankenheimer mounted cameras on racing cars at speed through the real Monaco circuit, pioneering in-car pov racing footage. Saul Bass's split-screen montage is a landmark of multi-image editing; study how fragmented image and engine sound convey speed.",
+    "query": "Grand Prix 1966 Monaco race scene"
+  },
+  {
+    "film": "The Italian Job",
+    "year": 1969,
+    "scene": "Mini Cooper getaway through Turin",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "UK",
+    "director": "Peter Collinson",
+    "craft": [
+      "Stunt driving: Rémy Julienne",
+      "DP: Douglas Slocombe",
+      "Composer: Quincy Jones"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "real location",
+      "score-driven",
+      "practical stunts"
+    ],
+    "why": "Three Minis flee across rooftops, through arcades, down steps and into sewers. Rémy Julienne's precision driving and a jaunty score turn the chase into a comic ballet; the Lingotto factory's rooftop test track is used unforgettably.",
+    "query": "The Italian Job 1969 Mini Cooper chase scene"
+  },
+  {
+    "film": "Speed",
+    "year": 1994,
+    "scene": "Bus jumps the freeway gap",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Jan de Bont",
+    "craft": [
+      "DP: Andrzej Bartkowiak",
+      "Editor: John Wright",
+      "Composer: Mark Mancina"
+    ],
+    "accolades": [
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "cgi",
+      "real location"
+    ],
+    "why": "The bus jump was a real ramp stunt on an unfinished freeway, with the missing section added digitally. Study how a simple rule (never drop below 50) generates escalating obstacles and how VFX can invisibly enhance a practical stunt.",
+    "query": "Speed bus jump freeway gap scene"
+  },
+  {
+    "film": "The Raid 2",
+    "year": 2014,
+    "scene": "Car chase with the back-seat fight",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Indonesia",
+    "director": "Gareth Evans",
+    "craft": [
+      "Fight choreographers: Iko Uwais, Yayan Ruhian",
+      "DPs: Matt Flannery, Dimas Imam Subhono",
+      "Editor: Gareth Evans"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "handheld",
+      "practical stunts",
+      "tracking shot"
+    ],
+    "why": "The camera seems to slip in and out of moving cars while Rama fights attackers in a cramped back seat. Study how close-quarters choreography and inventive vehicle rigs make an in-car brawl as kinetic as the pursuit outside.",
+    "query": "The Raid 2 car chase fight scene"
+  },
+  {
+    "film": "Police Story",
+    "year": 1985,
+    "scene": "Car chase down the hillside shantytown",
+    "category": "car-chase",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Jackie Chan",
+    "craft": [
+      "Stunts: Jackie Chan Stunt Team"
+    ],
+    "accolades": [
+      "Hong Kong Film Award: Best Film"
+    ],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "practical effects"
+    ],
+    "why": "Cars plough straight downhill through a constructed shantytown, demolishing shacks for real. The Jackie Chan Stunt Team's practical destruction, shown from repeated angles, demonstrates how Hong Kong cinema maximized spectacle on a budget.",
+    "query": "Police Story 1985 shantytown car chase scene",
+    "video": "lLUp5M_3TMc"
+  },
+  {
+    "film": "Casino Royale",
+    "year": 2006,
+    "scene": "Madagascar construction-site parkour chase",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Martin Campbell",
+    "craft": [
+      "Freerunner: Sébastien Foucan",
+      "Stunt coordinator: Gary Powell",
+      "DP: Phil Méheux",
+      "Editor: Stuart Baird"
+    ],
+    "accolades": [
+      "BAFTA: Best Sound"
+    ],
+    "techniques": [
+      "parkour",
+      "practical stunts",
+      "wire work",
+      "crane"
+    ],
+    "why": "Foucan's freerunning flows over obstacles while Bond simply smashes through them — character expressed through movement. Real-height crane-jib action captured in wide shots keeps the vertigo honest.",
+    "query": "Casino Royale parkour crane chase scene"
+  },
+  {
+    "film": "The Bourne Ultimatum",
+    "year": 2007,
+    "scene": "Tangier rooftop chase",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Paul Greengrass",
+    "craft": [
+      "Second unit director: Dan Bradley",
+      "Fight coordinator: Jeff Imada",
+      "DP: Oliver Wood",
+      "Editor: Christopher Rouse"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Mixing",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "handheld",
+      "shaky cam",
+      "cross-cutting",
+      "real location",
+      "improvised weapons"
+    ],
+    "why": "A three-way pursuit across Tangier rooftops cross-cut at breakneck pace, ending in a book-and-towel brawl. Handheld operators run with the actors, and Rouse's editing keeps three threads clear despite the speed.",
+    "query": "Bourne Ultimatum Tangier rooftop chase scene",
+    "video": "TglSVCG-sYY"
+  },
+  {
+    "film": "Point Break",
+    "year": 1991,
+    "scene": "Foot chase after the 'Reagan' robber",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Kathryn Bigelow",
+    "craft": [
+      "DP: Donald Peterman",
+      "Editor: Howard E. Smith",
+      "Composer: Mark Isham"
+    ],
+    "accolades": [],
+    "techniques": [
+      "steadicam",
+      "handheld",
+      "tracking shot",
+      "real location"
+    ],
+    "why": "Operators chase the actors through living rooms, backyards and over fences. Messy human beats — a thrown dog, a wrecked knee — make it feel real, and it ends not with a capture but with Utah firing into the air in frustration.",
+    "query": "Point Break foot chase scene Reagan mask"
+  },
+  {
+    "film": "District B13",
+    "year": 2004,
+    "scene": "Opening parkour escape through the tower block",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "France",
+    "director": "Pierre Morel",
+    "craft": [
+      "Parkour performer: David Belle"
+    ],
+    "accolades": [],
+    "techniques": [
+      "parkour",
+      "practical stunts",
+      "real location",
+      "tracking shot"
+    ],
+    "why": "Parkour co-founder David Belle demonstrates the discipline as action vocabulary. Wide framing and longer takes let audiences see each vault and leap is genuine, including the famous dive through a tiny transom window.",
+    "query": "District B13 opening parkour chase scene"
+  },
+  {
+    "film": "Apocalypto",
+    "year": 2006,
+    "scene": "Jaguar Paw's jungle escape and waterfall leap",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Mel Gibson",
+    "craft": [
+      "DP: Dean Semler",
+      "Editor: John Wright",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "techniques": [
+      "jungle",
+      "tracking shot",
+      "real location",
+      "practical stunts"
+    ],
+    "why": "Shot in the Mexican jungle on early digital cameras, the pursuit uses ground-level tracking through foliage, terrain changes and a waterfall jump. Study how sound and environment variety sustain a lengthy chase without dialogue.",
+    "query": "Apocalypto jungle chase waterfall scene"
+  },
+  {
+    "film": "Ong-Bak: The Thai Warrior",
+    "year": 2003,
+    "scene": "Market foot chase — barbed-wire hoop and glass panes",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "Thailand",
+    "director": "Prachya Pinkaew",
+    "craft": [
+      "Action choreographer: Panna Rittikrai"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "slow motion",
+      "real location",
+      "parkour"
+    ],
+    "why": "Tony Jaa vaults cars, dives through a hoop of barbed wire and slips between panes of glass with no wires or digital help. Instant replays from alternate angles prove each stunt is real — physical performance as spectacle.",
+    "query": "Ong Bak chase scene Tony Jaa market"
+  },
+  {
+    "film": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "scene": "London rooftop run (the broken-ankle jump)",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Rob Hardy",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location",
+      "tracking shot"
+    ],
+    "why": "Cruise sprints across London rooftops; the take where he breaks his ankle on a building-to-building jump is in the cut. Long lenses and tracking shots show the star running flat-out, privileging authentic physicality over cutting.",
+    "query": "Mission Impossible Fallout London rooftop chase scene"
+  },
+  {
+    "film": "The Third Man",
+    "year": 1949,
+    "scene": "Harry Lime's chase through the Vienna sewers",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "UK",
+    "director": "Carol Reed",
+    "craft": [
+      "DP: Robert Krasker",
+      "Composer: Anton Karas",
+      "Editor: Oswald Hafenrichter"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography (Black-and-White)",
+      "Cannes: Grand Prix",
+      "BAFTA: Best British Film"
+    ],
+    "techniques": [
+      "night",
+      "silhouette",
+      "real location",
+      "sound design"
+    ],
+    "why": "Tilted angles, wet hard-light and echoing voices turn real sewers into a labyrinth. Study the chiaroscuro, the use of sound to place unseen pursuers, and how cutting to Lime's desperate face makes the chase a moral climax.",
+    "query": "The Third Man sewer chase scene"
+  },
+  {
+    "film": "North by Northwest",
+    "year": 1959,
+    "scene": "Crop duster attack at Prairie Stop",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Alfred Hitchcock",
+    "craft": [
+      "Editor: George Tomasini",
+      "DP: Robert Burks",
+      "Composer: Bernard Herrmann"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "rear projection",
+      "sound design",
+      "real location"
+    ],
+    "why": "Hitchcock inverts the chase: broad daylight, empty farmland, a long silent wait before a plane attacks a man on foot. Study the slow build, wide shots that isolate the hero and the decision to play it entirely without score.",
+    "query": "North by Northwest crop duster scene"
+  },
+  {
+    "film": "City of God",
+    "year": 2002,
+    "scene": "Opening chicken chase",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "Brazil",
+    "director": "Fernando Meirelles",
+    "craft": [
+      "DP: César Charlone",
+      "Editor: Daniel Rezende"
+    ],
+    "accolades": [
+      "BAFTA: Best Editing"
+    ],
+    "techniques": [
+      "handheld",
+      "montage",
+      "real location",
+      "score-driven"
+    ],
+    "why": "Knife-sharpening close-ups, samba percussion and frantic handheld running set the film's kinetic style in minutes. Study the editing rhythm, the real favela streets and the spinning transition that leaps decades in one move.",
+    "query": "City of God opening chicken chase scene"
+  },
+  {
+    "film": "Run Lola Run",
+    "year": 1998,
+    "scene": "Lola's run through Berlin",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "Germany",
+    "director": "Tom Tykwer",
+    "craft": [
+      "DP: Frank Griebe",
+      "Editor: Mathilde Bonnefoy"
+    ],
+    "accolades": [],
+    "techniques": [
+      "tracking shot",
+      "score-driven",
+      "montage",
+      "2d animation"
+    ],
+    "why": "Lola sprints through Berlin to a pounding techno score, and the film reruns the chase with tiny variations. Study rhythm-driven editing, long tracking shots, flash-forward photo montages and animated inserts that make a foot chase a structural device.",
+    "query": "Run Lola Run running scene",
+    "video": "ppeZQ8inevE"
+  },
+  {
+    "film": "Minority Report",
+    "year": 2002,
+    "scene": "Jetpack police alley chase",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Editor: Michael Kahn",
+      "VFX: Industrial Light & Magic"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "color grading",
+      "practical stunts",
+      "urban combat"
+    ],
+    "why": "Anderton flees jetpack-wearing cops through alleys and apartments. Kamiński's bleach-bypass, desaturated look blends practical stunts with ILM effects; note how the gadgets — jetpacks, sick sticks — dictate choreography and comic beats.",
+    "query": "Minority Report jetpack chase scene"
+  },
+  {
+    "film": "The Fugitive",
+    "year": 1993,
+    "scene": "Storm-drain chase and dam leap",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "USA",
+    "director": "Andrew Davis",
+    "craft": [
+      "DP: Michael Chapman",
+      "Composer: James Newton Howard"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor"
+    ],
+    "techniques": [
+      "real location",
+      "practical stunts",
+      "tracking shot"
+    ],
+    "why": "Kimble's flight through storm drains climaxes at a real dam spillway. The face-off ('I didn't kill my wife!' / 'I don't care!') gives the chase a character payoff before wide shots sell the scale of the drop.",
+    "query": "The Fugitive dam jump scene"
+  },
+  {
+    "film": "Slumdog Millionaire",
+    "year": 2008,
+    "scene": "Opening slum chase through Mumbai",
+    "category": "foot-chase",
+    "medium": "film",
+    "country": "UK/India",
+    "director": "Danny Boyle",
+    "craft": [
+      "DP: Anthony Dod Mantle",
+      "Editor: Chris Dickens",
+      "Composer: A. R. Rahman"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "handheld",
+      "real location",
+      "score-driven",
+      "tracking shot"
+    ],
+    "why": "Children sprint through Mumbai's slums pursued by police, shot on small digital cameras at street level. Study tilted angles, saturated colour and Rahman's propulsive score turning a chase into a portrait of a city.",
+    "query": "Slumdog Millionaire opening chase scene"
+  },
+  {
+    "film": "Mission: Impossible – Ghost Protocol",
+    "year": 2011,
+    "scene": "Burj Khalifa climb",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Brad Bird",
+    "craft": [
+      "DP: Robert Elswit",
+      "Editor: Paul Hirsch",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "imax",
+      "real location",
+      "aerial photography"
+    ],
+    "why": "Cruise actually hangs off the outside of the world's tallest building, filmed with IMAX cameras. Wide shots that reveal the drop and the failing-glove gag turn a physical stunt into sustained suspense.",
+    "query": "Mission Impossible Ghost Protocol Burj Khalifa climb scene"
+  },
+  {
+    "film": "Mission: Impossible – Rogue Nation",
+    "year": 2015,
+    "scene": "Hanging off the A400M at takeoff",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Robert Elswit",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "practical stunts",
+      "aerial photography"
+    ],
+    "why": "Cruise clings to the side of a real Airbus A400M as it takes off, with cameras rigged to the fuselage. Placing the stunt before the title shows how one undeniable practical image can define a film.",
+    "query": "Mission Impossible Rogue Nation plane scene"
+  },
+  {
+    "film": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "scene": "HALO jump over Paris",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Rob Hardy",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts",
+      "long take"
+    ],
+    "why": "Cruise performs a real high-altitude, low-opening jump at dusk, filmed by a skydiving camera operator. Designed as one apparent continuous shot, each attempt had only a brief magic-hour window — study planning as craft.",
+    "query": "Mission Impossible Fallout HALO jump scene"
+  },
+  {
+    "film": "Mission: Impossible – Dead Reckoning Part One",
+    "year": 2023,
+    "scene": "Motorcycle off the Norwegian cliff",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "Stunt coordinator: Wade Eastwood",
+      "DP: Fraser Taggart",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location",
+      "aerial photography",
+      "vehicle stunts"
+    ],
+    "why": "Cruise rides a motorcycle off a purpose-built ramp and BASE-jumps from a Norwegian mountainside. Framing that keeps his face visible proves the star did it; the scale comes from wide aerial coverage of real terrain.",
+    "query": "Mission Impossible Dead Reckoning motorcycle cliff jump scene"
+  },
+  {
+    "film": "Mission: Impossible – The Final Reckoning",
+    "year": 2025,
+    "scene": "Biplane wing-walk finale",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "DP: Fraser Taggart",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts"
+    ],
+    "why": "Cruise hangs from and climbs across vintage biplanes in flight. Air-to-air wide shots alternate with wing-mounted cameras to prove the reality, while keeping a two-plane fight readable.",
+    "query": "Mission Impossible Final Reckoning biplane scene"
+  },
+  {
+    "film": "Police Story",
+    "year": 1985,
+    "scene": "Mall finale — sliding down the pole of lights",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Jackie Chan",
+    "craft": [
+      "Stunts: Jackie Chan Stunt Team"
+    ],
+    "accolades": [
+      "Hong Kong Film Award: Best Film"
+    ],
+    "techniques": [
+      "practical stunts",
+      "slow motion",
+      "practical effects"
+    ],
+    "why": "Chan slides several stories down a pole wrapped in live lights, crashing through a kiosk. The stunt repeats from multiple angles back-to-back — a Hong Kong signature that honours the risk and lets the audience savour the impact.",
+    "query": "Police Story mall pole slide scene"
+  },
+  {
+    "film": "Project A",
+    "year": 1983,
+    "scene": "Clock tower fall",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Jackie Chan",
+    "craft": [
+      "Stunts: Jackie Chan Stunt Team"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "slow motion"
+    ],
+    "why": "Chan's homage to Harold Lloyd: he dangles from a clock hand, then drops through cloth awnings to the street. Replayed from different angles, it shows how setup and payoff can build an entire act toward one fall.",
+    "query": "Project A clock tower fall scene Jackie Chan"
+  },
+  {
+    "film": "Armour of God",
+    "year": 1986,
+    "scene": "Cliff leap onto the hot-air balloon",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Jackie Chan",
+    "craft": [
+      "Stunts: Jackie Chan Stunt Team"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "aerial photography",
+      "real location"
+    ],
+    "why": "Chan's finale leap from a cliff onto a hot-air balloon caps a production that nearly killed him. Study how wide framing proves the jump's reality and how end-credit outtakes became part of his star persona.",
+    "query": "Armour of God balloon jump scene Jackie Chan"
+  },
+  {
+    "film": "Police Story 3: Supercop",
+    "year": 1992,
+    "scene": "Michelle Yeoh's motorcycle jump onto a moving train",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Stanley Tong",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "real location"
+    ],
+    "why": "Michelle Yeoh rides a motorcycle up a ramp onto a moving train herself. Framed wide and side-on so the leap reads clearly, it is a landmark for female action stars performing their own stunts.",
+    "query": "Supercop Michelle Yeoh motorcycle train jump scene"
+  },
+  {
+    "film": "Who Am I?",
+    "year": 1998,
+    "scene": "Rotterdam glass-facade slide",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Benny Chan, Jackie Chan",
+    "craft": [
+      "Stunts: Jackie Chan Stunt Team"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location",
+      "aerial photography"
+    ],
+    "why": "Chan slides down the steep glass face of Rotterdam's Willemswerf building. Wide and high angles emphasize the height, and the uninterrupted descent shows how framing alone can prove a stunt is real.",
+    "query": "Who Am I Jackie Chan building slide scene"
+  },
+  {
+    "film": "The General",
+    "year": 1926,
+    "scene": "Locomotive plunges through the burning Rock River bridge",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Buster Keaton, Clyde Bruckman",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical effects",
+      "vehicle stunts",
+      "real location",
+      "fire"
+    ],
+    "why": "Keaton sent a real locomotive onto a burning trestle that collapses into the river — one take, no second chance. Study the deep, wide composition and deadpan staging that give silent-era spectacle its staggering scale.",
+    "query": "The General Buster Keaton bridge collapse scene"
+  },
+  {
+    "film": "Steamboat Bill, Jr.",
+    "year": 1928,
+    "scene": "Falling house facade",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Charles Reisner, Buster Keaton",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "practical effects",
+      "real location"
+    ],
+    "why": "A heavy house front falls around Keaton, its open window clearing him by inches. One static wide shot, no cut, no reaction beyond stillness — the definitive example of letting a real stunt play in a single take.",
+    "query": "Steamboat Bill Jr falling house scene Buster Keaton"
+  },
+  {
+    "film": "Safety Last!",
+    "year": 1923,
+    "scene": "Harold Lloyd hanging from the clock",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Fred C. Newmeyer, Sam Taylor",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location"
+    ],
+    "why": "Lloyd dangles from a building clock high above Los Angeles. Sets built on real rooftops with carefully placed cameras create the illusion of a sheer drop; study how forced perspective and gag escalation produce vertigo.",
+    "query": "Safety Last Harold Lloyd clock scene"
+  },
+  {
+    "film": "Sherlock Jr.",
+    "year": 1924,
+    "scene": "Handlebar ride on the driverless motorcycle",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Buster Keaton",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "real location"
+    ],
+    "why": "Keaton rides the handlebars of a motorcycle with no driver through traffic, crossings and obstacles, each near-miss timed to the frame. Wide, steady framing proves every gag is real — clockwork physical comedy.",
+    "query": "Sherlock Jr motorcycle handlebars scene Buster Keaton"
+  },
+  {
+    "film": "GoldenEye",
+    "year": 1995,
+    "scene": "Bungee jump off the Contra Dam",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Martin Campbell",
+    "craft": [
+      "Stunt performer: Wayne Michaels",
+      "DP: Phil Méheux",
+      "Composer: Éric Serra"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location"
+    ],
+    "why": "Wayne Michaels' bungee leap from Switzerland's Contra Dam is captured in a real, wide fall. The pre-title sequence uses one undeniable image to establish the new Bond's audacity.",
+    "query": "GoldenEye bungee jump dam scene"
+  },
+  {
+    "film": "The Spy Who Loved Me",
+    "year": 1977,
+    "scene": "Union Jack ski-parachute jump",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK",
+    "director": "Lewis Gilbert",
+    "craft": [
+      "Stunt performer: Rick Sylvester",
+      "Composer: Marvin Hamlisch"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "real location",
+      "snow",
+      "aerial photography"
+    ],
+    "why": "Rick Sylvester skis off Baffin Island's Asgard Peak into freefall before the Union Jack canopy blooms. Silence before the theme crashes in makes this the definitive stunt-as-punchline.",
+    "query": "The Spy Who Loved Me ski parachute jump scene"
+  },
+  {
+    "film": "The Man with the Golden Gun",
+    "year": 1974,
+    "scene": "Corkscrew car jump over the river",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK",
+    "director": "Guy Hamilton",
+    "craft": [
+      "Composer: John Barry"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "real location"
+    ],
+    "why": "An AMC Hornet performs a full 360-degree spiral jump across a broken bridge, a stunt calculated by computer modeling and done in one take. Note how a slide-whistle sound effect undercuts it — a lesson in tonal choices.",
+    "query": "The Man with the Golden Gun corkscrew jump scene",
+    "video": "NaqXxC0rhSw"
+  },
+  {
+    "film": "Skyfall",
+    "year": 2012,
+    "scene": "Istanbul opening — train-roof fight and digger",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Sam Mendes",
+    "craft": [
+      "Stunt coordinator: Gary Powell",
+      "DP: Roger Deakins",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Original Song"
+    ],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "real location"
+    ],
+    "why": "Motorbikes race over rooftops before a fight atop a moving train, where a digger tears open carriages. Performed practically, it is framed in clean wide compositions that keep every beat legible.",
+    "query": "Skyfall opening train fight scene"
+  },
+  {
+    "film": "Spectre",
+    "year": 2015,
+    "scene": "Day of the Dead opening — tracking shot and helicopter fight",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Sam Mendes",
+    "craft": [
+      "Stunt coordinator: Gary Powell",
+      "DP: Hoyte van Hoytema",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song",
+      "Golden Globe: Best Original Song"
+    ],
+    "techniques": [
+      "long take",
+      "real aircraft",
+      "practical stunts",
+      "aerial photography",
+      "real location"
+    ],
+    "why": "A long, seemingly unbroken tracking shot through the parade leads to a fight inside a helicopter flying real aerobatics over Mexico City's Zócalo. Study how crowd staging and practical aerial stunts combine.",
+    "query": "Spectre opening scene Day of the Dead helicopter"
+  },
+  {
+    "film": "Point Break",
+    "year": 1991,
+    "scene": "Skydive without a parachute",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "Kathryn Bigelow",
+    "craft": [
+      "DP: Donald Peterman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "aerial photography",
+      "real aircraft",
+      "practical stunts"
+    ],
+    "why": "Utah leaps from a plane without a chute to catch Bodhi. Real skydivers and air-to-air cameras capture freefall, while close-ups of the actors in the sky sell the impossibility of the act.",
+    "query": "Point Break skydiving scene no parachute"
+  },
+  {
+    "film": "The Dark Knight Rises",
+    "year": 2012,
+    "scene": "Opening mid-air plane hijack",
+    "category": "stunts",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Christopher Nolan",
+    "craft": [
+      "Special effects supervisor: Chris Corbould",
+      "DP: Wally Pfister",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "techniques": [
+      "imax",
+      "real aircraft",
+      "aerial photography",
+      "practical stunts"
+    ],
+    "why": "A real plane is suspended on cables from a larger aircraft while performers dangle in the slipstream. Shot on IMAX, the practical aerial work gives the opening a scale and weight impossible to fake.",
+    "query": "The Dark Knight Rises opening plane scene"
+  },
+  {
+    "film": "The Fall Guy",
+    "year": 2024,
+    "scene": "Record-breaking cannon roll on the beach",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "David Leitch",
+    "craft": [
+      "Stunt performer: Logan Holladay",
+      "DP: Jonathan Sela"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "real location"
+    ],
+    "why": "Logan Holladay's 8.5 cannon rolls set a world record in a film that celebrates stunt craft itself. Study how the stunt is staged wide, replayed and woven into a story that makes stunt performers the heroes.",
+    "query": "The Fall Guy cannon roll stunt scene"
+  },
+  {
+    "film": "Sorcerer",
+    "year": 1977,
+    "scene": "Trucks cross the rope bridge in the storm",
+    "category": "stunts",
+    "medium": "film",
+    "country": "USA",
+    "director": "William Friedkin",
+    "craft": [
+      "Composer: Tangerine Dream"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical effects",
+      "rain",
+      "vehicle stunts",
+      "jungle",
+      "real location"
+    ],
+    "why": "Two nitroglycerin-laden trucks inch across a rotting suspension bridge in a torrential storm. A practical rig, real rain and patient cutting stretch suspense over minutes — study how sound and duration build dread.",
+    "query": "Sorcerer 1977 bridge scene"
+  },
+  {
+    "film": "Fitzcarraldo",
+    "year": 1982,
+    "scene": "Hauling the steamship over the mountain",
+    "category": "stunts",
+    "medium": "film",
+    "country": "West Germany",
+    "director": "Werner Herzog",
+    "craft": [
+      "DP: Thomas Mauch"
+    ],
+    "accolades": [
+      "Cannes: Best Director"
+    ],
+    "techniques": [
+      "practical effects",
+      "real location",
+      "jungle"
+    ],
+    "why": "Herzog's crew actually dragged a full-size steamship up a jungle hillside, no models. Documentary-like framing of ropes, winches and strain makes an impossible image genuine — a stunt of production rather than of a performer.",
+    "query": "Fitzcarraldo ship over mountain scene"
+  },
+  {
+    "film": "Tom Yum Goong",
+    "year": 2005,
+    "scene": "One-take fight up the spiral staircase",
+    "category": "stunts",
+    "medium": "film",
+    "country": "Thailand",
+    "director": "Prachya Pinkaew",
+    "craft": [
+      "Action choreographer: Panna Rittikrai"
+    ],
+    "accolades": [],
+    "techniques": [
+      "oner",
+      "practical stunts",
+      "tracking shot",
+      "one vs many"
+    ],
+    "why": "Tony Jaa fights his way up a spiral restaurant ramp in a single unbroken take. Study the camera choreography, the timing of stuntmen crashing through railings and furniture, and how momentum builds without a cut.",
+    "query": "Tom Yum Goong one take staircase fight scene"
+  },
+  {
+    "film": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "scene": "Three-way duel at Sad Hill cemetery",
+    "category": "western",
+    "medium": "film",
+    "country": "Italy/Spain/West Germany",
+    "director": "Sergio Leone",
+    "craft": [
+      "DP: Tonino Delli Colli",
+      "Composer: Ennio Morricone",
+      "Editors: Nino Baragli, Eugenio Alabiso"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "score-driven",
+      "montage",
+      "real location"
+    ],
+    "why": "Minutes of pure anticipation: a wide circular arena, ever-tighter close-ups of eyes and hands, and cutting that accelerates with Morricone's 'The Trio'. The masterclass in tension through montage, scale and music.",
+    "query": "The Good the Bad and the Ugly final duel scene"
+  },
+  {
+    "film": "Once Upon a Time in the West",
+    "year": 1968,
+    "scene": "Opening — the gunmen waiting at the station",
+    "category": "western",
+    "medium": "film",
+    "country": "Italy/USA",
+    "director": "Sergio Leone",
+    "craft": [
+      "DP: Tonino Delli Colli",
+      "Composer: Ennio Morricone",
+      "Editor: Nino Baragli"
+    ],
+    "accolades": [],
+    "techniques": [
+      "sound design",
+      "long take",
+      "duel",
+      "real location"
+    ],
+    "why": "Near-silence at a desert station: a creaking windmill, dripping water, a buzzing fly. Leone stretches time with extreme close-ups and found sound before the harmonica's arrival ignites a lightning-fast gunfight.",
+    "query": "Once Upon a Time in the West opening scene"
+  },
+  {
+    "film": "Once Upon a Time in the West",
+    "year": 1968,
+    "scene": "Final duel — Harmonica vs. Frank",
+    "category": "western",
+    "medium": "film",
+    "country": "Italy/USA",
+    "director": "Sergio Leone",
+    "craft": [
+      "DP: Tonino Delli Colli",
+      "Composer: Ennio Morricone",
+      "Editor: Nino Baragli"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "score-driven",
+      "montage",
+      "real location"
+    ],
+    "why": "Harmonica's motive arrives through a flashback that slowly resolves from a blurred figure. Morricone's theme, circling blocking and extreme close-ups fuse backstory and showdown into one operatic set-piece.",
+    "query": "Once Upon a Time in the West final duel scene"
+  },
+  {
+    "film": "For a Few Dollars More",
+    "year": 1965,
+    "scene": "Pocket-watch duel",
+    "category": "western",
+    "medium": "film",
+    "country": "Italy/Spain/West Germany",
+    "director": "Sergio Leone",
+    "craft": [
+      "DP: Massimo Dallamano",
+      "Composer: Ennio Morricone"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "score-driven",
+      "sound design"
+    ],
+    "why": "A musical pocket watch counts down the duel, giving the audience a diegetic timer. Study how Leone makes the chime both score and clock, and how a third man's intervention reframes the standoff geometry.",
+    "query": "For a Few Dollars More final duel pocket watch scene"
+  },
+  {
+    "film": "The Wild Bunch",
+    "year": 1969,
+    "scene": "Battle of Bloody Porch finale",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Sam Peckinpah",
+    "craft": [
+      "Editor: Lou Lombardo",
+      "DP: Lucien Ballard",
+      "Composer: Jerry Fielding"
+    ],
+    "accolades": [],
+    "techniques": [
+      "slow motion",
+      "montage",
+      "practical effects",
+      "one vs many"
+    ],
+    "why": "Multi-camera coverage at varied frame rates, intercut with slow motion, created the language of modern screen violence. Lombardo's rapid montage of squibs and falling bodies is still studied for rhythm and impact.",
+    "query": "The Wild Bunch final shootout scene"
+  },
+  {
+    "film": "Tombstone",
+    "year": 1993,
+    "scene": "Gunfight at the O.K. Corral",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "George P. Cosmatos",
+    "craft": [
+      "DP: William A. Fraker",
+      "Composer: Bruce Broughton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "practical effects",
+      "real location"
+    ],
+    "why": "A slow walk-in on long lenses, then close-range chaos once shooting starts. Study how geography is established during the approach so the frantic, overlapping exchange stays readable.",
+    "query": "Tombstone OK Corral gunfight scene"
+  },
+  {
+    "film": "Tombstone",
+    "year": 1993,
+    "scene": "Doc Holliday vs. Johnny Ringo — 'I'm your huckleberry'",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "George P. Cosmatos",
+    "craft": [
+      "DP: William A. Fraker",
+      "Composer: Bruce Broughton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "real location"
+    ],
+    "why": "Val Kilmer's languid menace against Ringo's nervous bravado in a woodland clearing. A showdown that rests on performance and dialogue rhythm rather than spectacle — study how stillness wins the scene.",
+    "query": "Tombstone Doc Holliday Johnny Ringo duel scene"
+  },
+  {
+    "film": "Unforgiven",
+    "year": 1992,
+    "scene": "Saloon finale — Munny confronts Little Bill",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Clint Eastwood",
+    "craft": [
+      "DP: Jack N. Green",
+      "Editor: Joel Cox",
+      "Composer: Lennie Niehaus"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "night",
+      "rain",
+      "single location",
+      "practical effects"
+    ],
+    "why": "Eastwood strips the shootout of glamour: a dark, rain-soaked saloon, lamplight and doorways as the only sources, and violence more chilling than triumphant. Study how dialogue before and after frames the killing.",
+    "query": "Unforgiven saloon final scene",
+    "video": "pZNHc6o8wjU"
+  },
+  {
+    "film": "True Grit",
+    "year": 2010,
+    "scene": "Rooster Cogburn's charge — reins in his teeth",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joel Coen, Ethan Coen",
+    "craft": [
+      "DP: Roger Deakins",
+      "Composer: Carter Burwell"
+    ],
+    "accolades": [],
+    "techniques": [
+      "one vs many",
+      "duel",
+      "real location",
+      "cavalry"
+    ],
+    "why": "One man charges four across an open meadow. Deakins frames the confrontation wide with the gang strung out in a line, then cuts tight; Burwell's hymn-based score lifts the moment into myth.",
+    "query": "True Grit 2010 Rooster Cogburn charge scene"
+  },
+  {
+    "film": "3:10 to Yuma",
+    "year": 2007,
+    "scene": "Running gunfight to the train in Contention",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Mangold",
+    "craft": [
+      "DP: Phedon Papamichael",
+      "Composer: Marco Beltrami"
+    ],
+    "accolades": [],
+    "techniques": [
+      "urban combat",
+      "one vs many",
+      "tracking shot"
+    ],
+    "why": "A town-wide running gunfight as Dan escorts Wade to the train. Mangold keeps geography clear across rooftops and alleys, interleaving the action with the moral reckoning between the two men.",
+    "query": "3:10 to Yuma 2007 final train scene",
+    "video": "ojMr_543ucg"
+  },
+  {
+    "film": "Django Unchained",
+    "year": 2012,
+    "scene": "Candyland shootout",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Quentin Tarantino",
+    "craft": [
+      "DP: Robert Richardson",
+      "Editor: Fred Raskin"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Original Screenplay"
+    ],
+    "techniques": [
+      "practical effects",
+      "slow motion",
+      "one vs many",
+      "single location"
+    ],
+    "why": "An operatic, deliberately excessive shootout of exaggerated blood squibs in a mansion set. Study how coverage alternates wide masters and gruesome inserts, and how a single location is mined for escalation.",
+    "query": "Django Unchained Candyland shootout scene"
+  },
+  {
+    "film": "Open Range",
+    "year": 2003,
+    "scene": "Final street gunfight in Harmonville",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Kevin Costner",
+    "craft": [
+      "DP: James Muro",
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [],
+    "techniques": [
+      "sound design",
+      "practical effects",
+      "real location",
+      "urban combat"
+    ],
+    "why": "Celebrated for realism: loud, chaotic, with men missing at close range. Study the sound design of cracking, echoing gunshots, the slow walk down main street and practical squib work.",
+    "query": "Open Range final gunfight scene"
+  },
+  {
+    "film": "Stagecoach",
+    "year": 1939,
+    "scene": "Apache chase and Yakima Canutt's drop under the coach",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Ford",
+    "craft": [
+      "Stunt performer: Yakima Canutt",
+      "DP: Bert Glennon"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Score"
+    ],
+    "techniques": [
+      "practical stunts",
+      "cavalry",
+      "tracking shot",
+      "cross-cutting",
+      "desert"
+    ],
+    "why": "Canutt leaps onto the lead horses and drops beneath the galloping coach — a landmark of stunt history. Ford's tracking shots across the flats and cross-cutting between passengers and pursuers laid the template for screen chases.",
+    "query": "Stagecoach 1939 chase scene Yakima Canutt"
+  },
+  {
+    "film": "The Assassination of Jesse James by the Coward Robert Ford",
+    "year": 2007,
+    "scene": "Blue Cut night train robbery",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Andrew Dominik",
+    "craft": [
+      "DP: Roger Deakins",
+      "Composers: Nick Cave, Warren Ellis"
+    ],
+    "accolades": [
+      "Venice: Volpi Cup for Best Actor"
+    ],
+    "techniques": [
+      "night",
+      "silhouette",
+      "real location",
+      "score-driven"
+    ],
+    "why": "Deakins lights the robbery largely from the train's headlamp and hand-held lanterns, using silhouette and haze. Practical light, slow pacing and the Cave–Ellis score make the scene feel like a remembered dream.",
+    "query": "Assassination of Jesse James train robbery scene"
+  },
+  {
+    "film": "The Revenant",
+    "year": 2015,
+    "scene": "Opening Arikara ambush",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Alejandro G. Iñárritu",
+    "craft": [
+      "DP: Emmanuel Lubezki",
+      "Editor: Stephen Mirrione",
+      "Composers: Ryuichi Sakamoto, Alva Noto"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Actor",
+      "Oscar: Best Cinematography"
+    ],
+    "techniques": [
+      "long take",
+      "wide-angle choreography",
+      "real location",
+      "sound design"
+    ],
+    "why": "Lubezki's wide-angle camera floats through the attack in long takes, passing from victim to victim in natural light. Study how unbroken movement creates chaos without cutting and how sound places arrows all around the audience.",
+    "query": "The Revenant opening attack scene"
+  },
+  {
+    "film": "High Noon",
+    "year": 1952,
+    "scene": "Clocks toward noon and the showdown",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "Fred Zinnemann",
+    "craft": [
+      "Editor: Elmo Williams",
+      "DP: Floyd Crosby",
+      "Composer: Dimitri Tiomkin"
+    ],
+    "accolades": [
+      "Oscar: Best Actor",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Score",
+      "Oscar: Best Original Song"
+    ],
+    "techniques": [
+      "montage",
+      "cross-cutting",
+      "duel",
+      "score-driven"
+    ],
+    "why": "Clocks tick toward noon as Kane waits alone; the edit intercuts faces, empty streets and the train track. Study near-real-time pacing, montage that compresses dread and a final shootout that releases it.",
+    "query": "High Noon clock scene showdown",
+    "video": "0MX92ZCx5Qc"
+  },
+  {
+    "film": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "scene": "Bolivian finale freeze-frame",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "George Roy Hill",
+    "craft": [
+      "DP: Conrad L. Hall",
+      "Composer: Burt Bacharach"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Original Score",
+      "Oscar: Best Original Song",
+      "Oscar: Best Original Screenplay"
+    ],
+    "techniques": [
+      "one vs many",
+      "color grading",
+      "sound design"
+    ],
+    "why": "The heroes charge into an army; the image freezes and drains to sepia while gunfire continues on the soundtrack. Withholding the deaths creates myth — study how sound carries what the picture refuses to show.",
+    "query": "Butch Cassidy and the Sundance Kid ending scene",
+    "video": "geOqbM03Hf0"
+  },
+  {
+    "film": "Shane",
+    "year": 1953,
+    "scene": "Saloon gunfight with Wilson",
+    "category": "western",
+    "medium": "film",
+    "country": "USA",
+    "director": "George Stevens",
+    "craft": [
+      "DP: Loyal Griggs"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography (Color)"
+    ],
+    "techniques": [
+      "duel",
+      "sound design",
+      "single location"
+    ],
+    "why": "Stevens made the gunshots shockingly loud so each one lands as consequence, not entertainment. Study how sound design and the watching boy's point of view frame violence as a moral event.",
+    "query": "Shane final gunfight scene Jack Palance",
+    "video": "PWYj_DNy330"
+  },
+  {
+    "film": "The Good, the Bad, the Weird",
+    "year": 2008,
+    "scene": "Manchurian desert chase",
+    "category": "western",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Kim Jee-woon",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "desert",
+      "tracking shot",
+      "vehicle stunts",
+      "crane"
+    ],
+    "why": "Bandits, the army and three anti-heroes on horses and motorbikes collide across the Manchurian plains. Long crane and tracking shots keep multiple factions readable — a Korean 'kimchi western' at full gallop.",
+    "query": "The Good the Bad the Weird desert chase scene",
+    "video": "atfQhfonEr8"
+  },
+  {
+    "film": "Sholay",
+    "year": 1975,
+    "scene": "Train robbery by the dacoits",
+    "category": "western",
+    "medium": "film",
+    "country": "India",
+    "director": "Ramesh Sippy",
+    "craft": [
+      "DP: Dwarka Divecha",
+      "Composer: R. D. Burman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "practical stunts",
+      "cross-cutting",
+      "vehicle stunts"
+    ],
+    "why": "Horseback bandits attack a goods train in a mix of rooftop fistfights and gunplay unusual in 1970s Hindi cinema. Study the cross-cutting between carriage, roof and saddle, and how the action seeds Jai and Veeru's bond.",
+    "query": "Sholay train robbery scene"
+  }
+]

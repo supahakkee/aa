@@ -1,0 +1,1299 @@
+[
+  {
+    "film": "Aliens",
+    "year": 1986,
+    "scene": "Ripley in the power loader vs. the Alien Queen",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "James Cameron",
+    "craft": [
+      "Creature effects: Stan Winston Studio",
+      "DP: Adrian Biddle",
+      "Editor: Ray Lovejoy",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "practical effects",
+      "duel",
+      "single location",
+      "sound design"
+    ],
+    "why": "A full-size hydraulic Queen puppet and a practical power-loader rig put actor and creature in the same physical space; study how Cameron alternates wide scale shots with tight mechanical inserts to sell weight and leverage.",
+    "query": "Aliens power loader vs alien queen get away from her scene"
+  },
+  {
+    "film": "Alien",
+    "year": 1979,
+    "scene": "The chestburster at the dinner table",
+    "category": "creature",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Ridley Scott",
+    "craft": [
+      "Creature design: H.R. Giger",
+      "DP: Derek Vanlint",
+      "Editor: Terry Rawlings"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "techniques": [
+      "practical effects",
+      "single location",
+      "sound design"
+    ],
+    "why": "Multiple cameras capture the cast's raw reactions in a single practical take; study how mundane, overlapping dinner chatter lulls the audience before the puppet bursts through, and how restraint beforehand amplifies the gore.",
+    "query": "Alien 1979 chestburster scene",
+    "video": "UxqVFmig5AA"
+  },
+  {
+    "film": "Predator",
+    "year": 1987,
+    "scene": "Dutch's mud-camouflage finale vs. the Predator",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "John McTiernan",
+    "craft": [
+      "Creature effects: Stan Winston Studio",
+      "DP: Donald McAlpine",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical effects",
+      "jungle",
+      "night",
+      "fire",
+      "improvised weapons",
+      "duel"
+    ],
+    "why": "A stripped-down duel built on point-of-view logic: thermal-vision POV shots establish the hunter's rules, then mud, torchlight and booby traps flip them. Study how silence, the war cry and sparse score carry the final hunt.",
+    "query": "Predator mud scene Dutch vs Predator final fight"
+  },
+  {
+    "film": "Pacific Rim",
+    "year": 2013,
+    "scene": "Battle of Hong Kong: Gipsy Danger vs. Otachi and Leatherback",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Guillermo del Toro",
+    "craft": [
+      "VFX: Industrial Light & Magic",
+      "VFX supervisor: John Knoll",
+      "DP: Guillermo Navarro",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "night",
+      "rain",
+      "urban combat",
+      "sound design"
+    ],
+    "why": "ILM's rain-soaked, neon-lit night battle sells colossal scale through slow, heavy mech animation, water interaction and falling debris; a lesson in readable kaiju geography and in turning a cargo ship into a giant-scale weapon.",
+    "query": "Pacific Rim Hong Kong battle Gipsy Danger ship scene"
+  },
+  {
+    "film": "Jaws",
+    "year": 1975,
+    "scene": "The Orca sinks: Quint's death and the 'Smile, you son of a...' finale",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "Editor: Verna Fields",
+      "DP: Bill Butler",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "practical effects",
+      "real location",
+      "practical explosions",
+      "score-driven"
+    ],
+    "why": "Shot on the open ocean with a temperamental mechanical shark, the finale pays off a film-long strategy of withholding the creature; study how the sinking boat, Williams' score and close coverage carry the terror.",
+    "query": "Jaws final scene Orca sinking shark explodes"
+  },
+  {
+    "film": "King Kong",
+    "year": 1933,
+    "scene": "Kong atop the Empire State Building vs. the biplanes",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Merian C. Cooper, Ernest B. Schoedsack",
+    "craft": [
+      "Stop-motion animation: Willis O'Brien",
+      "Composer: Max Steiner"
+    ],
+    "accolades": [],
+    "techniques": [
+      "stop motion",
+      "miniatures",
+      "rear projection",
+      "cross-cutting"
+    ],
+    "why": "Willis O'Brien's stop-motion Kong is composited with miniatures, live-action cockpit inserts and rear projection; study how cross-cutting between pilots, Ann and Kong builds the template every creature finale still follows.",
+    "query": "King Kong 1933 Empire State Building biplanes scene"
+  },
+  {
+    "film": "The Thing",
+    "year": 1982,
+    "scene": "The defibrillator scene (Norris's chest opens)",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Carpenter",
+    "craft": [
+      "Special makeup effects: Rob Bottin",
+      "DP: Dean Cundey",
+      "Composer: Ennio Morricone"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical effects",
+      "single location",
+      "fire",
+      "sound design"
+    ],
+    "why": "Rob Bottin's animatronic chest jaws and an amputee double fitted with prosthetic arms deliver escalating practical horror in one room; study the pacing that alternates appalled reaction shots with ever-stranger effects reveals.",
+    "query": "The Thing 1982 defibrillator scene"
+  },
+  {
+    "film": "Kong: Skull Island",
+    "year": 2017,
+    "scene": "Kong swats the helicopter squadron out of the sky",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Jordan Vogt-Roberts",
+    "craft": [
+      "DP: Larry Fong",
+      "VFX: Industrial Light & Magic",
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "silhouette",
+      "pov",
+      "one vs many"
+    ],
+    "why": "The Apocalypse Now-inflected sunset attack silhouettes Kong against the sun before ILM's animation tears through the formation; study cockpit POVs, spinning-rotor inserts and slow beats that keep the chaos spatially readable.",
+    "query": "Kong Skull Island helicopter attack scene"
+  },
+  {
+    "film": "Edge of Tomorrow",
+    "year": 2014,
+    "scene": "The beach landing (Cage's first drop into battle)",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Doug Liman",
+    "craft": [
+      "DP: Dion Beebe",
+      "Editor: James Herbert",
+      "Composer: Christophe Beck"
+    ],
+    "accolades": [],
+    "techniques": [
+      "beach landing",
+      "practical effects",
+      "cgi",
+      "handheld",
+      "practical explosions"
+    ],
+    "why": "Practical exosuits worn by the cast add genuine weight and fatigue, while the dropship crash and Mimic attacks blend handheld chaos with clear geography; the beach replays later, so study how it's built to reward repetition.",
+    "query": "Edge of Tomorrow beach landing scene"
+  },
+  {
+    "film": "The Host",
+    "year": 2006,
+    "scene": "The creature's daylight rampage along the Han River",
+    "category": "creature",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Bong Joon-ho",
+    "craft": [
+      "VFX: The Orphanage",
+      "DP: Kim Hyung-koo"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "tracking shot",
+      "real location",
+      "handheld"
+    ],
+    "why": "Bong stages the monster in flat daylight among ordinary picnickers, with lateral tracking shots that let the creature crash through the crowd in frame; study the blend of slapstick and terror and the wrong-hand-grab beat.",
+    "query": "The Host 2006 Han River monster attack scene"
+  },
+  {
+    "film": "Train to Busan",
+    "year": 2016,
+    "scene": "Fighting through the infected carriages to reach car 9",
+    "category": "creature",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Yeon Sang-ho",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "improvised weapons",
+      "one vs many",
+      "single location"
+    ],
+    "why": "Contortion-trained zombie performers and a narrow carriage set turn each car into a choreographed gauntlet; study how tunnel darkness, taped forearms and sound cues become the scene's rules of engagement.",
+    "query": "Train to Busan fighting through train cars scene"
+  },
+  {
+    "film": "World War Z",
+    "year": 2013,
+    "scene": "The Jerusalem wall zombie pyramid",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Marc Forster",
+    "craft": [
+      "VFX: Moving Picture Company (MPC)",
+      "DP: Ben Seresin",
+      "Composer: Marco Beltrami"
+    ],
+    "accolades": [],
+    "techniques": [
+      "crowd simulation",
+      "cgi",
+      "aerial photography",
+      "siege"
+    ],
+    "why": "MPC's crowd simulation turns the undead into a fluid, swarming mass that climbs over itself like water; study how wide aerials establish the wall and scale before handheld street-level chaos takes over.",
+    "query": "World War Z Jerusalem wall scene"
+  },
+  {
+    "film": "Shin Godzilla",
+    "year": 2016,
+    "scene": "Godzilla's first atomic breath destroys Tokyo at night",
+    "category": "creature",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Hideaki Anno, Shinji Higuchi",
+    "craft": [
+      "Composer: Shirō Sagisu",
+      "Godzilla motion capture: Mansai Nomura"
+    ],
+    "accolades": [
+      "Japan Academy Prize: Picture of the Year"
+    ],
+    "techniques": [
+      "cgi",
+      "motion capture",
+      "night",
+      "fire",
+      "score-driven"
+    ],
+    "why": "A Noh performer's motion-captured Godzilla, bureaucratic cutaways and Sagisu's elegiac 'Who Will Know' turn destruction into tragedy; study the escalation from smoke to flame to purple beam, and the detached, observational camera.",
+    "query": "Shin Godzilla atomic breath scene Tokyo"
+  },
+  {
+    "film": "Godzilla (Gojira)",
+    "year": 1954,
+    "scene": "Godzilla's night attack on Tokyo",
+    "category": "creature",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Ishirō Honda",
+    "craft": [
+      "Special effects: Eiji Tsuburaya",
+      "Suit performer: Haruo Nakajima",
+      "Composer: Akira Ifukube"
+    ],
+    "accolades": [],
+    "techniques": [
+      "miniatures",
+      "practical effects",
+      "night",
+      "fire"
+    ],
+    "why": "Tsuburaya's suitmation and detailed miniature city, lit by flame, carry post-Hiroshima dread; study how small human vignettes, like the mother comforting her children, ground the spectacle in grief.",
+    "query": "Godzilla 1954 Tokyo attack scene",
+    "video": "EjNYWCH-fJw"
+  },
+  {
+    "film": "Godzilla Minus One",
+    "year": 2023,
+    "scene": "Godzilla's Ginza attack and atomic blast",
+    "category": "creature",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Takashi Yamazaki",
+    "craft": [
+      "VFX: Shirogumi",
+      "Composer: Naoki Satō"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "techniques": [
+      "cgi",
+      "sound design",
+      "urban combat",
+      "pov"
+    ],
+    "why": "Shirogumi's modestly budgeted VFX gain enormous weight from street-level camera placement, the train-in-jaws beat and a mushroom-cloud shockwave; study how the sequence stays locked to the protagonist's eye line to keep the horror human.",
+    "query": "Godzilla Minus One Ginza attack scene",
+    "video": "9jBhM0B78-4"
+  },
+  {
+    "film": "RoboCop",
+    "year": 1987,
+    "scene": "ED-209 boardroom demonstration",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Paul Verhoeven",
+    "craft": [
+      "ED-209 stop-motion: Phil Tippett",
+      "DP: Jost Vacano",
+      "Composer: Basil Poledouris"
+    ],
+    "accolades": [
+      "Oscar: Special Achievement Award (Sound Effects Editing)"
+    ],
+    "techniques": [
+      "stop motion",
+      "practical effects",
+      "single location",
+      "sound design"
+    ],
+    "why": "Phil Tippett's stop-motion ED-209 shares a corporate boardroom with live-action squibs; study the satirical rhythm of polite executive dialogue snapping into grotesque overkill, and the robot's growling sound design as character.",
+    "query": "RoboCop ED-209 boardroom scene"
+  },
+  {
+    "film": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "scene": "Opening Future War sequence (Los Angeles, 2029)",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Cameron",
+    "craft": [
+      "VFX: Industrial Light & Magic",
+      "Special effects: Stan Winston",
+      "DP: Adam Greenberg",
+      "Composer: Brad Fiedel"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound",
+      "Oscar: Best Makeup",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "miniatures",
+      "practical explosions",
+      "night",
+      "slow motion"
+    ],
+    "why": "Miniature Hunter-Killer tanks and aerials, practical pyro and laser blasts build an apocalyptic battlefield in a few minutes; study the skull-crushing tread insert and slow-motion pans that establish world and stakes economically.",
+    "query": "Terminator 2 future war opening scene"
+  },
+  {
+    "film": "War of the Worlds",
+    "year": 2005,
+    "scene": "The first tripod emerges in Bayonne",
+    "category": "creature",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "VFX: Industrial Light & Magic",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "handheld",
+      "sound design",
+      "real location"
+    ],
+    "why": "Spielberg and Kamiński keep the camera at civilian eye height as the street cracks open; study the slow reveal of the tripod, its foghorn-like sound design and the ash-like disintegrations shot from inside the fleeing crowd.",
+    "query": "War of the Worlds 2005 tripod first attack scene",
+    "video": "pgcQd60sXso"
+  },
+  {
+    "film": "Spider-Man 2",
+    "year": 2004,
+    "scene": "Spider-Man vs. Doc Ock on the elevated train",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Sam Raimi",
+    "craft": [
+      "VFX supervisor: John Dykstra",
+      "DP: Bill Pope",
+      "Composer: Danny Elfman"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects"
+    ],
+    "techniques": [
+      "cgi",
+      "wire work",
+      "practical stunts",
+      "duel"
+    ],
+    "why": "Live-action plates on a train rig blend with digital doubles and a swooping virtual camera; study how the fight escalates from building side to train roof to interior, ending with Peter physically braking the train.",
+    "query": "Spider-Man 2 train fight scene Doc Ock"
+  },
+  {
+    "film": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "scene": "The elevator fight",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Anthony Russo, Joe Russo",
+    "craft": [
+      "DP: Trent Opaloch",
+      "Editors: Jeffrey Ford, Matthew Schmidt",
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "one vs many",
+      "practical stunts"
+    ],
+    "why": "A tension build in a confined glass box: silent glances and shifting bodies before an explosion of grapples and magnetic cuffs. Study close-quarters blocking that keeps every attacker readable in a tiny space.",
+    "query": "Captain America Winter Soldier elevator fight scene"
+  },
+  {
+    "film": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "scene": "Winter Soldier's highway ambush",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Anthony Russo, Joe Russo",
+    "craft": [
+      "DP: Trent Opaloch",
+      "Editors: Jeffrey Ford, Matthew Schmidt",
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "vehicle stunts",
+      "urban combat",
+      "handheld"
+    ],
+    "why": "Grounded, Heat-inspired street combat with real vehicles, close handheld coverage and percussive sound; study how the Winter Soldier's entrances are staged for menace and how the action resolves on a character reveal.",
+    "query": "Captain America Winter Soldier highway fight scene"
+  },
+  {
+    "film": "Captain America: Civil War",
+    "year": 2016,
+    "scene": "The airport battle",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Anthony Russo, Joe Russo",
+    "craft": [
+      "DP: Trent Opaloch",
+      "Editors: Jeffrey Ford, Matthew Schmidt",
+      "Composer: Henry Jackman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "wire work",
+      "wide-angle choreography",
+      "practical stunts"
+    ],
+    "why": "A dozen heroes are choreographed so each power pairing reads clearly; study the wide establishing geography, the deliberate hero-vs-hero match-ups, and how humor is cut into the action rhythm without deflating it.",
+    "query": "Captain America Civil War airport battle scene"
+  },
+  {
+    "film": "Avengers: Endgame",
+    "year": 2019,
+    "scene": "Portals open: the final 'Avengers assemble' battle",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Anthony Russo, Joe Russo",
+    "craft": [
+      "DP: Trent Opaloch",
+      "Editors: Jeffrey Ford, Matthew Schmidt",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "imax",
+      "crowd simulation",
+      "motion capture",
+      "score-driven"
+    ],
+    "why": "A payoff built on score and staging: Silvestri's theme returns as portals open across a vast simulated battlefield; study how focus is handed between heroes while one clear objective, the gauntlet, keeps the chaos legible.",
+    "query": "Avengers Endgame portals scene final battle"
+  },
+  {
+    "film": "Logan",
+    "year": 2017,
+    "scene": "Forest finale: Logan and Laura vs. the Reavers",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Mangold",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Marco Beltrami"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "one vs many",
+      "real location",
+      "handheld"
+    ],
+    "why": "R-rated, close-quarters claw choreography in real forest terrain; study how Mangold frames Laura and Logan as mirrored fighters and keeps the camera on exhausted, wounded bodies rather than superhero spectacle.",
+    "query": "Logan forest fight scene Reavers"
+  },
+  {
+    "film": "Wonder Woman",
+    "year": 2017,
+    "scene": "No Man's Land",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Patty Jenkins",
+    "craft": [
+      "DP: Matthew Jensen",
+      "Composer: Rupert Gregson-Williams"
+    ],
+    "accolades": [],
+    "techniques": [
+      "trench",
+      "slow motion",
+      "wire work",
+      "cgi",
+      "score-driven"
+    ],
+    "why": "A character-defining set piece: the shield-first climb out of the trench is framed in rising compositions and speed-ramped slow motion, with the theme swelling on each beat. Study how a war landscape becomes heroic iconography.",
+    "query": "Wonder Woman No Man's Land scene"
+  },
+  {
+    "film": "Man of Steel",
+    "year": 2013,
+    "scene": "Battle of Smallville: Superman vs. Faora and Nam-Ek",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Zack Snyder",
+    "craft": [
+      "DP: Amir Mokri",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "handheld",
+      "urban combat",
+      "practical explosions"
+    ],
+    "why": "Superhuman speed is conveyed through documentary-style handheld framing and snap zooms applied to digital characters; study how impacts are sold by debris, collateral damage and camera shake rather than clean choreography.",
+    "query": "Man of Steel Smallville fight scene Faora"
+  },
+  {
+    "film": "Deadpool",
+    "year": 2016,
+    "scene": "Freeway fight and the 'twelve bullets' countdown",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Tim Miller",
+    "craft": [
+      "DP: Ken Seng",
+      "Composer: Junkie XL"
+    ],
+    "accolades": [],
+    "techniques": [
+      "slow motion",
+      "vehicle stunts",
+      "gun-fu",
+      "cgi"
+    ],
+    "why": "Freeze-frames and speed ramps turn the freeway brawl into comic-book panels; study how fourth-wall narration is cut against the action and how the on-screen bullet countdown turns gun-fu into a running gag.",
+    "query": "Deadpool highway fight scene 12 bullets"
+  },
+  {
+    "film": "The Batman",
+    "year": 2022,
+    "scene": "Batmobile vs. the Penguin highway chase",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Matt Reeves",
+    "craft": [
+      "DP: Greig Fraser",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical stunts",
+      "night",
+      "rain",
+      "fire",
+      "sound design"
+    ],
+    "why": "Muscle-car realism at ground level: tight in-car angles, the Batmobile's engine roar and rain-smeared lenses build pressure; study the upside-down POV of the Batmobile bursting through the fireball as a horror-style payoff.",
+    "query": "The Batman Batmobile chase scene Penguin"
+  },
+  {
+    "film": "X-Men: Days of Future Past",
+    "year": 2014,
+    "scene": "Quicksilver's Pentagon kitchen rescue ('Time in a Bottle')",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Bryan Singer",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "VFX: Rising Sun Pictures",
+      "Composer/Editor: John Ottman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "slow motion",
+      "cgi",
+      "score-driven",
+      "single location"
+    ],
+    "why": "High-frame-rate photography, props on rigs and VFX freeze the room while Quicksilver plays inside it; study how the needle drop sets a comic tempo and how each gag is staged for one clean read.",
+    "query": "X-Men Days of Future Past Quicksilver kitchen scene"
+  },
+  {
+    "film": "X2",
+    "year": 2003,
+    "scene": "Nightcrawler's attack on the White House",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Bryan Singer",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Composer: John Ottman"
+    ],
+    "accolades": [],
+    "techniques": [
+      "wire work",
+      "cgi",
+      "one vs many",
+      "single location",
+      "score-driven"
+    ],
+    "why": "Teleport puffs and acrobatic wire work turn White House corridors into a one-vs-many showcase; study how the Mozart Requiem and guards' panicked POVs make the attacker feel uncatchable.",
+    "query": "X2 Nightcrawler White House attack scene"
+  },
+  {
+    "film": "Black Panther",
+    "year": 2018,
+    "scene": "Ritual challenge at Warrior Falls (T'Challa vs. Killmonger)",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ryan Coogler",
+    "craft": [
+      "DP: Rachel Morrison",
+      "Composer: Ludwig Göransson",
+      "Production designer: Hannah Beachler"
+    ],
+    "accolades": [
+      "Oscar: Best Original Score",
+      "Oscar: Best Costume Design",
+      "Oscar: Best Production Design"
+    ],
+    "techniques": [
+      "duel",
+      "score-driven",
+      "practical stunts"
+    ],
+    "why": "A built cliffside set, chanting onlookers and Göransson's drums turn a brutal grappling duel into ritual theatre; study how the crowd frames the fighters and how the score shifts as the challenge turns.",
+    "query": "Black Panther Killmonger challenge waterfall fight scene"
+  },
+  {
+    "film": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "scene": "Hallway oner ('No Sleep Till Brooklyn')",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "James Gunn",
+    "craft": [
+      "DP: Henry Braham",
+      "Composer: John Murphy"
+    ],
+    "accolades": [],
+    "techniques": [
+      "oner",
+      "long take",
+      "tracking shot",
+      "cgi",
+      "score-driven"
+    ],
+    "why": "A stitched single-take tracking shot glides down a corridor as each Guardian gets a signature move; study choreography designed around the camera path and how the needle drop paces the handoffs.",
+    "query": "Guardians of the Galaxy Vol 3 hallway fight scene No Sleep Till Brooklyn"
+  },
+  {
+    "film": "Blade",
+    "year": 1998,
+    "scene": "The blood rave opening",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Stephen Norrington",
+    "craft": [
+      "Composer: Mark Isham"
+    ],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "one vs many",
+      "single location",
+      "score-driven",
+      "practical effects"
+    ],
+    "why": "Sprinklers raining blood set the tone before the hero is revealed; study the techno-driven editing tempo, the mix of martial arts and gunplay, and how Blade's entrance is withheld for maximum impact.",
+    "query": "Blade 1998 blood rave scene"
+  },
+  {
+    "film": "The Avengers",
+    "year": 2012,
+    "scene": "Battle of New York: the team-wide tracking shot",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joss Whedon",
+    "craft": [
+      "DP: Seamus McGarvey",
+      "VFX: Industrial Light & Magic",
+      "Composer: Alan Silvestri"
+    ],
+    "accolades": [],
+    "techniques": [
+      "tracking shot",
+      "oner",
+      "cgi",
+      "urban combat"
+    ],
+    "why": "A continuous virtual camera move links every Avenger across Manhattan in one shot; study how it establishes teamwork spatially and stitches live-action plates into digital environments without losing orientation.",
+    "query": "The Avengers 2012 battle of New York long take scene"
+  },
+  {
+    "film": "Superman",
+    "year": 1978,
+    "scene": "Superman's first rescue: Lois and the Daily Planet helicopter",
+    "category": "superhero",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Richard Donner",
+    "craft": [
+      "DP: Geoffrey Unsworth",
+      "Composer: John Williams"
+    ],
+    "accolades": [
+      "Oscar: Special Achievement Award (Visual Effects)"
+    ],
+    "techniques": [
+      "wire work",
+      "practical effects",
+      "score-driven"
+    ],
+    "why": "Front projection, wire flying and Williams' fanfare made audiences believe a man could fly; study the escalating reveal (revolving-door change, ascent, catch) and the comic button of the dialogue that releases the tension.",
+    "query": "Superman 1978 helicopter rescue scene"
+  },
+  {
+    "film": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "scene": "San Francisco bus fight",
+    "category": "superhero",
+    "medium": "film",
+    "country": "USA",
+    "director": "Destin Daniel Cretton",
+    "craft": [
+      "Second unit director: Brad Allan",
+      "DP: Bill Pope"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "wire work",
+      "improvised weapons",
+      "vehicle stunts"
+    ],
+    "why": "Jackie Chan-school choreography from Brad Allan's team uses the bus's poles, windows and seats as props; study how comic rhythm and stunt work integrate with the runaway vehicle as a moving, shrinking arena.",
+    "query": "Shang-Chi bus fight scene"
+  },
+  {
+    "film": "Akira",
+    "year": 1988,
+    "scene": "Opening highway chase vs. the Clowns (Kaneda's bike slide)",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Katsuhiro Otomo",
+    "craft": [
+      "Animation: Tokyo Movie Shinsha",
+      "Music: Geinoh Yamashirogumi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "night",
+      "score-driven",
+      "tracking shot"
+    ],
+    "why": "Hand-drawn light trails, dense backgrounds and Geinoh Yamashirogumi's percussive score set a benchmark; study the endlessly imitated sideways bike slide and how persistent taillights become motion design.",
+    "query": "Akira bike chase scene opening",
+    "video": "rubRpPgbY_w"
+  },
+  {
+    "film": "Ghost in the Shell",
+    "year": 1995,
+    "scene": "The Major's thermoptic-camouflage fight in the flooded square",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Mamoru Oshii",
+    "craft": [
+      "Studio: Production I.G",
+      "Composer: Kenji Kawai"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "duel",
+      "sound design"
+    ],
+    "why": "Invisibility is drawn through splashes and refraction, so the water does the choreography; study how sparse sound, stillness and the environment turn a brief chase-and-beatdown into a mood piece.",
+    "query": "Ghost in the Shell 1995 water fight scene thermoptic"
+  },
+  {
+    "film": "Princess Mononoke",
+    "year": 1997,
+    "scene": "Opening: Ashitaka vs. Nago the demon boar",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Hayao Miyazaki",
+    "craft": [
+      "Studio: Studio Ghibli",
+      "Composer: Joe Hisaishi"
+    ],
+    "accolades": [
+      "Japan Academy Prize: Picture of the Year"
+    ],
+    "techniques": [
+      "2d animation",
+      "cavalry",
+      "score-driven"
+    ],
+    "why": "Writhing hand-drawn demon tendrils, mounted archery and rapid lateral tracking through the forest; study how Miyazaki lays out a chase on horseback with clear direction of travel and climaxes on a single arrow.",
+    "query": "Princess Mononoke opening demon scene"
+  },
+  {
+    "film": "Ninja Scroll",
+    "year": 1993,
+    "scene": "Jubei vs. Tessai, the stone-skinned giant",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Yoshiaki Kawajiri",
+    "craft": [
+      "Studio: Madhouse",
+      "Composer: Kaoru Wada"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "duel",
+      "silhouette"
+    ],
+    "why": "Kawajiri's sharp silhouettes, speed lines and graphic violence defined 90s anime action; study how the hero's speed is implied by what is cut away rather than drawn, and how the weaker fighter wins through precision.",
+    "query": "Ninja Scroll Jubei vs Tessai fight scene",
+    "video": "wd1lLXbSADc"
+  },
+  {
+    "film": "Redline",
+    "year": 2009,
+    "scene": "The final Redline race on Roboworld",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Takeshi Koike",
+    "craft": [
+      "Studio: Madhouse",
+      "Composer: James Shimoji"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "score-driven"
+    ],
+    "why": "Seven years of hand-drawn production yield extreme forced perspective and squash-and-stretch speed; study how heavy black shadows, lens-like distortion and impact holds sell velocity without CG.",
+    "query": "Redline final race scene",
+    "video": "vloKqx2qGAk"
+  },
+  {
+    "film": "Attack on Titan",
+    "year": 2019,
+    "scene": "Erwin's charge and Levi vs. the Beast Titan (Season 3 Part 2)",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Tetsurō Araki (chief), Masashi Koizuka",
+    "craft": [
+      "Studio: Wit Studio",
+      "Composer: Hiroyuki Sawano"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "3d animation",
+      "one vs many",
+      "score-driven"
+    ],
+    "why": "3D-assisted camera moves follow Levi's ODM-gear arcs through a field of titans, alternating extreme speed with stillness; study how Erwin's doomed charge and Sawano's score build stakes before Levi's release.",
+    "query": "Attack on Titan Levi vs Beast Titan scene"
+  },
+  {
+    "film": "Demon Slayer: Kimetsu no Yaiba",
+    "year": 2019,
+    "scene": "Episode 19 'Hinokami': Tanjiro and Nezuko vs. Rui",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Haruo Sotozaki",
+    "craft": [
+      "Studio: ufotable",
+      "Composers: Go Shiina, Yuki Kajiura"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "3d animation",
+      "fire",
+      "score-driven"
+    ],
+    "why": "ufotable composites hand-drawn characters with ukiyo-e-styled digital water and fire effects; study the switch from water to Hinokami Kagura flames and the insert song timed to the emotional peak.",
+    "query": "Demon Slayer episode 19 Hinokami Kagura Tanjiro vs Rui"
+  },
+  {
+    "film": "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
+    "year": 2020,
+    "scene": "Rengoku vs. Akaza",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Haruo Sotozaki",
+    "craft": [
+      "Studio: ufotable",
+      "Composers: Yuki Kajiura, Go Shiina"
+    ],
+    "accolades": [
+      "Japan Academy Prize: Animation of the Year"
+    ],
+    "techniques": [
+      "2d animation",
+      "3d animation",
+      "fire",
+      "duel",
+      "night"
+    ],
+    "why": "A pre-dawn duel with orbiting 3D camera moves and flame effects layered over drawn animation; study how impact frames, speed lines and the approaching sunrise as a ticking clock pace an unwinnable fight.",
+    "query": "Mugen Train Rengoku vs Akaza fight scene"
+  },
+  {
+    "film": "Jujutsu Kaisen",
+    "year": 2021,
+    "scene": "Yuji and Todo vs. Hanami (Black Flash)",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Sunghoo Park",
+    "craft": [
+      "Studio: MAPPA"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "sound design"
+    ],
+    "why": "Tag-team choreography built around Todo's position-swapping clap means staging and editing must keep every swap legible; study the impact frames and color inversions that mark each Black Flash.",
+    "query": "Jujutsu Kaisen Yuji Todo vs Hanami Black Flash scene"
+  },
+  {
+    "film": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "scene": "'What's Up Danger' leap of faith",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "craft": [
+      "Animation: Sony Pictures Imageworks",
+      "Composer: Daniel Pemberton"
+    ],
+    "accolades": [
+      "Oscar: Best Animated Feature",
+      "Golden Globe: Best Animated Feature Film",
+      "BAFTA: Best Animated Film",
+      "Annie: Best Animated Feature"
+    ],
+    "techniques": [
+      "3d animation",
+      "2d animation",
+      "score-driven"
+    ],
+    "why": "An inverted camera makes the fall read as a rise, while animating on twos and halftone textures give CG a printed-comic feel; study how the needle drop and visual language mark Miles' transformation.",
+    "query": "Into the Spider-Verse leap of faith scene"
+  },
+  {
+    "film": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "scene": "Miles escapes the Spider-Society",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "craft": [
+      "Animation: Sony Pictures Imageworks",
+      "Composer: Daniel Pemberton"
+    ],
+    "accolades": [
+      "Annie: Best Feature"
+    ],
+    "techniques": [
+      "3d animation",
+      "2d animation",
+      "one vs many"
+    ],
+    "why": "Hundreds of Spider-People are differentiated by clashing art styles while Miles' line of flight stays readable; study color-coded staging, per-character frame rates and how the chase escalates through Spider-Society spaces.",
+    "query": "Across the Spider-Verse Miles escapes Spider Society chase scene"
+  },
+  {
+    "film": "Kung Fu Panda",
+    "year": 2008,
+    "scene": "Tai Lung's escape from Chorh-Gom Prison",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Mark Osborne, John Stevenson",
+    "craft": [
+      "Composers: Hans Zimmer, John Powell"
+    ],
+    "accolades": [
+      "Annie: Best Animated Feature"
+    ],
+    "techniques": [
+      "3d animation",
+      "one vs many",
+      "score-driven"
+    ],
+    "why": "A vertical prison lets the choreography run along a single axis of crumbling bridges, crossbow bolts and chains; study how the camera rides Tai Lung's momentum upward while the guards fall away.",
+    "query": "Kung Fu Panda Tai Lung prison escape scene"
+  },
+  {
+    "film": "The Incredibles",
+    "year": 2004,
+    "scene": "Dash's jungle chase on Nomanisan Island",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Brad Bird",
+    "craft": [
+      "Studio: Pixar Animation Studios",
+      "Composer: Michael Giacchino"
+    ],
+    "accolades": [
+      "Oscar: Best Animated Feature",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "3d animation",
+      "jungle",
+      "tracking shot",
+      "score-driven"
+    ],
+    "why": "Giacchino's brassy spy score and a low tracking camera sell Dash's speed through foliage and across water; study how Bird stages chase geography and character gags at the same tempo.",
+    "query": "The Incredibles Dash running jungle chase scene"
+  },
+  {
+    "film": "Arcane",
+    "year": 2021,
+    "scene": "Vi vs. Sevika (Act 1)",
+    "category": "animation",
+    "medium": "animation",
+    "country": "France/USA",
+    "director": "Pascal Charrue, Arnaud Delord",
+    "craft": [
+      "Studio: Fortiche"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Animated Program"
+    ],
+    "techniques": [
+      "3d animation",
+      "2d animation",
+      "duel",
+      "slow motion"
+    ],
+    "why": "Fortiche's painterly hybrid places hand-drawn smears and effects inside a CG brawl; study the weighty gauntlet-punch staging, speed ramps on key hits and how the fight expresses character more than spectacle.",
+    "query": "Arcane Vi vs Sevika fight scene",
+    "video": "kUNMucznycE"
+  },
+  {
+    "film": "Puss in Boots: The Last Wish",
+    "year": 2022,
+    "scene": "Puss vs. Death: the final duel",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Joel Crawford",
+    "craft": [
+      "Studio: DreamWorks Animation",
+      "Composer: Heitor Pereira"
+    ],
+    "accolades": [],
+    "techniques": [
+      "3d animation",
+      "2d animation",
+      "duel"
+    ],
+    "why": "Painterly 3D animated at lower frame rates during action gives each sword stroke an illustrative snap; study how the duel is staged as character resolution, ending on a choice rather than a kill.",
+    "query": "Puss in Boots The Last Wish Puss vs Death final fight"
+  },
+  {
+    "film": "Sword of the Stranger",
+    "year": 2007,
+    "scene": "Final duel: Nanashi vs. Luo-Lang",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Masahiro Andō",
+    "craft": [
+      "Studio: Bones",
+      "Composer: Naoki Satō"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "duel"
+    ],
+    "why": "Often cited as anime's finest sword fight: believable weight, footwork and blade contact animated at high drawing counts; study how tension is built through shifting distance, brief stillness and environment use.",
+    "query": "Sword of the Stranger final fight Nanashi vs Luo Lang",
+    "video": "xT66YPk0Q5w"
+  },
+  {
+    "film": "Cowboy Bebop",
+    "year": 1998,
+    "scene": "'Ballad of Fallen Angels': Spike vs. Vicious in the cathedral",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Shinichirō Watanabe",
+    "craft": [
+      "Studio: Sunrise",
+      "Composer: Yoko Kanno"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "gun-fu",
+      "slow motion",
+      "score-driven"
+    ],
+    "why": "Gunplay in a gothic cathedral climaxes with Spike's slow-motion fall through stained glass over Yoko Kanno's choral 'Green Bird'; study how music overrides diegetic sound to make action elegiac.",
+    "query": "Cowboy Bebop Ballad of Fallen Angels church fight scene"
+  },
+  {
+    "film": "One Punch Man",
+    "year": 2015,
+    "scene": "Saitama vs. Boros (season 1 finale)",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Shingo Natsume",
+    "craft": [
+      "Studio: Madhouse",
+      "Chief animation director: Chikashi Kubota"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "duel"
+    ],
+    "why": "Sakuga-heavy exchanges escalate the villain's power again and again, only for Saitama's deadpan to undercut it; study how comedic timing and spectacle share a single build-and-release structure.",
+    "query": "One Punch Man Saitama vs Boros fight",
+    "video": "ErXfj3sbIfU"
+  },
+  {
+    "film": "Avatar: The Last Airbender",
+    "year": 2008,
+    "scene": "'Sozin's Comet': Aang vs. Fire Lord Ozai",
+    "category": "animation",
+    "medium": "animation",
+    "country": "USA",
+    "director": "Michael Dante DiMartino, Bryan Konietzko (creators)",
+    "craft": [
+      "Composers: The Track Team (Jeremy Zuckerman, Benjamin Wynn)"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "duel",
+      "fire",
+      "score-driven"
+    ],
+    "why": "Bending styles derived from real martial arts give each element its own movement vocabulary; study how the fight travels through rock pillars and sky, using terrain and the Avatar State as escalation beats.",
+    "query": "Avatar Last Airbender Aang vs Ozai final battle"
+  },
+  {
+    "film": "The End of Evangelion",
+    "year": 1997,
+    "scene": "Asuka's Unit-02 vs. the Mass Production Evangelions",
+    "category": "animation",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Hideaki Anno, Kazuya Tsurumaki",
+    "craft": [
+      "Studios: Gainax, Production I.G",
+      "Composer: Shirō Sagisu"
+    ],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "one vs many",
+      "score-driven"
+    ],
+    "why": "Hand-drawn mecha combat set against classical music swings from triumphant to horrifying; study how framing, held frames and sound design flip a hero's comeback into a gruesome defeat.",
+    "query": "End of Evangelion Asuka vs Mass Production Evas fight"
+  }
+]

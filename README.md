@@ -63,3 +63,9 @@ GitHub leave it alone in transit.
 - Unreal 5 and cooked (packaged-game) assets are only partly parsed; the report says when.
   Oodle-compressed data can't be unpacked.
 - RAR support needs the `7zip-rar` package; `unar` is the fallback.
+
+---
+
+This repository also holds **[Set-Piece Vault](scene-library/)**, a browsable library of 377 great
+action, chase, war and space scenes, each cut to a 30-second YouTube window, for filmmaking
+reference. Run `scene-library/serve.sh` and open http://localhost:8000.

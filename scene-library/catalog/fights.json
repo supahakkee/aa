@@ -1,0 +1,1827 @@
+[
+  {
+    "film": "The Raid",
+    "year": 2011,
+    "scene": "Mad Dog vs. Rama and Andi",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Indonesia",
+    "director": "Gareth Evans",
+    "craft": [
+      "Fight choreographers: Iko Uwais & Yayan Ruhian",
+      "DP: Matt Flannery"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "handheld",
+      "practical stunts",
+      "wide-angle choreography"
+    ],
+    "why": "A two-on-one fight sustained for minutes in a bare room: study how mobile handheld framing follows each impact, how exhaustion is written into the choreography, and how Yayan Ruhian's relentless pressure keeps a long fight escalating.",
+    "query": "The Raid Mad Dog fight scene Rama Andi"
+  },
+  {
+    "film": "The Raid 2",
+    "year": 2014,
+    "scene": "Kitchen fight: Rama vs. The Assassin",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Indonesia",
+    "director": "Gareth Evans",
+    "craft": [
+      "Fight choreographers: Iko Uwais & Yayan Ruhian",
+      "DP: Matt Flannery"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "single location",
+      "improvised weapons",
+      "handheld",
+      "practical stunts"
+    ],
+    "why": "Karambit against improvised blades in a steel kitchen: study how the camera threads through gaps between counters, how slash geography stays readable at speed, and how the duel is built in clear phases that each raise the cost.",
+    "query": "The Raid 2 kitchen fight scene Assassin karambit"
+  },
+  {
+    "film": "John Wick: Chapter 3 – Parabellum",
+    "year": 2019,
+    "scene": "Glass room fight vs. Zero's Shinobi",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Chad Stahelski",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "techniques": [
+      "wide-angle choreography",
+      "practical stunts",
+      "color grading",
+      "single location"
+    ],
+    "why": "Wide, stable masters let full-body choreography by Yayan Ruhian and Cecep Arif Rahman play out in long takes, while glass walls multiply reflections. Note how mutual respect between fighters is expressed through pauses inside the choreography.",
+    "query": "John Wick 3 Shinobi glass fight scene"
+  },
+  {
+    "film": "Drunken Master II",
+    "year": 1994,
+    "scene": "Final factory fight vs. Ken Lo",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Lau Kar-leung",
+    "craft": [
+      "Action choreography: Lau Kar-leung & Jackie Chan Stunt Team"
+    ],
+    "accolades": [
+      "Hong Kong Film Award: Best Action Choreography"
+    ],
+    "techniques": [
+      "duel",
+      "practical stunts",
+      "fire",
+      "wide-angle choreography"
+    ],
+    "why": "Ken Lo's whipping kicks against Chan's drunken boxing: rhythm built from speed contrasts, comic beats inside brutal exchanges, and hot coals as a set-piece payoff. Wide frames and minimal cutting prove the performers did it.",
+    "query": "Drunken Master 2 final fight Ken Lo scene"
+  },
+  {
+    "film": "Wheels on Meals",
+    "year": 1984,
+    "scene": "Jackie Chan vs. Benny 'The Jet' Urquidez",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Sammo Hung",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "wide-angle choreography",
+      "practical stunts"
+    ],
+    "why": "Often called the greatest screen fight between two real fighters: a kickboxing champion's footwork against Chan's acrobatics, with tactical adjustments, breathing and real speed. Study how pacing gives a duel a story arc.",
+    "query": "Wheels on Meals Jackie Chan vs Benny Urquidez fight scene"
+  },
+  {
+    "film": "The Way of the Dragon",
+    "year": 1972,
+    "scene": "Colosseum fight vs. Chuck Norris",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Bruce Lee",
+    "craft": [
+      "Fight choreography: Bruce Lee"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "wide-angle choreography",
+      "sound design"
+    ],
+    "why": "A fight structured as a narrative: Lee loses early exchanges, adapts with footwork and rhythm, and wins by strategy. Study the ritual warm-up, the cutaway to the watching cat, and framing that keeps both fighters full-figure.",
+    "query": "Way of the Dragon Bruce Lee vs Chuck Norris Colosseum fight"
+  },
+  {
+    "film": "Enter the Dragon",
+    "year": 1973,
+    "scene": "Hall of mirrors finale vs. Han",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong/USA",
+    "director": "Robert Clouse",
+    "craft": [
+      "Fight choreography: Bruce Lee",
+      "Composer: Lalo Schifrin"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "single location",
+      "practical effects",
+      "score-driven"
+    ],
+    "why": "Mirrors fracture space: infinite reflections disorient the hero and the audience, and smashing them becomes the tactical solution. Study how the set itself is the choreography's main obstacle.",
+    "query": "Enter the Dragon hall of mirrors fight scene"
+  },
+  {
+    "film": "Fist of Legend",
+    "year": 1994,
+    "scene": "Chen Zhen vs. Funakoshi (blindfold fight)",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Gordon Chan",
+    "craft": [
+      "Action choreography: Yuen Woo-ping"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "wire work",
+      "wide-angle choreography"
+    ],
+    "why": "Yuen Woo-ping builds the duel around ideas (distance, rhythm, fighting blind) rather than moves alone. Jet Li's speed and economy show the modern hybrid style that Hollywood later borrowed for The Matrix.",
+    "query": "Fist of Legend Jet Li blindfold fight Funakoshi"
+  },
+  {
+    "film": "Once Upon a Time in China",
+    "year": 1991,
+    "scene": "Ladder fight: Wong Fei-hung vs. Master Yim",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Tsui Hark",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "wire work",
+      "improvised weapons",
+      "single location"
+    ],
+    "why": "Wire work used for vertical choreography: ladders become weapons, platforms and shifting terrain. Study how Tsui Hark uses the warehouse's height to escalate a duel and cuts on impact to keep it kinetic.",
+    "query": "Once Upon a Time in China ladder fight scene Jet Li"
+  },
+  {
+    "film": "Ip Man",
+    "year": 2008,
+    "scene": "\"I want to fight ten\" dojo fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Wilson Yip",
+    "craft": [
+      "Action choreography: Sammo Hung",
+      "Composer: Kenji Kawai"
+    ],
+    "accolades": [
+      "Hong Kong Film Award: Best Film",
+      "Hong Kong Film Award: Best Action Choreography"
+    ],
+    "techniques": [
+      "one vs many",
+      "single location",
+      "slow motion"
+    ],
+    "why": "Wing Chun as catharsis: a restrained build, a wide shot of encirclement, then rapid chain-punch inserts. Study how the style's centerline logic stays readable while the cutting expresses controlled rage.",
+    "query": "Ip Man I want to fight 10 scene"
+  },
+  {
+    "film": "Flash Point",
+    "year": 2007,
+    "scene": "Final fight: Ma Jun vs. Tony (Collin Chou)",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Wilson Yip",
+    "craft": [
+      "Action choreography: Donnie Yen"
+    ],
+    "accolades": [
+      "Hong Kong Film Award: Best Action Choreography"
+    ],
+    "techniques": [
+      "duel",
+      "practical stunts",
+      "wide-angle choreography"
+    ],
+    "why": "An early MMA-influenced screen fight mixing strikes with takedowns, armbars and ground-and-pound. Study how Yen finds clear angles for grappling, which is notoriously hard to film, and how unwired slams carry weight.",
+    "query": "Flash Point Donnie Yen vs Collin Chou final fight"
+  },
+  {
+    "film": "Tom-Yum-Goong (The Protector)",
+    "year": 2005,
+    "scene": "Spiral staircase one-take fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Thailand",
+    "director": "Prachya Pinkaew",
+    "craft": [
+      "Fight choreography: Panna Rittikrai"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "oner",
+      "tracking shot",
+      "one vs many",
+      "practical stunts"
+    ],
+    "why": "A roughly four-minute single take climbing a restaurant's spiral ramp: choreography designed around the camera's ascent, attackers fed into frame on cue and thrown over railings. A lesson in blocking a oner vertically.",
+    "query": "Tom Yum Goong one take staircase fight scene"
+  },
+  {
+    "film": "Oldboy",
+    "year": 2003,
+    "scene": "Corridor hammer fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Park Chan-wook",
+    "craft": [
+      "DP: Chung Chung-hoon",
+      "Composer: Jo Yeong-wook"
+    ],
+    "accolades": [
+      "Cannes: Grand Prix"
+    ],
+    "techniques": [
+      "long take",
+      "tracking shot",
+      "one vs many",
+      "improvised weapons",
+      "single location"
+    ],
+    "why": "A lateral tracking shot in one take that flattens the fight into a side-scrolling tableau. Study the messy, exhausted choreography, the knife left in his back, and the strings that give brutality a tragic register.",
+    "query": "Oldboy hallway hammer fight scene"
+  },
+  {
+    "film": "The Matrix",
+    "year": 1999,
+    "scene": "Subway fight: Neo vs. Agent Smith",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA/Australia",
+    "director": "The Wachowskis",
+    "craft": [
+      "Fight choreographer: Yuen Woo-ping",
+      "DP: Bill Pope",
+      "Editor: Zach Staenberg"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "duel",
+      "wire work",
+      "slow motion",
+      "cgi",
+      "sound design"
+    ],
+    "why": "Western-standoff staging married to Hong Kong wire work: study how the empty platform sets clean geography, how slow-motion punch exchanges punctuate the speed, and how layered impact sound gives a digital-era fight physical weight.",
+    "query": "The Matrix subway fight Neo vs Agent Smith"
+  },
+  {
+    "film": "The Bourne Ultimatum",
+    "year": 2007,
+    "scene": "Tangier apartment fight vs. Desh",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Paul Greengrass",
+    "craft": [
+      "Fight coordinator: Jeff Imada",
+      "DP: Oliver Wood",
+      "Editor: Christopher Rouse"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "handheld",
+      "shaky cam",
+      "improvised weapons",
+      "single location"
+    ],
+    "why": "Defined 2000s fight grammar: handheld, fragmentary coverage cut for impact and disorientation, with a book and a towel as weapons. Study how sparse scoring lets breathing and impacts carry the scene.",
+    "query": "Bourne Ultimatum Tangier fight scene Desh"
+  },
+  {
+    "film": "Daredevil",
+    "year": 2015,
+    "scene": "Hallway fight (S1E2 'Cut Man')",
+    "category": "hand-to-hand",
+    "medium": "series",
+    "country": "USA",
+    "director": "Phil Abraham",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "oner",
+      "single location",
+      "one vs many",
+      "practical stunts"
+    ],
+    "why": "A TV-budget oner that sells exhaustion: Murdock stumbles, leans on walls and absorbs hits while the camera tracks along the corridor and doorways feed in attackers. Character told through fatigue.",
+    "query": "Daredevil hallway fight scene season 1"
+  },
+  {
+    "film": "Atomic Blonde",
+    "year": 2017,
+    "scene": "Stairwell fight 'single take'",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA/Germany",
+    "director": "David Leitch",
+    "craft": [
+      "DP: Jonathan Sela",
+      "Stunt coordinator: Sam Hargrave"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "oner",
+      "handheld",
+      "improvised weapons",
+      "practical stunts"
+    ],
+    "why": "A stitched continuous take through stairwell and apartment where fatigue accumulates: both fighters slow, gasp and stagger. Study the hidden stitches, a camera that travels between floors, and choreography built on desperation.",
+    "query": "Atomic Blonde stairwell fight scene one take"
+  },
+  {
+    "film": "Haywire",
+    "year": 2011,
+    "scene": "Dublin hotel room fight: Mallory vs. Paul",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Soderbergh",
+    "craft": [
+      "DP: Peter Andrews (Steven Soderbergh)",
+      "Composer: David Holmes"
+    ],
+    "accolades": [],
+    "techniques": [
+      "wide-angle choreography",
+      "single location",
+      "practical stunts",
+      "sound design"
+    ],
+    "why": "Soderbergh drops the score and holds wide, stable frames so Gina Carano's real MMA technique reads in full; furniture and body impacts become the soundtrack. A pointed counterexample to shaky-cam fight coverage.",
+    "query": "Haywire hotel fight scene Gina Carano Fassbender"
+  },
+  {
+    "film": "The Night Comes for Us",
+    "year": 2018,
+    "scene": "Final fight: Ito vs. Arian",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "Indonesia",
+    "director": "Timo Tjahjanto",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "improvised weapons",
+      "practical effects",
+      "single location"
+    ],
+    "why": "Box cutters, broken objects and fists in a close-quarters duel between Joe Taslim and Iko Uwais: study how each new improvised weapon opens a new phase, and how extreme practical gore makes every exchange cost something.",
+    "query": "The Night Comes for Us final fight Joe Taslim Iko Uwais"
+  },
+  {
+    "film": "Kill Bill: Volume 1",
+    "year": 2003,
+    "scene": "The House of Blue Leaves: Crazy 88 fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Quentin Tarantino",
+    "craft": [
+      "Fight choreographer: Yuen Woo-ping",
+      "DP: Robert Richardson",
+      "Editor: Sally Menke"
+    ],
+    "accolades": [],
+    "techniques": [
+      "one vs many",
+      "color grading",
+      "silhouette",
+      "practical effects",
+      "wire work"
+    ],
+    "why": "A genre-mixing set piece: the switch to black-and-white, then blue-backed silhouettes, an overhead glass-floor shot, and practical blood geysers. Study how a one-vs-many fight is paced like a sequence of musical movements.",
+    "query": "Kill Bill Crazy 88 fight scene House of Blue Leaves"
+  },
+  {
+    "film": "Kingsman: The Secret Service",
+    "year": 2014,
+    "scene": "Church massacre",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Matthew Vaughn",
+    "craft": [
+      "Fight choreographer: Brad Allan",
+      "DP: George Richmond",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "score-driven",
+      "cgi",
+      "one vs many",
+      "improvised weapons"
+    ],
+    "why": "Cut to 'Free Bird', the scene fakes a continuous take with whip-pans and digital stitches. Study how speed ramps and choreography sync to the guitar solo, turning chaos into rhythm.",
+    "query": "Kingsman church fight scene Free Bird"
+  },
+  {
+    "film": "Eastern Promises",
+    "year": 2007,
+    "scene": "Bathhouse fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "UK/Canada",
+    "director": "David Cronenberg",
+    "craft": [
+      "DP: Peter Suschitzky",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "practical effects",
+      "sound design"
+    ],
+    "why": "Nakedness as vulnerability: Viggo Mortensen fights two knife-armed men unclothed on hard tile. Cronenberg shoots clear mid-shots with little music, so wet skin, blades and impacts make it unbearably physical.",
+    "query": "Eastern Promises bathhouse fight scene",
+    "video": "-JBot7oQuKM"
+  },
+  {
+    "film": "Nobody",
+    "year": 2021,
+    "scene": "Bus fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ilya Naishuller",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "improvised weapons",
+      "one vs many",
+      "practical stunts"
+    ],
+    "why": "A confined fight that tells character: Hutch is rusty, gets hurt and improvises. Study how the narrow aisle dictates blocking, how mistakes are written into the choreography, and how small props pay off.",
+    "query": "Nobody bus fight scene Bob Odenkirk"
+  },
+  {
+    "film": "Extraction",
+    "year": 2020,
+    "scene": "Dhaka 'one-take' chase and fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Sam Hargrave",
+    "craft": [
+      "DP: Newton Thomas Sigel"
+    ],
+    "accolades": [],
+    "techniques": [
+      "oner",
+      "long take",
+      "vehicle stunts",
+      "handheld",
+      "practical stunts"
+    ],
+    "why": "A stitched multi-minute 'oner' moving from car chase to foot pursuit to hand-to-hand: study the hidden stitches, a camera that passes between vehicles, and choreography adapted to stay inside a single moving lens.",
+    "query": "Extraction one take scene Dhaka"
+  },
+  {
+    "film": "Mission: Impossible – Fallout",
+    "year": 2018,
+    "scene": "Grand Palais bathroom fight",
+    "category": "hand-to-hand",
+    "medium": "film",
+    "country": "USA",
+    "director": "Christopher McQuarrie",
+    "craft": [
+      "DP: Rob Hardy",
+      "Editor: Eddie Hamilton",
+      "Stunt coordinator: Wade Eastwood"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "practical stunts",
+      "improvised weapons",
+      "sound design"
+    ],
+    "why": "A three-way fight in a tiled bathroom where fighting styles reveal personality: Walker's brute force, Hunt's scrappiness, the opponent's precision. Study how breaking fixtures escalates stakes and how the edit keeps three bodies legible.",
+    "query": "Mission Impossible Fallout bathroom fight scene"
+  },
+  {
+    "film": "Seven Samurai",
+    "year": 1954,
+    "scene": "Final battle in the rain",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Akira Kurosawa",
+    "craft": [
+      "DP: Asakazu Nakai",
+      "Composer: Fumio Hayasaka"
+    ],
+    "accolades": [
+      "Venice: Silver Lion"
+    ],
+    "techniques": [
+      "rain",
+      "siege",
+      "cavalry",
+      "multi-camera",
+      "telephoto"
+    ],
+    "why": "Multiple cameras with long lenses compress mud, rain and horses into chaos that still reads. Study how Kurosawa intercuts strategy with fragmentary violence, and how the established village map anchors the geography.",
+    "query": "Seven Samurai final battle rain scene"
+  },
+  {
+    "film": "Yojimbo",
+    "year": 1961,
+    "scene": "\"Two coffins... maybe three\" first swordfight",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Akira Kurosawa",
+    "craft": [
+      "DP: Kazuo Miyagawa",
+      "Composer: Masaru Sato"
+    ],
+    "accolades": [
+      "Venice: Volpi Cup for Best Actor"
+    ],
+    "techniques": [
+      "one vs many",
+      "sound design",
+      "telephoto"
+    ],
+    "why": "Violence as punctuation: a long build of stillness, swagger and wind, then a fight lasting seconds. Study the widescreen composition, the blunt cutting sound, and the dry-humor payoff with the coffin maker.",
+    "query": "Yojimbo two coffins scene Mifune sword fight"
+  },
+  {
+    "film": "Sanjuro",
+    "year": 1962,
+    "scene": "Final duel: Sanjuro vs. Hanbei",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Akira Kurosawa",
+    "craft": [
+      "Composer: Masaru Sato"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "practical effects",
+      "long take"
+    ],
+    "why": "A long motionless staredown, then a single draw and a pressurized blood geyser. The definitive lesson in tension through stillness and a practical effect timed for shock.",
+    "query": "Sanjuro final duel blood scene"
+  },
+  {
+    "film": "Harakiri",
+    "year": 1962,
+    "scene": "Tsugumo vs. Omodaka duel in the windswept field",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Masaki Kobayashi",
+    "craft": [
+      "DP: Yoshio Miyajima",
+      "Composer: Toru Takemitsu"
+    ],
+    "accolades": [
+      "Cannes: Jury Special Prize"
+    ],
+    "techniques": [
+      "duel",
+      "real location",
+      "tracking shot",
+      "sound design"
+    ],
+    "why": "A duel where the environment does the dramatic work: wind-whipped grass, racing clouds, formal compositions and Takemitsu's percussive score. Study how Kobayashi uses camera movement and weather to externalize tension.",
+    "query": "Harakiri 1962 duel scene field wind"
+  },
+  {
+    "film": "The Sword of Doom",
+    "year": 1966,
+    "scene": "Shimada's swordfight in the snow",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Kihachi Okamoto",
+    "craft": [
+      "Composer: Masaru Sato"
+    ],
+    "accolades": [],
+    "techniques": [
+      "snow",
+      "one vs many",
+      "duel"
+    ],
+    "why": "Toshiro Mifune cuts through a band of assassins in falling snow with a still, centered calm. Study how Okamoto stages a group attack around one immovable figure, and how the watching Ryunosuke reframes the violence.",
+    "query": "Sword of Doom Mifune snow fight scene"
+  },
+  {
+    "film": "Zatoichi",
+    "year": 2003,
+    "scene": "Zatoichi vs. Hattori duel",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Takeshi Kitano",
+    "craft": [
+      "DP: Katsumi Yanagijima",
+      "Composer: Keiichi Suzuki"
+    ],
+    "accolades": [
+      "Venice: Silver Lion for Best Director"
+    ],
+    "techniques": [
+      "duel",
+      "cgi",
+      "sound design"
+    ],
+    "why": "Kitano shows the duel as imagined anticipation before the real thing, so the lesson is how prediction becomes action. Study ultra-economical single-stroke kills, stylized digital blood, and rhythmic sound design.",
+    "query": "Zatoichi 2003 final duel Hattori Tadanobu Asano"
+  },
+  {
+    "film": "13 Assassins",
+    "year": 2010,
+    "scene": "Ochiai village battle",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan/UK",
+    "director": "Takashi Miike",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "one vs many",
+      "siege",
+      "practical effects",
+      "fire"
+    ],
+    "why": "A battle sustained for most of an act through clear spatial design: a booby-trapped village, traps that mark escalating phases, and attrition that turns fatigue into drama. Study how Miike rotates characters to keep stakes legible.",
+    "query": "13 Assassins final battle scene"
+  },
+  {
+    "film": "Rurouni Kenshin: The Legend Ends",
+    "year": 2014,
+    "scene": "Shipboard finale vs. Shishio",
+    "category": "blades",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Keishi Ōtomo",
+    "craft": [
+      "Action director: Kenji Tanigaki"
+    ],
+    "accolades": [],
+    "techniques": [
+      "wire work",
+      "fire",
+      "practical stunts",
+      "one vs many"
+    ],
+    "why": "Kenji Tanigaki fuses Hong Kong speed with Japanese sword forms: study the burning ship set, four heroes entering the fight in phases, and Takeru Satoh's sprinting, wall-running style that redefined live-action sword choreography.",
+    "query": "Rurouni Kenshin The Legend Ends Shishio final fight"
+  },
+  {
+    "film": "A Touch of Zen",
+    "year": 1971,
+    "scene": "Bamboo forest fight",
+    "category": "blades",
+    "medium": "film",
+    "country": "Taiwan",
+    "director": "King Hu",
+    "craft": [
+      "Action choreography: Han Ying-chieh"
+    ],
+    "accolades": [
+      "Cannes: Technical Grand Prize"
+    ],
+    "techniques": [
+      "wire work",
+      "real location",
+      "montage"
+    ],
+    "why": "King Hu builds flight through editing: fragmented shots, trampoline leaps and fast cuts through a real bamboo grove create weightlessness. The direct ancestor of every wuxia bamboo duel that followed.",
+    "query": "A Touch of Zen bamboo forest fight scene"
+  },
+  {
+    "film": "Crouching Tiger, Hidden Dragon",
+    "year": 2000,
+    "scene": "Yu Shu Lien vs. Jen Yu courtyard weapons duel",
+    "category": "blades",
+    "medium": "film",
+    "country": "Taiwan/China/Hong Kong/USA",
+    "director": "Ang Lee",
+    "craft": [
+      "Fight choreographer: Yuen Woo-ping",
+      "DP: Peter Pau",
+      "Composer: Tan Dun"
+    ],
+    "accolades": [
+      "Oscar: Best Foreign Language Film",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Art Direction",
+      "Oscar: Best Original Score"
+    ],
+    "techniques": [
+      "duel",
+      "wire work",
+      "score-driven"
+    ],
+    "why": "Character through weapons: Shu Lien cycles through sabre, spear, hook swords and more while Jen's Green Destiny defeats each, so props tell the story. Study the percussive score and clean geography of the training hall.",
+    "query": "Crouching Tiger Hidden Dragon Shu Lien vs Jen fight scene"
+  },
+  {
+    "film": "Hero",
+    "year": 2002,
+    "scene": "Flying Snow vs. Moon in the autumn forest",
+    "category": "blades",
+    "medium": "film",
+    "country": "China/Hong Kong",
+    "director": "Zhang Yimou",
+    "craft": [
+      "DP: Christopher Doyle",
+      "Action choreography: Ching Siu-tung",
+      "Composer: Tan Dun"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "color grading",
+      "wire work",
+      "slow motion"
+    ],
+    "why": "Color as structure: swirling yellow leaves become part of the choreography, and the palette turns red at the climax. Study how Doyle and Zhang design an entire duel around color, wind and slow motion.",
+    "query": "Hero 2002 Flying Snow vs Moon fight autumn leaves"
+  },
+  {
+    "film": "Kill Bill: Volume 1",
+    "year": 2003,
+    "scene": "O-Ren Ishii snow garden duel",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA",
+    "director": "Quentin Tarantino",
+    "craft": [
+      "DP: Robert Richardson",
+      "Editor: Sally Menke"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "snow",
+      "score-driven"
+    ],
+    "why": "After the frenzy of the Crazy 88, Tarantino resets to stillness and falling snow: a formal duel in a Japanese garden, a flamenco-disco drive on the soundtrack, and a single decisive stroke. A lesson in tonal contrast.",
+    "query": "Kill Bill O-Ren Ishii snow fight scene",
+    "video": "LdyEhWuNtNE"
+  },
+  {
+    "film": "The Duellists",
+    "year": 1977,
+    "scene": "D'Hubert vs. Feraud sabre duels",
+    "category": "blades",
+    "medium": "film",
+    "country": "UK",
+    "director": "Ridley Scott",
+    "craft": [
+      "Fight arranger: William Hobbs",
+      "DP: Frank Tidy"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "real location",
+      "cavalry"
+    ],
+    "why": "William Hobbs's historically grounded fencing shows duels exhausting the men: lunges get sloppy, breath runs short. Scott frames it with painterly natural light so period authenticity becomes part of the choreography.",
+    "query": "The Duellists sword fight scene Ridley Scott"
+  },
+  {
+    "film": "Rob Roy",
+    "year": 1995,
+    "scene": "Final duel: Rob Roy vs. Cunningham",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Michael Caton-Jones",
+    "craft": [
+      "Fight arranger: William Hobbs"
+    ],
+    "accolades": [
+      "BAFTA: Best Actor in a Supporting Role"
+    ],
+    "techniques": [
+      "duel",
+      "practical stunts"
+    ],
+    "why": "Broadsword against smallsword: Hobbs builds the fight on weapon contrast, Cunningham's speed versus Rob Roy's weight, and lets the hero lose almost the whole fight so the final reversal is earned.",
+    "query": "Rob Roy final sword fight Cunningham"
+  },
+  {
+    "film": "The Princess Bride",
+    "year": 1987,
+    "scene": "Inigo vs. the Man in Black on the Cliffs of Insanity",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA",
+    "director": "Rob Reiner",
+    "craft": [
+      "Sword master: Bob Anderson"
+    ],
+    "accolades": [
+      "Hugo: Best Dramatic Presentation"
+    ],
+    "techniques": [
+      "duel",
+      "real location"
+    ],
+    "why": "Dialogue-driven swordplay: the actors do their own fencing (doubles only for the flips) while discussing fencing masters, and each hand switch is a story beat. Comedy, character and technique share every exchange.",
+    "query": "Princess Bride Inigo Montoya Man in Black sword fight"
+  },
+  {
+    "film": "The Adventures of Robin Hood",
+    "year": 1938,
+    "scene": "Robin vs. Sir Guy castle duel",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Curtiz & William Keighley",
+    "craft": [
+      "Composer: Erich Wolfgang Korngold"
+    ],
+    "accolades": [
+      "Oscar: Best Art Direction",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score"
+    ],
+    "techniques": [
+      "duel",
+      "silhouette",
+      "score-driven"
+    ],
+    "why": "Technicolor swashbuckling at its peak: the duel ranges across hall and staircase and climaxes in giant shadows thrown on pillars. Study how Korngold's score mirrors the blade work beat for beat.",
+    "query": "The Adventures of Robin Hood 1938 sword fight Guy of Gisbourne"
+  },
+  {
+    "film": "Star Wars: Episode I – The Phantom Menace",
+    "year": 1999,
+    "scene": "Duel of the Fates",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA",
+    "director": "George Lucas",
+    "craft": [
+      "Sword master: Nick Gillard",
+      "Composer: John Williams"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "score-driven",
+      "cgi",
+      "wire work"
+    ],
+    "why": "A two-on-one lightsaber fight conceived as a high-speed dance: Ray Park's martial-arts acrobatics, a double-bladed saber, and the laser-gate pause that resets tension. Study how Williams's choral cue structures the cut.",
+    "query": "Star Wars Duel of the Fates lightsaber fight scene"
+  },
+  {
+    "film": "The Last Duel",
+    "year": 2021,
+    "scene": "Trial by combat: Carrouges vs. Le Gris",
+    "category": "blades",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Ridley Scott",
+    "craft": [
+      "DP: Dariusz Wolski"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "cavalry",
+      "practical stunts",
+      "real location"
+    ],
+    "why": "A medieval duel staged for weight and authenticity: lances, axes, then a grueling dismounted grapple in mud and armor. Study the cutaways to Marguerite and how the fight degrades from ceremony into desperate wrestling.",
+    "query": "The Last Duel final duel scene",
+    "video": "R6vk9A7Ymf8"
+  },
+  {
+    "film": "Shōgun",
+    "year": 2024,
+    "scene": "Mariko's naginata stand at Osaka Castle (Ep. 9 'Crimson Sky')",
+    "category": "blades",
+    "medium": "series",
+    "country": "USA",
+    "director": "Created by Rachel Kondo & Justin Marks",
+    "craft": [],
+    "accolades": [
+      "Emmy: Outstanding Drama Series",
+      "Golden Globe: Best Television Series – Drama"
+    ],
+    "techniques": [
+      "one vs many",
+      "practical stunts",
+      "score-driven"
+    ],
+    "why": "A fight that is pure character: Mariko's skill with the naginata is real, but the scene is about honor and defiance. Study restraint in coverage, formal composition at the gate, and the shift from combat into ritual.",
+    "query": "Shogun Mariko naginata fight scene episode 9"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2014,
+    "scene": "Oberyn Martell vs. The Mountain (S4E8 'The Mountain and the Viper')",
+    "category": "blades",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Alex Graves",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "practical effects"
+    ],
+    "why": "Spear against greatsword: Oberyn's mobile, theatrical spearwork versus the Mountain's brute reach, intercut with crowd reactions that make overconfidence the plot device. A study in how choreography can carry a twist.",
+    "query": "Game of Thrones Oberyn vs Mountain fight scene"
+  },
+  {
+    "film": "Raging Bull",
+    "year": 1980,
+    "scene": "LaMotta vs. Sugar Ray Robinson final bout",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Martin Scorsese",
+    "craft": [
+      "DP: Michael Chapman",
+      "Editor: Thelma Schoonmaker"
+    ],
+    "accolades": [
+      "Oscar: Best Actor",
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "slow motion",
+      "sound design",
+      "pov",
+      "practical effects"
+    ],
+    "why": "Shot from inside the ring with shifting frame rates, a ring that changes size, and animal-like sound design. Study how each fight is designed differently and how Robinson's final assault becomes a near-religious ordeal.",
+    "query": "Raging Bull final fight Sugar Ray Robinson scene"
+  },
+  {
+    "film": "Rocky",
+    "year": 1976,
+    "scene": "Final fight vs. Apollo Creed",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "John G. Avildsen",
+    "craft": [
+      "DP: James Crabe",
+      "Editors: Richard Halsey & Scott Conrad",
+      "Composer: Bill Conti"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "montage",
+      "score-driven",
+      "handheld"
+    ],
+    "why": "A fight structured around an underdog's emotional arc rather than realism: rounds compressed by montage, Conti's score swelling on knockdowns, and choreography written round by round. The template for every sports climax since.",
+    "query": "Rocky 1976 final fight Apollo Creed scene"
+  },
+  {
+    "film": "Rocky IV",
+    "year": 1985,
+    "scene": "Rocky vs. Drago in Moscow",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Sylvester Stallone",
+    "craft": [
+      "Composer: Vince DiCola"
+    ],
+    "accolades": [],
+    "techniques": [
+      "montage",
+      "score-driven",
+      "slow motion",
+      "sound design"
+    ],
+    "why": "Music-video-era fight grammar: rapid montage, slow-motion impacts and a synth score. Study the exaggerated hit sound design and how a crowd's changing allegiance is used as the scene's turning point.",
+    "query": "Rocky IV Rocky vs Drago final fight scene"
+  },
+  {
+    "film": "Creed",
+    "year": 2015,
+    "scene": "One-take round vs. Leo Sporino",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ryan Coogler",
+    "craft": [
+      "DP: Maryse Alberti",
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [
+      "Golden Globe: Best Supporting Actor – Motion Picture"
+    ],
+    "techniques": [
+      "long take",
+      "oner",
+      "tracking shot",
+      "practical stunts"
+    ],
+    "why": "A full round in one unbroken take: the camera circles inside the ring, slips between fighters and drifts to the corner, making real stamina visible. A masterclass in choreographing actors and camera as one.",
+    "query": "Creed one take fight scene Leo Sporino"
+  },
+  {
+    "film": "Million Dollar Baby",
+    "year": 2004,
+    "scene": "Title fight vs. Billie 'The Blue Bear'",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Clint Eastwood",
+    "craft": [
+      "DP: Tom Stern"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Actress",
+      "Oscar: Best Supporting Actor"
+    ],
+    "techniques": [
+      "low-key lighting",
+      "practical stunts",
+      "sound design"
+    ],
+    "why": "Tom Stern's deep shadows and spare coverage make the ring mythic. Study how the edit plants the stool, withholds the illegal blow, and lets silence follow the impact.",
+    "query": "Million Dollar Baby Billie Blue Bear fight scene"
+  },
+  {
+    "film": "Warrior",
+    "year": 2011,
+    "scene": "Final bout: Brendan vs. Tommy",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Gavin O'Connor",
+    "craft": [
+      "DP: Masanobu Takayanagi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "score-driven",
+      "practical stunts"
+    ],
+    "why": "An MMA fight driven entirely by brotherhood: handheld coverage stays tight on faces, the submission becomes an act of love, and a song replaces crowd noise at the climax. Study how sound strips spectacle back to emotion.",
+    "query": "Warrior final fight Tommy Brendan scene"
+  },
+  {
+    "film": "Cinderella Man",
+    "year": 2005,
+    "scene": "Braddock vs. Max Baer title fight",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ron Howard",
+    "craft": [
+      "DP: Salvatore Totino"
+    ],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "pov",
+      "practical stunts",
+      "sound design"
+    ],
+    "why": "Period boxing with modern immediacy: subjective POV shots, flashbulb moments and cutaways to radio listeners. Study how the edit balances 15-round realism with an underdog's emotional cadence.",
+    "query": "Cinderella Man Braddock vs Baer final fight scene"
+  },
+  {
+    "film": "The Fighter",
+    "year": 2010,
+    "scene": "Micky Ward vs. Shea Neary title fight",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "David O. Russell",
+    "craft": [
+      "DP: Hoyte van Hoytema"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Supporting Actress"
+    ],
+    "techniques": [
+      "broadcast video look",
+      "handheld",
+      "practical stunts"
+    ],
+    "why": "Fights are shot to mimic 1990s TV-boxing coverage, with period video cameras and broadcast-style angles. Study how borrowing a familiar broadcast grammar makes staged fights feel like archival footage.",
+    "query": "The Fighter Micky Ward vs Shea Neary fight scene",
+    "video": "MOYzI0f83mI"
+  },
+  {
+    "film": "Ali",
+    "year": 2001,
+    "scene": "Rumble in the Jungle vs. George Foreman",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Mann",
+    "craft": [
+      "DP: Emmanuel Lubezki"
+    ],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "slow motion",
+      "pov",
+      "sound design"
+    ],
+    "why": "Mann puts the camera inside the ropes at fighter's eye level. Study how rope-a-dope is told through tempo changes, and how near-silence and slow motion isolate the knockout.",
+    "query": "Ali 2001 Rumble in the Jungle Foreman fight scene",
+    "video": "AUZqcXTR6wo"
+  },
+  {
+    "film": "Bloodsport",
+    "year": 1988,
+    "scene": "Kumite final: Frank Dux vs. Chong Li",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Newt Arnold",
+    "craft": [
+      "Composer: Paul Hertzog"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "slow motion",
+      "score-driven"
+    ],
+    "why": "The template for tournament finales: slow-motion repeats of signature moves, the blinded-fighter reversal, and a pulsing synth score. Study how repetition and crowd cutaways turn a simple duel into ritual.",
+    "query": "Bloodsport final fight Chong Li scene"
+  },
+  {
+    "film": "Body and Soul",
+    "year": 1947,
+    "scene": "Final championship fight",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Robert Rossen",
+    "craft": [
+      "DP: James Wong Howe"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing"
+    ],
+    "techniques": [
+      "handheld",
+      "pov",
+      "tracking shot"
+    ],
+    "why": "James Wong Howe shot inside the ring handheld while on roller skates, decades before Steadicam, giving a 1947 bout newsreel immediacy. Study the subjective punches and sweat-and-grime realism.",
+    "query": "Body and Soul 1947 boxing fight scene"
+  },
+  {
+    "film": "The Set-Up",
+    "year": 1949,
+    "scene": "Stoker Thompson's four-round fight",
+    "category": "boxing",
+    "medium": "film",
+    "country": "USA",
+    "director": "Robert Wise",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "cross-cutting",
+      "sound design"
+    ],
+    "why": "Told in real time, the bout is intercut with grotesque spectator close-ups that indict the crowd. Study how blow-by-blow realism and audience reaction carry the film's theme.",
+    "query": "The Set-Up 1949 boxing fight scene"
+  },
+  {
+    "film": "Ashita no Joe 2",
+    "year": 1980,
+    "scene": "Joe vs. José Mendoza and the 'white ash' ending",
+    "category": "boxing",
+    "medium": "anime",
+    "country": "Japan",
+    "director": "Osamu Dezaki",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "2d animation",
+      "slow motion",
+      "montage"
+    ],
+    "why": "Dezaki's painted 'postcard memory' freeze frames, repeated triple-take cuts and split screens turn a 15-round fight into elegy, ending on one of anime's most famous still images.",
+    "query": "Ashita no Joe 2 final fight Jose Mendoza",
+    "video": "aBJxRfnrSgM"
+  },
+  {
+    "film": "Heat",
+    "year": 1995,
+    "scene": "Downtown LA bank-robbery shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Mann",
+    "craft": [
+      "DP: Dante Spinotti",
+      "Composer: Elliot Goldenthal"
+    ],
+    "accolades": [],
+    "techniques": [
+      "urban combat",
+      "real location",
+      "sound design",
+      "handheld",
+      "practical effects"
+    ],
+    "why": "Gunfire recorded on location echoes off downtown towers. Study how Mann stages fire-and-maneuver tactics, keeps geography clear across city blocks, and lets the sound mix, not the score, generate the terror.",
+    "query": "Heat bank shootout scene 1995"
+  },
+  {
+    "film": "Hard Boiled",
+    "year": 1992,
+    "scene": "Teahouse shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "John Woo",
+    "craft": [
+      "Action director: Philip Kwok"
+    ],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "slow motion",
+      "practical effects",
+      "single location"
+    ],
+    "why": "The opener that teaches gun-fu grammar: slow-motion dives, a banister slide while firing, squibs everywhere and birdcages caught in the crossfire. Study how wide masters alternate with operatic close-ups.",
+    "query": "Hard Boiled teahouse shootout scene"
+  },
+  {
+    "film": "Hard Boiled",
+    "year": 1992,
+    "scene": "Hospital one-take shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "John Woo",
+    "craft": [
+      "Action director: Philip Kwok"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "oner",
+      "tracking shot",
+      "one vs many",
+      "practical effects"
+    ],
+    "why": "A nearly three-minute unbroken take across hospital corridors and an elevator ride: squibs, stunt falls and reloads timed to the camera. Study how blocking feeds enemies into frame and how the lift hides a set change.",
+    "query": "Hard Boiled hospital long take scene"
+  },
+  {
+    "film": "The Killer",
+    "year": 1989,
+    "scene": "Church shootout finale",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "John Woo",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "slow motion",
+      "practical effects",
+      "one vs many"
+    ],
+    "why": "Heroic bloodshed's defining finale: doves, candles, a shattered Madonna and squib-heavy slow motion. Study how Woo cuts between two partners fighting side by side and how religious iconography turns a shootout into opera.",
+    "query": "The Killer 1989 church shootout scene",
+    "video": "dtuWGO6JD38"
+  },
+  {
+    "film": "A Better Tomorrow",
+    "year": 1986,
+    "scene": "Mark's restaurant revenge (guns in the flower pots)",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "John Woo",
+    "craft": [],
+    "accolades": [
+      "Hong Kong Film Award: Best Film",
+      "Hong Kong Film Award: Best Actor"
+    ],
+    "techniques": [
+      "gun-fu",
+      "slow motion",
+      "single location",
+      "one vs many"
+    ],
+    "why": "Chow Yun-fat hides pistols in plant pots along a corridor, then returns to use them: study how planted setups pay off in action, and how coat, swagger and dual-wielding created the gun-fu template.",
+    "query": "A Better Tomorrow restaurant shootout Mark flower pots"
+  },
+  {
+    "film": "The Mission",
+    "year": 1999,
+    "scene": "Shopping mall shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Hong Kong",
+    "director": "Johnnie To",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "static camera",
+      "sound design"
+    ],
+    "why": "The antithesis of Woo: five bodyguards hold fixed positions around an escalator and barely move, so composition and geometry create tension. Study how a shootout can be staged through formation rather than acrobatics.",
+    "query": "The Mission 1999 Johnnie To mall shootout scene"
+  },
+  {
+    "film": "Collateral",
+    "year": 2004,
+    "scene": "Fever nightclub shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Mann",
+    "craft": [
+      "DPs: Dion Beebe & Paul Cameron"
+    ],
+    "accolades": [
+      "BAFTA: Best Cinematography"
+    ],
+    "techniques": [
+      "night",
+      "handheld",
+      "single location",
+      "sound design"
+    ],
+    "why": "Digital video in a packed club: Mann tracks three parties moving through a dancing crowd, with strobes and practical light. Study Vincent's efficient close-range shooting and how geography survives the crush.",
+    "query": "Collateral nightclub shootout scene Fever",
+    "video": "d9_n6wwkIHM"
+  },
+  {
+    "film": "Sicario",
+    "year": 2015,
+    "scene": "Juárez border-crossing shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Denis Villeneuve",
+    "craft": [
+      "DP: Roger Deakins",
+      "Composer: Jóhann Jóhannsson",
+      "Editor: Joe Walker"
+    ],
+    "accolades": [],
+    "techniques": [
+      "aerial photography",
+      "sound design",
+      "score-driven",
+      "urban combat"
+    ],
+    "why": "Dread as structure: aerial convoy shots, a sub-bass drone, then a gridlocked firefight lasting seconds. Study how geography is established before violence and how waiting itself becomes the set piece.",
+    "query": "Sicario border crossing scene Juarez"
+  },
+  {
+    "film": "John Wick",
+    "year": 2014,
+    "scene": "Red Circle nightclub fight",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Chad Stahelski",
+    "craft": [
+      "DP: Jonathan Sela"
+    ],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "wide-angle choreography",
+      "color grading",
+      "score-driven",
+      "one vs many"
+    ],
+    "why": "Gun-fu rebuilt from real tactical shooting and judo throws: wide framing shows the actor doing it, close-range gun handling is integrated into grappling, and club music and neon drive the cut.",
+    "query": "John Wick Red Circle club fight scene",
+    "video": "0L9SzBANF0w"
+  },
+  {
+    "film": "John Wick: Chapter 4",
+    "year": 2023,
+    "scene": "Dragon's Breath overhead shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Chad Stahelski",
+    "craft": [
+      "DP: Dan Laustsen"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "tracking shot",
+      "fire",
+      "gun-fu",
+      "one vs many"
+    ],
+    "why": "A God's-eye overhead camera glides across roofless rooms while incendiary shotgun rounds paint the frame. Study how a top shot simplifies geography and turns choreography into something like level design.",
+    "query": "John Wick 4 dragon's breath overhead scene"
+  },
+  {
+    "film": "The Matrix",
+    "year": 1999,
+    "scene": "Lobby shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA/Australia",
+    "director": "The Wachowskis",
+    "craft": [
+      "DP: Bill Pope",
+      "Editor: Zach Staenberg"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "gun-fu",
+      "slow motion",
+      "practical effects",
+      "score-driven"
+    ],
+    "why": "Hong Kong gun ballet translated to Hollywood: pillars disintegrated by squibs, slow-motion cartwheels and wall-runs, cuts timed to the track. Study how flying debris is used to make bullet impacts visible.",
+    "query": "The Matrix lobby shootout scene"
+  },
+  {
+    "film": "Equilibrium",
+    "year": 2002,
+    "scene": "Gun kata finale vs. DuPont",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Kurt Wimmer",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "duel",
+      "slow motion",
+      "single location"
+    ],
+    "why": "Gun kata, a codified pistol martial art, treats firearms like swords: study how close-quarters pistol duelling borrows sword-fight grammar, and how a modest budget is stretched with stylized geometry.",
+    "query": "Equilibrium gun kata final fight DuPont"
+  },
+  {
+    "film": "The Untouchables",
+    "year": 1987,
+    "scene": "Union Station staircase shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Brian De Palma",
+    "craft": [
+      "DP: Stephen H. Burum",
+      "Composer: Ennio Morricone"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor"
+    ],
+    "techniques": [
+      "slow motion",
+      "real location",
+      "single location",
+      "cross-cutting"
+    ],
+    "why": "An homage to Eisenstein's Odessa Steps: an extended suspense build, then slow-motion gunfire around a runaway baby carriage. Study stretched time, eyeline cutting and Morricone's lullaby-like cue.",
+    "query": "The Untouchables Union Station baby carriage shootout"
+  },
+  {
+    "film": "Children of Men",
+    "year": 2006,
+    "scene": "Bexhill uprising one-take battle",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Alfonso Cuarón",
+    "craft": [
+      "DP: Emmanuel Lubezki"
+    ],
+    "accolades": [
+      "BAFTA: Best Cinematography",
+      "BAFTA: Best Production Design"
+    ],
+    "techniques": [
+      "long take",
+      "oner",
+      "handheld",
+      "urban combat",
+      "practical effects"
+    ],
+    "why": "A continuous take through a war zone: the camera stays with Theo amid squibs, tank fire and refugees, and blood spatters the lens and stays. Study how vérité grammar makes a huge set piece feel unstaged.",
+    "query": "Children of Men Bexhill one take battle scene",
+    "video": "g2vX7IHg_SE"
+  },
+  {
+    "film": "Assault on Precinct 13",
+    "year": 1976,
+    "scene": "Silenced siege on the precinct",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Carpenter",
+    "craft": [
+      "Composer: John Carpenter"
+    ],
+    "accolades": [],
+    "techniques": [
+      "siege",
+      "night",
+      "single location",
+      "score-driven",
+      "sound design"
+    ],
+    "why": "Carpenter's low-budget riff on Rio Bravo: silenced weapons make the assault eerily quiet while papers and glass fly. Study widescreen composition and minimalist synth scoring in a single-location siege.",
+    "query": "Assault on Precinct 13 1976 siege scene"
+  },
+  {
+    "film": "Scarface",
+    "year": 1983,
+    "scene": "\"Say hello to my little friend\" mansion finale",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Brian De Palma",
+    "craft": [
+      "DP: John A. Alonzo",
+      "Composer: Giorgio Moroder"
+    ],
+    "accolades": [],
+    "techniques": [
+      "one vs many",
+      "single location",
+      "practical effects",
+      "siege"
+    ],
+    "why": "Operatic excess as staging: a mansion designed for a last stand, the grenade-launcher reveal, wide masters of the foyer and the fall into the fountain. Study how De Palma escalates a siege through architecture.",
+    "query": "Scarface say hello to my little friend final shootout"
+  },
+  {
+    "film": "Léon: The Professional",
+    "year": 1994,
+    "scene": "Apartment siege finale",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "France/USA",
+    "director": "Luc Besson",
+    "craft": [
+      "DP: Thierry Arbogast",
+      "Composer: Éric Serra"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "one vs many",
+      "urban combat",
+      "practical explosions",
+      "sound design"
+    ],
+    "why": "Léon holds an apartment against a full tactical unit. Besson keeps geography clear in a cramped set, uses smoke and the vent shaft to split the action, then drops to near-silence for the walk out. Study how a quiet exit can top the shootout.",
+    "query": "Leon The Professional apartment siege scene",
+    "video": "NxOHaTJSR8A"
+  },
+  {
+    "film": "Drive",
+    "year": 2011,
+    "scene": "Motel shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Nicolas Winding Refn",
+    "craft": [
+      "DP: Newton Thomas Sigel",
+      "Editor: Matthew Newman",
+      "Composer: Cliff Martinez"
+    ],
+    "accolades": [
+      "Cannes: Best Director"
+    ],
+    "techniques": [
+      "single location",
+      "sound design",
+      "practical effects"
+    ],
+    "why": "Shocking, sudden violence inside slow, quiet staging. Study the near-silent buildup, the abrupt shotgun blast, and how static framing in a cramped motel bathroom makes the Driver's ambush feel intimate and ugly.",
+    "query": "Drive motel shootout scene"
+  },
+  {
+    "film": "Hot Fuzz",
+    "year": 2007,
+    "scene": "Sandford village shootout finale",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "UK/France",
+    "director": "Edgar Wright",
+    "craft": [
+      "DP: Jess Hall",
+      "Editor: Chris Dickens"
+    ],
+    "accolades": [],
+    "techniques": [
+      "urban combat",
+      "real location",
+      "montage",
+      "sound design"
+    ],
+    "why": "A parody that works as straight action: rapid-fire cutting, whip pans and whooshes, and precise homages to buddy-cop films. Study how sound effects and match cuts create comic rhythm inside a genuine shootout.",
+    "query": "Hot Fuzz final shootout village scene"
+  },
+  {
+    "film": "Desperado",
+    "year": 1995,
+    "scene": "Bar shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Robert Rodriguez",
+    "craft": [
+      "DP: Guillermo Navarro",
+      "Editor: Robert Rodriguez"
+    ],
+    "accolades": [],
+    "techniques": [
+      "gun-fu",
+      "slow motion",
+      "single location",
+      "one vs many"
+    ],
+    "why": "Rodriguez's low-budget answer to John Woo: many short shots, slow-motion slides across the floor, and a guitar-case arsenal. Study how compressed editing gives a modest set the energy of Hong Kong action.",
+    "query": "Desperado bar shootout scene Antonio Banderas"
+  },
+  {
+    "film": "No Country for Old Men",
+    "year": 2007,
+    "scene": "Hotel ambush and street shootout: Chigurh vs. Moss",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joel Coen & Ethan Coen",
+    "craft": [
+      "DP: Roger Deakins",
+      "Sound: Skip Lievsay"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Adapted Screenplay"
+    ],
+    "techniques": [
+      "sound design",
+      "night",
+      "real location",
+      "pov"
+    ],
+    "why": "Almost no score: tension comes from footsteps, a shadow under the door, a beeping transponder and a light bulb unscrewed. Study how the Coens and Deakins build a shootout from shadow, sound and patience.",
+    "query": "No Country for Old Men hotel shootout Chigurh Moss"
+  },
+  {
+    "film": "Miller's Crossing",
+    "year": 1990,
+    "scene": "'Danny Boy' Tommy-gun scene",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joel Coen",
+    "craft": [
+      "DP: Barry Sonnenfeld",
+      "Composer: Carter Burwell"
+    ],
+    "accolades": [],
+    "techniques": [
+      "score-driven",
+      "practical effects",
+      "fire",
+      "night"
+    ],
+    "why": "Leo's counterattack plays under 'Danny Boy' on a gramophone: study the counterpoint between song and violence, the absurdly sustained Tommy-gun fire that makes a gunman dance, and the burning house as backdrop.",
+    "query": "Miller's Crossing Danny Boy scene"
+  },
+  {
+    "film": "Bonnie and Clyde",
+    "year": 1967,
+    "scene": "Final ambush",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "USA",
+    "director": "Arthur Penn",
+    "craft": [
+      "DP: Burnett Guffey",
+      "Editor: Dede Allen"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actress",
+      "Oscar: Best Cinematography"
+    ],
+    "techniques": [
+      "slow motion",
+      "montage",
+      "practical effects",
+      "real location"
+    ],
+    "why": "A landmark of New Hollywood violence: cameras at different speeds and dense squibs, cut into a jagged ballet of death. Study the exchanged look before the ambush and how Dede Allen's editing makes seconds feel endless.",
+    "query": "Bonnie and Clyde ending ambush scene",
+    "video": "NrmUpso_xT8"
+  },
+  {
+    "film": "Sonatine",
+    "year": 1993,
+    "scene": "Elevator shootout",
+    "category": "gunfights",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Takeshi Kitano",
+    "craft": [
+      "Composer: Joe Hisaishi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "static camera",
+      "sound design"
+    ],
+    "why": "Kitano's deadpan approach: a cramped elevator gunfight from a fixed angle, over in seconds, all muzzle flashes and blank faces. Study how stillness and abruptness drain the glamour from gunplay.",
+    "query": "Sonatine elevator shootout scene Kitano"
+  }
+]

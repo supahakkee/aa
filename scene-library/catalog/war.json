@@ -1,0 +1,2012 @@
+[
+  {
+    "film": "Saving Private Ryan",
+    "year": 1998,
+    "scene": "Omaha Beach landing",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Editor: Michael Kahn",
+      "Sound designer: Gary Rydstrom"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "handheld",
+      "beach landing",
+      "practical effects",
+      "sound design",
+      "color grading",
+      "narrow shutter"
+    ],
+    "why": "Study how a narrowed shutter angle, desaturated stock and handheld cameras at soldier eye-level create newsreel chaos, while underwater and muffled-hearing sound cutaways give the carnage a subjective point of view.",
+    "query": "Saving Private Ryan Omaha Beach landing scene"
+  },
+  {
+    "film": "Saving Private Ryan",
+    "year": 1998,
+    "scene": "Final battle for the Ramelle bridge",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Steven Spielberg",
+    "craft": [
+      "DP: Janusz Kamiński",
+      "Editor: Michael Kahn",
+      "Sound designer: Gary Rydstrom"
+    ],
+    "accolades": [
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "urban combat",
+      "handheld",
+      "practical explosions",
+      "sound design",
+      "infantry"
+    ],
+    "why": "A masterclass in spatial clarity: the defensive plan is laid out beforehand so every Tiger tank advance, sticky bomb and collapsing position reads geographically; sound design of approaching tank treads builds dread before anything is seen.",
+    "query": "Saving Private Ryan final battle Ramelle bridge scene"
+  },
+  {
+    "film": "Dunkirk",
+    "year": 2017,
+    "scene": "Stuka dive-bombing of the beach and mole",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA/Netherlands/France",
+    "director": "Christopher Nolan",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "Editor: Lee Smith",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "imax",
+      "practical explosions",
+      "real location",
+      "sound design",
+      "score-driven"
+    ],
+    "why": "Large-format IMAX framing of tiny men on a vast beach, a rising siren-whine sound design and a Shepard-tone score build terror from anticipation; the line of bomb impacts walking toward the camera is staged practically on the real beach.",
+    "query": "Dunkirk stuka attack beach scene"
+  },
+  {
+    "film": "1917",
+    "year": 2019,
+    "scene": "Schofield's sprint across the line of the attacking battalion",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Sam Mendes",
+    "craft": [
+      "DP: Roger Deakins",
+      "Editor: Lee Smith",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Mixing",
+      "BAFTA: Best Film",
+      "Golden Globe: Best Motion Picture – Drama"
+    ],
+    "techniques": [
+      "oner",
+      "long take",
+      "tracking shot",
+      "trench",
+      "practical stunts",
+      "score-driven"
+    ],
+    "why": "The camera tracks laterally as Schofield runs perpendicular to the charging infantry, colliding with soldiers and explosions; study the choreography of extras, the lateral camera move and Thomas Newman's swelling cue.",
+    "query": "1917 running scene across the battlefield"
+  },
+  {
+    "film": "1917",
+    "year": 2019,
+    "scene": "Burning Écoust at night under flare light",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Sam Mendes",
+    "craft": [
+      "DP: Roger Deakins",
+      "Editor: Lee Smith",
+      "Composer: Thomas Newman"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Mixing",
+      "BAFTA: Best Film",
+      "Golden Globe: Best Motion Picture – Drama"
+    ],
+    "techniques": [
+      "long take",
+      "night",
+      "fire",
+      "silhouette",
+      "steadicam",
+      "practical effects"
+    ],
+    "why": "Deakins lit the ruined town almost entirely with a moving flare rig and a burning church, so shadows swing across the set in real time; a lesson in motivated, dynamic lighting choreographed to a continuous camera move.",
+    "query": "1917 Ecoust night flare scene burning town"
+  },
+  {
+    "film": "Hacksaw Ridge",
+    "year": 2016,
+    "scene": "First assault on the Maeda Escarpment",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "Australia/USA",
+    "director": "Mel Gibson",
+    "craft": [
+      "DP: Simon Duggan",
+      "Editor: John Gilbert",
+      "Composer: Rupert Gregson-Williams"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "practical explosions",
+      "practical stunts",
+      "infantry",
+      "handheld",
+      "sound design"
+    ],
+    "why": "Gibson stages the ridge-top battle with practical squibs, air-ram stunts and prosthetic gore; study the abrupt cut from silence to total barrage and how editing keeps Doss's position readable amid the chaos.",
+    "query": "Hacksaw Ridge first battle scene"
+  },
+  {
+    "film": "Black Hawk Down",
+    "year": 2001,
+    "scene": "Super Six-One shot down over Mogadishu",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ridley Scott",
+    "craft": [
+      "DP: Sławomir Idziak",
+      "Editor: Pietro Scalia",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "real aircraft",
+      "urban combat",
+      "handheld",
+      "practical stunts",
+      "color grading"
+    ],
+    "why": "Real Black Hawks flown by military pilots, multiple cameras and Scalia's cutting turn a tactical disaster into a coherent cascade; note the cold-blue/steel grade and how radio chatter carries exposition across cross-cut locations.",
+    "query": "Black Hawk Down Super 61 crash scene",
+    "video": "2TT8J4D7suw"
+  },
+  {
+    "film": "Come and See",
+    "year": 1985,
+    "scene": "Burning of the village barn",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USSR",
+    "director": "Elem Klimov",
+    "craft": [
+      "DP: Aleksei Rodionov"
+    ],
+    "accolades": [],
+    "techniques": [
+      "steadicam",
+      "long take",
+      "fire",
+      "sound design",
+      "real location"
+    ],
+    "why": "Steadicam drifts through the crowd at Flyora's eye level while actors stare directly into the lens; long takes, real fire and a disorienting sound mix refuse catharsis, making the audience a complicit witness.",
+    "query": "Come and See barn burning scene",
+    "video": "zjIiApN6cfg",
+    "range": [
+      7020,
+      7500
+    ]
+  },
+  {
+    "film": "Apocalypse Now",
+    "year": 1979,
+    "scene": "Ride of the Valkyries helicopter attack",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Francis Ford Coppola",
+    "craft": [
+      "DP: Vittorio Storaro",
+      "Sound designer: Walter Murch"
+    ],
+    "accolades": [
+      "Cannes: Palme d'Or",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical explosions",
+      "score-driven",
+      "sound design"
+    ],
+    "why": "Real Huey formations shot from air and ground, Wagner played diegetically from the choppers, and Murch's layered rotor sound design that shaped modern surround mixing; study how source music becomes both spectacle and satire.",
+    "query": "Apocalypse Now Ride of the Valkyries helicopter attack scene"
+  },
+  {
+    "film": "Platoon",
+    "year": 1986,
+    "scene": "Death of Sergeant Elias",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Oliver Stone",
+    "craft": [
+      "DP: Robert Richardson",
+      "Editor: Claire Simpson"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "jungle",
+      "slow motion",
+      "score-driven",
+      "aerial photography",
+      "real location"
+    ],
+    "why": "The helicopter POV of Elias stumbling out of the treeline, slowed and scored with Barber's Adagio for Strings, turns an action beat into tragedy; a lesson in letting music and an elevated angle carry emotional weight.",
+    "query": "Platoon Elias death scene"
+  },
+  {
+    "film": "Full Metal Jacket",
+    "year": 1987,
+    "scene": "Hue City sniper",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Stanley Kubrick",
+    "craft": [
+      "DP: Douglas Milsome"
+    ],
+    "accolades": [],
+    "techniques": [
+      "urban combat",
+      "slow motion",
+      "handheld",
+      "fire",
+      "pov"
+    ],
+    "why": "Kubrick turns a London gasworks into burning Hue; slow-motion hits, the unseen shooter's POV and the squad's tactical confusion build unbearable tension before the reveal reframes the whole engagement.",
+    "query": "Full Metal Jacket sniper scene"
+  },
+  {
+    "film": "Letters from Iwo Jima",
+    "year": 2006,
+    "scene": "American landing seen from the Japanese bunkers",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Clint Eastwood",
+    "craft": [
+      "DP: Tom Stern"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing",
+      "Golden Globe: Best Foreign Language Film"
+    ],
+    "techniques": [
+      "beach landing",
+      "pov",
+      "color grading",
+      "cgi",
+      "sound design"
+    ],
+    "why": "The landing inverted: framed through bunker slits from the defenders' side, with a near-monochrome grade and a CG armada filling the horizon; compare its restraint and point of view with Flags of Our Fathers' version.",
+    "query": "Letters from Iwo Jima beach landing scene"
+  },
+  {
+    "film": "Fury",
+    "year": 2014,
+    "scene": "Sherman platoon vs. the Tiger tank",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "David Ayer",
+    "craft": [
+      "DP: Roman Vasyanov",
+      "Composer: Steven Price"
+    ],
+    "accolades": [],
+    "techniques": [
+      "vehicle stunts",
+      "practical effects",
+      "cgi",
+      "sound design"
+    ],
+    "why": "Shot with a real running Tiger I from the Bovington Tank Museum, the duel teaches armored geography: flanking maneuvers, turret traverse timing and glowing tracer rounds that let the audience follow every shot.",
+    "query": "Fury tiger tank battle scene"
+  },
+  {
+    "film": "All Quiet on the Western Front",
+    "year": 2022,
+    "scene": "Tank and flamethrower assault on the French trenches",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "Germany",
+    "director": "Edward Berger",
+    "craft": [
+      "DP: James Friend",
+      "Composer: Volker Bertelmann"
+    ],
+    "accolades": [
+      "Oscar: Best International Feature Film",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Original Score",
+      "Oscar: Best Production Design",
+      "BAFTA: Best Film"
+    ],
+    "techniques": [
+      "trench",
+      "infantry",
+      "fire",
+      "practical effects",
+      "sound design"
+    ],
+    "why": "Tanks emerging from fog and flamethrowers clearing dugouts are filmed with a cold, wide-lens precision; Bertelmann's three-note harmonium motif acts like a machine sound, making the score part of the battlefield's industrial horror.",
+    "query": "All Quiet on the Western Front 2022 tank attack scene"
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Brécourt Manor assault (\"Day of Days\")",
+    "category": "war-modern",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Richard Loncraine",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "techniques": [
+      "infantry",
+      "handheld",
+      "practical explosions",
+      "sound design"
+    ],
+    "why": "Winters' small-unit assault on four 105mm guns is staged as a readable tactical lesson: base of fire, flanking teams and grenade sequences, shot handheld with a desaturated, staccato look inherited from Saving Private Ryan.",
+    "query": "Band of Brothers Brecourt Manor assault scene",
+    "video": "kHMOaJCkIqg"
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Speirs runs through the German lines at Foy (\"The Breaking Point\")",
+    "category": "war-modern",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "David Frankel",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "techniques": [
+      "tracking shot",
+      "snow",
+      "urban combat",
+      "practical explosions"
+    ],
+    "why": "A long lateral tracking shot follows Speirs sprinting across the town under fire and back again; a lesson in using one uninterrupted move to turn a character beat into the episode's defining image.",
+    "query": "Band of Brothers Speirs runs through Foy scene"
+  },
+  {
+    "film": "The Pacific",
+    "year": 2010,
+    "scene": "Crossing the Peleliu airfield",
+    "category": "war-modern",
+    "medium": "series",
+    "country": "USA",
+    "director": "Carl Franklin",
+    "craft": [],
+    "accolades": [
+      "Emmy: Outstanding Miniseries"
+    ],
+    "techniques": [
+      "tracking shot",
+      "infantry",
+      "practical explosions",
+      "handheld",
+      "sound design"
+    ],
+    "why": "Marines sprint across open ground into artillery and machine-gun fire; the tracking camera, white dust and ear-splitting impacts convey exposure and scale, with Sledge's terrified POV anchoring the chaos.",
+    "query": "The Pacific Peleliu airfield scene"
+  },
+  {
+    "film": "The Thin Red Line",
+    "year": 1998,
+    "scene": "Assault on Hill 210 through the tall grass",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Terrence Malick",
+    "craft": [
+      "DP: John Toll",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Berlin: Golden Bear"
+    ],
+    "techniques": [
+      "steadicam",
+      "real location",
+      "infantry",
+      "crane",
+      "sound design"
+    ],
+    "why": "Malick films the attack through waist-high grass with gliding Steadicam and crane moves, intercutting nature and interior monologue; study how wind, light and voice-over turn a tactical assault into meditation.",
+    "query": "The Thin Red Line hill assault scene"
+  },
+  {
+    "film": "We Were Soldiers",
+    "year": 2002,
+    "scene": "\"Broken Arrow\" napalm strike at LZ X-Ray",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Randall Wallace",
+    "craft": [
+      "DP: Dean Semler"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical explosions",
+      "infantry",
+      "slow motion",
+      "real aircraft"
+    ],
+    "why": "Close-air napalm runs and an overrun perimeter are staged with large practical fireballs and slow-motion inserts; note how the radio call 'Broken Arrow' becomes the structural hinge of the sequence.",
+    "query": "We Were Soldiers broken arrow scene",
+    "video": "F3v_UfgAisE"
+  },
+  {
+    "film": "Lone Survivor",
+    "year": 2013,
+    "scene": "Mountainside firefight and cliff falls",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Peter Berg",
+    "craft": [
+      "DP: Tobias A. Schliessler"
+    ],
+    "accolades": [],
+    "techniques": [
+      "practical stunts",
+      "sound design",
+      "real location",
+      "handheld"
+    ],
+    "why": "Stunt performers threw themselves down real rocky slopes for the falls, cut with bone-crunch sound design; a study in making physical punishment the action, not gunfire alone.",
+    "query": "Lone Survivor cliff fall scene"
+  },
+  {
+    "film": "Paths of Glory",
+    "year": 1957,
+    "scene": "Attack on the Ant Hill",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Stanley Kubrick",
+    "craft": [
+      "DP: Georg Krause"
+    ],
+    "accolades": [],
+    "techniques": [
+      "tracking shot",
+      "trench",
+      "infantry",
+      "practical explosions"
+    ],
+    "why": "Kubrick's long lateral dolly tracks the advancing troops across a cratered no man's land while explosions erupt around them; the precise, unbroken camera move makes the futility of the attack legible.",
+    "query": "Paths of Glory ant hill attack scene"
+  },
+  {
+    "film": "The Longest Day",
+    "year": 1962,
+    "scene": "Assault on the Ouistreham casino",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ken Annakin, Andrew Marton, Bernhard Wicki",
+    "craft": [
+      "Composer: Maurice Jarre"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography (Black-and-White)",
+      "Oscar: Best Special Effects"
+    ],
+    "techniques": [
+      "aerial photography",
+      "long take",
+      "urban combat",
+      "crane",
+      "real location"
+    ],
+    "why": "A celebrated aerial shot follows French commandos down the waterfront street into the casino attack in one continuous move; a landmark in staging large-scale combat in a single airborne take.",
+    "query": "The Longest Day Ouistreham casino scene"
+  },
+  {
+    "film": "Enemy at the Gates",
+    "year": 2001,
+    "scene": "Volga crossing and charge into Stalingrad",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA/Germany/UK/Ireland",
+    "director": "Jean-Jacques Annaud",
+    "craft": [
+      "DP: Robert Fraisse",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "techniques": [
+      "infantry",
+      "practical explosions",
+      "cgi",
+      "handheld"
+    ],
+    "why": "Stuka attacks on packed river barges, then unarmed conscripts charging machine guns while commissars fire on retreaters; study the escalating scale and how a single soldier's POV threads through mass chaos.",
+    "query": "Enemy at the Gates Volga crossing opening scene"
+  },
+  {
+    "film": "Civil War",
+    "year": 2024,
+    "scene": "Assault on Washington, D.C. and the White House",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Alex Garland",
+    "craft": [
+      "DP: Rob Hardy"
+    ],
+    "accolades": [],
+    "techniques": [
+      "urban combat",
+      "sound design",
+      "handheld",
+      "practical explosions",
+      "night"
+    ],
+    "why": "Shot with small cinema cameras following journalists, the assault mixes deafening gunfire with sudden silences and frozen still-photo inserts; a study in military-accurate room-clearing staged as embedded photojournalism.",
+    "query": "Civil War 2024 White House assault scene"
+  },
+  {
+    "film": "The Hurt Locker",
+    "year": 2008,
+    "scene": "Desert sniper standoff",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Kathryn Bigelow",
+    "craft": [
+      "DP: Barry Ackroyd",
+      "Editors: Bob Murawski, Chris Innis"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing",
+      "BAFTA: Best Film"
+    ],
+    "techniques": [
+      "handheld",
+      "desert",
+      "sound design",
+      "real location"
+    ],
+    "why": "A long-distance sniper duel stretched into near real time: multi-camera handheld coverage, heat shimmer, flies and silence make waiting the action; study how patience and micro-details sustain suspense.",
+    "query": "The Hurt Locker sniper scene"
+  },
+  {
+    "film": "Warfare",
+    "year": 2025,
+    "scene": "IED blast and casualty evacuation in Ramadi",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Alex Garland and Ray Mendoza",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "single location",
+      "sound design",
+      "urban combat",
+      "practical explosions"
+    ],
+    "why": "Reconstructed from veterans' memories in near real time without score, the blast drowns everything in dust and tinnitus; a study in using sound and duration, not cutting, to convey shock and chaos.",
+    "query": "Warfare 2025 IED explosion scene"
+  },
+  {
+    "film": "Glory",
+    "year": 1989,
+    "scene": "Assault on Fort Wagner",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "USA",
+    "director": "Edward Zwick",
+    "craft": [
+      "DP: Freddie Francis",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "infantry",
+      "night",
+      "practical explosions",
+      "score-driven",
+      "siege"
+    ],
+    "why": "A frontal night assault up a sand rampart, with the camera climbing with the regiment and a choral score; study how Francis' lighting and the flag-bearer motif guide the eye through smoke and darkness.",
+    "query": "Glory Fort Wagner assault scene"
+  },
+  {
+    "film": "Zulu",
+    "year": 1964,
+    "scene": "Final assault on Rorke's Drift",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "UK",
+    "director": "Cy Endfield",
+    "craft": [
+      "DP: Stephen Dade",
+      "Composer: John Barry"
+    ],
+    "accolades": [],
+    "techniques": [
+      "siege",
+      "infantry",
+      "real location",
+      "sound design",
+      "one vs many"
+    ],
+    "why": "Wide compositions of thousands of extras on real South African terrain, rotating volley-fire drill and the dueling war chant versus 'Men of Harlech' make sound the battle's emotional engine.",
+    "query": "Zulu 1964 final attack scene"
+  },
+  {
+    "film": "Warsaw 44 (Miasto 44)",
+    "year": 2014,
+    "scene": "Slow-motion bombardment set to \"Dziwny jest ten świat\"",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "Poland",
+    "director": "Jan Komasa",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "slow motion",
+      "score-driven",
+      "urban combat",
+      "cgi"
+    ],
+    "why": "A deliberately anachronistic, music-video-style sequence: extreme slow motion, floating debris and a 1960s Polish pop song turn a massacre into a dream; study the risk and payoff of pop-score counterpoint in war cinema.",
+    "query": "Miasto 44 Dziwny jest ten świat scene"
+  },
+  {
+    "film": "Taegukgi: The Brotherhood of War",
+    "year": 2004,
+    "scene": "Trench battle against the Chinese advance",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Kang Je-gyu",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "shaky cam",
+      "infantry",
+      "practical explosions",
+      "narrow shutter"
+    ],
+    "why": "Korea's answer to Saving Private Ryan: hard-shuttered handheld coverage, ground-level explosions and frantic hand-to-hand fighting; compare its overwhelming scale and melodrama with Hollywood combat grammar.",
+    "query": "Taegukgi battle scene",
+    "video": "YA73rUa9B4U"
+  },
+  {
+    "film": "The Eight Hundred",
+    "year": 2020,
+    "scene": "Defense of the Sihang Warehouse",
+    "category": "war-modern",
+    "medium": "film",
+    "country": "China",
+    "director": "Guan Hu",
+    "craft": [
+      "DP: Cao Yu"
+    ],
+    "accolades": [],
+    "techniques": [
+      "imax",
+      "siege",
+      "urban combat",
+      "cgi",
+      "practical explosions"
+    ],
+    "why": "Shot entirely on IMAX cameras on a full-scale warehouse set, the siege contrasts the burning ruin with the neon-lit concession across the river; study how one built location supports a whole battle film.",
+    "query": "The Eight Hundred warehouse battle scene"
+  },
+  {
+    "film": "Braveheart",
+    "year": 1995,
+    "scene": "Battle of Stirling",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Mel Gibson",
+    "craft": [
+      "DP: John Toll",
+      "Editor: Steven Rosenblum",
+      "Composer: James Horner"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "cavalry",
+      "infantry",
+      "practical stunts",
+      "slow motion",
+      "real location"
+    ],
+    "why": "Irish army reservists as extras, mechanical horses for the spear-wall impact and multi-camera coverage; study the build from speech to taunt to the spear-raising reveal, a model of cause-and-effect battle editing.",
+    "query": "Braveheart battle of Stirling scene"
+  },
+  {
+    "film": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "scene": "Battle of Helm's Deep",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "New Zealand/USA",
+    "director": "Peter Jackson",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "siege",
+      "night",
+      "rain",
+      "miniatures",
+      "crowd simulation",
+      "cgi"
+    ],
+    "why": "Months of night shoots in artificial rain, a large-scale miniature 'bigature' fortress and MASSIVE crowd simulation combine seamlessly; study the escalating siege phases and the dawn charge as a structural release.",
+    "query": "Lord of the Rings Helm's Deep battle scene"
+  },
+  {
+    "film": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "scene": "Ride of the Rohirrim at the Pelennor Fields",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "New Zealand/USA",
+    "director": "Peter Jackson",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "Editor: Jamie Selkirk",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Director",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Film Editing",
+      "Oscar: Best Original Score",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "cavalry",
+      "crowd simulation",
+      "cgi",
+      "score-driven",
+      "wide-angle choreography"
+    ],
+    "why": "Théoden's speech, the spear-tapping line and the sunrise charge form a perfectly paced crescendo; real riders composited with MASSIVE-driven digital cavalry show how to scale a charge without losing physicality.",
+    "query": "Return of the King ride of the Rohirrim scene"
+  },
+  {
+    "film": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "scene": "Prologue: Battle of the Last Alliance",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "New Zealand/USA",
+    "director": "Peter Jackson",
+    "craft": [
+      "DP: Andrew Lesnie",
+      "VFX: Weta Digital",
+      "Composer: Howard Shore"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Original Score"
+    ],
+    "techniques": [
+      "crowd simulation",
+      "cgi",
+      "slow motion",
+      "color grading"
+    ],
+    "why": "A mythic history told in under three minutes: early MASSIVE crowd shots, slow-motion Sauron strikes scattering soldiers and narrated montage; a lesson in compressing world-building into a battle prologue.",
+    "query": "Fellowship of the Ring prologue Last Alliance battle scene"
+  },
+  {
+    "film": "Gladiator",
+    "year": 2000,
+    "scene": "Battle of Germania",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Ridley Scott",
+    "craft": [
+      "DP: John Mathieson",
+      "Editor: Pietro Scalia",
+      "Composer: Hans Zimmer & Lisa Gerrard"
+    ],
+    "accolades": [
+      "Oscar: Best Picture",
+      "Oscar: Best Visual Effects",
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "cavalry",
+      "infantry",
+      "fire",
+      "narrow shutter",
+      "practical effects"
+    ],
+    "why": "Fire arrows, catapults and a forest cavalry flank shot with a narrowed shutter for a staccato, strobing intensity; study the desaturated blue grade and the calm-before-battle setup.",
+    "query": "Gladiator opening battle Germania scene"
+  },
+  {
+    "film": "Kingdom of Heaven",
+    "year": 2005,
+    "scene": "Siege of Jerusalem",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Ridley Scott",
+    "craft": [
+      "DP: John Mathieson",
+      "Composer: Harry Gregson-Williams"
+    ],
+    "accolades": [],
+    "techniques": [
+      "siege",
+      "cgi",
+      "practical effects",
+      "fire",
+      "desert"
+    ],
+    "why": "Full-scale siege towers, trebuchet fireballs and digital armies over a constructed city wall in Morocco; study how the geography of breach, tower and wall is kept clear through repeated establishing shots.",
+    "query": "Kingdom of Heaven siege of Jerusalem scene"
+  },
+  {
+    "film": "Ran",
+    "year": 1985,
+    "scene": "Siege and burning of the Third Castle",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "Japan/France",
+    "director": "Akira Kurosawa",
+    "craft": [
+      "Composer: Toru Takemitsu"
+    ],
+    "accolades": [
+      "Oscar: Best Costume Design"
+    ],
+    "techniques": [
+      "siege",
+      "score-driven",
+      "fire",
+      "practical effects",
+      "sound design"
+    ],
+    "why": "Kurosawa drops all diegetic sound beneath Takemitsu's mournful score, then a single gunshot snaps it back; color-coded banners make armies readable, and a real castle set was burned for the climax.",
+    "query": "Ran third castle siege scene"
+  },
+  {
+    "film": "Kagemusha",
+    "year": 1980,
+    "scene": "Battle of Nagashino",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "Japan",
+    "director": "Akira Kurosawa",
+    "craft": [],
+    "accolades": [
+      "Cannes: Palme d'Or"
+    ],
+    "techniques": [
+      "cavalry",
+      "infantry",
+      "slow motion",
+      "sound design"
+    ],
+    "why": "Kurosawa keeps the massacre largely offscreen, cutting to the generals' reactions as volleys sound, then reveals the aftermath of dying horses in slow motion; a lesson in power through withholding.",
+    "query": "Kagemusha battle of Nagashino scene"
+  },
+  {
+    "film": "Troy",
+    "year": 2004,
+    "scene": "Achilles vs. Hector duel",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA/UK",
+    "director": "Wolfgang Petersen",
+    "craft": [
+      "DP: Roger Pratt",
+      "Composer: James Horner"
+    ],
+    "accolades": [],
+    "techniques": [
+      "duel",
+      "practical stunts",
+      "wide-angle choreography",
+      "real location"
+    ],
+    "why": "A one-on-one fight before the walls, choreographed with contrasting styles: Achilles' acrobatic economy against Hector's grounded defense; study the wide masters that keep footwork, distance and spectators in frame.",
+    "query": "Troy Achilles vs Hector fight scene"
+  },
+  {
+    "film": "300",
+    "year": 2006,
+    "scene": "Leonidas' speed-ramped battle at the Hot Gates",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Zack Snyder",
+    "craft": [
+      "DP: Larry Fong"
+    ],
+    "accolades": [],
+    "techniques": [
+      "slow motion",
+      "cgi",
+      "color grading",
+      "tracking shot",
+      "speed ramping"
+    ],
+    "why": "Shot almost entirely on bluescreen, a continuous lateral move with multiple cameras is speed-ramped between real-time and slow motion to punctuate each kill; study the crushed, graphic-novel grade.",
+    "query": "300 Leonidas battle scene one take",
+    "video": "AGrExbRqCX0"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2016,
+    "scene": "Battle of the Bastards",
+    "category": "epic-battle",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Miguel Sapochnik",
+    "craft": [
+      "DP: Fabian Wagner",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Directing for a Drama Series",
+      "Emmy: Outstanding Writing for a Drama Series"
+    ],
+    "techniques": [
+      "cavalry",
+      "long take",
+      "practical stunts",
+      "crowd simulation",
+      "cgi"
+    ],
+    "why": "Real horses charging, a long handheld take following Jon through the melee and a crushing pile of bodies that recreates Cannae; study how the camera stays at Jon's level to make a huge battle feel claustrophobic.",
+    "query": "Battle of the Bastards Jon Snow charge scene"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2015,
+    "scene": "Massacre at Hardhome",
+    "category": "epic-battle",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Miguel Sapochnik",
+    "craft": [
+      "DP: Fabian Wagner",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "snow",
+      "cgi",
+      "practical stunts",
+      "sound design"
+    ],
+    "why": "An escalating horror set piece: an avalanche of wights, practical stunt work in snow and a final silent stare from the Night King; study how dropping score and sound for the ending reframes the defeat.",
+    "query": "Game of Thrones Hardhome battle scene"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2017,
+    "scene": "Loot Train attack (\"The Spoils of War\")",
+    "category": "epic-battle",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Matt Shakman",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "fire",
+      "cgi",
+      "practical stunts"
+    ],
+    "why": "Dothraki cavalry, extensive fire stunts and a CG dragon in one coherent geography; the cross-cutting between Jaime's and Bronn's points of view makes a spectacle personal on both sides.",
+    "query": "Game of Thrones loot train battle scene"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2019,
+    "scene": "Dothraki arakh charge into darkness (\"The Long Night\")",
+    "category": "epic-battle",
+    "medium": "series",
+    "country": "USA/UK",
+    "director": "Miguel Sapochnik",
+    "craft": [
+      "DP: Fabian Wagner",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "techniques": [
+      "night",
+      "fire",
+      "cavalry",
+      "silhouette",
+      "cgi"
+    ],
+    "why": "Hundreds of flaming blades charging into black, then extinguished one by one in the distance; a striking lesson in using light as the only storytelling element and showing defeat purely through what disappears.",
+    "query": "Game of Thrones Long Night Dothraki charge scene"
+  },
+  {
+    "film": "Spartacus",
+    "year": 1960,
+    "scene": "Roman legions advance on the slave army",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Stanley Kubrick",
+    "craft": [
+      "DP: Russell Metty",
+      "Composer: Alex North"
+    ],
+    "accolades": [
+      "Oscar: Best Supporting Actor",
+      "Oscar: Best Cinematography (Color)",
+      "Golden Globe: Best Motion Picture – Drama"
+    ],
+    "techniques": [
+      "infantry",
+      "real location",
+      "crane",
+      "wide-angle choreography"
+    ],
+    "why": "Thousands of Spanish soldiers as extras form geometric legions that reconfigure in high wide shots; a classic lesson in showing military discipline through choreography and composition before a sword is drawn.",
+    "query": "Spartacus 1960 battle scene Roman legions",
+    "video": "oxzQoqNrstc"
+  },
+  {
+    "film": "Red Cliff",
+    "year": 2008,
+    "scene": "Eight Trigrams (tortoise) formation battle",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "China/Hong Kong",
+    "director": "John Woo",
+    "craft": [
+      "Action director: Corey Yuen"
+    ],
+    "accolades": [],
+    "techniques": [
+      "infantry",
+      "cavalry",
+      "cgi",
+      "wire work",
+      "crane"
+    ],
+    "why": "Woo intercuts overhead shots of the shifting shield formation with hero-moments for each general; study how a tactical concept is explained visually and then paid off in individual action beats.",
+    "query": "Red Cliff turtle formation battle scene"
+  },
+  {
+    "film": "Hero",
+    "year": 2002,
+    "scene": "Qin arrow storm on the calligraphy school",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "China/Hong Kong",
+    "director": "Zhang Yimou",
+    "craft": [
+      "DP: Christopher Doyle",
+      "Action director: Ching Siu-tung",
+      "Composer: Tan Dun"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "siege",
+      "color grading",
+      "wire work",
+      "slow motion"
+    ],
+    "why": "CG arrow volleys darken the sky while calligraphers keep writing and swordsmen deflect arrows; study Doyle's color-coded storytelling and the contrast between mass digital spectacle and stillness.",
+    "query": "Hero arrow storm scene calligraphy school",
+    "video": "G0a9Ks3P9hk"
+  },
+  {
+    "film": "Napoleon",
+    "year": 2023,
+    "scene": "Battle of Austerlitz on the frozen lake",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "Ridley Scott",
+    "craft": [
+      "DP: Dariusz Wolski"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "cgi",
+      "practical effects",
+      "snow",
+      "underwater"
+    ],
+    "why": "Artillery shatters the ice under the Russian army; Scott's multi-camera coverage, a high wide view of the trap and underwater shots of drowning horses and men contrast tactical scale with intimate horror.",
+    "query": "Napoleon 2023 Austerlitz ice battle scene"
+  },
+  {
+    "film": "Waterloo",
+    "year": 1970,
+    "scene": "French cavalry charge against the British squares",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "Italy/USSR",
+    "director": "Sergei Bondarchuk",
+    "craft": [
+      "Composer: Nino Rota"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "infantry",
+      "aerial photography",
+      "crane"
+    ],
+    "why": "Bondarchuk used thousands of Soviet soldiers and cavalry; overhead helicopter shots of the squares encircled by waves of horsemen remain one of cinema's greatest pre-CGI images of massed tactics.",
+    "query": "Waterloo 1970 cavalry charge squares scene",
+    "video": "57auSISCvIA"
+  },
+  {
+    "film": "War and Peace",
+    "year": 1966,
+    "scene": "Battle of Borodino",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USSR",
+    "director": "Sergei Bondarchuk",
+    "craft": [
+      "DP: Anatoly Petritsky"
+    ],
+    "accolades": [
+      "Oscar: Best Foreign Language Film"
+    ],
+    "techniques": [
+      "cavalry",
+      "aerial photography",
+      "crane",
+      "practical explosions",
+      "infantry"
+    ],
+    "why": "Vast real armies, crane and helicopter moves over smoke-covered fields and Pierre's wandering POV; a benchmark for scale achieved entirely in-camera and for a civilian's-eye view of battle.",
+    "query": "War and Peace 1966 Borodino battle scene"
+  },
+  {
+    "film": "Henry V",
+    "year": 1989,
+    "scene": "Battle of Agincourt and the 'Non Nobis' tracking shot",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "UK",
+    "director": "Kenneth Branagh",
+    "craft": [
+      "DP: Kenneth MacMillan",
+      "Composer: Patrick Doyle"
+    ],
+    "accolades": [
+      "Oscar: Best Costume Design"
+    ],
+    "techniques": [
+      "slow motion",
+      "tracking shot",
+      "infantry",
+      "rain",
+      "score-driven"
+    ],
+    "why": "A mud-and-rain battle anti-heroically cut in slow motion, followed by a four-minute tracking shot of Henry carrying a dead boy across the field as 'Non Nobis' swells; aftermath as climax.",
+    "query": "Henry V 1989 Agincourt Non Nobis scene"
+  },
+  {
+    "film": "The King",
+    "year": 2019,
+    "scene": "Battle of Agincourt mud scrum",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "Australia/UK/USA",
+    "director": "David Michôd",
+    "craft": [
+      "DP: Adam Arkapaw",
+      "Composer: Nicholas Britell"
+    ],
+    "accolades": [],
+    "techniques": [
+      "infantry",
+      "handheld",
+      "practical stunts",
+      "rain"
+    ],
+    "why": "Armored knights drown in mud in a crushing press of bodies; handheld cameras inside the scrum and a refusal to choreograph clean duels make exhaustion and claustrophobia the subject.",
+    "query": "The King 2019 Battle of Agincourt scene"
+  },
+  {
+    "film": "Outlaw King",
+    "year": 2018,
+    "scene": "Battle of Loudoun Hill",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "UK/USA",
+    "director": "David Mackenzie",
+    "craft": [
+      "DP: Barry Ackroyd"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "infantry",
+      "handheld",
+      "practical stunts"
+    ],
+    "why": "English cavalry charge into a boggy, spear-lined trap; Ackroyd's handheld coverage stays in the mud with Bruce, and the terrain itself becomes the weapon in a readable tactical setup.",
+    "query": "Outlaw King battle of Loudoun Hill scene",
+    "video": "m3G-n_t_JE8"
+  },
+  {
+    "film": "The Northman",
+    "year": 2022,
+    "scene": "Berserker raid on the Slavic village",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Robert Eggers",
+    "craft": [
+      "DP: Jarin Blaschke"
+    ],
+    "accolades": [],
+    "techniques": [
+      "long take",
+      "oner",
+      "practical stunts",
+      "tracking shot",
+      "fire"
+    ],
+    "why": "Long, carefully choreographed tracking takes move through the walls, huts and fleeing villagers as Amleth's berserkers attack; study the massive rehearsal behind a one-take raid with natural-light realism.",
+    "query": "The Northman village raid scene",
+    "video": "Q0MIYtM-D-U"
+  },
+  {
+    "film": "The Deluge (Potop)",
+    "year": 1974,
+    "scene": "Kmicic blows up the Swedish siege cannon at Jasna Góra",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "Poland",
+    "director": "Jerzy Hoffman",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "siege",
+      "practical explosions"
+    ],
+    "why": "A covert sabotage mission during a siege, built on suspense and a single massive practical explosion; study how Hoffman stages a lone-hero action beat inside a large historical spectacle.",
+    "query": "Potop Kmicic wysadza kolubrynę"
+  },
+  {
+    "film": "The Last of the Mohicans",
+    "year": 1992,
+    "scene": "Cliffside finale: Chingachgook vs. Magua",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Mann",
+    "craft": [
+      "DP: Dante Spinotti",
+      "Composers: Trevor Jones & Randy Edelman"
+    ],
+    "accolades": [
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "score-driven",
+      "real location",
+      "duel",
+      "practical stunts"
+    ],
+    "why": "Nearly dialogue-free, cut entirely to 'Promentory': the pursuit along mountain ridges in North Carolina becomes a ballet of music and movement; a model of score-led action editing.",
+    "query": "Last of the Mohicans final fight cliff scene"
+  },
+  {
+    "film": "Alexander",
+    "year": 2004,
+    "scene": "Battle of Gaugamela",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA/Germany/UK/France",
+    "director": "Oliver Stone",
+    "craft": [
+      "DP: Rodrigo Prieto",
+      "Composer: Vangelis"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "desert",
+      "cgi",
+      "aerial photography",
+      "infantry"
+    ],
+    "why": "An eagle's-eye view tracks over the battlefield to explain the Macedonian oblique maneuver, then dives into dust-choked phalanx fighting; study how a recurring overhead motif keeps a massive battle legible.",
+    "query": "Alexander Gaugamela battle scene"
+  },
+  {
+    "film": "Baahubali 2: The Conclusion",
+    "year": 2017,
+    "scene": "Palm-tree catapult storming of Mahishmati",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "India",
+    "director": "S. S. Rajamouli",
+    "craft": [
+      "DP: K. K. Senthil Kumar",
+      "Composer: M. M. Keeravani"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "siege",
+      "slow motion",
+      "wire work"
+    ],
+    "why": "Soldiers launched over the city walls on bent palm trees, rolled in shields: Rajamouli's maximalist invention, VFX scale and heroic slow-motion compositions show Indian epic grammar at its boldest.",
+    "query": "Baahubali 2 palm tree catapult scene",
+    "video": "iToRAfA-V0s"
+  },
+  {
+    "film": "The Last Samurai",
+    "year": 2003,
+    "scene": "Final samurai charge into the Gatling guns",
+    "category": "epic-battle",
+    "medium": "film",
+    "country": "USA",
+    "director": "Edward Zwick",
+    "craft": [
+      "DP: John Toll",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cavalry",
+      "slow motion",
+      "score-driven",
+      "real location"
+    ],
+    "why": "A doomed cavalry charge filmed in New Zealand, with slow-motion falls, Zimmer's elegiac score and the shift to Gatling-gun fire; study how the sequence turns from triumph to elegy through pacing alone.",
+    "query": "The Last Samurai final battle charge scene"
+  },
+  {
+    "film": "Top Gun: Maverick",
+    "year": 2022,
+    "scene": "Final mission: canyon run and uranium-plant strike",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joseph Kosinski",
+    "craft": [
+      "DP: Claudio Miranda",
+      "Editor: Eddie Hamilton",
+      "Aerial coordinator: Kevin LaRosa II"
+    ],
+    "accolades": [
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "pov",
+      "sound design",
+      "practical effects"
+    ],
+    "why": "Actors flew in real F/A-18Fs with six in-cockpit cameras, so g-forces on faces are real; study how cockpit close-ups, air-to-air plates and timer-driven cutting make low-level flight geography clear.",
+    "query": "Top Gun Maverick final mission scene"
+  },
+  {
+    "film": "Top Gun: Maverick",
+    "year": 2022,
+    "scene": "Darkstar Mach 10 test flight",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Joseph Kosinski",
+    "craft": [
+      "DP: Claudio Miranda",
+      "Editor: Eddie Hamilton"
+    ],
+    "accolades": [
+      "Oscar: Best Sound"
+    ],
+    "techniques": [
+      "practical effects",
+      "sound design",
+      "cgi",
+      "score-driven"
+    ],
+    "why": "A full-scale Darkstar mockup, low-angle compositions and a steadily building sound mix sell a fictional hypersonic jet; study how incremental Mach call-outs create escalating tension in a single-character sequence.",
+    "query": "Top Gun Maverick Darkstar scene"
+  },
+  {
+    "film": "Top Gun",
+    "year": 1986,
+    "scene": "Final dogfight with the MiGs",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Tony Scott",
+    "craft": [
+      "DP: Jeffrey L. Kimball",
+      "Composer: Harold Faltermeyer"
+    ],
+    "accolades": [
+      "Oscar: Best Original Song"
+    ],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "score-driven",
+      "montage"
+    ],
+    "why": "Real Navy F-14s photographed air-to-air against backlit sunsets, intercut with cockpit inserts; Tony Scott's commercial-style editing and synth score created the template for the modern aerial action film.",
+    "query": "Top Gun 1986 final dogfight scene"
+  },
+  {
+    "film": "Dunkirk",
+    "year": 2017,
+    "scene": "Farrier's Spitfire dogfights over the Channel",
+    "category": "aerial",
+    "medium": "film",
+    "country": "UK/USA/Netherlands/France",
+    "director": "Christopher Nolan",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "Editor: Lee Smith",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "real aircraft",
+      "imax",
+      "aerial photography",
+      "cross-cutting",
+      "sound design"
+    ],
+    "why": "Real Spitfires with IMAX cameras mounted on wings and in cockpits; the fuel-gauge chalk mark, gunsight framing and cross-cut timelines make each engagement a ticking clock.",
+    "query": "Dunkirk spitfire dogfight scene"
+  },
+  {
+    "film": "Wings",
+    "year": 1927,
+    "scene": "Battle of Saint-Mihiel and the aerial dogfights",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "William A. Wellman",
+    "craft": [
+      "DP: Harry Perry"
+    ],
+    "accolades": [
+      "Oscar: Outstanding Picture",
+      "Oscar: Best Engineering Effects"
+    ],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts",
+      "practical explosions"
+    ],
+    "why": "The first Best Picture winner: actors filmed in real planes in flight, cameras mounted on fuselages and staged crashes; the foundation of all air-combat cinema.",
+    "query": "Wings 1927 dogfight scene"
+  },
+  {
+    "film": "Hell's Angels",
+    "year": 1930,
+    "scene": "Mass dogfight over the Western Front",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Howard Hughes",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts"
+    ],
+    "why": "Hughes assembled dozens of real WWI aircraft and staged a massive dogfight with cameras in the air; clouds were used as backdrops to give speed and depth, a lesson in early pre-digital aerial staging.",
+    "query": "Hell's Angels 1930 dogfight scene"
+  },
+  {
+    "film": "Battle of Britain",
+    "year": 1969,
+    "scene": "Aerial battle set to Walton's \"Battle in the Air\"",
+    "category": "aerial",
+    "medium": "film",
+    "country": "UK",
+    "director": "Guy Hamilton",
+    "craft": [
+      "DP: Freddie Young"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "score-driven",
+      "montage"
+    ],
+    "why": "The climactic dogfight plays with no effects sound, only William Walton's 'Battle in the Air'; real Spitfires, Hurricanes and Spanish-built Heinkels and Messerschmitts make it a landmark of scored aerial montage.",
+    "query": "Battle of Britain 1969 Battle in the Air scene"
+  },
+  {
+    "film": "Masters of the Air",
+    "year": 2024,
+    "scene": "B-17 formation under fighter attack",
+    "category": "aerial",
+    "medium": "series",
+    "country": "USA",
+    "director": "Cary Joji Fukunaga",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "led volume",
+      "sound design",
+      "pov"
+    ],
+    "why": "Cockpit and gun positions filmed on a gimbal inside an LED volume let actors react to rendered flak and fighters; study how restricted crew POVs make a vast formation battle claustrophobic.",
+    "query": "Masters of the Air Regensburg mission scene"
+  },
+  {
+    "film": "Pearl Harbor",
+    "year": 2001,
+    "scene": "Japanese attack on Pearl Harbor",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Michael Bay",
+    "craft": [
+      "DP: John Schwartzman",
+      "VFX: Industrial Light & Magic",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "practical explosions",
+      "cgi",
+      "real aircraft",
+      "pov",
+      "tracking shot"
+    ],
+    "why": "Real warship-scale explosions in Pearl Harbor, CG aircraft and the falling-bomb POV shot onto the USS Arizona; study how practical fire and digital planes are married into fluid tracking moves.",
+    "query": "Pearl Harbor 2001 attack scene",
+    "video": "sJkhYwjc1PY"
+  },
+  {
+    "film": "Tora! Tora! Tora!",
+    "year": 1970,
+    "scene": "Attack on Pearl Harbor",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA/Japan",
+    "director": "Richard Fleischer, Kinji Fukasaku, Toshio Masuda",
+    "craft": [
+      "Composer: Jerry Goldsmith"
+    ],
+    "accolades": [
+      "Oscar: Best Special Visual Effects"
+    ],
+    "techniques": [
+      "real aircraft",
+      "practical explosions",
+      "miniatures",
+      "aerial photography"
+    ],
+    "why": "Converted trainer aircraft standing in for Zeros, full-scale battleship mockups and miniatures; the docudrama-like approach and accidental-crash footage show how pre-digital films achieved overwhelming scale.",
+    "query": "Tora Tora Tora attack scene"
+  },
+  {
+    "film": "Midway",
+    "year": 2019,
+    "scene": "Dick Best's dive-bombing run on the Akagi",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "Roland Emmerich",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "pov",
+      "practical explosions",
+      "sound design"
+    ],
+    "why": "A near-vertical dive through flak filmed largely from the cockpit POV, with CG ships and tracers; study the escalating engine whine and wind roar as the pilot holds his release until the last moment.",
+    "query": "Midway 2019 dive bomb scene"
+  },
+  {
+    "film": "Behind Enemy Lines",
+    "year": 2001,
+    "scene": "F/A-18 surface-to-air missile evasion",
+    "category": "aerial",
+    "medium": "film",
+    "country": "USA",
+    "director": "John Moore",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "pov",
+      "speed ramping",
+      "sound design"
+    ],
+    "why": "Speed-ramped camera moves chase missiles through clouds as the jet jinks, while the cockpit audio warnings provide rhythm; a turn-of-the-century template for kinetic CG aerial action.",
+    "query": "Behind Enemy Lines missile chase scene"
+  },
+  {
+    "film": "The Blue Max",
+    "year": 1966,
+    "scene": "Biplane dogfight and under-the-bridge flying duel",
+    "category": "aerial",
+    "medium": "film",
+    "country": "UK",
+    "director": "John Guillermin",
+    "craft": [
+      "DP: Douglas Slocombe",
+      "Composer: Jerry Goldsmith"
+    ],
+    "accolades": [],
+    "techniques": [
+      "real aircraft",
+      "aerial photography",
+      "practical stunts"
+    ],
+    "why": "Real replica WWI fighters flown in Ireland, including a low-level bridge-flying stunt; study the air-to-air photography and how Goldsmith's score lifts the aerial sequences.",
+    "query": "The Blue Max dogfight scene"
+  },
+  {
+    "film": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "scene": "Opening ambush by the Acheron in the fog",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Peter Weir",
+    "craft": [
+      "DP: Russell Boyd",
+      "Editor: Lee Smith"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "sound design",
+      "practical effects",
+      "miniatures",
+      "cgi",
+      "night"
+    ],
+    "why": "The tension comes from sound: creaking timbers, a bell, then muzzle flashes in the fog before cannonballs tear through the deck; a model of the 'see it from inside the ship' approach to period naval combat.",
+    "query": "Master and Commander opening battle scene",
+    "video": "dY2ff_XslX8"
+  },
+  {
+    "film": "Master and Commander: The Far Side of the World",
+    "year": 2003,
+    "scene": "Final boarding of the Acheron",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Peter Weir",
+    "craft": [
+      "DP: Russell Boyd",
+      "Editor: Lee Smith"
+    ],
+    "accolades": [
+      "Oscar: Best Cinematography",
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "practical stunts",
+      "handheld",
+      "practical effects",
+      "one vs many"
+    ],
+    "why": "A disguised whaler closes in and the crew swarms across in a chaotic boarding; handheld coverage amid smoke and a full-scale deck set teaches how to keep hand-to-hand fighting legible in a crowded space.",
+    "query": "Master and Commander final battle boarding scene",
+    "video": "lNmphOf34yk"
+  },
+  {
+    "film": "Das Boot",
+    "year": 1981,
+    "scene": "Depth-charge attack",
+    "category": "naval",
+    "medium": "film",
+    "country": "West Germany",
+    "director": "Wolfgang Petersen",
+    "craft": [
+      "DP: Jost Vacano",
+      "Composer: Klaus Doldinger"
+    ],
+    "accolades": [],
+    "techniques": [
+      "handheld",
+      "single location",
+      "sound design",
+      "practical effects"
+    ],
+    "why": "Vacano's handheld camera runs the length of a full-scale sub interior; the sonar 'ping', creaking hull and bursting rivets make sound the enemy — the benchmark for claustrophobic submarine suspense.",
+    "query": "Das Boot depth charge scene"
+  },
+  {
+    "film": "Greyhound",
+    "year": 2020,
+    "scene": "Wolf-pack U-boat attacks on the convoy",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Aaron Schneider",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "sound design",
+      "single location",
+      "cross-cutting"
+    ],
+    "why": "The battle unfolds almost entirely from the destroyer's bridge through radio, sonar and orders; study how procedural dialogue and tight framing generate tension, with CG seascapes providing scale.",
+    "query": "Greyhound U-boat attack scene"
+  },
+  {
+    "film": "Crimson Tide",
+    "year": 1995,
+    "scene": "Akula torpedo attack and countermeasures",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Tony Scott",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "techniques": [
+      "sound design",
+      "single location",
+      "cross-cutting",
+      "score-driven"
+    ],
+    "why": "Tony Scott lights the sub in red emergency light and cuts between sonar, crew faces and the incoming torpedo; Zimmer's choral score and the countdown call-outs turn procedure into heart-pounding action.",
+    "query": "Crimson Tide torpedo attack scene"
+  },
+  {
+    "film": "The Hunt for Red October",
+    "year": 1990,
+    "scene": "Final torpedo duel with the Konovalov",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "John McTiernan",
+    "craft": [
+      "DP: Jan de Bont",
+      "Composer: Basil Poledouris"
+    ],
+    "accolades": [
+      "Oscar: Best Sound Effects Editing"
+    ],
+    "techniques": [
+      "miniatures",
+      "sound design",
+      "cross-cutting",
+      "underwater"
+    ],
+    "why": "Model submarines shot 'dry-for-wet' in smoke, intercut with three crews hearing the same pings; award-winning sound effects define space and threat where nothing can be seen.",
+    "query": "Hunt for Red October final battle torpedo scene"
+  },
+  {
+    "film": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "scene": "Maelstrom battle between the Black Pearl and the Flying Dutchman",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Gore Verbinski",
+    "craft": [
+      "DP: Dariusz Wolski",
+      "VFX supervisor: John Knoll",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "rain",
+      "practical stunts",
+      "wire work"
+    ],
+    "why": "Ships circling a giant digital whirlpool, actors on full-scale gimbaled decks in rain towers and swashbuckling duels intercut with a wedding; study the rotating geography that keeps a chaotic set piece readable.",
+    "query": "Pirates of the Caribbean At World's End maelstrom battle scene"
+  },
+  {
+    "film": "In the Heart of the Sea",
+    "year": 2015,
+    "scene": "White whale attack sinks the Essex",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA",
+    "director": "Ron Howard",
+    "craft": [
+      "DP: Anthony Dod Mantle"
+    ],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "practical effects",
+      "underwater"
+    ],
+    "why": "A CG sperm whale ramming the Essex with crashing practical rigs and water dumps; study how fragmentary handheld coverage conveys panic and the creature's scale.",
+    "query": "In the Heart of the Sea whale attack scene"
+  },
+  {
+    "film": "U-571",
+    "year": 2000,
+    "scene": "Destroyer depth-charge attack on the submarine",
+    "category": "naval",
+    "medium": "film",
+    "country": "USA/France",
+    "director": "Jonathan Mostow",
+    "craft": [],
+    "accolades": [
+      "Oscar: Best Sound Editing"
+    ],
+    "techniques": [
+      "sound design",
+      "practical effects",
+      "single location"
+    ],
+    "why": "Gimbal-mounted sub sets shake, flood and burst rivets as depth charges approach; the Oscar-winning sound editing proves how a cramped interior can sustain a full action set piece.",
+    "query": "U-571 depth charge scene"
+  },
+  {
+    "film": "The Admiral: Roaring Currents",
+    "year": 2014,
+    "scene": "Battle of Myeongnyang",
+    "category": "naval",
+    "medium": "film",
+    "country": "South Korea",
+    "director": "Kim Han-min",
+    "craft": [],
+    "accolades": [],
+    "techniques": [
+      "cgi",
+      "practical stunts",
+      "one vs many",
+      "cross-cutting"
+    ],
+    "why": "Twelve Korean ships against hundreds: a near hour-long naval battle combining digital fleets, boarding melees and whirlpool tactics; study how the tidal current becomes both setting and plot device.",
+    "query": "The Admiral Roaring Currents battle scene"
+  },
+  {
+    "film": "Dunkirk",
+    "year": 2017,
+    "scene": "Destroyer torpedoed at night",
+    "category": "naval",
+    "medium": "film",
+    "country": "UK/USA/Netherlands/France",
+    "director": "Christopher Nolan",
+    "craft": [
+      "DP: Hoyte van Hoytema",
+      "Editor: Lee Smith",
+      "Composer: Hans Zimmer"
+    ],
+    "accolades": [
+      "Oscar: Best Film Editing",
+      "Oscar: Best Sound Editing",
+      "Oscar: Best Sound Mixing"
+    ],
+    "techniques": [
+      "imax",
+      "night",
+      "practical effects",
+      "underwater",
+      "sound design"
+    ],
+    "why": "Practically flooding the ship interior in darkness, the camera stays inside with the trapped soldiers; study how IMAX framing, rushing water and crushed blacks deliver a capsizing from the inside.",
+    "query": "Dunkirk destroyer torpedo sinking scene"
+  }
+]
