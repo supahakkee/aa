@@ -2439,7 +2439,7 @@
     ],
     "combatants": [
       "mutants_superpowered",
-      "federal_agents"
+      "robots_androids"
     ],
     "weapons": [
       "fists_feet",
@@ -4435,7 +4435,7 @@
     "genre": [
       "superhero",
       "sci_fi",
-      "space_opera"
+      "action"
     ],
     "era": "contemporary",
     "period": "Titan, Thanos's ruined homeworld, 2018",
@@ -4503,8 +4503,8 @@
     "scale": "one_vs_many",
     "genre": [
       "superhero",
-      "fantasy",
-      "comedy"
+      "comedy",
+      "fantasy"
     ],
     "era": "fantasy_world",
     "period": "The Rainbow Bridge, Asgard (fictional)",
@@ -4690,7 +4690,7 @@
       "mark i",
       "iron man",
       "cave escape",
-      "flamethrower",
+      "ten rings",
       "tony stark",
       "armour suit"
     ]
@@ -4890,7 +4890,7 @@
     "language": "english",
     "keywords": [
       "magneto",
-      "submarine",
+      "magnetism",
       "cuban missile crisis",
       "missiles",
       "sebastian shaw",
@@ -4919,8 +4919,8 @@
     "scale": "one_vs_many",
     "genre": [
       "superhero",
-      "sci_fi",
-      "action"
+      "action",
+      "sci_fi"
     ],
     "era": "contemporary",
     "period": "Magneto's plastic prison, present day",
@@ -5050,8 +5050,8 @@
     "scale": "small_group",
     "genre": [
       "superhero",
-      "action",
-      "drama"
+      "drama",
+      "action"
     ],
     "era": "contemporary",
     "period": "The Herogasm retreat, present day",

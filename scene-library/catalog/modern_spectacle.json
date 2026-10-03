@@ -2104,7 +2104,7 @@
       "thriller"
     ],
     "era": "contemporary",
-    "period": "Gotham City (shot in Chicago), late 2000s",
+    "period": "Mob bank in Gotham City, late 2000s",
     "region": "usa",
     "environment": [
       "building_interior",
@@ -2732,7 +2732,7 @@
     "genre": [
       "superhero",
       "comedy",
-      "action"
+      "fantasy"
     ],
     "era": "contemporary",
     "period": "The Grandmaster's arena, Sakaar (fictional)",
@@ -3585,7 +3585,7 @@
     ],
     "era": "near_future",
     "period": "Peach Trees mega-block, Mega-City One",
-    "region": "unspecified_city",
+    "region": "usa",
     "environment": [
       "apartment_house",
       "corridor"

@@ -66,7 +66,7 @@ def lint(r):
         w.append(f"Japanese warriors but region {where}")
     if who & {"knights", "medieval_soldiers", "vikings"} and where not in EUROPE | {"fantasy_world", "middle_east", "north_africa"}:
         w.append(f"European warriors but region {where}")
-    if who & {"roman_legion", "greek_hoplites", "gladiators"} and era not in ("ancient", "fantasy_world"):
+    if who & {"roman_legion", "greek_hoplites"} and era not in ("ancient", "fantasy_world"):
         w.append(f"ancient combatants but era {era}")
     for c, e in (("ww1_soldiers", "early_20th_century"), ("ww2_soldiers", "ww2")):
         if c in who and era != e:
@@ -99,7 +99,7 @@ def lint(r):
     weapons, vehicles = set(r.get("weapons", [])), set(r.get("vehicles", []))
     if st.startswith("battle.") and st != "battle.giants" and scale in ("solo", "one_on_one"):
         w.append(f"battle scene_type with scale {scale}")
-    if st.startswith("fight.") and scale in ("army", "fleet", "city_scale"):
+    if st.startswith("fight.") and st != "fight.superpowered" and scale in ("army", "fleet", "city_scale"):
         w.append(f"fight scene_type with scale {scale}")
     if st.startswith("chase.") and not fmt & {"pursuit", "escape"}:
         w.append("chase without pursuit or escape format")

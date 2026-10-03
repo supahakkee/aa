@@ -2382,7 +2382,8 @@
     "combatants": [
       "cowboys_gunslingers",
       "mercenaries",
-      "civilians"
+      "civilians",
+      "native_warriors"
     ],
     "weapons": [
       "automatic_weapons",

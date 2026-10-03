@@ -20,8 +20,8 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
-      "thriller",
-      "crime"
+      "crime",
+      "thriller"
     ],
     "era": "contemporary",
     "period": "John Wick's house outside New York, present day",
@@ -88,6 +88,7 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
+      "crime",
       "thriller"
     ],
     "era": "contemporary",
@@ -293,6 +294,7 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
+      "crime",
       "thriller"
     ],
     "era": "contemporary",
@@ -406,7 +408,6 @@
     "keywords": [
       "ana de armas",
       "eve macarro",
-      "flamethrower",
       "fire hose",
       "hallstatt",
       "john wick universe"
@@ -1428,7 +1429,7 @@
     "genre": [
       "crime",
       "action",
-      "noir"
+      "western"
     ],
     "era": "late_20th_century",
     "period": "Hotel lobby in Macau on the eve of the 1999 handover",
@@ -1513,7 +1514,7 @@
     ],
     "combatants": [
       "police",
-      "gangsters"
+      "triads_yakuza"
     ],
     "weapons": [
       "handgun",
@@ -2162,7 +2163,7 @@
       "ray liotta",
       "love letters",
       "slow-motion bullets",
-      "rain"
+      "markie trattman"
     ]
   },
   {
@@ -2539,7 +2540,7 @@
     ],
     "era": "contemporary",
     "period": "Alleys of Old Town, Basin City",
-    "region": "unspecified_city",
+    "region": "usa",
     "environment": [
       "alley",
       "rooftops"
@@ -2672,8 +2673,8 @@
     "scale": "medium",
     "genre": [
       "action",
-      "thriller",
-      "comedy"
+      "crime",
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Hutch's factory in suburban America, present day",
@@ -3712,7 +3713,7 @@
     "genre": [
       "action",
       "crime",
-      "comedy"
+      "heist"
     ],
     "era": "contemporary",
     "period": "Night-time arms deal in Atlanta, 2010s",

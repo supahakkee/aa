@@ -2535,7 +2535,7 @@
       "tony leung",
       "andy lau",
       "mole",
-      "rooftop",
+      "mirror image",
       "undercover cop",
       "skyline"
     ],
@@ -2642,7 +2642,7 @@
       "brutal"
     ],
     "combatants": [
-      "gangsters",
+      "triads_yakuza",
       "assassins_hitmen"
     ],
     "weapons": [
@@ -2765,8 +2765,8 @@
     "period": "Housing-project stash house, American Gulf Coast, 1995",
     "region": "usa",
     "environment": [
-      "slum_shantytown",
-      "apartment_house"
+      "apartment_house",
+      "city_street"
     ],
     "time_of_day": "night",
     "atmosphere": [
@@ -2870,7 +2870,7 @@
     "keywords": [
       "din djarin",
       "bounty hunters guild",
-      "jetpacks",
+      "mandalorian clan",
       "grogu",
       "beskar armour",
       "covert"
