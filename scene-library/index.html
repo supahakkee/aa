@@ -704,6 +704,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     $("#pullCount").textContent = pull.size;
     $("#pullBtn").setAttribute("aria-pressed", state.pullOnly);
     $("#filterCount").textContent = filterCount();
+    $("#reelBtn").hidden = MODE !== "embed" && !Object.keys(LOCAL).length;
     $("#reelBtn").disabled = !reelList().length;
     if (!state.pullOnly) $("#copyWrap").hidden = true;
   }
