@@ -1,9 +1,9 @@
 # Set-Piece Vault: guide for agents
 
-This folder is a reference library of 377 action set-pieces from film and TV (fights, battles,
-chases, stunts, disasters, space). Each scene is a **30-second clip** described by a fixed set of
-**facets**, every one drawn from a controlled vocabulary. Use the facets to find scenes; don't guess
-from film titles.
+This folder is a reference library of action set-pieces from film and series (fights, battles,
+chases, stunts, disasters, space; `count` in `data/scenes.json` gives the current total). Each scene
+is a **30-second clip** described by a fixed set of **facets**, every one drawn from a controlled
+vocabulary. Use the facets to find scenes; don't guess from film titles.
 
 **Easiest way in: the MCP server.** `LOCAL_SETUP.md` sets everything up and connects it. Its tools
 (`list_tags`, `search_scenes`, `get_scene`, `get_clip`, `get_contact_sheet`, `find_similar`) wrap
@@ -15,7 +15,7 @@ the files and command-line tools described here.
 | Path | What it is |
 |---|---|
 | `taxonomy.json` | The vocabulary: every facet, its allowed values, a definition for each value, and how many values a scene carries. Read this before filtering. |
-| `data/scenes.json` | All scenes: `{"version": 2, "count": 377, "scenes": [ ... ]}`. |
+| `data/scenes.json` | All scenes: `{"version": 2, "count": N, "scenes": [ ... ]}`. |
 | `data/scenes.jsonl` | The same records, one JSON object per line. |
 | `clips/<scene_type>/<id>.mp4` | The 30-second clip, once downloaded with `tools/download_clips.py`. |
 | `clips/<scene_type>/<id>.json` | The scene's record plus `local_file` and download details. |
