@@ -222,7 +222,7 @@
       "drama"
     ],
     "era": "contemporary",
-    "period": "An underground car park and elevator, Seoul",
+    "period": "Underground car park and elevator, Seoul, present day",
     "region": "korea",
     "environment": [
       "building_interior",
@@ -693,7 +693,7 @@
       "one_vs_many",
       "ambush"
     ],
-    "scale": "one_vs_many",
+    "scale": "medium",
     "genre": [
       "action",
       "crime",
@@ -1105,7 +1105,7 @@
       "thriller"
     ],
     "era": "contemporary",
-    "period": "A church under renovation, Hong Kong",
+    "period": "Church under renovation, Hong Kong, present day",
     "region": "hong_kong",
     "environment": [
       "temple_church",

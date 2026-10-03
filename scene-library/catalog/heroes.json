@@ -341,7 +341,8 @@
     ],
     "weapons": [
       "fists_feet",
-      "improvised"
+      "improvised",
+      "claws_teeth"
     ],
     "vehicles": [
       "train"

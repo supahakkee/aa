@@ -1103,7 +1103,6 @@
       "titus pullo",
       "lucius vorenus",
       "thirteenth legion",
-      "gladiators",
       "arena",
       "condemned man"
     ]
@@ -1137,7 +1136,9 @@
       "arena_ring"
     ],
     "time_of_day": "day",
-    "atmosphere": [],
+    "atmosphere": [
+      "rain"
+    ],
     "mood": [
       "brutal",
       "stylish",
@@ -1168,7 +1169,8 @@
       "crixus",
       "capua",
       "giant gladiator",
-      "speed ramp"
+      "speed ramp",
+      "bringer of rain"
     ],
     "video": "erMVaImiuyI"
   },
@@ -2244,7 +2246,7 @@
     ],
     "era": "fantasy_world",
     "period": "The World Between Worlds and Clone Wars memories",
-    "region": "fantasy_world",
+    "region": "alien_world",
     "environment": [
       "dreamscape",
       "battlefield"
@@ -3184,8 +3186,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "horror",
       "sci_fi",
+      "horror",
       "drama"
     ],
     "era": "late_20th_century",
@@ -3210,7 +3212,8 @@
     "weapons": [
       "improvised",
       "shield",
-      "spear_polearm"
+      "spear_polearm",
+      "claws_teeth"
     ],
     "vehicles": [],
     "technique": [
@@ -3507,8 +3510,8 @@
       "walker herd",
       "atlanta",
       "tank",
-      "horse",
-      "pilot episode"
+      "pilot episode",
+      "devoured horse"
     ],
     "video": "W7vXo4bshPA"
   },

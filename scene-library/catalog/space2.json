@@ -263,7 +263,8 @@
     "weapons": [
       "knife",
       "energy_weapons",
-      "superpowers"
+      "superpowers",
+      "claws_teeth"
     ],
     "vehicles": [],
     "technique": [
@@ -333,7 +334,8 @@
     "weapons": [
       "explosives",
       "energy_weapons",
-      "rifle"
+      "rifle",
+      "claws_teeth"
     ],
     "vehicles": [
       "jetpack"
@@ -2876,7 +2878,7 @@
       "stealth_infiltration",
       "escape"
     ],
-    "scale": "solo",
+    "scale": "one_on_one",
     "genre": [
       "horror",
       "sci_fi",
@@ -2917,7 +2919,6 @@
     "language": "english",
     "keywords": [
       "nail on the stairs",
-      "silence",
       "bathtub birth",
       "red lights",
       "emily blunt",
@@ -3100,7 +3101,7 @@
     ],
     "combatants": [
       "aliens",
-      "apes_animals",
+      "creatures",
       "native_warriors"
     ],
     "weapons": [

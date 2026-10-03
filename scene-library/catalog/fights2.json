@@ -1323,7 +1323,8 @@
     ],
     "scene_type": "fight.blades",
     "format": [
-      "duel"
+      "duel",
+      "bout"
     ],
     "scale": "one_on_one",
     "genre": [
@@ -1831,9 +1832,9 @@
     "scene_type": "fight.blades",
     "format": [
       "ambush",
-      "small_group_fight"
+      "one_vs_many"
     ],
-    "scale": "medium",
+    "scale": "one_vs_many",
     "genre": [
       "wuxia",
       "martial_arts",
@@ -2098,7 +2099,7 @@
       "crime"
     ],
     "era": "contemporary",
-    "period": "Gang hideout, present day",
+    "period": "Gang hideout, South Korea, present day",
     "region": "korea",
     "environment": [
       "corridor",
@@ -2207,8 +2208,7 @@
       "silat",
       "machete gang",
       "tonfa",
-      "tower block",
-      "corridor"
+      "tower block"
     ]
   },
   {
@@ -2337,7 +2337,6 @@
       "donnie yen",
       "wu jing",
       "extendable baton",
-      "knife",
       "speed",
       "alley duel"
     ],
