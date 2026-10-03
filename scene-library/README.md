@@ -12,14 +12,14 @@ The tags keep similar-looking scenes apart: a samurai duel in the rain (`fight.b
 `british_isles`, `knights`, `european_sword`).
 
 <!-- counts -->
-**835 scenes** from 616 films and series, 1923-2025, made in 31 countries; 6 h 57 min of clips.
+**921 scenes** from 661 films and series, 1923-2025, made in 34 countries; 7 h 40 min of clips.
 
 | Family | Scenes | Scene types |
 |---|---|---|
-| Fight | 315 | `fight.gunfight` 76 · `fight.blades` 76 · `fight.hand_to_hand` 66 · `fight.superpowered` 50 · `fight.ring_sport` 27 · `fight.creature` 20 |
-| Battle | 260 | `battle.modern_ground` 71 · `battle.pre_gunpowder` 52 · `battle.giants` 34 · `battle.black_powder` 28 · `battle.space` 27 · `battle.air` 27 · `battle.naval` 21 |
-| Chase & race | 115 | `chase.vehicle` 64 · `chase.foot` 30 · `race` 16 · `chase.air` 5 |
-| Stunts & spectacle | 145 | `stunt.set_piece` 43 · `disaster` 29 · `creature.attack` 26 · `space.travel` 26 · `vfx.showcase` 21 |
+| Fight | 341 | `fight.blades` 84 · `fight.gunfight` 79 · `fight.hand_to_hand` 71 · `fight.superpowered` 58 · `fight.ring_sport` 27 · `fight.creature` 22 |
+| Battle | 283 | `battle.modern_ground` 80 · `battle.pre_gunpowder` 53 · `battle.giants` 41 · `battle.air` 31 · `battle.black_powder` 29 · `battle.space` 27 · `battle.naval` 22 |
+| Chase & race | 118 | `chase.vehicle` 66 · `chase.foot` 30 · `race` 17 · `chase.air` 5 |
+| Stunts & spectacle | 179 | `disaster` 48 · `stunt.set_piece` 47 · `creature.attack` 32 · `vfx.showcase` 26 · `space.travel` 26 |
 <!-- /counts -->
 
 ## Get it running
