@@ -561,7 +561,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* storage unavailable */ } },
   };
   let pull = new Set(store.get("spv-pull", []).filter((id) => BY_ID[id]));
-  const openSections = new Set(store.get("spv-open", ["genre", "era", "region"]));
+  const openSections = new Set(store.get("spv-open", ["tier", "genre", "era", "region"]));
   const expanded = new Set();
 
   const state = { f: {}, q: "", pullOnly: false, sort: "curated" };
@@ -622,7 +622,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
       const on = selected(facet);
       const values = Object.keys(spec.values)
         .filter((v) => counts[v] || on.has(v))
-        .sort((a, b) => (on.has(b) - on.has(a)) || (counts[b] || 0) - (counts[a] || 0));
+        .sort(facet === "tier" ? () => 0 : (a, b) => (on.has(b) - on.has(a)) || (counts[b] || 0) - (counts[a] || 0));
       if (!values.length) continue;
       const shown = expanded.has(facet) ? values : values.slice(0, 8);
       html += `<details class="facet" data-section="${facet}"${openSections.has(facet) || on.size ? " open" : ""}>
