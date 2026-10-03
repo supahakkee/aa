@@ -230,7 +230,7 @@
       "action",
       "drama"
     ],
-    "era": "early_20th_century",
+    "era": "ww2",
     "region": "china",
     "environment": [
       "dojo_gym"
@@ -243,7 +243,8 @@
       "relentless"
     ],
     "combatants": [
-      "kung_fu_fighters"
+      "kung_fu_fighters",
+      "ww2_soldiers"
     ],
     "weapons": [
       "fists_feet"
@@ -259,7 +260,7 @@
     "medium": "film",
     "violence": "moderate",
     "language": "cantonese",
-    "period": "Japanese-occupied Foshan, China, 1938",
+    "period": "Japanese-occupied Foshan, China, Second Sino-Japanese War",
     "keywords": [
       "wing chun",
       "chain punches",
@@ -912,8 +913,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
       "spy",
+      "action",
       "comedy"
     ],
     "era": "contemporary",
@@ -1019,7 +1020,7 @@
     "period": "Russian-mob London, mid-2000s",
     "keywords": [
       "naked fight",
-      "bathhouse",
+      "turkish bath",
       "linoleum knives",
       "tattoos",
       "tile floor",
@@ -1877,7 +1878,7 @@
       "drama"
     ],
     "era": "contemporary",
-    "region": "british_isles",
+    "region": "usa",
     "environment": [
       "arena_ring"
     ],
@@ -1911,7 +1912,9 @@
       "corner break",
       "pro debut",
       "in-ring camera",
-      "knockout"
+      "knockout",
+      "adonis creed",
+      "michael b. jordan"
     ],
     "video": "29eJVKSYMvQ"
   },
@@ -2072,7 +2075,8 @@
     "era": "early_20th_century",
     "region": "usa",
     "environment": [
-      "arena_ring"
+      "arena_ring",
+      "stadium_racetrack"
     ],
     "time_of_day": "night",
     "atmosphere": [

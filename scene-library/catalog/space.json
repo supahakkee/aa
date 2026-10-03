@@ -1435,7 +1435,8 @@
     "region": "unspecified_city",
     "environment": [
       "hotel",
-      "corridor"
+      "corridor",
+      "dreamscape"
     ],
     "time_of_day": "not_applicable",
     "atmosphere": [],

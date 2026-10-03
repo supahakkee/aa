@@ -961,7 +961,6 @@
     "violence": "moderate",
     "language": "english",
     "keywords": [
-      "katana",
       "motorcycle sword fight",
       "keanu reeves",
       "night ride",
@@ -1092,12 +1091,13 @@
     "violence": "mild",
     "language": "english",
     "keywords": [
-      "sandstorm",
+      "wall of sand",
       "dubai",
       "tom cruise",
       "low visibility",
       "nuclear codes",
-      "tracking signal"
+      "tracking signal",
+      "wistrom"
     ]
   },
   {
@@ -1126,9 +1126,9 @@
     ],
     "scale": "medium",
     "genre": [
+      "action",
       "spy",
-      "thriller",
-      "action"
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Waterloo Station, London, 2007",
@@ -1242,7 +1242,7 @@
     "keywords": [
       "palio",
       "siena",
-      "rooftops",
+      "skylight crash",
       "mitchell",
       "daniel craig",
       "scaffolding fight"
@@ -1344,7 +1344,7 @@
       "martial_arts",
       "action"
     ],
-    "era": "early_20th_century",
+    "era": "mid_20th_century",
     "period": "Outskirts of Republican-era Shanghai, 1940s",
     "region": "china",
     "environment": [
@@ -1453,7 +1453,7 @@
       "zhang ziyi",
       "wall running",
       "masked thief",
-      "rooftops"
+      "yu shu lien"
     ]
   },
   {
@@ -1615,7 +1615,7 @@
       "action"
     ],
     "era": "contemporary",
-    "period": "Formula 1 season, present day",
+    "period": "Abu Dhabi Grand Prix, Yas Marina Circuit, present day",
     "region": "middle_east",
     "environment": [
       "stadium_racetrack"
@@ -1675,8 +1675,8 @@
     "scale": "small_group",
     "genre": [
       "action",
-      "sci_fi",
-      "sports"
+      "sports",
+      "sci_fi"
     ],
     "era": "near_future",
     "period": "Thunderhead Raceway in a stylised retro-futurist world",

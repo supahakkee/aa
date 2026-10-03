@@ -3093,11 +3093,12 @@
     "language": "english",
     "keywords": [
       "robot dog",
-      "black and white",
+      "metalhead",
       "moorland",
       "tracker",
       "survival",
-      "killer robot"
+      "killer robot",
+      "maxine peake"
     ]
   },
   {
@@ -4442,7 +4443,7 @@
     ],
     "combatants": [
       "assassins_hitmen",
-      "drivers_racers"
+      "civilians"
     ],
     "weapons": [
       "handgun",
@@ -5070,7 +5071,7 @@
       "punisher",
       "frank castle",
       "wilson fisk",
-      "prison",
+      "jon bernthal",
       "shiv",
       "inmates"
     ],
@@ -5390,6 +5391,7 @@
       "rocket_missile"
     ],
     "vehicles": [
+      "jetpack",
       "helicopter",
       "parachute_wingsuit"
     ],
@@ -5406,7 +5408,7 @@
       "sam wilson",
       "falcon",
       "batroc",
-      "helicopters",
+      "anthony mackie",
       "wingsuit",
       "redwing drone"
     ]
@@ -5557,7 +5559,7 @@
     "genre": [
       "martial_arts",
       "drama",
-      "action"
+      "comedy"
     ],
     "era": "contemporary",
     "period": "West Valley High School, Los Angeles, present day",
@@ -5617,8 +5619,8 @@
     "scale": "one_on_one",
     "genre": [
       "martial_arts",
-      "sports",
-      "drama"
+      "drama",
+      "comedy"
     ],
     "era": "contemporary",
     "period": "All Valley Karate Tournament, Los Angeles, present day",
@@ -5717,7 +5719,7 @@
       "pablo escobar",
       "search bloc",
       "medellin",
-      "rooftop",
+      "wagner moura",
       "barefoot",
       "1993"
     ]

@@ -36,7 +36,7 @@
     ],
     "combatants": [
       "police",
-      "gangsters"
+      "triads_yakuza"
     ],
     "weapons": [
       "fists_feet",
@@ -736,9 +736,9 @@
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
     "format": [
-      "small_group_fight"
+      "one_vs_many"
     ],
-    "scale": "small_group",
+    "scale": "one_vs_many",
     "genre": [
       "action",
       "thriller",
@@ -930,12 +930,12 @@
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
     "format": [
-      "small_group_fight"
+      "one_vs_many"
     ],
-    "scale": "small_group",
+    "scale": "one_vs_many",
     "genre": [
-      "action",
       "spy",
+      "action",
       "comedy"
     ],
     "era": "contemporary",
@@ -994,9 +994,9 @@
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
     "format": [
-      "small_group_fight"
+      "one_vs_many"
     ],
-    "scale": "small_group",
+    "scale": "one_vs_many",
     "genre": [
       "action",
       "thriller",
@@ -1104,7 +1104,7 @@
     "language": "english",
     "keywords": [
       "oner",
-      "stairwell",
+      "dogs of hell",
       "bikers",
       "charlie cox",
       "railing throws",

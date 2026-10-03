@@ -76,7 +76,6 @@
     "period": "Post-apocalyptic Australian wasteland",
     "keywords": [
       "war rig",
-      "sandstorm",
       "fire tornado",
       "war boys",
       "nux",
@@ -90,7 +89,7 @@
     "year": 2015,
     "scene": "Polecats attack on the return run to the Citadel",
     "query": "Mad Max Fury Road polecats final chase scene",
-    "what_happens": "Immortan Joe's war party of spiked cars and trucks roars across the desert after Furiosa's War Rig, Max strapped to the front of Nux's car as a living blood bag, while raiders swarm the rig.",
+    "what_happens": "On the return run through the canyon, Polecats swing down from tall poles on moving cars to snatch the wives and War Boys off the War Rig while Max, Furiosa and Nux fight them off at full speed.",
     "why": "Performers swing on real flexible poles between moving vehicles. Center framing and selectively undercranked shots keep hundreds of cuts legible, while the climax braids every character arc into one continuous direction of travel.",
     "director": "George Miller",
     "country": "Australia/USA",
@@ -163,6 +162,7 @@
     "period": "Post-apocalyptic Australian wasteland",
     "keywords": [
       "war rig",
+      "polecats",
       "war party",
       "blood bag",
       "doof warrior",
@@ -1864,12 +1864,12 @@
     "language": "english",
     "period": "Washington, D.C., 2054",
     "keywords": [
-      "jetpack",
+      "jetpack cops",
       "sick stick",
       "bleach bypass",
       "precrime",
       "tom cruise",
-      "alley",
+      "john anderton",
       "apartment crash",
       "desaturated"
     ]
@@ -2606,76 +2606,6 @@
       "ryan gosling",
       "film within a film",
       "stunt crew"
-    ]
-  },
-  {
-    "film": "Tom Yum Goong",
-    "year": 2005,
-    "scene": "One-take fight up the spiral staircase",
-    "query": "Tom Yum Goong one take staircase fight scene",
-    "what_happens": "Kham fights his way up a spiralling restaurant ramp in one unbroken shot, breaking limbs and hurling dozens of gang members over railings, through furniture and down the ramp as the camera circles upward with him.",
-    "why": "Tony Jaa fights his way up a spiral restaurant ramp in a single unbroken take. Study the camera choreography, the timing of stuntmen crashing through railings and furniture, and how momentum builds without a cut.",
-    "director": "Prachya Pinkaew",
-    "country": "Thailand",
-    "craft": [
-      "Action choreographer: Panna Rittikrai"
-    ],
-    "accolades": [],
-    "scene_type": "fight.hand_to_hand",
-    "format": [
-      "one_vs_many"
-    ],
-    "scale": "one_vs_many",
-    "genre": [
-      "martial_arts",
-      "action"
-    ],
-    "era": "contemporary",
-    "region": "oceania",
-    "environment": [
-      "restaurant_kitchen",
-      "stairwell",
-      "building_interior"
-    ],
-    "time_of_day": "night",
-    "atmosphere": [
-      "debris_sparks"
-    ],
-    "mood": [
-      "brutal",
-      "relentless"
-    ],
-    "combatants": [
-      "martial_artists_modern",
-      "gangsters",
-      "thugs_henchmen"
-    ],
-    "weapons": [
-      "fists_feet",
-      "improvised"
-    ],
-    "vehicles": [],
-    "technique": [
-      "long_take",
-      "steadicam",
-      "practical_stunts",
-      "tracking_shot",
-      "single_location"
-    ],
-    "look": "live_action_color",
-    "medium": "film",
-    "violence": "moderate",
-    "language": "thai",
-    "period": "Sydney, Australia, mid-2000s",
-    "keywords": [
-      "spiral staircase",
-      "one take",
-      "oner",
-      "bone breaking",
-      "tony jaa",
-      "restaurant",
-      "railings",
-      "muay thai"
     ]
   },
   {

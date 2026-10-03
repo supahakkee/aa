@@ -21,7 +21,7 @@
       "comedy"
     ],
     "era": "contemporary",
-    "period": "A city bus in Seoul",
+    "period": "A city bus in Seoul, late 2000s",
     "region": "korea",
     "environment": [
       "bus"
@@ -941,7 +941,6 @@
       "wu jing",
       "leng feng",
       "underwater fight",
-      "pirates",
       "cargo ship",
       "wolf warrior"
     ],
@@ -1212,7 +1211,7 @@
       "gong er",
       "ma san",
       "sixty-four hands",
-      "snow",
+      "new year's eve",
       "steam train"
     ]
   },
@@ -1233,14 +1232,15 @@
       "Hong Kong Film Award: Best Film",
       "Hong Kong Film Award: Best Action Choreography"
     ],
-    "scene_type": "fight.hand_to_hand",
+    "scene_type": "fight.ring_sport",
     "format": [
-      "duel",
-      "bout"
+      "bout",
+      "duel"
     ],
     "scale": "one_on_one",
     "genre": [
       "martial_arts",
+      "action",
       "drama"
     ],
     "era": "ww2",
@@ -1434,7 +1434,7 @@
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
     "format": [
-      "massed_battle",
+      "team_vs_team",
       "duel"
     ],
     "scale": "medium",
@@ -1444,7 +1444,7 @@
       "drama"
     ],
     "era": "contemporary",
-    "period": "Suzuran All-Boys High School, Japan",
+    "period": "Suzuran All-Boys High School, Japan, present day",
     "region": "japan",
     "environment": [
       "plaza_square"
@@ -1572,7 +1572,7 @@
       "action"
     ],
     "era": "contemporary",
-    "period": "An underground fight club off Khao San Road, Bangkok",
+    "period": "An underground fight club off Khao San Road, Bangkok, present day",
     "region": "southeast_asia",
     "environment": [
       "nightclub_bar",
@@ -1698,7 +1698,7 @@
       "thriller"
     ],
     "era": "contemporary",
-    "period": "A bus depot on the French Riviera",
+    "period": "A bus depot on the French Riviera, present day",
     "region": "western_europe",
     "environment": [
       "warehouse_factory"
@@ -2231,7 +2231,7 @@
       "drama"
     ],
     "era": "contemporary",
-    "period": "A remote highway in northern Argentina",
+    "period": "A remote highway in northern Argentina, present day",
     "region": "latin_america",
     "environment": [
       "highway",

@@ -224,7 +224,8 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
-      "thriller"
+      "thriller",
+      "crime"
     ],
     "era": "contemporary",
     "period": "Manhattan streets at night, present day",
@@ -719,7 +720,7 @@
       "thriller"
     ],
     "era": "contemporary",
-    "period": "Prague office and a public bathroom, Bond's first kills",
+    "period": "Prague office and a public bathroom, mid-2000s",
     "region": "eastern_europe",
     "environment": [
       "building_interior",
@@ -1075,8 +1076,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "spy",
       "action",
+      "spy",
       "thriller"
     ],
     "era": "contemporary",
@@ -1123,7 +1124,7 @@
       "aaron cross",
       "rachel weisz",
       "manila",
-      "rooftops",
+      "larx assassin",
       "motorbike chase"
     ]
   },
@@ -1147,8 +1148,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "spy",
       "action",
+      "spy",
       "thriller"
     ],
     "era": "contemporary",
@@ -1177,7 +1178,7 @@
       "automatic_weapons"
     ],
     "vehicles": [
-      "truck",
+      "tank_armoured",
       "car"
     ],
     "technique": [
@@ -1286,10 +1287,10 @@
     "accolades": [],
     "scene_type": "fight.hand_to_hand",
     "format": [
-      "small_group_fight",
+      "one_vs_many",
       "ambush"
     ],
-    "scale": "small_group",
+    "scale": "one_vs_many",
     "genre": [
       "action",
       "thriller",
@@ -1361,7 +1362,7 @@
     "genre": [
       "martial_arts",
       "action",
-      "thriller"
+      "crime"
     ],
     "era": "contemporary",
     "period": "Gang-held tower block in Jakarta, present day",
@@ -1602,7 +1603,6 @@
       "muay thai",
       "elevator fight",
       "wing chun",
-      "stairwell",
       "yuen woo-ping"
     ]
   },
@@ -1758,7 +1758,7 @@
       "thriller"
     ],
     "era": "contemporary",
-    "period": "Kings club tower in the fictional Indian city of Yatana",
+    "period": "Kings club tower, fictional Indian city of Yatana, present day",
     "region": "south_asia",
     "environment": [
       "nightclub_bar",
@@ -2276,6 +2276,7 @@
       "melancholic"
     ],
     "combatants": [
+      "assassins_hitmen",
       "thugs_henchmen",
       "civilians"
     ],
@@ -2298,7 +2299,7 @@
       "joaquin phoenix",
       "hammer",
       "cctv",
-      "rescue",
+      "brothel",
       "lynne ramsay",
       "security monitors"
     ]
@@ -2510,7 +2511,7 @@
       "cliff booth",
       "brandy",
       "manson family",
-      "flamethrower",
+      "pit bull",
       "leonardo dicaprio"
     ],
     "video": "Iiw8c3-cd6o"
@@ -2765,6 +2766,7 @@
       "stylish"
     ],
     "combatants": [
+      "spies_secret_agents",
       "gangsters",
       "assassins_hitmen"
     ],
@@ -3059,7 +3061,7 @@
       "robert downey jr",
       "bare-knuckle",
       "pre-visualised fight",
-      "slow motion",
+      "mcmurdo",
       "guy ritchie",
       "victorian london"
     ]
@@ -3778,7 +3780,7 @@
     "format": [
       "duel"
     ],
-    "scale": "small_group",
+    "scale": "one_on_one",
     "genre": [
       "crime",
       "noir",
@@ -3825,7 +3827,6 @@
       "head stomp",
       "ryan gosling",
       "carey mulligan",
-      "slow motion",
       "lighting shift"
     ]
   },
@@ -3850,8 +3851,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "thriller",
       "action",
+      "thriller",
       "crime"
     ],
     "era": "contemporary",
@@ -4032,7 +4033,7 @@
     "keywords": [
       "bruce willis",
       "john mcclane",
-      "helicopter",
+      "car into helicopter",
       "toll booth",
       "justin long",
       "die hard 4"
@@ -4814,7 +4815,7 @@
     "genre": [
       "action",
       "sports",
-      "adventure"
+      "sci_fi"
     ],
     "era": "near_future",
     "period": "Grand Prix circuit in a stylised retro-futurist world",
