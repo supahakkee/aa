@@ -239,7 +239,7 @@
     "genre": [
       "space_opera",
       "western",
-      "sci_fi"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Arvala-7, five years after the fall of the Empire (fictional)",
@@ -307,7 +307,7 @@
     "genre": [
       "space_opera",
       "western",
-      "sci_fi"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Tatooine's Dune Sea, five years after the fall of the Empire (fictional)",
@@ -379,7 +379,7 @@
     "scale": "one_vs_many",
     "genre": [
       "space_opera",
-      "sci_fi",
+      "western",
       "action"
     ],
     "era": "fantasy_world",
@@ -1240,8 +1240,8 @@
     "scale": "solo",
     "genre": [
       "sci_fi",
-      "drama",
-      "adventure"
+      "thriller",
+      "drama"
     ],
     "era": "near_future",
     "period": "International Space Antenna, near future",
@@ -1377,7 +1377,7 @@
     "genre": [
       "sci_fi",
       "adventure",
-      "fantasy"
+      "action"
     ],
     "era": "far_future",
     "period": "Hallelujah Mountains, Pandora, 2154",
@@ -1452,7 +1452,7 @@
     "genre": [
       "sci_fi",
       "adventure",
-      "war"
+      "action"
     ],
     "era": "far_future",
     "period": "Hallelujah Mountains, Pandora, 2154",
@@ -1811,7 +1811,7 @@
     "genre": [
       "disaster",
       "sci_fi",
-      "action"
+      "adventure"
     ],
     "era": "contemporary",
     "period": "Manhattan, New York, at the onset of a sudden ice age",
@@ -1875,7 +1875,8 @@
     "scale": "city_scale",
     "genre": [
       "disaster",
-      "action"
+      "action",
+      "adventure"
     ],
     "era": "contemporary",
     "period": "Downtown Los Angeles during a San Andreas earthquake",
@@ -3020,7 +3021,7 @@
     "genre": [
       "horror",
       "sci_fi",
-      "western"
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Jupiter's Claim theme park, Agua Dulce, California, present day",
@@ -3643,7 +3644,8 @@
     "scale": "one_on_one",
     "genre": [
       "fantasy",
-      "adventure"
+      "adventure",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Shelob's Lair, Cirith Ungol, Middle-earth (fictional)",
@@ -4288,7 +4290,7 @@
     "genre": [
       "sci_fi",
       "adventure",
-      "war"
+      "action"
     ],
     "era": "far_future",
     "period": "Metkayina reef waters, Pandora",
@@ -4321,7 +4323,7 @@
       "claws_teeth"
     ],
     "vehicles": [
-      "warship",
+      "civilian_ship",
       "small_boat"
     ],
     "technique": [

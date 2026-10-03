@@ -31,7 +31,7 @@
     "genre": [
       "sci_fi",
       "space_opera",
-      "war"
+      "adventure"
     ],
     "era": "far_future",
     "period": "Arrakeen, Arrakis (fictional), year 10191",
@@ -899,7 +899,6 @@
     "keywords": [
       "caesar",
       "alpha-omega",
-      "trench",
       "forest ambush",
       "andy serkis",
       "ape army"
@@ -975,8 +974,7 @@
       "golden gate bridge",
       "ape uprising",
       "gorilla",
-      "helicopter",
-      "fog"
+      "san francisco"
     ]
   },
   {
@@ -1144,7 +1142,7 @@
     "genre": [
       "historical_epic",
       "action",
-      "drama"
+      "war"
     ],
     "era": "ancient",
     "period": "The Colosseum, Rome, early 3rd century AD",
@@ -1265,7 +1263,6 @@
       "bonaparte",
       "joaquin phoenix",
       "cannonball",
-      "horse",
       "harbour bombardment"
     ]
   },
@@ -1296,8 +1293,7 @@
     "scale": "small_group",
     "genre": [
       "war",
-      "drama",
-      "thriller"
+      "drama"
     ],
     "era": "early_20th_century",
     "period": "Abandoned farm, northern France, 6 April 1917",
@@ -1486,7 +1482,6 @@
     "violence": "graphic",
     "language": "english",
     "keywords": [
-      "last stand",
       "crossroads",
       "ss battalion",
       "sherman",
@@ -1597,8 +1592,7 @@
     "scale": "medium",
     "genre": [
       "war",
-      "action",
-      "drama"
+      "action"
     ],
     "era": "late_20th_century",
     "period": "Mogadishu, Somalia, 4 October 1993",
@@ -1807,7 +1801,7 @@
     "genre": [
       "sci_fi",
       "action",
-      "war"
+      "spy"
     ],
     "era": "contemporary",
     "period": "Stalsk-12, an abandoned closed city in Siberia, present day",
@@ -1927,7 +1921,6 @@
       "c-47",
       "flak",
       "d-day",
-      "parachute",
       "nazi experiments"
     ]
   },
@@ -2100,8 +2093,8 @@
     "scale": "small_group",
     "genre": [
       "superhero",
-      "crime",
-      "thriller"
+      "action",
+      "crime"
     ],
     "era": "contemporary",
     "period": "Mob bank in Gotham City, late 2000s",
@@ -2246,7 +2239,7 @@
     "genre": [
       "superhero",
       "crime",
-      "noir"
+      "action"
     ],
     "era": "contemporary",
     "period": "Flooded Gotham City arena, 2020s",
@@ -2939,8 +2932,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -3013,8 +3006,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -3579,9 +3572,9 @@
     ],
     "scale": "small_group",
     "genre": [
+      "cyberpunk",
       "action",
-      "sci_fi",
-      "cyberpunk"
+      "sci_fi"
     ],
     "era": "near_future",
     "period": "Peach Trees mega-block, Mega-City One",
@@ -4286,8 +4279,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "swashbuckler",
       "adventure",
+      "swashbuckler",
       "fantasy"
     ],
     "era": "early_modern",

@@ -281,7 +281,8 @@
     "weapons": [
       "rifle",
       "automatic_weapons",
-      "explosives"
+      "explosives",
+      "artillery_cannon"
     ],
     "vehicles": [],
     "technique": [
@@ -614,7 +615,6 @@
       "french tanks",
       "tanks from fog",
       "dugouts",
-      "flamethrower",
       "harmonium motif",
       "no man's land",
       "panic retreat",
@@ -1677,8 +1677,7 @@
     "scale": "army",
     "genre": [
       "fantasy",
-      "adventure",
-      "action"
+      "adventure"
     ],
     "era": "fantasy_world",
     "region": "fantasy_world",
@@ -2723,7 +2722,7 @@
     "genre": [
       "historical_epic",
       "action",
-      "fantasy"
+      "drama"
     ],
     "era": "medieval",
     "region": "eastern_europe",
@@ -2874,9 +2873,9 @@
     ],
     "scale": "army",
     "genre": [
+      "historical_epic",
       "action",
-      "fantasy",
-      "historical_epic"
+      "fantasy"
     ],
     "era": "ancient",
     "region": "south_asia",
@@ -2988,7 +2987,6 @@
     "keywords": [
       "gatling guns",
       "cavalry charge",
-      "last stand",
       "bowing soldiers",
       "meiji army"
     ],
@@ -3215,79 +3213,6 @@
     ]
   },
   {
-    "film": "Masters of the Air",
-    "year": 2024,
-    "scene": "B-17 formation under fighter attack",
-    "query": "Masters of the Air Regensburg mission scene",
-    "what_happens": "Inside a B-17 flying in tight bomber formation, the crew fire back from their gun turrets as German fighters slash head-on through the formation and flak bursts, while bombers around them burn and fall.",
-    "why": "Cockpit and gun positions filmed on a gimbal inside an LED volume let actors react to rendered flak and fighters; study how restricted crew POVs make a vast formation battle claustrophobic.",
-    "director": "Cary Joji Fukunaga",
-    "country": "USA",
-    "craft": [],
-    "accolades": [],
-    "scene_type": "battle.air",
-    "format": [
-      "dogfight",
-      "bombardment"
-    ],
-    "scale": "fleet",
-    "genre": [
-      "war",
-      "drama"
-    ],
-    "era": "ww2",
-    "region": "sky",
-    "environment": [
-      "aircraft",
-      "sky"
-    ],
-    "time_of_day": "day",
-    "atmosphere": [
-      "explosions",
-      "smoke",
-      "fire"
-    ],
-    "mood": [
-      "terrifying",
-      "tense",
-      "chaotic"
-    ],
-    "combatants": [
-      "pilots",
-      "ww2_soldiers"
-    ],
-    "weapons": [
-      "aircraft_weapons",
-      "artillery_cannon"
-    ],
-    "vehicles": [
-      "propeller_aircraft"
-    ],
-    "technique": [
-      "pov",
-      "tight_framing",
-      "cgi",
-      "sound_design",
-      "rotating_set",
-      "rear_projection"
-    ],
-    "look": "live_action_color",
-    "medium": "series",
-    "violence": "moderate",
-    "language": "english",
-    "period": "B-17 bombing raid on Münster, Germany, 10 October 1943",
-    "keywords": [
-      "b-17 flying fortress",
-      "bomber formation",
-      "ball turret",
-      "waist gunner",
-      "flak",
-      "head-on attack",
-      "led volume",
-      "bloody hundredth"
-    ]
-  },
-  {
     "film": "Pearl Harbor",
     "year": 2001,
     "scene": "Japanese attack on Pearl Harbor",
@@ -3457,8 +3382,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "war",
+      "action",
       "thriller"
     ],
     "era": "late_20th_century",
@@ -3710,7 +3635,8 @@
     ],
     "vehicles": [
       "warship",
-      "submarine"
+      "submarine",
+      "civilian_ship"
     ],
     "technique": [
       "cgi",
@@ -4043,7 +3969,7 @@
     "year": 2017,
     "scene": "Destroyer torpedoed at night",
     "query": "Dunkirk destroyer torpedo sinking scene",
-    "what_happens": "A torpedo streaks through the dark water and slams into a hospital ship packed with evacuated soldiers; below decks seawater floods in, the lights fail and men claw toward the hatches as the ship rolls over.",
+    "what_happens": "At night a destroyer packed with rescued soldiers is torpedoed; the sea floods the lower decks as Tommy and the men below fight through the dark to the hatches while the ship rolls over.",
     "why": "Practically flooding the ship interior in darkness, the camera stays inside with the trapped soldiers; study how IMAX framing, rushing water and crushed blacks deliver a capsizing from the inside.",
     "director": "Christopher Nolan",
     "country": "UK/USA/Netherlands/France",
@@ -4113,7 +4039,8 @@
       "hatch",
       "trapped soldiers",
       "sinking ship",
-      "hospital ship"
-    ]
+      "destroyer"
+    ],
+    "video": "TcjDcAT2H2M"
   }
 ]

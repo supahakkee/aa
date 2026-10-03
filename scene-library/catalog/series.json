@@ -22,7 +22,7 @@
     "scale": "medium",
     "genre": [
       "fantasy",
-      "war",
+      "drama",
       "action"
     ],
     "era": "fantasy_world",
@@ -97,7 +97,7 @@
     "genre": [
       "fantasy",
       "drama",
-      "thriller"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "The Twins, the Riverlands, War of the Five Kings",
@@ -170,8 +170,8 @@
     "scale": "medium",
     "genre": [
       "fantasy",
-      "action",
-      "drama"
+      "drama",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Daznak's Pit, Meereen, Slaver's Bay",
@@ -243,8 +243,8 @@
     "scale": "one_vs_many",
     "genre": [
       "fantasy",
-      "horror",
-      "drama"
+      "drama",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Winterfell during the battle against the Night King",
@@ -315,7 +315,7 @@
     "genre": [
       "fantasy",
       "drama",
-      "thriller"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "King's Landing, the day of the faith's trials",
@@ -383,8 +383,8 @@
     "scale": "one_vs_many",
     "genre": [
       "fantasy",
-      "action",
-      "drama"
+      "drama",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "The Stepstones islands, war against the Crabfeeder",
@@ -451,8 +451,8 @@
     "scale": "one_on_one",
     "genre": [
       "fantasy",
-      "horror",
-      "action"
+      "action",
+      "adventure"
     ],
     "era": "fantasy_world",
     "period": "Royal crypt beneath Wyzima castle, Temeria",
@@ -1265,8 +1265,8 @@
     "scale": "small_group",
     "genre": [
       "samurai_jidaigeki",
-      "historical_epic",
-      "drama"
+      "drama",
+      "historical_epic"
     ],
     "era": "early_modern",
     "period": "Japan, 1600",
@@ -1758,7 +1758,7 @@
     ],
     "era": "ww2",
     "period": "Over Münster, Germany, 10 October 1943",
-    "region": "western_europe",
+    "region": "sky",
     "environment": [
       "aircraft",
       "sky"
@@ -1803,7 +1803,8 @@
       "bucky egan",
       "flak",
       "luftwaffe fighters"
-    ]
+    ],
+    "video": "FsEUh-6JqG4"
   },
   {
     "film": "Chernobyl",
@@ -1963,8 +1964,8 @@
     "scale": "one_on_one",
     "genre": [
       "space_opera",
-      "action",
-      "sci_fi"
+      "western",
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Calodan on Corvus, after the fall of the Empire",
@@ -3121,7 +3122,7 @@
     "genre": [
       "sci_fi",
       "horror",
-      "adventure"
+      "drama"
     ],
     "era": "late_20th_century",
     "period": "Starcourt Mall, Hawkins, Indiana, July 1985",
@@ -3584,7 +3585,6 @@
     "keywords": [
       "the governor",
       "hershel",
-      "prison",
       "tank assault",
       "michonne",
       "rick grimes"

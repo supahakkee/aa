@@ -18,9 +18,9 @@
     ],
     "scale": "one_on_one",
     "genre": [
+      "martial_arts",
       "action",
-      "crime",
-      "martial_arts"
+      "crime"
     ],
     "era": "contemporary",
     "period": "Crime boss's office, Hong Kong, 2000s",
@@ -475,8 +475,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "historical_epic",
+      "action",
       "drama"
     ],
     "era": "early_20th_century",
@@ -547,8 +547,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1132,8 +1132,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -2231,8 +2231,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -2296,9 +2296,9 @@
     ],
     "scale": "one_on_one",
     "genre": [
+      "martial_arts",
       "action",
-      "crime",
-      "martial_arts"
+      "crime"
     ],
     "era": "contemporary",
     "period": "Back alley, Hong Kong, 2000s",

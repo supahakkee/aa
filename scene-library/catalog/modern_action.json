@@ -158,7 +158,8 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
-      "thriller"
+      "thriller",
+      "crime"
     ],
     "era": "contemporary",
     "period": "Antique-weapons collection in Manhattan, present day",
@@ -1077,8 +1078,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1149,8 +1150,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1293,9 +1294,9 @@
     ],
     "scale": "one_vs_many",
     "genre": [
+      "spy",
       "action",
-      "thriller",
-      "spy"
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Underground station in Berlin, present day",
@@ -3563,8 +3564,7 @@
     "scale": "small_group",
     "genre": [
       "superhero",
-      "action",
-      "adventure"
+      "action"
     ],
     "era": "contemporary",
     "period": "Underground casino and streets of Busan, South Korea, present day",
@@ -3637,8 +3637,8 @@
     "scale": "small_group",
     "genre": [
       "superhero",
-      "crime",
-      "action"
+      "action",
+      "crime"
     ],
     "era": "contemporary",
     "period": "IFC tower and Victoria Harbour skyline, Hong Kong, late 2000s",
@@ -3711,9 +3711,9 @@
     ],
     "scale": "small_group",
     "genre": [
+      "heist",
       "action",
-      "crime",
-      "heist"
+      "crime"
     ],
     "era": "contemporary",
     "period": "Night-time arms deal in Atlanta, 2010s",
@@ -3784,8 +3784,8 @@
     "scale": "one_on_one",
     "genre": [
       "crime",
-      "noir",
-      "thriller"
+      "thriller",
+      "noir"
     ],
     "era": "contemporary",
     "period": "Apartment-block elevator, Los Angeles, present day",
@@ -4060,8 +4060,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "heist",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -4337,9 +4337,9 @@
     ],
     "scale": "small_group",
     "genre": [
+      "disaster",
       "action",
-      "thriller",
-      "disaster"
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Elevated curve above Stanton, Pennsylvania, present day",
@@ -4814,8 +4814,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "sports",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",

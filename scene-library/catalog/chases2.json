@@ -29,8 +29,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -251,8 +251,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -321,8 +321,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -400,8 +400,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -473,8 +473,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -548,7 +548,7 @@
     "genre": [
       "superhero",
       "action",
-      "crime"
+      "thriller"
     ],
     "era": "contemporary",
     "period": "Gotham City, eight years after The Dark Knight",
@@ -769,8 +769,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -848,8 +848,8 @@
     "scale": "medium",
     "genre": [
       "sci_fi",
-      "spy",
-      "action"
+      "action",
+      "spy"
     ],
     "era": "contemporary",
     "period": "Highway through Tallinn, Estonia, present day",
@@ -1049,8 +1049,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1126,8 +1126,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1195,8 +1195,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1272,9 +1272,9 @@
     ],
     "scale": "medium",
     "genre": [
+      "heist",
       "action",
-      "crime",
-      "heist"
+      "crime"
     ],
     "era": "contemporary",
     "period": "Atlanta, Georgia, 2010s",
@@ -1674,8 +1674,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "sports",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -2072,8 +2072,8 @@
     ],
     "scale": "solo",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2141,8 +2141,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2284,9 +2284,9 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "historical_epic",
-      "adventure"
+      "action",
+      "drama"
     ],
     "era": "early_20th_century",
     "period": "Delhi, British India, 1920",

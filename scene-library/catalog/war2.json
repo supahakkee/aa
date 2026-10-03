@@ -380,7 +380,7 @@
     "genre": [
       "historical_epic",
       "drama",
-      "war"
+      "action"
     ],
     "era": "ancient",
     "period": "Final battle of Caesar's Gallic War, Gaul, 52 BC",
@@ -1550,9 +1550,9 @@
     ],
     "scale": "army",
     "genre": [
+      "historical_epic",
       "action",
-      "fantasy",
-      "historical_epic"
+      "fantasy"
     ],
     "era": "ancient",
     "period": "Fictional kingdom of Mahishmati, mythic ancient India",
@@ -1979,9 +1979,9 @@
     ],
     "scale": "army",
     "genre": [
-      "war",
-      "drama",
-      "samurai_jidaigeki"
+      "historical_epic",
+      "action",
+      "war"
     ],
     "era": "19th_century",
     "period": "Forest battle against Katsumoto's samurai, Japan, 1876",
@@ -2023,7 +2023,6 @@
     "violence": "graphic",
     "language": "english",
     "keywords": [
-      "fog",
       "imperial conscripts",
       "samurai cavalry",
       "algren",
@@ -2191,7 +2190,7 @@
     "format": [
       "escape"
     ],
-    "scale": "solo",
+    "scale": "medium",
     "genre": [
       "war",
       "drama"
@@ -2240,72 +2239,9 @@
     "keywords": [
       "barbed wire",
       "horse in battle",
-      "tank",
       "no man's land",
       "joey",
       "western front"
-    ]
-  },
-  {
-    "film": "Joyeux Noël",
-    "year": 2005,
-    "scene": "Christmas truce in no-man's-land",
-    "query": "Joyeux Noel Christmas truce scene bagpipes",
-    "what_happens": "Scottish bagpipers in their trench answer a German tenor singing a carol; soldiers from the Scottish, French and German lines climb out, meet in the snow of no-man's-land and share drink, chocolate and photographs.",
-    "why": "Carion lets music bridge the lines: a single voice and bagpipes pull men out of the trenches, and the camera stays low among the wire and mud so the first tentative steps across feel genuinely dangerous.",
-    "director": "Christian Carion",
-    "country": "France/Germany/UK",
-    "craft": [
-      "Composer: Philippe Rombi"
-    ],
-    "accolades": [],
-    "scene_type": "battle.modern_ground",
-    "format": [
-      "spectacle"
-    ],
-    "scale": "army",
-    "genre": [
-      "war",
-      "drama"
-    ],
-    "era": "early_20th_century",
-    "period": "Christmas truce, Western Front, France, 24 December 1914",
-    "region": "western_europe",
-    "environment": [
-      "trench",
-      "snow_ice"
-    ],
-    "time_of_day": "night",
-    "atmosphere": [
-      "snow",
-      "low_light"
-    ],
-    "mood": [
-      "melancholic",
-      "intimate",
-      "awe"
-    ],
-    "combatants": [
-      "ww1_soldiers"
-    ],
-    "weapons": [],
-    "vehicles": [],
-    "technique": [
-      "score_driven",
-      "single_location",
-      "wide_framing"
-    ],
-    "look": "live_action_color",
-    "medium": "film",
-    "violence": "none",
-    "language": "multiple",
-    "keywords": [
-      "christmas truce",
-      "bagpipes",
-      "silent night",
-      "fraternisation",
-      "no man's land",
-      "christmas carol"
     ]
   },
   {
@@ -2390,7 +2326,7 @@
       "Composer: James Horner"
     ],
     "accolades": [],
-    "scene_type": "battle.modern_ground",
+    "scene_type": "fight.gunfight",
     "format": [
       "duel",
       "standoff"
@@ -2398,8 +2334,7 @@
     "scale": "one_on_one",
     "genre": [
       "war",
-      "drama",
-      "thriller"
+      "drama"
     ],
     "era": "ww2",
     "period": "Ruined rail yard, Stalingrad, Soviet Union, winter 1942",
@@ -2996,7 +2931,6 @@
       "chinese civil war",
       "bugle call",
       "ninth company",
-      "last stand",
       "gu zidi",
       "nationalist tanks"
     ]
@@ -3095,8 +3029,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "war",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -3124,8 +3058,9 @@
     "weapons": [
       "rifle",
       "automatic_weapons",
-      "explosives",
-      "rocket_missile"
+      "artillery_cannon",
+      "rocket_missile",
+      "explosives"
     ],
     "vehicles": [],
     "technique": [
@@ -3216,7 +3151,6 @@
     "violence": "moderate",
     "language": "english",
     "keywords": [
-      "sandstorm",
       "navy seals",
       "mustafa",
       "long-range shot",
@@ -3224,73 +3158,6 @@
       "chris kyle",
       "exfiltration"
     ]
-  },
-  {
-    "film": "Jarhead",
-    "year": 2005,
-    "scene": "Marching through the burning oil fields",
-    "query": "Jarhead burning oil fields scene",
-    "what_happens": "The marines walk through a blackened Kuwaiti desert where hundreds of oil wells burn in towering pillars of fire, crude oil raining down on them, as an oil-soaked horse wanders out of the smoke.",
-    "why": "Deakins uses the burning wells as the main light source, turning daytime into a flickering night; the war's only spectacle is an apocalyptic landscape, not a battle, which is exactly the film's point.",
-    "director": "Sam Mendes",
-    "country": "USA",
-    "craft": [
-      "DP: Roger Deakins",
-      "Editor: Walter Murch",
-      "Composer: Thomas Newman"
-    ],
-    "accolades": [],
-    "scene_type": "battle.modern_ground",
-    "format": [
-      "spectacle",
-      "journey"
-    ],
-    "scale": "medium",
-    "genre": [
-      "war",
-      "drama"
-    ],
-    "era": "late_20th_century",
-    "period": "Burning oil fields, Kuwait, Gulf War, February 1991",
-    "region": "middle_east",
-    "environment": [
-      "desert"
-    ],
-    "time_of_day": "day",
-    "atmosphere": [
-      "fire",
-      "smoke",
-      "low_light"
-    ],
-    "mood": [
-      "surreal",
-      "awe",
-      "melancholic"
-    ],
-    "combatants": [
-      "cold_war_soldiers"
-    ],
-    "weapons": [],
-    "vehicles": [],
-    "technique": [
-      "silhouette",
-      "practical_effects",
-      "natural_light",
-      "wide_framing"
-    ],
-    "look": "live_action_color",
-    "medium": "film",
-    "violence": "none",
-    "language": "english",
-    "keywords": [
-      "oil fires",
-      "gulf war",
-      "oil rain",
-      "oil-soaked horse",
-      "marines",
-      "desert storm"
-    ],
-    "video": "olHaqANv6Uw"
   },
   {
     "film": "The Kingdom",
@@ -3465,8 +3332,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
-      "war"
+      "war",
+      "action"
     ],
     "era": "contemporary",
     "period": "Fictional war-torn Arabian state, present day",
@@ -3509,7 +3376,6 @@
     "language": "mandarin",
     "keywords": [
       "jiaolong commandos",
-      "sandstorm",
       "tank battle",
       "chinese navy",
       "evacuation mission"
@@ -3785,7 +3651,6 @@
       "su-57",
       "maverick and rooster",
       "stolen jet",
-      "dogfight",
       "flares"
     ]
   },
@@ -3951,8 +3816,8 @@
     ],
     "scale": "fleet",
     "genre": [
-      "action",
       "historical_epic",
+      "action",
       "war"
     ],
     "era": "ancient",
@@ -4176,7 +4041,7 @@
     "genre": [
       "fantasy",
       "drama",
-      "war"
+      "action"
     ],
     "era": "fantasy_world",
     "period": "Battle of the Blackwater, King's Landing, Westeros (fictional)",
@@ -4249,8 +4114,8 @@
     "scale": "medium",
     "genre": [
       "adventure",
-      "fantasy",
-      "swashbuckler"
+      "swashbuckler",
+      "fantasy"
     ],
     "era": "early_modern",
     "period": "Caribbean Sea, golden age of piracy, early 18th century",

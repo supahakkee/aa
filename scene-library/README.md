@@ -12,14 +12,14 @@ The tags keep similar-looking scenes apart: a samurai duel in the rain (`fight.b
 `british_isles`, `knights`, `european_sword`).
 
 <!-- counts -->
-**735 scenes** from 466 films and series, 2000-2025, made in 32 countries; 6 h 7 min of clips.
+**730 scenes** from 462 films and series, 2000-2025, made in 32 countries; 6 h 5 min of clips.
 
 | Family | Scenes | Scene types |
 |---|---|---|
-| Fight | 313 | `fight.hand_to_hand` 92 · `fight.gunfight` 81 · `fight.blades` 69 · `fight.superpowered` 32 · `fight.ring_sport` 21 · `fight.creature` 18 |
-| Battle | 201 | `battle.modern_ground` 64 · `battle.pre_gunpowder` 46 · `battle.giants` 27 · `battle.air` 20 · `battle.space` 17 · `battle.naval` 16 · `battle.black_powder` 11 |
+| Fight | 313 | `fight.hand_to_hand` 90 · `fight.gunfight` 82 · `fight.blades` 69 · `fight.superpowered` 32 · `fight.ring_sport` 22 · `fight.creature` 18 |
+| Battle | 197 | `battle.modern_ground` 61 · `battle.pre_gunpowder` 46 · `battle.giants` 27 · `battle.air` 19 · `battle.space` 17 · `battle.naval` 16 · `battle.black_powder` 11 |
 | Chase & race | 93 | `chase.vehicle` 50 · `chase.foot` 25 · `race` 13 · `chase.air` 5 |
-| Stunts & spectacle | 128 | `disaster` 45 · `creature.attack` 29 · `stunt.set_piece` 24 · `vfx.showcase` 19 · `space.travel` 11 |
+| Stunts & spectacle | 127 | `disaster` 44 · `creature.attack` 29 · `stunt.set_piece` 24 · `vfx.showcase` 19 · `space.travel` 11 |
 <!-- /counts -->
 
 ## Get it running

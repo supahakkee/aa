@@ -935,8 +935,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
       "historical_epic",
+      "action",
       "drama"
     ],
     "era": "early_20th_century",
@@ -1068,9 +1068,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "war",
-      "thriller"
+      "action"
     ],
     "era": "contemporary",
     "period": "A war-torn African country, present day",
@@ -1113,7 +1112,6 @@
       "leng feng",
       "tank drift",
       "wu jing",
-      "mercenaries",
       "tank battle"
     ]
   },
@@ -1206,9 +1204,9 @@
     ],
     "scale": "one_vs_many",
     "genre": [
+      "historical_epic",
       "action",
-      "horror",
-      "historical_epic"
+      "horror"
     ],
     "era": "early_modern",
     "period": "Gévaudan, France, 1764",

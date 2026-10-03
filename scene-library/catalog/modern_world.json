@@ -152,7 +152,8 @@
     "scale": "one_vs_many",
     "genre": [
       "action",
-      "thriller"
+      "thriller",
+      "crime"
     ],
     "era": "contemporary",
     "period": "A city tunnel and highway in South Korea, at night",
@@ -422,8 +423,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "historical_epic",
+      "action",
       "drama"
     ],
     "era": "early_20th_century",
@@ -498,8 +499,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
       "historical_epic",
+      "action",
       "fantasy"
     ],
     "era": "ancient",
@@ -563,9 +564,9 @@
     ],
     "scale": "one_vs_many",
     "genre": [
+      "historical_epic",
       "action",
-      "fantasy",
-      "historical_epic"
+      "fantasy"
     ],
     "era": "early_modern",
     "period": "Udaygarh, Rajasthan, 1609",
@@ -897,8 +898,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
-      "war"
+      "war",
+      "action"
     ],
     "era": "contemporary",
     "period": "Off the coast of Africa, present day",
@@ -1306,8 +1307,8 @@
     "scale": "small_group",
     "genre": [
       "monster",
-      "war",
-      "horror"
+      "drama",
+      "sci_fi"
     ],
     "era": "ww2",
     "period": "Odo Island airbase, Japan, 1945",
@@ -1503,9 +1504,9 @@
     ],
     "scale": "small_group",
     "genre": [
+      "martial_arts",
       "action",
-      "crime",
-      "thriller"
+      "crime"
     ],
     "era": "contemporary",
     "period": "A Jakarta apartment, present day",
@@ -1863,7 +1864,6 @@
       "paratroopers",
       "mujahideen",
       "hill 3234",
-      "last stand",
       "fyodor bondarchuk"
     ]
   },

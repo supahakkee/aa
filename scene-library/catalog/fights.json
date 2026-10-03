@@ -155,8 +155,8 @@
     "scale": "small_group",
     "genre": [
       "action",
-      "crime",
-      "thriller"
+      "thriller",
+      "crime"
     ],
     "era": "contemporary",
     "region": "usa",
@@ -292,8 +292,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "late_20th_century",
@@ -706,8 +706,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -772,8 +772,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -840,8 +840,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -1189,8 +1189,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1602,8 +1602,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",

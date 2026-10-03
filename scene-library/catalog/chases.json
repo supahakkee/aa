@@ -29,8 +29,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -113,8 +113,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -194,8 +194,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "post_apocalyptic",
+      "action",
       "sci_fi"
     ],
     "era": "near_future",
@@ -275,9 +275,9 @@
     ],
     "scale": "small_group",
     "genre": [
+      "heist",
       "action",
-      "crime",
-      "heist"
+      "crime"
     ],
     "era": "contemporary",
     "region": "usa",
@@ -422,8 +422,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -499,8 +499,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -739,8 +739,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -806,8 +806,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -881,8 +881,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -952,8 +952,8 @@
     ],
     "scale": "medium",
     "genre": [
-      "action",
       "heist",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -1238,8 +1238,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "contemporary",
@@ -1318,8 +1318,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1396,8 +1396,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1472,8 +1472,8 @@
     ],
     "scale": "one_vs_many",
     "genre": [
-      "action",
       "martial_arts",
+      "action",
       "crime"
     ],
     "era": "near_future",
@@ -1684,8 +1684,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -1971,8 +1971,8 @@
     ],
     "scale": "solo",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2038,8 +2038,8 @@
     ],
     "scale": "solo",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2109,8 +2109,8 @@
     ],
     "scale": "solo",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2180,8 +2180,8 @@
     ],
     "scale": "solo",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2252,8 +2252,8 @@
     ],
     "scale": "one_on_one",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2330,8 +2330,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -2410,8 +2410,8 @@
     ],
     "scale": "small_group",
     "genre": [
-      "action",
       "spy",
+      "action",
       "thriller"
     ],
     "era": "contemporary",
@@ -3050,13 +3050,11 @@
     "language": "english",
     "period": "Upper Missouri River wilderness, 1823",
     "keywords": [
-      "arrows",
       "fur trappers",
       "riverside camp",
       "arikara",
       "lubezki",
       "horseback raid",
-      "musket",
       "pelts"
     ]
   },

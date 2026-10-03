@@ -1,7 +1,7 @@
 {
  "version": 2,
  "taxonomy": "taxonomy.json",
- "count": 735,
+ "count": 730,
  "scenes": [
   {
    "id": "mad-max-fury-road-2015-war-rig-drives-into-the-sandstorm",
@@ -17,8 +17,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -64,7 +64,6 @@
    "period": "Post-apocalyptic Australian wasteland",
    "keywords": [
     "war rig",
-    "sandstorm",
     "fire tornado",
     "war boys",
     "nux",
@@ -122,7 +121,7 @@
    "film": "Mad Max: Fury Road",
    "year": 2015,
    "scene": "Polecats attack on the return run to the Citadel",
-   "what_happens": "Immortan Joe's war party of spiked cars and trucks roars across the desert after Furiosa's War Rig, Max strapped to the front of Nux's car as a living blood bag, while raiders swarm the rig.",
+   "what_happens": "On the return run through the canyon, Polecats swing down from tall poles on moving cars to snatch the wives and War Boys off the War Rig while Max, Furiosa and Nux fight them off at full speed.",
    "what_to_study": "Performers swing on real flexible poles between moving vehicles. Center framing and selectively undercranked shots keep hundreds of cuts legible, while the climax braids every character arc into one continuous direction of travel.",
    "scene_type": "chase.vehicle",
    "format": [
@@ -131,8 +130,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -180,6 +179,7 @@
    "period": "Post-apocalyptic Australian wasteland",
    "keywords": [
     "war rig",
+    "polecats",
     "war party",
     "blood bag",
     "doof warrior",
@@ -246,8 +246,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -354,9 +354,9 @@
    ],
    "scale": "small_group",
    "genre": [
+    "heist",
     "action",
-    "crime",
-    "heist"
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -558,8 +558,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -664,8 +664,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -986,8 +986,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -1082,8 +1082,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -1185,8 +1185,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -1285,8 +1285,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "heist",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -1668,8 +1668,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -1773,8 +1773,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -1877,8 +1877,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -1974,8 +1974,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "near_future",
@@ -2268,8 +2268,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -2504,12 +2504,12 @@
    "language": "english",
    "period": "Washington, D.C., 2054",
    "keywords": [
-    "jetpack",
+    "jetpack cops",
     "sick stick",
     "bleach bypass",
     "precrime",
     "tom cruise",
-    "alley",
+    "john anderton",
     "apartment crash",
     "desaturated"
    ],
@@ -2667,8 +2667,8 @@
    ],
    "scale": "solo",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -2762,8 +2762,8 @@
    ],
    "scale": "solo",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -2861,8 +2861,8 @@
    ],
    "scale": "solo",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -2960,8 +2960,8 @@
    ],
    "scale": "solo",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -3061,8 +3061,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -3105,7 +3105,6 @@
    "language": "english",
    "period": "South Africa, 2020s",
    "keywords": [
-    "biplane",
     "wing walk",
     "plane-to-plane transfer",
     "yellow biplane",
@@ -3164,8 +3163,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -3272,8 +3271,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -3297,7 +3296,9 @@
    "weapons": [
     "rifle"
    ],
-   "vehicles": [],
+   "vehicles": [
+    "helicopter"
+   ],
    "technique": [
     "long_take",
     "steadicam",
@@ -3525,7 +3526,6 @@
     "logan holladay",
     "ryan gosling",
     "film within a film",
-    "beach",
     "stunt crew"
    ],
    "director": "David Leitch",
@@ -3560,104 +3560,6 @@
       "start": 39,
       "title": "The Fall Guy | Cannon Rolls",
       "channel": "Universal Pictures"
-     }
-    ]
-   }
-  },
-  {
-   "id": "tom-yum-goong-2005-one-take-fight-up-the-spiral-staircase",
-   "film": "Tom Yum Goong",
-   "year": 2005,
-   "scene": "One-take fight up the spiral staircase",
-   "what_happens": "Kham fights his way up a spiralling restaurant ramp in one unbroken shot, breaking limbs and hurling dozens of gang members over railings, through furniture and down the ramp as the camera circles upward with him.",
-   "what_to_study": "Tony Jaa fights his way up a spiral restaurant ramp in a single unbroken take. Study the camera choreography, the timing of stuntmen crashing through railings and furniture, and how momentum builds without a cut.",
-   "scene_type": "fight.hand_to_hand",
-   "format": [
-    "one_vs_many"
-   ],
-   "scale": "one_vs_many",
-   "genre": [
-    "martial_arts",
-    "action"
-   ],
-   "era": "contemporary",
-   "region": "oceania",
-   "environment": [
-    "restaurant_kitchen",
-    "stairwell",
-    "building_interior"
-   ],
-   "time_of_day": "night",
-   "atmosphere": [
-    "debris_sparks"
-   ],
-   "mood": [
-    "brutal",
-    "relentless"
-   ],
-   "combatants": [
-    "martial_artists_modern",
-    "gangsters",
-    "thugs_henchmen"
-   ],
-   "weapons": [
-    "fists_feet",
-    "improvised"
-   ],
-   "vehicles": [],
-   "technique": [
-    "long_take",
-    "steadicam",
-    "practical_stunts",
-    "tracking_shot",
-    "single_location"
-   ],
-   "look": "live_action_color",
-   "medium": "film",
-   "violence": "moderate",
-   "language": "thai",
-   "period": "Sydney, Australia, mid-2000s",
-   "keywords": [
-    "spiral staircase",
-    "one take",
-    "oner",
-    "bone breaking",
-    "tony jaa",
-    "restaurant",
-    "railings",
-    "muay thai"
-   ],
-   "director": "Prachya Pinkaew",
-   "production_country": "Thailand",
-   "crew": [
-    "Action choreographer: Panna Rittikrai"
-   ],
-   "awards": [],
-   "clip": {
-    "file": "clips/fight.hand_to_hand/tom-yum-goong-2005-one-take-fight-up-the-spiral-staircase.mp4",
-    "youtube_id": "RRBrPNKYlA8",
-    "youtube_url": "https://www.youtube.com/watch?v=RRBrPNKYlA8&t=77s",
-    "start": 77,
-    "end": 107,
-    "seconds": 30,
-    "window": "estimated",
-    "source_title": "Tom-Yum-Goong (The Protector) (2005) - Staircase Fight Scene",
-    "source_channel": "Robot_ninja_pirate",
-    "source_views": 228280,
-    "source_duration": 236,
-    "replay_heat": "",
-    "alternates": [
-     {
-      "youtube_id": "Bqw369ZskMk",
-      "start": 161,
-      "title": "Tony Jaa The Protector - Stairs fight (Tom Yum Goong)",
-      "channel": "Ayodub"
-     },
-     {
-      "youtube_id": "qYxWy28YWvE",
-      "start": 52,
-      "title": "Tom-Yum-Goong (The Protector) (2005) - Staircase Fight Scene WITH Yakety Sax song",
-      "channel": "Robot_ninja_pirate"
      }
     ]
    }
@@ -4218,13 +4120,11 @@
    "language": "english",
    "period": "Upper Missouri River wilderness, 1823",
    "keywords": [
-    "arrows",
     "fur trappers",
     "riverside camp",
     "arikara",
     "lubezki",
     "horseback raid",
-    "musket",
     "pelts"
    ],
    "director": "Alejandro G. Iñárritu",
@@ -4377,8 +4277,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -4677,8 +4577,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -4776,8 +4676,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -4878,8 +4778,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -4984,8 +4884,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -5086,7 +4986,7 @@
    "genre": [
     "superhero",
     "action",
-    "crime"
+    "thriller"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -5390,8 +5290,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -5496,8 +5396,8 @@
    "scale": "medium",
    "genre": [
     "sci_fi",
-    "spy",
-    "action"
+    "action",
+    "spy"
    ],
    "era": "contemporary",
    "region": "northern_europe",
@@ -5641,7 +5541,6 @@
    "language": "english",
    "period": "New York City at night, present day",
    "keywords": [
-    "katana",
     "motorcycle sword fight",
     "keanu reeves",
     "night ride",
@@ -5785,8 +5684,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -5827,12 +5726,13 @@
    "language": "english",
    "period": "Dubai, United Arab Emirates, 2011",
    "keywords": [
-    "sandstorm",
+    "wall of sand",
     "dubai",
     "tom cruise",
     "low visibility",
     "nuclear codes",
-    "tracking signal"
+    "tracking signal",
+    "wistrom"
    ],
    "director": "Brad Bird",
    "production_country": "USA",
@@ -5885,8 +5785,8 @@
    "scale": "medium",
    "genre": [
     "spy",
-    "thriller",
-    "action"
+    "action",
+    "thriller"
    ],
    "era": "contemporary",
    "region": "british_isles",
@@ -5986,8 +5886,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -6033,7 +5933,7 @@
    "keywords": [
     "palio",
     "siena",
-    "rooftops",
+    "skylight crash",
     "mitchell",
     "daniel craig",
     "scaffolding fight"
@@ -6075,9 +5975,9 @@
    ],
    "scale": "medium",
    "genre": [
+    "heist",
     "action",
-    "crime",
-    "heist"
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -6178,7 +6078,7 @@
     "martial_arts",
     "action"
    ],
-   "era": "early_20th_century",
+   "era": "mid_20th_century",
    "region": "china",
    "environment": [
     "city_street"
@@ -6308,7 +6208,7 @@
     "zhang ziyi",
     "wall running",
     "masked thief",
-    "rooftops"
+    "yu shu lien"
    ],
    "director": "Ang Lee",
    "production_country": "Taiwan/China/Hong Kong/USA",
@@ -6574,7 +6474,7 @@
    "medium": "film",
    "violence": "none",
    "language": "english",
-   "period": "Formula 1 season, present day",
+   "period": "Abu Dhabi Grand Prix, Yas Marina Circuit, present day",
    "keywords": [
     "formula one",
     "brad pitt",
@@ -6619,9 +6519,9 @@
    ],
    "scale": "small_group",
    "genre": [
+    "sports",
     "action",
-    "sci_fi",
-    "sports"
+    "sci_fi"
    ],
    "era": "near_future",
    "region": "unspecified_city",
@@ -7101,7 +7001,7 @@
     "thriller",
     "adventure"
    ],
-   "era": "contemporary",
+   "era": "late_20th_century",
    "region": "usa",
    "environment": [
     "cliff_canyon",
@@ -7185,8 +7085,8 @@
    ],
    "scale": "solo",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -7282,8 +7182,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -7479,9 +7379,9 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "historical_epic",
-    "adventure"
+    "action",
+    "drama"
    ],
    "era": "early_20th_century",
    "region": "south_asia",
@@ -7592,7 +7492,8 @@
    "combatants": [
     "cowboys_gunslingers",
     "mercenaries",
-    "civilians"
+    "civilians",
+    "native_warriors"
    ],
    "weapons": [
     "automatic_weapons",
@@ -8245,8 +8146,8 @@
    "scale": "small_group",
    "genre": [
     "action",
-    "crime",
-    "thriller"
+    "thriller",
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -8344,7 +8245,7 @@
     "action",
     "drama"
    ],
-   "era": "early_20th_century",
+   "era": "ww2",
    "region": "china",
    "environment": [
     "dojo_gym"
@@ -8357,7 +8258,8 @@
     "relentless"
    ],
    "combatants": [
-    "kung_fu_fighters"
+    "kung_fu_fighters",
+    "ww2_soldiers"
    ],
    "weapons": [
     "fists_feet"
@@ -8373,7 +8275,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "cantonese",
-   "period": "Japanese-occupied Foshan, China, 1938",
+   "period": "Japanese-occupied Foshan, China, Second Sino-Japanese War",
    "keywords": [
     "wing chun",
     "chain punches",
@@ -8435,8 +8337,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "late_20th_century",
@@ -9018,8 +8920,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -9115,8 +9017,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -9207,8 +9109,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -9308,8 +9210,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
     "spy",
+    "action",
     "comedy"
    ],
    "era": "contemporary",
@@ -9444,7 +9346,7 @@
    "period": "Russian-mob London, mid-2000s",
    "keywords": [
     "naked fight",
-    "bathhouse",
+    "turkish bath",
     "linoleum knives",
     "tattoos",
     "tile floor",
@@ -9682,8 +9584,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -9800,7 +9702,7 @@
    ],
    "combatants": [
     "ronin",
-    "gangsters"
+    "triads_yakuza"
    ],
    "weapons": [
     "katana"
@@ -10258,8 +10160,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -10616,7 +10518,7 @@
     "drama"
    ],
    "era": "contemporary",
-   "region": "british_isles",
+   "region": "usa",
    "environment": [
     "arena_ring"
    ],
@@ -10650,7 +10552,9 @@
     "corner break",
     "pro debut",
     "in-ring camera",
-    "knockout"
+    "knockout",
+    "adonis creed",
+    "michael b. jordan"
    ],
    "director": "Ryan Coogler",
    "production_country": "USA",
@@ -10884,7 +10788,8 @@
    "era": "early_20th_century",
    "region": "usa",
    "environment": [
-    "arena_ring"
+    "arena_ring",
+    "stadium_racetrack"
    ],
    "time_of_day": "night",
    "atmosphere": [
@@ -11364,7 +11269,7 @@
     "red circle",
     "headshots",
     "judo throws",
-    "neon",
+    "iosef tarasov",
     "club music",
     "tactical reload",
     "keanu reeves"
@@ -11981,9 +11886,9 @@
    ],
    "scale": "one_on_one",
    "genre": [
+    "martial_arts",
     "action",
-    "crime",
-    "martial_arts"
+    "crime"
    ],
    "era": "contemporary",
    "region": "hong_kong",
@@ -11998,7 +11903,7 @@
    ],
    "combatants": [
     "police",
-    "gangsters"
+    "triads_yakuza"
    ],
    "weapons": [
     "fists_feet",
@@ -12617,8 +12522,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "historical_epic",
+    "action",
     "drama"
    ],
    "era": "early_20th_century",
@@ -12706,8 +12611,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "spy",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -12965,9 +12870,9 @@
    "what_to_study": "McQuarrie plays the fight for character: Reacher stays economical and almost bored, while the comedy comes from the attackers' clumsiness. Study how restraint and stable, wide coverage make the violence credible.",
    "scene_type": "fight.hand_to_hand",
    "format": [
-    "small_group_fight"
+    "one_vs_many"
    ],
-   "scale": "small_group",
+   "scale": "one_vs_many",
    "genre": [
     "action",
     "thriller",
@@ -13243,12 +13148,12 @@
    "what_to_study": "Vaughn links speed ramps, stitched camera moves and digital transitions so the fight reads as one flowing sequence. Study how a quiet lecture beforehand makes the burst of choreography land as both comedy and threat.",
    "scene_type": "fight.hand_to_hand",
    "format": [
-    "small_group_fight"
+    "one_vs_many"
    ],
-   "scale": "small_group",
+   "scale": "one_vs_many",
    "genre": [
-    "action",
     "spy",
+    "action",
     "comedy"
    ],
    "era": "contemporary",
@@ -13321,9 +13226,9 @@
    "what_to_study": "Fuqua slows time before the violence: McCall's assessment of the room plays as slow-motion inserts, then the fight itself is fast. Study how pre-visualising the kills for the audience pays off in the speed of the execution.",
    "scene_type": "fight.hand_to_hand",
    "format": [
-    "small_group_fight"
+    "one_vs_many"
    ],
-   "scale": "small_group",
+   "scale": "one_vs_many",
    "genre": [
     "action",
     "thriller",
@@ -13461,7 +13366,7 @@
    "period": "Tenement stairwell, Hell's Kitchen, New York, present day",
    "keywords": [
     "oner",
-    "stairwell",
+    "dogs of hell",
     "bikers",
     "charlie cox",
     "railing throws",
@@ -13500,8 +13405,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -13745,7 +13650,8 @@
    "what_to_study": "Ridley Scott layers threats: an armoured champion, tigers on chains and a rigged arena, intercut with the crowd and the emperor. Study how fast cutting, dust and narrow shutter angles create intensity, and how a refused execution ends the scene.",
    "scene_type": "fight.blades",
    "format": [
-    "duel"
+    "duel",
+    "bout"
    ],
    "scale": "one_on_one",
    "genre": [
@@ -14479,9 +14385,9 @@
    "scene_type": "fight.blades",
    "format": [
     "ambush",
-    "small_group_fight"
+    "one_vs_many"
    ],
-   "scale": "medium",
+   "scale": "one_vs_many",
    "genre": [
     "wuxia",
     "martial_arts",
@@ -14897,7 +14803,7 @@
    "medium": "film",
    "violence": "graphic",
    "language": "korean",
-   "period": "Gang hideout, present day",
+   "period": "Gang hideout, South Korea, present day",
    "keywords": [
     "kim ok-vin",
     "first person",
@@ -14995,8 +14901,7 @@
     "silat",
     "machete gang",
     "tonfa",
-    "tower block",
-    "corridor"
+    "tower block"
    ],
    "director": "Gareth Evans",
    "production_country": "Indonesia",
@@ -15047,8 +14952,8 @@
    ],
    "scale": "one_on_one",
    "genre": [
-    "action",
     "martial_arts",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -15141,9 +15046,9 @@
    ],
    "scale": "one_on_one",
    "genre": [
+    "martial_arts",
     "action",
-    "crime",
-    "martial_arts"
+    "crime"
    ],
    "era": "contemporary",
    "region": "hong_kong",
@@ -15182,7 +15087,6 @@
     "donnie yen",
     "wu jing",
     "extendable baton",
-    "knife",
     "speed",
     "alley duel"
    ],
@@ -15451,7 +15355,7 @@
     "tony leung",
     "andy lau",
     "mole",
-    "rooftop",
+    "mirror image",
     "undercover cop",
     "skyline"
    ],
@@ -15587,7 +15491,7 @@
     "brutal"
    ],
    "combatants": [
-    "gangsters",
+    "triads_yakuza",
     "assassins_hitmen"
    ],
    "weapons": [
@@ -15762,8 +15666,8 @@
    "era": "late_20th_century",
    "region": "usa",
    "environment": [
-    "slum_shantytown",
-    "apartment_house"
+    "apartment_house",
+    "city_street"
    ],
    "time_of_day": "night",
    "atmosphere": [
@@ -15886,7 +15790,7 @@
    "keywords": [
     "din djarin",
     "bounty hunters guild",
-    "jetpacks",
+    "mandalorian clan",
     "grogu",
     "beskar armour",
     "covert"
@@ -17019,7 +16923,7 @@
    ],
    "weapons": [
     "improvised",
-    "european_sword",
+    "fists_feet",
     "claws_teeth"
    ],
    "vehicles": [
@@ -17428,7 +17332,8 @@
    ],
    "weapons": [
     "fists_feet",
-    "improvised"
+    "improvised",
+    "claws_teeth"
    ],
    "vehicles": [
     "train"
@@ -18536,7 +18441,7 @@
     "bracers",
     "deflecting bullets",
     "trench climb",
-    "shield",
+    "gal gadot",
     "wonder woman theme"
    ],
    "director": "Patty Jenkins",
@@ -19195,7 +19100,7 @@
    "scale": "medium",
    "genre": [
     "superhero",
-    "sci_fi",
+    "space_opera",
     "comedy"
    ],
    "era": "contemporary",
@@ -19501,8 +19406,8 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
-    "thriller",
-    "crime"
+    "crime",
+    "thriller"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -19597,6 +19502,7 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
+    "crime",
     "thriller"
    ],
    "era": "contemporary",
@@ -19694,7 +19600,8 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
-    "thriller"
+    "thriller",
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -19789,7 +19696,8 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
-    "thriller"
+    "thriller",
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -19885,6 +19793,7 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
+    "crime",
     "thriller"
    ],
    "era": "contemporary",
@@ -20014,7 +19923,6 @@
    "keywords": [
     "ana de armas",
     "eve macarro",
-    "flamethrower",
     "fire hose",
     "hallstatt",
     "john wick universe"
@@ -20409,7 +20317,7 @@
     "torpedo",
     "diving suit",
     "tom cruise",
-    "rotating set"
+    "free ascent"
    ],
    "director": "Christopher McQuarrie",
    "production_country": "USA",
@@ -20498,7 +20406,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "english",
-   "period": "Prague office and a public bathroom, Bond's first kills",
+   "period": "Prague office and a public bathroom, mid-2000s",
    "keywords": [
     "daniel craig",
     "first kill",
@@ -20968,7 +20876,7 @@
     "aaron cross",
     "rachel weisz",
     "manila",
-    "rooftops",
+    "larx assassin",
     "motorbike chase"
    ],
    "director": "Tony Gilroy",
@@ -21048,7 +20956,7 @@
     "automatic_weapons"
    ],
    "vehicles": [
-    "truck",
+    "tank_armoured",
     "car"
    ],
    "technique": [
@@ -21214,14 +21122,14 @@
    "what_to_study": "Wright's Steadicam follows Bana from street to platform without a cut, so tension builds in real time before the explosive fight. The Chemical Brothers' pulse sets the pacing.",
    "scene_type": "fight.hand_to_hand",
    "format": [
-    "small_group_fight",
+    "one_vs_many",
     "ambush"
    ],
-   "scale": "small_group",
+   "scale": "one_vs_many",
    "genre": [
+    "spy",
     "action",
-    "thriller",
-    "spy"
+    "thriller"
    ],
    "era": "contemporary",
    "region": "western_europe",
@@ -21304,7 +21212,7 @@
    "genre": [
     "martial_arts",
     "action",
-    "thriller"
+    "crime"
    ],
    "era": "contemporary",
    "region": "southeast_asia",
@@ -21400,7 +21308,7 @@
    "genre": [
     "crime",
     "action",
-    "noir"
+    "western"
    ],
    "era": "late_20th_century",
    "region": "hong_kong",
@@ -21512,7 +21420,7 @@
    ],
    "combatants": [
     "police",
-    "gangsters"
+    "triads_yakuza"
    ],
    "weapons": [
     "handgun",
@@ -21629,7 +21537,6 @@
     "muay thai",
     "elevator fight",
     "wing chun",
-    "stairwell",
     "yuen woo-ping"
    ],
    "director": "Wilson Yip",
@@ -21906,7 +21813,7 @@
    "medium": "film",
    "violence": "graphic",
    "language": "english",
-   "period": "Kings club tower in the fictional Indian city of Yatana",
+   "period": "Kings club tower, fictional Indian city of Yatana, present day",
    "keywords": [
     "dev patel",
     "kid",
@@ -22393,7 +22300,7 @@
     "ray liotta",
     "love letters",
     "slow-motion bullets",
-    "rain"
+    "markie trattman"
    ],
    "director": "Andrew Dominik",
    "production_country": "USA",
@@ -22545,6 +22452,7 @@
     "melancholic"
    ],
    "combatants": [
+    "assassins_hitmen",
     "thugs_henchmen",
     "civilians"
    ],
@@ -22568,7 +22476,7 @@
     "joaquin phoenix",
     "hammer",
     "cctv",
-    "rescue",
+    "brothel",
     "lynne ramsay",
     "security monitors"
    ],
@@ -22864,7 +22772,7 @@
     "cliff booth",
     "brandy",
     "manson family",
-    "flamethrower",
+    "pit bull",
     "leonardo dicaprio"
    ],
    "director": "Quentin Tarantino",
@@ -22910,7 +22818,7 @@
     "action"
    ],
    "era": "contemporary",
-   "region": "unspecified_city",
+   "region": "usa",
    "environment": [
     "alley",
     "rooftops"
@@ -23100,8 +23008,8 @@
    "scale": "medium",
    "genre": [
     "action",
-    "thriller",
-    "comedy"
+    "crime",
+    "thriller"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -23218,6 +23126,7 @@
     "stylish"
    ],
    "combatants": [
+    "spies_secret_agents",
     "gangsters",
     "assassins_hitmen"
    ],
@@ -23611,7 +23520,7 @@
     "robert downey jr",
     "bare-knuckle",
     "pre-visualised fight",
-    "slow motion",
+    "mcmurdo",
     "guy ritchie",
     "victorian london"
    ],
@@ -23991,7 +23900,6 @@
     "guy fawkes mask",
     "creedy",
     "knife trails",
-    "slow motion",
     "fifth of november"
    ],
    "director": "James McTeigue",
@@ -24319,8 +24227,7 @@
    "scale": "small_group",
    "genre": [
     "superhero",
-    "action",
-    "adventure"
+    "action"
    ],
    "era": "contemporary",
    "region": "korea",
@@ -24423,8 +24330,8 @@
    "scale": "small_group",
    "genre": [
     "superhero",
-    "crime",
-    "action"
+    "action",
+    "crime"
    ],
    "era": "contemporary",
    "region": "hong_kong",
@@ -24467,11 +24374,11 @@
    "period": "IFC tower and Victoria Harbour skyline, Hong Kong, late 2000s",
    "keywords": [
     "skyhook",
-    "hong kong",
     "ifc tower",
     "lau",
     "c-130",
-    "christian bale"
+    "christian bale",
+    "gliding cape"
    ],
    "director": "Christopher Nolan",
    "production_country": "USA/UK",
@@ -24525,9 +24432,9 @@
    ],
    "scale": "small_group",
    "genre": [
+    "heist",
     "action",
-    "crime",
-    "comedy"
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -24623,11 +24530,11 @@
    "format": [
     "duel"
    ],
-   "scale": "small_group",
+   "scale": "one_on_one",
    "genre": [
     "crime",
-    "noir",
-    "thriller"
+    "thriller",
+    "noir"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -24670,7 +24577,6 @@
     "head stomp",
     "ryan gosling",
     "carey mulligan",
-    "slow motion",
     "lighting shift"
    ],
    "director": "Nicolas Winding Refn",
@@ -24725,8 +24631,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "thriller",
     "action",
+    "thriller",
     "crime"
    ],
    "era": "contemporary",
@@ -24950,7 +24856,7 @@
    "keywords": [
     "bruce willis",
     "john mcclane",
-    "helicopter",
+    "car into helicopter",
     "toll booth",
     "justin long",
     "die hard 4"
@@ -25004,8 +24910,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "heist",
+    "action",
     "crime"
    ],
    "era": "contemporary",
@@ -25393,9 +25299,9 @@
    ],
    "scale": "small_group",
    "genre": [
+    "disaster",
     "action",
-    "thriller",
-    "disaster"
+    "thriller"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -25659,8 +25565,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "swashbuckler",
     "adventure",
+    "swashbuckler",
     "fantasy"
    ],
    "era": "early_modern",
@@ -26038,9 +25944,9 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "sports",
-    "adventure"
+    "action",
+    "sci_fi"
    ],
    "era": "near_future",
    "region": "unspecified_city",
@@ -27208,7 +27114,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "war"
+    "adventure"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -28350,7 +28256,6 @@
    "keywords": [
     "caesar",
     "alpha-omega",
-    "trench",
     "forest ambush",
     "andy serkis",
     "ape army"
@@ -28454,8 +28359,7 @@
     "golden gate bridge",
     "ape uprising",
     "gorilla",
-    "helicopter",
-    "fog"
+    "san francisco"
    ],
    "director": "Rupert Wyatt",
    "production_country": "USA",
@@ -28708,7 +28612,7 @@
    "genre": [
     "historical_epic",
     "action",
-    "drama"
+    "war"
    ],
    "era": "ancient",
    "region": "southern_europe",
@@ -28857,7 +28761,6 @@
     "bonaparte",
     "joaquin phoenix",
     "cannonball",
-    "horse",
     "harbour bombardment"
    ],
    "director": "Ridley Scott",
@@ -28911,8 +28814,7 @@
    "scale": "small_group",
    "genre": [
     "war",
-    "drama",
-    "thriller"
+    "drama"
    ],
    "era": "early_20th_century",
    "region": "western_europe",
@@ -29148,7 +29050,6 @@
    "language": "english",
    "period": "Crossroads in rural Germany, April 1945",
    "keywords": [
-    "last stand",
     "crossroads",
     "ss battalion",
     "sherman",
@@ -29311,8 +29212,7 @@
    "scale": "medium",
    "genre": [
     "war",
-    "action",
-    "drama"
+    "action"
    ],
    "era": "late_20th_century",
    "region": "sub_saharan_africa",
@@ -29606,7 +29506,7 @@
    "genre": [
     "sci_fi",
     "action",
-    "war"
+    "spy"
    ],
    "era": "contemporary",
    "region": "russia",
@@ -29746,7 +29646,6 @@
     "c-47",
     "flak",
     "d-day",
-    "parachute",
     "nazi experiments"
    ],
    "director": "Julius Avery",
@@ -29996,8 +29895,8 @@
    "scale": "small_group",
    "genre": [
     "superhero",
-    "crime",
-    "thriller"
+    "action",
+    "crime"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -30040,7 +29939,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "english",
-   "period": "Gotham City (shot in Chicago), late 2000s",
+   "period": "Mob bank in Gotham City, late 2000s",
    "keywords": [
     "joker",
     "clown masks",
@@ -30202,7 +30101,7 @@
    "genre": [
     "superhero",
     "crime",
-    "noir"
+    "action"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -30223,9 +30122,13 @@
    ],
    "combatants": [
     "superheroes",
-    "civilians"
+    "civilians",
+    "thugs_henchmen"
    ],
-   "weapons": [],
+   "weapons": [
+    "fists_feet",
+    "rifle"
+   ],
    "vehicles": [],
    "technique": [
     "silhouette",
@@ -30866,7 +30769,7 @@
    "genre": [
     "superhero",
     "comedy",
-    "action"
+    "fantasy"
    ],
    "era": "contemporary",
    "region": "alien_world",
@@ -31149,8 +31052,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -31245,8 +31148,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "post_apocalyptic",
+    "action",
     "sci_fi"
    ],
    "era": "near_future",
@@ -32036,12 +31939,12 @@
    ],
    "scale": "small_group",
    "genre": [
+    "cyberpunk",
     "action",
-    "sci_fi",
-    "cyberpunk"
+    "sci_fi"
    ],
    "era": "near_future",
-   "region": "unspecified_city",
+   "region": "usa",
    "environment": [
     "apartment_house",
     "corridor"
@@ -32358,7 +32261,6 @@
    "keywords": [
     "pulse rifle",
     "acid blood",
-    "zero gravity",
     "xenomorphs",
     "rain carradine",
     "renaissance station"
@@ -32839,8 +32741,6 @@
    "keywords": [
     "kong",
     "godzilla",
-    "neon",
-    "hong kong",
     "axe",
     "atomic breath",
     "mechagodzilla"
@@ -32995,8 +32895,8 @@
    "scale": "medium",
    "genre": [
     "adventure",
-    "fantasy",
-    "swashbuckler"
+    "swashbuckler",
+    "fantasy"
    ],
    "era": "early_modern",
    "region": "open_ocean",
@@ -34466,7 +34366,7 @@
     "plane crash",
     "single take",
     "nicolas cage",
-    "highway",
+    "traffic jam",
     "burning survivors",
     "prophecy"
    ],
@@ -34894,7 +34794,7 @@
    "genre": [
     "fantasy",
     "drama",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -34975,101 +34875,6 @@
       "start": 75,
       "title": "Game of Thrones 8x01 - Sansa meets Daenerys - Bran told Daenerys about Viserion",
       "channel": "MSFM STUDIO "
-     }
-    ]
-   }
-  },
-  {
-   "id": "the-lord-of-the-rings-the-rings-2022-mount-doom-erupts-s1e6-udun",
-   "film": "The Lord of the Rings: The Rings of Power",
-   "year": 2022,
-   "scene": "Mount Doom erupts (S1E6 'Udûn')",
-   "what_happens": "Floodwater released into the tunnels beneath the Southlands triggers a volcanic eruption, and a towering pyroclastic cloud rolls over the village as Galadriel and the villagers are engulfed.",
-   "what_to_study": "The eruption is staged as a slow-building reveal, from rushing water to rising fire to a wall of ash, so the birth of Mordor lands as mythic catastrophe on a feature-film scale of effects.",
-   "scene_type": "disaster",
-   "format": [
-    "catastrophe"
-   ],
-   "scale": "city_scale",
-   "genre": [
-    "fantasy",
-    "adventure",
-    "drama"
-   ],
-   "era": "fantasy_world",
-   "region": "fantasy_world",
-   "environment": [
-    "village",
-    "hills_mountains"
-   ],
-   "time_of_day": "day",
-   "atmosphere": [
-    "fire",
-    "smoke",
-    "explosions"
-   ],
-   "mood": [
-    "awe",
-    "terrifying",
-    "tragic"
-   ],
-   "combatants": [
-    "civilians",
-    "medieval_soldiers"
-   ],
-   "weapons": [],
-   "vehicles": [
-    "horse"
-   ],
-   "technique": [
-    "cgi",
-    "wide_framing",
-    "sound_design"
-   ],
-   "look": "live_action_color",
-   "medium": "series",
-   "violence": "moderate",
-   "language": "english",
-   "period": "The Southlands, Second Age of Middle-earth (fictional)",
-   "keywords": [
-    "orodruin",
-    "mount doom",
-    "eruption",
-    "birth of mordor",
-    "pyroclastic cloud",
-    "galadriel"
-   ],
-   "director": "Created by J. D. Payne and Patrick McKay",
-   "production_country": "USA",
-   "crew": [
-    "Composer: Bear McCreary"
-   ],
-   "awards": [],
-   "clip": {
-    "file": "clips/disaster/the-lord-of-the-rings-the-rings-2022-mount-doom-erupts-s1e6-udun.mp4",
-    "youtube_id": "9yqe1NdDEvk",
-    "youtube_url": "https://www.youtube.com/watch?v=9yqe1NdDEvk&t=93s",
-    "start": 93,
-    "end": 123,
-    "seconds": 30,
-    "window": "estimated",
-    "source_title": "Orodruin   Mount Doom volcano Eruption Scene Lord Of  Rings; Rings Of Power",
-    "source_channel": " EpicCineOdyssey",
-    "source_views": 8383,
-    "source_duration": 282,
-    "replay_heat": "",
-    "alternates": [
-     {
-      "youtube_id": "7uLnge5TvBA",
-      "start": 41,
-      "title": "Creation of MORDOR and Mount DOOM | RINGS OF POWER 1X6 | 4K HDR",
-      "channel": "The Batuhan Music"
-     },
-     {
-      "youtube_id": "VAR6GVlQJPE",
-      "start": 71,
-      "title": "The ending mount Doom scene of The Rings of Power season 1 episode 6",
-      "channel": "E-CLIPS"
      }
     ]
    }
@@ -35501,7 +35306,7 @@
    "medium": "film",
    "violence": "graphic",
    "language": "korean",
-   "period": "A city bus in Seoul",
+   "period": "A city bus in Seoul, late 2000s",
    "keywords": [
     "ma dong-seok",
     "don lee",
@@ -35631,7 +35436,8 @@
    "scale": "one_vs_many",
    "genre": [
     "action",
-    "thriller"
+    "thriller",
+    "crime"
    ],
    "era": "contemporary",
    "region": "korea",
@@ -35761,7 +35567,7 @@
    "medium": "film",
    "violence": "graphic",
    "language": "korean",
-   "period": "An underground car park and elevator, Seoul",
+   "period": "Underground car park and elevator, Seoul, present day",
    "keywords": [
     "hwang jung-min",
     "jung chung",
@@ -36008,8 +35814,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "historical_epic",
+    "action",
     "drama"
    ],
    "era": "early_20th_century",
@@ -36100,8 +35906,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
     "historical_epic",
+    "action",
     "fantasy"
    ],
    "era": "ancient",
@@ -36194,9 +36000,9 @@
    ],
    "scale": "one_vs_many",
    "genre": [
+    "historical_epic",
     "action",
-    "fantasy",
-    "historical_epic"
+    "fantasy"
    ],
    "era": "early_modern",
    "region": "south_asia",
@@ -36368,7 +36174,7 @@
     "one_vs_many",
     "ambush"
    ],
-   "scale": "one_vs_many",
+   "scale": "medium",
    "genre": [
     "action",
     "crime",
@@ -36628,8 +36434,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
-    "war"
+    "war",
+    "action"
    ],
    "era": "contemporary",
    "region": "open_ocean",
@@ -36672,7 +36478,6 @@
     "wu jing",
     "leng feng",
     "underwater fight",
-    "pirates",
     "cargo ship",
     "wolf warrior"
    ],
@@ -36939,7 +36744,7 @@
    "medium": "film",
    "violence": "graphic",
    "language": "cantonese",
-   "period": "A church under renovation, Hong Kong",
+   "period": "Church under renovation, Hong Kong, present day",
    "keywords": [
     "donnie yen",
     "nicholas tse",
@@ -37036,7 +36841,7 @@
     "gong er",
     "ma san",
     "sixty-four hands",
-    "snow",
+    "new year's eve",
     "steam train"
    ],
    "director": "Wong Kar-wai",
@@ -37084,14 +36889,15 @@
    "scene": "Ip Man vs. General Miura",
    "what_happens": "On a raised platform before a crowd of Foshan citizens and Japanese troops, Ip Man faces the karate master General Miura, absorbing his kicks before overwhelming him with a storm of Wing Chun chain punches.",
    "what_to_study": "Sammo Hung's choreography contrasts Miura's long karate strikes with Ip Man's compact Wing Chun, while the crowd acts as a chorus. Study how a fight is framed as national catharsis and given a clear, crowd-pleasing arc.",
-   "scene_type": "fight.hand_to_hand",
+   "scene_type": "fight.ring_sport",
    "format": [
-    "duel",
-    "bout"
+    "bout",
+    "duel"
    ],
    "scale": "one_on_one",
    "genre": [
     "martial_arts",
+    "action",
     "drama"
    ],
    "era": "ww2",
@@ -37143,7 +36949,7 @@
     "Hong Kong Film Award: Best Action Choreography"
    ],
    "clip": {
-    "file": "clips/fight.hand_to_hand/ip-man-2008-ip-man-vs-general-miura.mp4",
+    "file": "clips/fight.ring_sport/ip-man-2008-ip-man-vs-general-miura.mp4",
     "youtube_id": "qqpew2sYqbA",
     "youtube_url": "https://www.youtube.com/watch?v=qqpew2sYqbA&t=65s",
     "start": 65,
@@ -37186,8 +36992,8 @@
    "scale": "small_group",
    "genre": [
     "monster",
-    "war",
-    "horror"
+    "drama",
+    "sci_fi"
    ],
    "era": "ww2",
    "region": "japan",
@@ -37361,7 +37167,7 @@
    "what_to_study": "Miike stages a schoolyard war like a samurai battle, with two armies colliding in rain. Study how the mass melee is organised around a few clearly tracked leaders and resolved in a one-on-one.",
    "scene_type": "fight.hand_to_hand",
    "format": [
-    "massed_battle",
+    "team_vs_team",
     "duel"
    ],
    "scale": "medium",
@@ -37402,7 +37208,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "japanese",
-   "period": "Suzuran All-Boys High School, Japan",
+   "period": "Suzuran All-Boys High School, Japan, present day",
    "keywords": [
     "shun oguri",
     "genji",
@@ -37444,9 +37250,9 @@
    ],
    "scale": "small_group",
    "genre": [
+    "martial_arts",
     "action",
-    "crime",
-    "thriller"
+    "crime"
    ],
    "era": "contemporary",
    "region": "southeast_asia",
@@ -37570,7 +37376,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "thai",
-   "period": "An underground fight club off Khao San Road, Bangkok",
+   "period": "An underground fight club off Khao San Road, Bangkok, present day",
    "keywords": [
     "tony jaa",
     "muay thai",
@@ -37738,7 +37544,7 @@
    "medium": "film",
    "violence": "mild",
    "language": "english",
-   "period": "A bus depot on the French Riviera",
+   "period": "A bus depot on the French Riviera, present day",
    "keywords": [
     "jason statham",
     "frank martin",
@@ -37924,7 +37730,6 @@
     "paratroopers",
     "mujahideen",
     "hill 3234",
-    "last stand",
     "fyodor bondarchuk"
    ],
    "director": "Fyodor Bondarchuk",
@@ -38469,7 +38274,7 @@
    "medium": "film",
    "violence": "moderate",
    "language": "spanish",
-   "period": "A remote highway in northern Argentina",
+   "period": "A remote highway in northern Argentina, present day",
    "keywords": [
     "road rage",
     "audi",
@@ -38622,7 +38427,7 @@
    "scale": "medium",
    "genre": [
     "fantasy",
-    "war",
+    "drama",
     "action"
    ],
    "era": "fantasy_world",
@@ -38713,7 +38518,7 @@
    "genre": [
     "fantasy",
     "drama",
-    "thriller"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -38798,8 +38603,8 @@
    "scale": "medium",
    "genre": [
     "fantasy",
-    "action",
-    "drama"
+    "drama",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -38884,8 +38689,8 @@
    "scale": "one_vs_many",
    "genre": [
     "fantasy",
-    "horror",
-    "drama"
+    "drama",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -38971,7 +38776,7 @@
    "genre": [
     "fantasy",
     "drama",
-    "thriller"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -39067,8 +38872,8 @@
    "scale": "one_vs_many",
    "genre": [
     "fantasy",
-    "action",
-    "drama"
+    "drama",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -39167,8 +38972,8 @@
    "scale": "one_on_one",
    "genre": [
     "fantasy",
-    "horror",
-    "action"
+    "action",
+    "adventure"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -39249,7 +39054,7 @@
    "genre": [
     "fantasy",
     "action",
-    "war"
+    "adventure"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -39347,7 +39152,7 @@
    "scale": "city_scale",
    "genre": [
     "fantasy",
-    "disaster",
+    "adventure",
     "drama"
    ],
    "era": "fantasy_world",
@@ -39441,8 +39246,8 @@
    "scale": "army",
    "genre": [
     "fantasy",
-    "war",
-    "action"
+    "adventure",
+    "drama"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -40015,7 +39820,6 @@
     "titus pullo",
     "lucius vorenus",
     "thirteenth legion",
-    "gladiators",
     "arena",
     "condemned man"
    ],
@@ -40076,7 +39880,9 @@
     "arena_ring"
    ],
    "time_of_day": "day",
-   "atmosphere": [],
+   "atmosphere": [
+    "rain"
+   ],
    "mood": [
     "brutal",
     "stylish",
@@ -40108,7 +39914,8 @@
     "crixus",
     "capua",
     "giant gladiator",
-    "speed ramp"
+    "speed ramp",
+    "bringer of rain"
    ],
    "director": "Created by Steven S. DeKnight",
    "production_country": "USA",
@@ -40240,8 +40047,8 @@
    "scale": "small_group",
    "genre": [
     "samurai_jidaigeki",
-    "historical_epic",
-    "drama"
+    "drama",
+    "historical_epic"
    ],
    "era": "early_modern",
    "region": "japan",
@@ -40273,14 +40080,14 @@
    "look": "live_action_color",
    "medium": "series",
    "violence": "mild",
-   "language": "multiple",
+   "language": "japanese",
    "period": "Japan, 1600",
    "keywords": [
     "earthquake",
     "landslide",
     "toranaga",
     "blackthorne",
-    "rescue",
+    "buried alive",
     "mariko"
    ],
    "director": "Created by Rachel Kondo and Justin Marks",
@@ -40446,7 +40253,7 @@
     "widows",
     "mining town",
     "western shootout",
-    "last stand"
+    "jeff daniels"
    ],
    "director": "Scott Frank",
    "production_country": "USA",
@@ -40485,8 +40292,7 @@
    "scale": "city_scale",
    "genre": [
     "drama",
-    "historical_epic",
-    "disaster"
+    "historical_epic"
    ],
    "era": "early_20th_century",
    "region": "japan",
@@ -40527,7 +40333,7 @@
     "korean massacre",
     "1923",
     "collapse",
-    "fires"
+    "vigilante mob"
    ],
    "director": "Created by Soo Hugh",
    "production_country": "USA",
@@ -40850,7 +40656,7 @@
     "drama"
    ],
    "era": "ww2",
-   "region": "western_europe",
+   "region": "sky",
    "environment": [
     "aircraft",
     "sky"
@@ -40903,31 +40709,18 @@
    "awards": [],
    "clip": {
     "file": "clips/battle.air/masters-of-the-air-2024-the-munster-raid-part-five.mp4",
-    "youtube_id": "DuJN5UgQ-hQ",
-    "youtube_url": "https://www.youtube.com/watch?v=DuJN5UgQ-hQ&t=404s",
-    "start": 404,
-    "end": 434,
+    "youtube_id": "FsEUh-6JqG4",
+    "youtube_url": "https://www.youtube.com/watch?v=FsEUh-6JqG4&t=160s",
+    "start": 160,
+    "end": 190,
     "seconds": 30,
     "window": "most_replayed",
-    "source_title": "Masters of the Air - Münster Raid",
-    "source_channel": "Stories of WWII",
-    "source_views": 802057,
-    "source_duration": 496,
-    "replay_heat": "111121122111112322122232223411111111233444211110",
-    "alternates": [
-     {
-      "youtube_id": "AI1tGcDoetM",
-      "start": 107,
-      "title": "Major Gale “Buck” Cleven’s & his Crew Mission Fails Over Münster | Masters of the Air 4k Clip",
-      "channel": "FilMonger TV"
-     },
-     {
-      "youtube_id": "vMqCCpbdydg",
-      "start": 92,
-      "title": "episode 5 Masters of the air  Bombing of Munster air - battle footage",
-      "channel": "rocksteady militaria"
-     }
-    ]
+    "source_title": "Masters of the Air — \"Mission to Münster\" Clip | Apple TV",
+    "source_channel": "Apple TV",
+    "source_views": 0,
+    "source_duration": 254,
+    "replay_heat": "333334554433222111111112223222333795222222222200",
+    "alternates": []
    }
   },
   {
@@ -41124,8 +40917,8 @@
    "scale": "one_on_one",
    "genre": [
     "space_opera",
-    "action",
-    "sci_fi"
+    "western",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "alien_world",
@@ -41520,7 +41313,7 @@
     "drama"
    ],
    "era": "fantasy_world",
-   "region": "fantasy_world",
+   "region": "alien_world",
    "environment": [
     "dreamscape",
     "battlefield"
@@ -41790,7 +41583,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "horror"
+    "war"
    ],
    "era": "far_future",
    "region": "deep_space",
@@ -41979,7 +41772,7 @@
    "era": "far_future",
    "region": "deep_space",
    "environment": [
-    "building_interior",
+    "spacecraft_interior",
     "outer_space"
    ],
    "time_of_day": "not_applicable",
@@ -42054,7 +41847,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "disaster"
+    "drama"
    ],
    "era": "far_future",
    "region": "earth_orbit",
@@ -42336,7 +42129,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "war"
+    "comedy"
    ],
    "era": "far_future",
    "region": "earth_orbit",
@@ -42648,11 +42441,12 @@
    "period": "Scottish moorland after an unexplained collapse",
    "keywords": [
     "robot dog",
-    "black and white",
+    "metalhead",
     "moorland",
     "tracker",
     "survival",
-    "killer robot"
+    "killer robot",
+    "maxine peake"
    ],
    "director": "David Slade",
    "production_country": "UK",
@@ -42703,7 +42497,7 @@
    "genre": [
     "sci_fi",
     "horror",
-    "adventure"
+    "drama"
    ],
    "era": "late_20th_century",
    "region": "usa",
@@ -42797,8 +42591,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "horror",
     "sci_fi",
+    "horror",
     "drama"
    ],
    "era": "late_20th_century",
@@ -42822,7 +42616,8 @@
    "weapons": [
     "improvised",
     "shield",
-    "spear_polearm"
+    "spear_polearm",
+    "claws_teeth"
    ],
    "vehicles": [],
    "technique": [
@@ -43202,8 +42997,8 @@
     "walker herd",
     "atlanta",
     "tank",
-    "horse",
-    "pilot episode"
+    "pilot episode",
+    "devoured horse"
    ],
    "director": "Frank Darabont",
    "production_country": "USA",
@@ -43289,7 +43084,6 @@
    "keywords": [
     "the governor",
     "hershel",
-    "prison",
     "tank assault",
     "michonne",
     "rick grimes"
@@ -43331,7 +43125,7 @@
    "scale": "one_vs_many",
    "genre": [
     "horror",
-    "action",
+    "drama",
     "post_apocalyptic"
    ],
    "era": "contemporary",
@@ -43377,7 +43171,7 @@
     "terminus",
     "cannibals",
     "propane explosion",
-    "rescue",
+    "firework rocket",
     "walker disguise"
    ],
    "director": "Greg Nicotero",
@@ -43870,8 +43664,8 @@
    "scale": "army",
    "genre": [
     "sci_fi",
-    "war",
-    "adventure"
+    "adventure",
+    "drama"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -44443,7 +44237,7 @@
    ],
    "combatants": [
     "assassins_hitmen",
-    "drivers_racers"
+    "civilians"
    ],
    "weapons": [
     "handgun",
@@ -44827,7 +44621,7 @@
     "gyp rosetti",
     "masked sniper",
     "brothel",
-    "rescue",
+    "tommy darmody",
     "prohibition"
    ],
    "director": "Created by Terence Winter",
@@ -45099,9 +44893,8 @@
    "period": "A remote farmhouse in the British countryside, present day",
    "keywords": [
     "farmhouse",
-    "mercenaries",
+    "sope dirisu",
     "gareth evans",
-    "siege",
     "elliot finch",
     "safe house"
    ],
@@ -45282,7 +45075,7 @@
     "punisher",
     "frank castle",
     "wilson fisk",
-    "prison",
+    "jon bernthal",
     "shiv",
     "inmates"
    ],
@@ -45727,6 +45520,7 @@
     "rocket_missile"
    ],
    "vehicles": [
+    "jetpack",
     "helicopter",
     "parachute_wingsuit"
    ],
@@ -45744,7 +45538,7 @@
     "sam wilson",
     "falcon",
     "batroc",
-    "helicopters",
+    "anthony mackie",
     "wingsuit",
     "redwing drone"
    ],
@@ -45979,7 +45773,7 @@
    "genre": [
     "martial_arts",
     "drama",
-    "action"
+    "comedy"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -46067,8 +45861,8 @@
    "scale": "one_on_one",
    "genre": [
     "martial_arts",
-    "sports",
-    "drama"
+    "drama",
+    "comedy"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -46195,7 +45989,7 @@
     "pablo escobar",
     "search bloc",
     "medellin",
-    "rooftop",
+    "wagner moura",
     "barefoot",
     "1993"
    ],
@@ -46380,7 +46174,7 @@
     "david budd",
     "suicide vest",
     "negotiation",
-    "train",
+    "jed mercurio",
     "armed police",
     "richard madden"
    ],
@@ -46646,8 +46440,7 @@
    "technique": [
     "cgi",
     "handheld",
-    "cross_cutting",
-    "real_location"
+    "cross_cutting"
    ],
    "look": "live_action_color",
    "medium": "film",
@@ -46753,7 +46546,7 @@
    "look": "live_action_color",
    "medium": "film",
    "violence": "mild",
-   "language": "none_or_minimal",
+   "language": "english",
    "period": "First Order-Resistance war (fictional)",
    "keywords": [
     "holdo maneuver",
@@ -46814,7 +46607,7 @@
     "ambush",
     "last_stand"
    ],
-   "scale": "one_on_one",
+   "scale": "medium",
    "genre": [
     "sci_fi",
     "space_opera",
@@ -46842,7 +46635,7 @@
     "aliens"
    ],
    "weapons": [
-    "rocket_missile",
+    "torpedo_depth_charge",
     "energy_weapons"
    ],
    "vehicles": [
@@ -47002,7 +46795,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "war"
+    "drama"
    ],
    "era": "far_future",
    "region": "deep_space",
@@ -48104,7 +47897,6 @@
    "period": "Arrakis (fictional), year 10191",
    "keywords": [
     "ornithopter",
-    "sandstorm",
     "storm wall",
     "sand screen",
     "flapping wings",
@@ -48200,7 +47992,7 @@
    "look": "live_action_color",
    "medium": "film",
    "violence": "none",
-   "language": "none_or_minimal",
+   "language": "english",
    "period": "Deep space near the Xibalba nebula, 26th century",
    "keywords": [
     "bubble ship",
@@ -48355,7 +48147,8 @@
    "region": "unspecified_city",
    "environment": [
     "hotel",
-    "corridor"
+    "corridor",
+    "dreamscape"
    ],
    "time_of_day": "not_applicable",
    "atmosphere": [],
@@ -48445,7 +48238,7 @@
    "scene_type": "stunt.set_piece",
    "format": [
     "spectacle",
-    "assault_raid"
+    "stealth_infiltration"
    ],
    "scale": "medium",
    "genre": [
@@ -48489,7 +48282,7 @@
    "look": "live_action_color",
    "medium": "film",
    "violence": "none",
-   "language": "none_or_minimal",
+   "language": "english",
    "period": "San Francisco, present day",
    "keywords": [
     "halo jump",
@@ -48551,8 +48344,8 @@
    "scale": "city_scale",
    "genre": [
     "disaster",
-    "action",
-    "sci_fi"
+    "sci_fi",
+    "action"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -49485,7 +49278,7 @@
    "look": "live_action_color",
    "medium": "film",
    "violence": "moderate",
-   "language": "none_or_minimal",
+   "language": "english",
    "period": "Skull Island, 1933",
    "keywords": [
     "kong vs v-rex",
@@ -49740,7 +49533,7 @@
    "genre": [
     "space_opera",
     "sci_fi",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "deep_space",
@@ -49827,7 +49620,7 @@
    "genre": [
     "space_opera",
     "western",
-    "sci_fi"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "alien_world",
@@ -49850,7 +49643,8 @@
    "weapons": [
     "knife",
     "energy_weapons",
-    "superpowers"
+    "superpowers",
+    "claws_teeth"
    ],
    "vehicles": [],
    "technique": [
@@ -49922,7 +49716,7 @@
    "genre": [
     "space_opera",
     "western",
-    "sci_fi"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "alien_world",
@@ -49948,7 +49742,8 @@
    "weapons": [
     "explosives",
     "energy_weapons",
-    "rifle"
+    "rifle",
+    "claws_teeth"
    ],
    "vehicles": [
     "jetpack"
@@ -50021,7 +49816,7 @@
    "scale": "one_vs_many",
    "genre": [
     "space_opera",
-    "sci_fi",
+    "western",
     "action"
    ],
    "era": "fantasy_world",
@@ -50224,7 +50019,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "war"
+    "drama"
    ],
    "era": "far_future",
    "region": "deep_space",
@@ -50733,7 +50528,8 @@
    "scale": "solo",
    "genre": [
     "sci_fi",
-    "drama"
+    "drama",
+    "adventure"
    ],
    "era": "near_future",
    "region": "deep_space",
@@ -51025,7 +50821,8 @@
    "scale": "solo",
    "genre": [
     "sci_fi",
-    "thriller"
+    "thriller",
+    "drama"
    ],
    "era": "near_future",
    "region": "deep_space",
@@ -51215,8 +51012,8 @@
    "scale": "solo",
    "genre": [
     "sci_fi",
-    "drama",
-    "adventure"
+    "thriller",
+    "drama"
    ],
    "era": "near_future",
    "region": "sky",
@@ -51403,7 +51200,7 @@
    "genre": [
     "sci_fi",
     "adventure",
-    "fantasy"
+    "action"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -51506,7 +51303,7 @@
    "genre": [
     "sci_fi",
     "adventure",
-    "war"
+    "action"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -51617,7 +51414,7 @@
    "genre": [
     "sci_fi",
     "space_opera",
-    "war"
+    "adventure"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -52013,7 +51810,7 @@
    "genre": [
     "disaster",
     "sci_fi",
-    "action"
+    "adventure"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -52105,7 +51902,8 @@
    "scale": "city_scale",
    "genre": [
     "disaster",
-    "action"
+    "action",
+    "adventure"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -52147,7 +51945,7 @@
     "helicopter rescue",
     "skyscraper collapse",
     "dwayne johnson",
-    "rooftop",
+    "rooftop restaurant",
     "los angeles"
    ],
    "director": "Brad Peyton",
@@ -52233,7 +52031,7 @@
    "look": "live_action_color",
    "medium": "film",
    "violence": "moderate",
-   "language": "multiple",
+   "language": "norwegian",
    "period": "Geiranger, western Norway, present day",
    "keywords": [
     "tsunami",
@@ -52415,6 +52213,7 @@
    ],
    "weapons": [],
    "vehicles": [
+    "civilian_ship",
     "small_boat"
    ],
    "technique": [
@@ -52530,7 +52329,7 @@
    "medium": "film",
    "violence": "mild",
    "language": "english",
-   "period": "Over the South Pacific, during a storm",
+   "period": "Over the South Pacific, December 1995",
    "keywords": [
     "plane crash",
     "fedex",
@@ -52890,7 +52689,7 @@
    ],
    "combatants": [
     "mutants_superpowered",
-    "federal_agents"
+    "robots_androids"
    ],
    "weapons": [
     "fists_feet",
@@ -53073,8 +52872,7 @@
    "era": "contemporary",
    "region": "usa",
    "environment": [
-    "building_interior",
-    "beach"
+    "building_interior"
    ],
    "time_of_day": "not_applicable",
    "atmosphere": [
@@ -53147,7 +52945,8 @@
    "scale": "solo",
    "genre": [
     "superhero",
-    "fantasy"
+    "fantasy",
+    "action"
    ],
    "era": "contemporary",
    "region": "south_asia",
@@ -53512,7 +53311,7 @@
     "stealth_infiltration",
     "escape"
    ],
-   "scale": "solo",
+   "scale": "one_on_one",
    "genre": [
     "horror",
     "sci_fi",
@@ -53553,7 +53352,6 @@
    "period": "The Abbott farmhouse, upstate New York, 2020",
    "keywords": [
     "nail on the stairs",
-    "silence",
     "bathtub birth",
     "red lights",
     "emily blunt",
@@ -53709,7 +53507,7 @@
    "genre": [
     "horror",
     "sci_fi",
-    "western"
+    "thriller"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -53817,7 +53615,7 @@
    ],
    "combatants": [
     "aliens",
-    "apes_animals",
+    "creatures",
     "native_warriors"
    ],
    "weapons": [
@@ -54564,7 +54362,8 @@
    "scale": "one_on_one",
    "genre": [
     "fantasy",
-    "adventure"
+    "adventure",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -54857,8 +54656,8 @@
    "scale": "small_group",
    "genre": [
     "monster",
-    "war",
-    "drama"
+    "drama",
+    "sci_fi"
    ],
    "era": "mid_20th_century",
    "region": "open_ocean",
@@ -55063,7 +54862,7 @@
    "genre": [
     "adventure",
     "monster",
-    "drama"
+    "fantasy"
    ],
    "era": "early_20th_century",
    "region": "usa",
@@ -55166,8 +54965,8 @@
    "scale": "one_on_one",
    "genre": [
     "monster",
-    "adventure",
-    "action"
+    "action",
+    "adventure"
    ],
    "era": "mid_20th_century",
    "region": "oceania",
@@ -55266,7 +55065,7 @@
    "genre": [
     "sci_fi",
     "thriller",
-    "disaster"
+    "horror"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -55464,7 +55263,7 @@
    "genre": [
     "sci_fi",
     "adventure",
-    "war"
+    "action"
    ],
    "era": "far_future",
    "region": "alien_world",
@@ -55496,7 +55295,7 @@
     "claws_teeth"
    ],
    "vehicles": [
-    "warship",
+    "civilian_ship",
     "small_boat"
    ],
    "technique": [
@@ -55659,7 +55458,7 @@
    "genre": [
     "superhero",
     "sci_fi",
-    "space_opera"
+    "action"
    ],
    "era": "contemporary",
    "region": "alien_world",
@@ -55741,8 +55540,8 @@
    "scale": "one_vs_many",
    "genre": [
     "superhero",
-    "fantasy",
-    "comedy"
+    "comedy",
+    "fantasy"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -55969,7 +55768,7 @@
     "mark i",
     "iron man",
     "cave escape",
-    "flamethrower",
+    "ten rings",
     "tony stark",
     "armour suit"
    ],
@@ -56240,7 +56039,7 @@
    "period": "Off the coast of Cuba, October 1962",
    "keywords": [
     "magneto",
-    "submarine",
+    "magnetism",
     "cuban missile crisis",
     "missiles",
     "sebastian shaw",
@@ -56296,8 +56095,8 @@
    "scale": "one_vs_many",
    "genre": [
     "superhero",
-    "sci_fi",
-    "action"
+    "action",
+    "sci_fi"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -56472,8 +56271,8 @@
    "scale": "small_group",
    "genre": [
     "superhero",
-    "action",
-    "drama"
+    "drama",
+    "action"
    ],
    "era": "contemporary",
    "region": "usa",
@@ -56905,7 +56704,8 @@
    "weapons": [
     "rifle",
     "automatic_weapons",
-    "explosives"
+    "explosives",
+    "artillery_cannon"
    ],
    "vehicles": [],
    "technique": [
@@ -57334,7 +57134,6 @@
     "french tanks",
     "tanks from fog",
     "dugouts",
-    "flamethrower",
     "harmonium motif",
     "no man's land",
     "panic retreat",
@@ -58776,8 +58575,7 @@
    "scale": "army",
    "genre": [
     "fantasy",
-    "adventure",
-    "action"
+    "adventure"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -58904,6 +58702,7 @@
    ],
    "combatants": [
     "roman_legion",
+    "native_warriors",
     "cavalry"
    ],
    "weapons": [
@@ -59091,8 +58890,8 @@
    "scale": "one_on_one",
    "genre": [
     "historical_epic",
-    "action",
-    "war"
+    "war",
+    "action"
    ],
    "era": "ancient",
    "region": "middle_east",
@@ -59189,9 +58988,9 @@
    ],
    "scale": "army",
    "genre": [
-    "action",
     "historical_epic",
-    "war"
+    "war",
+    "action"
    ],
    "era": "ancient",
    "region": "southern_europe",
@@ -60177,7 +59976,7 @@
    "genre": [
     "historical_epic",
     "action",
-    "fantasy"
+    "drama"
    ],
    "era": "medieval",
    "region": "eastern_europe",
@@ -60369,9 +60168,9 @@
    ],
    "scale": "army",
    "genre": [
+    "historical_epic",
     "action",
-    "fantasy",
-    "historical_epic"
+    "fantasy"
    ],
    "era": "ancient",
    "region": "south_asia",
@@ -60497,7 +60296,6 @@
    "keywords": [
     "gatling guns",
     "cavalry charge",
-    "last stand",
     "bowing soldiers",
     "meiji army"
    ],
@@ -60829,107 +60627,6 @@
    }
   },
   {
-   "id": "masters-of-the-air-2024-b-17-formation-under-fighter-attack",
-   "film": "Masters of the Air",
-   "year": 2024,
-   "scene": "B-17 formation under fighter attack",
-   "what_happens": "Inside a B-17 flying in tight bomber formation, the crew fire back from their gun turrets as German fighters slash head-on through the formation and flak bursts, while bombers around them burn and fall.",
-   "what_to_study": "Cockpit and gun positions filmed on a gimbal inside an LED volume let actors react to rendered flak and fighters; study how restricted crew POVs make a vast formation battle claustrophobic.",
-   "scene_type": "battle.air",
-   "format": [
-    "dogfight",
-    "bombardment"
-   ],
-   "scale": "fleet",
-   "genre": [
-    "war",
-    "drama"
-   ],
-   "era": "ww2",
-   "region": "sky",
-   "environment": [
-    "aircraft",
-    "sky"
-   ],
-   "time_of_day": "day",
-   "atmosphere": [
-    "explosions",
-    "smoke",
-    "fire"
-   ],
-   "mood": [
-    "terrifying",
-    "tense",
-    "chaotic"
-   ],
-   "combatants": [
-    "pilots",
-    "ww2_soldiers"
-   ],
-   "weapons": [
-    "aircraft_weapons",
-    "artillery_cannon"
-   ],
-   "vehicles": [
-    "propeller_aircraft"
-   ],
-   "technique": [
-    "pov",
-    "tight_framing",
-    "cgi",
-    "sound_design",
-    "rotating_set",
-    "rear_projection"
-   ],
-   "look": "live_action_color",
-   "medium": "series",
-   "violence": "moderate",
-   "language": "english",
-   "period": "B-17 bombing raid on Münster, Germany, 10 October 1943",
-   "keywords": [
-    "b-17 flying fortress",
-    "bomber formation",
-    "ball turret",
-    "waist gunner",
-    "flak",
-    "head-on attack",
-    "led volume",
-    "bloody hundredth"
-   ],
-   "director": "Cary Joji Fukunaga",
-   "production_country": "USA",
-   "crew": [],
-   "awards": [],
-   "clip": {
-    "file": "clips/battle.air/masters-of-the-air-2024-b-17-formation-under-fighter-attack.mp4",
-    "youtube_id": "FsEUh-6JqG4",
-    "youtube_url": "https://www.youtube.com/watch?v=FsEUh-6JqG4&t=160s",
-    "start": 160,
-    "end": 190,
-    "seconds": 30,
-    "window": "most_replayed",
-    "source_title": "Masters of the Air — \"Mission to Münster\" Clip | Apple TV",
-    "source_channel": "Apple TV",
-    "source_views": 1067149,
-    "source_duration": 254,
-    "replay_heat": "333334554433222111111112223222333795222222222200",
-    "alternates": [
-     {
-      "youtube_id": "Xo5Wpd-_auw",
-      "start": 99,
-      "title": "Masters of the Air — \"Trouble Over Berlin\" Clip | Apple TV",
-      "channel": "Apple TV"
-     },
-     {
-      "youtube_id": "CXFvdvG1JJs",
-      "start": 85,
-      "title": "Masters of the Air Clip - “Battle of Münster” (2024)",
-      "channel": "Action Society"
-     }
-    ]
-   }
-  },
-  {
    "id": "pearl-harbor-2001-japanese-attack-on-pearl-harbor",
    "film": "Pearl Harbor",
    "year": 2001,
@@ -61137,8 +60834,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "war",
+    "action",
     "thriller"
    ],
    "era": "late_20th_century",
@@ -61446,7 +61143,8 @@
    ],
    "vehicles": [
     "warship",
-    "submarine"
+    "submarine",
+    "civilian_ship"
    ],
    "technique": [
     "cgi",
@@ -61923,7 +61621,7 @@
    "film": "Dunkirk",
    "year": 2017,
    "scene": "Destroyer torpedoed at night",
-   "what_happens": "A torpedo streaks through the dark water and slams into a hospital ship packed with evacuated soldiers; below decks seawater floods in, the lights fail and men claw toward the hatches as the ship rolls over.",
+   "what_happens": "At night a destroyer packed with rescued soldiers is torpedoed; the sea floods the lower decks as Tommy and the men below fight through the dark to the hatches while the ship rolls over.",
    "what_to_study": "Practically flooding the ship interior in darkness, the camera stays inside with the trapped soldiers; study how IMAX framing, rushing water and crushed blacks deliver a capsizing from the inside.",
    "scene_type": "battle.naval",
    "format": [
@@ -61981,7 +61679,7 @@
     "hatch",
     "trapped soldiers",
     "sinking ship",
-    "hospital ship"
+    "destroyer"
    ],
    "director": "Christopher Nolan",
    "production_country": "UK/USA/Netherlands/France",
@@ -61997,31 +61695,18 @@
    ],
    "clip": {
     "file": "clips/battle.naval/dunkirk-2017-destroyer-torpedoed-at-night.mp4",
-    "youtube_id": "WygmbuU_78c",
-    "youtube_url": "https://www.youtube.com/watch?v=WygmbuU_78c&t=17s",
-    "start": 17,
-    "end": 47,
+    "youtube_id": "TcjDcAT2H2M",
+    "youtube_url": "https://www.youtube.com/watch?v=TcjDcAT2H2M&t=62s",
+    "start": 62,
+    "end": 92,
     "seconds": 30,
-    "window": "most_replayed",
-    "source_title": "Dunkirk (2017) - Sinking the Medical Ship Scene (3/10) | Movieclips",
-    "source_channel": "Movieclips",
-    "source_views": 2235354,
-    "source_duration": 180,
-    "replay_heat": "122457987776765544433322224655321111122222112100",
-    "alternates": [
-     {
-      "youtube_id": "bgS0GPQhzHg",
-      "start": 55,
-      "title": "Dunkirk (2017) - Home Comes to Them Scene (8/10) | Movieclips",
-      "channel": "Movieclips"
-     },
-     {
-      "youtube_id": "2W3KDB0yHYM",
-      "start": 45,
-      "title": "Dunkirk (2017) - The First Bombing Scene (2/10) | Movieclips",
-      "channel": "Movieclips"
-     }
-    ]
+    "window": "estimated",
+    "source_title": "Dunkirk - Torpedo Scene (HD) 1080p 4K",
+    "source_channel": "MovieJojo",
+    "source_views": 0,
+    "source_duration": 188,
+    "replay_heat": "",
+    "alternates": []
    }
   },
   {
@@ -62039,7 +61724,8 @@
    "scale": "medium",
    "genre": [
     "historical_epic",
-    "action"
+    "action",
+    "drama"
    ],
    "era": "ancient",
    "region": "southern_europe",
@@ -62343,7 +62029,8 @@
    "scale": "army",
    "genre": [
     "historical_epic",
-    "war"
+    "war",
+    "drama"
    ],
    "era": "ancient",
    "region": "south_asia",
@@ -62539,7 +62226,7 @@
    "genre": [
     "historical_epic",
     "drama",
-    "war"
+    "action"
    ],
    "era": "ancient",
    "region": "western_europe",
@@ -62554,7 +62241,8 @@
     "tense"
    ],
    "combatants": [
-    "roman_legion"
+    "roman_legion",
+    "native_warriors"
    ],
    "weapons": [
     "european_sword",
@@ -62829,7 +62517,7 @@
    "genre": [
     "historical_epic",
     "war",
-    "action"
+    "drama"
    ],
    "era": "medieval",
    "region": "middle_east",
@@ -63013,8 +62701,8 @@
    "scale": "army",
    "genre": [
     "historical_epic",
-    "drama",
-    "action"
+    "action",
+    "drama"
    ],
    "era": "medieval",
    "region": "western_europe",
@@ -63405,7 +63093,7 @@
    "genre": [
     "fantasy",
     "adventure",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -63498,7 +63186,7 @@
    "genre": [
     "fantasy",
     "adventure",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -63595,7 +63283,7 @@
    "genre": [
     "fantasy",
     "adventure",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -63704,7 +63392,8 @@
    "scale": "army",
    "genre": [
     "fantasy",
-    "adventure"
+    "adventure",
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -64080,9 +63769,9 @@
    ],
    "scale": "army",
    "genre": [
+    "historical_epic",
     "action",
-    "fantasy",
-    "historical_epic"
+    "fantasy"
    ],
    "era": "ancient",
    "region": "south_asia",
@@ -64665,9 +64354,9 @@
    ],
    "scale": "army",
    "genre": [
-    "war",
-    "drama",
-    "samurai_jidaigeki"
+    "historical_epic",
+    "action",
+    "war"
    ],
    "era": "19th_century",
    "region": "japan",
@@ -64709,7 +64398,6 @@
    "language": "english",
    "period": "Forest battle against Katsumoto's samurai, Japan, 1876",
    "keywords": [
-    "fog",
     "imperial conscripts",
     "samurai cavalry",
     "algren",
@@ -64940,7 +64628,7 @@
    "format": [
     "escape"
    ],
-   "scale": "solo",
+   "scale": "medium",
    "genre": [
     "war",
     "drama"
@@ -64989,7 +64677,6 @@
    "keywords": [
     "barbed wire",
     "horse in battle",
-    "tank",
     "no man's land",
     "joey",
     "western front"
@@ -65027,96 +64714,6 @@
       "start": 42,
       "title": "War Horse (2011) - Saves the horse scene",
       "channel": "VMAE"
-     }
-    ]
-   }
-  },
-  {
-   "id": "joyeux-noel-2005-christmas-truce-in-no-man-s-land",
-   "film": "Joyeux Noël",
-   "year": 2005,
-   "scene": "Christmas truce in no-man's-land",
-   "what_happens": "Scottish bagpipers in their trench answer a German tenor singing a carol; soldiers from the Scottish, French and German lines climb out, meet in the snow of no-man's-land and share drink, chocolate and photographs.",
-   "what_to_study": "Carion lets music bridge the lines: a single voice and bagpipes pull men out of the trenches, and the camera stays low among the wire and mud so the first tentative steps across feel genuinely dangerous.",
-   "scene_type": "battle.modern_ground",
-   "format": [
-    "spectacle"
-   ],
-   "scale": "army",
-   "genre": [
-    "war",
-    "drama"
-   ],
-   "era": "early_20th_century",
-   "region": "western_europe",
-   "environment": [
-    "trench",
-    "snow_ice"
-   ],
-   "time_of_day": "night",
-   "atmosphere": [
-    "snow",
-    "low_light"
-   ],
-   "mood": [
-    "melancholic",
-    "intimate",
-    "awe"
-   ],
-   "combatants": [
-    "ww1_soldiers"
-   ],
-   "weapons": [],
-   "vehicles": [],
-   "technique": [
-    "score_driven",
-    "single_location",
-    "wide_framing"
-   ],
-   "look": "live_action_color",
-   "medium": "film",
-   "violence": "none",
-   "language": "multiple",
-   "period": "Christmas truce, Western Front, France, 24 December 1914",
-   "keywords": [
-    "christmas truce",
-    "bagpipes",
-    "silent night",
-    "fraternisation",
-    "no man's land",
-    "christmas carol"
-   ],
-   "director": "Christian Carion",
-   "production_country": "France/Germany/UK",
-   "crew": [
-    "Composer: Philippe Rombi"
-   ],
-   "awards": [],
-   "clip": {
-    "file": "clips/battle.modern_ground/joyeux-noel-2005-christmas-truce-in-no-man-s-land.mp4",
-    "youtube_id": "-cSrqRdlFeo",
-    "youtube_url": "https://www.youtube.com/watch?v=-cSrqRdlFeo&t=269s",
-    "start": 269,
-    "end": 299,
-    "seconds": 30,
-    "window": "estimated",
-    "source_title": "Christmas Truce of World War I -- Joyeux Noel [2005 film]",
-    "source_channel": "Vanaze",
-    "source_views": 15005079,
-    "source_duration": 816,
-    "replay_heat": "",
-    "alternates": [
-     {
-      "youtube_id": "_0vSNGu6sEE",
-      "start": 83,
-      "title": "Joyeux Noël [Merry Christmas] (2005) - Burying the dead scene [1080]",
-      "channel": "Screen Themes"
-     },
-     {
-      "youtube_id": "wLu65-vpqRU",
-      "start": 59,
-      "title": "Soldiers share a Christmas truce | Joyeux Noel",
-      "channel": "SBS On Demand"
      }
     ]
    }
@@ -65224,7 +64821,7 @@
    "scene": "Final sniper duel: Vassili vs. König",
    "what_happens": "In the ruins of a Stalingrad rail yard, Vassili and the German master sniper König stalk each other through their scopes; Danilov deliberately steps into the open to draw König's shot, and Vassili kills König.",
    "what_to_study": "A duel of patience: long lenses, scope POVs and near-silent sound design turn waiting into suspense, with tiny glints and movements carrying all the action until a single shot ends it.",
-   "scene_type": "battle.modern_ground",
+   "scene_type": "fight.gunfight",
    "format": [
     "duel",
     "standoff"
@@ -65232,8 +64829,7 @@
    "scale": "one_on_one",
    "genre": [
     "war",
-    "drama",
-    "thriller"
+    "drama"
    ],
    "era": "ww2",
    "region": "russia",
@@ -65284,7 +64880,7 @@
    ],
    "awards": [],
    "clip": {
-    "file": "clips/battle.modern_ground/enemy-at-the-gates-2001-final-sniper-duel-vassili-vs-konig.mp4",
+    "file": "clips/fight.gunfight/enemy-at-the-gates-2001-final-sniper-duel-vassili-vs-konig.mp4",
     "youtube_id": "Giom5_byviI",
     "youtube_url": "https://www.youtube.com/watch?v=Giom5_byviI&t=81s",
     "start": 81,
@@ -66016,7 +65612,6 @@
     "chinese civil war",
     "bugle call",
     "ninth company",
-    "last stand",
     "gu zidi",
     "nationalist tanks"
    ],
@@ -66169,8 +65764,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
     "war",
+    "action",
     "thriller"
    ],
    "era": "contemporary",
@@ -66197,8 +65792,9 @@
    "weapons": [
     "rifle",
     "automatic_weapons",
-    "explosives",
-    "rocket_missile"
+    "artillery_cannon",
+    "rocket_missile",
+    "explosives"
    ],
    "vehicles": [],
    "technique": [
@@ -66302,7 +65898,6 @@
    "language": "english",
    "period": "Sadr City, Baghdad, Iraq, c. 2008",
    "keywords": [
-    "sandstorm",
     "navy seals",
     "mustafa",
     "long-range shot",
@@ -66345,87 +65940,6 @@
       "channel": "ChiefSuperior"
      }
     ]
-   }
-  },
-  {
-   "id": "jarhead-2005-marching-through-the-burning-oil-fields",
-   "film": "Jarhead",
-   "year": 2005,
-   "scene": "Marching through the burning oil fields",
-   "what_happens": "The marines walk through a blackened Kuwaiti desert where hundreds of oil wells burn in towering pillars of fire, crude oil raining down on them, as an oil-soaked horse wanders out of the smoke.",
-   "what_to_study": "Deakins uses the burning wells as the main light source, turning daytime into a flickering night; the war's only spectacle is an apocalyptic landscape, not a battle, which is exactly the film's point.",
-   "scene_type": "battle.modern_ground",
-   "format": [
-    "spectacle",
-    "journey"
-   ],
-   "scale": "medium",
-   "genre": [
-    "war",
-    "drama"
-   ],
-   "era": "late_20th_century",
-   "region": "middle_east",
-   "environment": [
-    "desert"
-   ],
-   "time_of_day": "day",
-   "atmosphere": [
-    "fire",
-    "smoke",
-    "low_light"
-   ],
-   "mood": [
-    "surreal",
-    "awe",
-    "melancholic"
-   ],
-   "combatants": [
-    "cold_war_soldiers"
-   ],
-   "weapons": [],
-   "vehicles": [],
-   "technique": [
-    "silhouette",
-    "practical_effects",
-    "natural_light",
-    "wide_framing"
-   ],
-   "look": "live_action_color",
-   "medium": "film",
-   "violence": "none",
-   "language": "english",
-   "period": "Burning oil fields, Kuwait, Gulf War, February 1991",
-   "keywords": [
-    "oil fires",
-    "gulf war",
-    "oil rain",
-    "oil-soaked horse",
-    "marines",
-    "desert storm"
-   ],
-   "director": "Sam Mendes",
-   "production_country": "USA",
-   "crew": [
-    "DP: Roger Deakins",
-    "Editor: Walter Murch",
-    "Composer: Thomas Newman"
-   ],
-   "awards": [],
-   "clip": {
-    "file": "clips/battle.modern_ground/jarhead-2005-marching-through-the-burning-oil-fields.mp4",
-    "youtube_id": "olHaqANv6Uw",
-    "youtube_url": "https://www.youtube.com/watch?v=olHaqANv6Uw&t=47s",
-    "start": 47,
-    "end": 77,
-    "seconds": 30,
-    "window": "most_replayed",
-    "source_title": "Jarhead: It's raining oil HD CLIP",
-    "source_channel": "Binge Society",
-    "source_views": 0,
-    "source_duration": 195,
-    "replay_heat": "111111222233564375433322211111111123772222222200",
-    "alternates": []
    }
   },
   {
@@ -66494,7 +66008,7 @@
     "rpg ambush",
     "jamie foxx",
     "apartment block",
-    "rescue",
+    "kidnapped agent",
     "saudi police"
    ],
    "director": "Peter Berg",
@@ -66653,8 +66167,8 @@
    ],
    "scale": "medium",
    "genre": [
-    "action",
-    "war"
+    "war",
+    "action"
    ],
    "era": "contemporary",
    "region": "middle_east",
@@ -66697,7 +66211,6 @@
    "period": "Fictional war-torn Arabian state, present day",
    "keywords": [
     "jiaolong commandos",
-    "sandstorm",
     "tank battle",
     "chinese navy",
     "evacuation mission"
@@ -67066,7 +66579,6 @@
     "su-57",
     "maverick and rooster",
     "stolen jet",
-    "dogfight",
     "flares"
    ],
    "director": "Joseph Kosinski",
@@ -67318,8 +66830,8 @@
    ],
    "scale": "fleet",
    "genre": [
-    "action",
     "historical_epic",
+    "action",
     "war"
    ],
    "era": "ancient",
@@ -67620,7 +67132,7 @@
    "genre": [
     "fantasy",
     "drama",
-    "war"
+    "action"
    ],
    "era": "fantasy_world",
    "region": "fantasy_world",
@@ -67722,8 +67234,8 @@
    "scale": "medium",
    "genre": [
     "adventure",
-    "fantasy",
-    "swashbuckler"
+    "swashbuckler",
+    "fantasy"
    ],
    "era": "early_modern",
    "region": "latin_america",
@@ -68487,9 +67999,9 @@
    ],
    "scale": "small_group",
    "genre": [
-    "heist",
     "space_opera",
-    "thriller"
+    "thriller",
+    "drama"
    ],
    "era": "fantasy_world",
    "region": "alien_world",
@@ -68776,7 +68288,7 @@
    "medium": "series",
    "violence": "graphic",
    "language": "english",
-   "period": "Prison on Ryker's Island, New York City",
+   "period": "Prison on Ryker's Island, New York City, present day",
    "keywords": [
     "matt murdock",
     "prison riot",
@@ -68965,8 +68477,7 @@
     "infected",
     "tommy",
     "walls",
-    "bloater",
-    "siege"
+    "bloater"
    ],
    "director": "Mark Mylod",
    "production_country": "USA",
@@ -69016,8 +68527,8 @@
    ],
    "scale": "one_vs_many",
    "genre": [
-    "action",
     "historical_epic",
+    "action",
     "drama"
    ],
    "era": "early_20th_century",
@@ -69057,7 +68568,7 @@
    "period": "Police outpost near Delhi, British India, 1920",
    "keywords": [
     "ram charan",
-    "police",
+    "rama raju",
     "protest",
     "hero introduction",
     "crowd",
@@ -69211,9 +68722,8 @@
    ],
    "scale": "small_group",
    "genre": [
-    "action",
     "war",
-    "thriller"
+    "action"
    ],
    "era": "contemporary",
    "region": "sub_saharan_africa",
@@ -69256,7 +68766,6 @@
     "leng feng",
     "tank drift",
     "wu jing",
-    "mercenaries",
     "tank battle"
    ],
    "director": "Wu Jing",
@@ -69350,7 +68859,6 @@
    "keywords": [
     "umbrella blades",
     "ink wash",
-    "rain",
     "zhang yimou",
     "jingzhou",
     "yin yang"
@@ -69404,9 +68912,9 @@
    ],
    "scale": "one_vs_many",
    "genre": [
+    "historical_epic",
     "action",
-    "horror",
-    "historical_epic"
+    "horror"
    ],
    "era": "early_modern",
    "region": "western_europe",

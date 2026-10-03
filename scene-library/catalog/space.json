@@ -1567,8 +1567,8 @@
     "scale": "city_scale",
     "genre": [
       "disaster",
-      "action",
-      "sci_fi"
+      "sci_fi",
+      "action"
     ],
     "era": "contemporary",
     "region": "usa",

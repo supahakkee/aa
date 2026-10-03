@@ -69,6 +69,8 @@ def lint(r):
     if who & {"roman_legion", "greek_hoplites"} and era not in ("ancient", "fantasy_world"):
         w.append(f"ancient combatants but era {era}")
     for c, e in (("ww1_soldiers", "early_20th_century"), ("ww2_soldiers", "ww2")):
+        if c == "ww2_soldiers" and era == "early_20th_century" and where in ("china", "japan", "korea"):
+            continue  # the Second Sino-Japanese War began in 1937
         if c in who and era != e:
             w.append(f"{c} but era {era}")
     if "cowboys_gunslingers" in who and where not in ("american_frontier", "usa", "latin_america", "alien_world", "deep_space"):
