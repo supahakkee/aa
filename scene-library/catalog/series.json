@@ -1,0 +1,5919 @@
+[
+  {
+    "film": "Game of Thrones",
+    "year": 2017,
+    "scene": "Euron's night attack on Yara's fleet (S7E2 'Stormborn')",
+    "query": "Game of Thrones Stormborn Euron attacks Yara's fleet scene",
+    "what_happens": "Euron Greyjoy's fleet rams Yara's ships out of the night; his crew boards with axes and fire, Euron kills two of the Sand Snakes and seizes Yara, and Theon leaps into the burning sea.",
+    "why": "Night naval combat kept legible through firelight: study how the boarding is staged across a single deck with a roving camera, and how Euron's manic physicality gives the chaos a centre.",
+    "director": "Mark Mylod",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series"
+    ],
+    "scene_type": "battle.naval",
+    "format": [
+      "ambush",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "fantasy",
+      "war",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "The Narrow Sea off Westeros, Euron's night raid",
+    "region": "fantasy_world",
+    "environment": [
+      "ship_deck",
+      "open_sea"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "low_light"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal"
+    ],
+    "combatants": [
+      "pirates",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "axe_mace",
+      "european_sword",
+      "spear_polearm",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "handheld",
+      "practical_stunts",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "euron greyjoy",
+      "boarding",
+      "sand snakes",
+      "ironborn",
+      "night sea battle",
+      "ramming"
+    ],
+    "video": "ncE4dIVLmGc"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2013,
+    "scene": "The Red Wedding (S3E9 'The Rains of Castamere')",
+    "query": "Game of Thrones Red Wedding scene",
+    "what_happens": "During a wedding feast at the Twins, the doors are barred and the musicians strike up a Lannister song as Frey and Bolton men slaughter Robb Stark, his pregnant wife, Catelyn and their bannermen with crossbows and knives.",
+    "why": "A masterclass in dread before violence: study how small wrong details are seeded (the closing doors, the song, the hidden mail) and how the camera holds on reactions, so the massacre lands as betrayal rather than spectacle.",
+    "director": "David Nutter",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "ambush",
+      "rampage"
+    ],
+    "scale": "medium",
+    "genre": [
+      "fantasy",
+      "drama",
+      "thriller"
+    ],
+    "era": "fantasy_world",
+    "period": "The Twins, the Riverlands, War of the Five Kings",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "brutal"
+    ],
+    "combatants": [
+      "medieval_soldiers",
+      "knights",
+      "civilians"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "knife",
+      "european_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "sound_design",
+      "tight_framing",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "red wedding",
+      "robb stark",
+      "catelyn stark",
+      "betrayal",
+      "wedding feast",
+      "massacre",
+      "rains of castamere"
+    ],
+    "video": "btzq18TkaUc"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2015,
+    "scene": "Sons of the Harpy attack at Daznak's Pit (S5E9 'The Dance of Dragons')",
+    "query": "Game of Thrones Daznak's Pit Sons of the Harpy attack Drogon arrives scene",
+    "what_happens": "Masked Sons of the Harpy rise from the crowd during the fighting-pit games; Daenerys and her allies are surrounded in the arena until Drogon swoops in, burns the attackers and she flies off on his back.",
+    "why": "An ambush that escalates into a creature rescue: study how the ring of spectators becomes the threat, how the heroes' circle tightens in wide shots, and how the dragon's arrival resets scale and tone.",
+    "director": "David Nutter",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series"
+    ],
+    "scene_type": "fight.blades",
+    "format": [
+      "ambush",
+      "last_stand"
+    ],
+    "scale": "medium",
+    "genre": [
+      "fantasy",
+      "action",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "Daznak's Pit, Meereen, Slaver's Bay",
+    "region": "fantasy_world",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "heroic"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gladiators",
+      "creatures"
+    ],
+    "weapons": [
+      "knife",
+      "european_sword",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "cgi",
+      "practical_stunts",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "drogon",
+      "daenerys",
+      "sons of the harpy",
+      "fighting pits",
+      "dragon rescue",
+      "meereen"
+    ],
+    "video": "MT0nAQ07DzA"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2019,
+    "scene": "Arya in the Winterfell library (S8E3 'The Long Night')",
+    "query": "Game of Thrones Long Night Arya library wights scene",
+    "what_happens": "Bloodied and alone, Arya creeps silently between the library shelves of Winterfell as wights hunt by sound, then bolts through the castle corridors when she is discovered.",
+    "why": "Battle scale shrinks to a horror stealth sequence: study how silence, held breath and tiny sounds replace score, and how tight framing between the shelves keeps the creatures half-seen.",
+    "director": "Miguel Sapochnik",
+    "country": "USA/UK",
+    "craft": [
+      "DP: Fabian Wagner",
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series"
+    ],
+    "scene_type": "creature.attack",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "fantasy",
+      "horror",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "Winterfell during the battle against the Night King",
+    "region": "fantasy_world",
+    "environment": [
+      "building_interior",
+      "corridor",
+      "castle_fortress"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "smoke"
+    ],
+    "mood": [
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "silence",
+      "sound_design",
+      "tight_framing",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "arya stark",
+      "wights",
+      "library",
+      "stealth",
+      "battle of winterfell",
+      "hiding"
+    ],
+    "video": "phT9Bnpb0t0"
+  },
+  {
+    "film": "Game of Thrones",
+    "year": 2016,
+    "scene": "Wildfire destroys the Great Sept of Baelor (S6E10 'The Winds of Winter')",
+    "query": "Game of Thrones Winds of Winter Sept of Baelor explosion Light of the Seven scene",
+    "what_happens": "As the High Sparrow's trial gathers the nobility in the Great Sept, Cersei watches from the Red Keep while a hidden cache of wildfire ignites beneath the floor and a green fireball obliterates the Sept and everyone inside.",
+    "why": "Slow-burn intercutting toward a single blast: study how a piano-and-organ cue paces a nearly wordless montage of preparations, and how the explosion is shown through reactions and distance.",
+    "director": "Miguel Sapochnik",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "spectacle"
+    ],
+    "scale": "medium",
+    "genre": [
+      "fantasy",
+      "drama",
+      "thriller"
+    ],
+    "era": "fantasy_world",
+    "period": "King's Landing, the day of the faith's trials",
+    "region": "fantasy_world",
+    "environment": [
+      "temple_church",
+      "palace_mansion"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "fire"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "awe"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "cross_cutting",
+      "montage",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "light of the seven",
+      "wildfire",
+      "cersei lannister",
+      "sept of baelor",
+      "green explosion",
+      "high sparrow"
+    ]
+  },
+  {
+    "film": "House of the Dragon",
+    "year": 2022,
+    "scene": "Daemon's lone assault on the Stepstones (S1E3 'Second of His Name')",
+    "query": "House of the Dragon Daemon Stepstones battle scene Crabfeeder",
+    "what_happens": "Feigning surrender, Daemon Targaryen walks alone onto the Crabfeeder's beach, then cuts through wave after wave of soldiers pouring from the caves until Laenor on Seasmoke and the Velaryon forces join the fight.",
+    "why": "A wordless one-man assault: study how the sequence uses the hero's silence, a steadily rising score and wide beach geography to sell exhaustion and fury, before the dragon reframes the battle's scale.",
+    "director": "Greg Yaitanes",
+    "country": "USA",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [
+      "Golden Globe: Best Television Series – Drama"
+    ],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "massed_battle"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "fantasy",
+      "action",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "The Stepstones islands, war against the Crabfeeder",
+    "region": "fantasy_world",
+    "environment": [
+      "beach",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "relentless"
+    ],
+    "combatants": [
+      "knights",
+      "medieval_soldiers",
+      "creatures"
+    ],
+    "weapons": [
+      "european_sword",
+      "bow_arrow",
+      "shield"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "practical_stunts",
+      "score_driven",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "daemon targaryen",
+      "stepstones",
+      "crabfeeder",
+      "seasmoke",
+      "feigned surrender",
+      "beach battle"
+    ]
+  },
+  {
+    "film": "The Witcher",
+    "year": 2019,
+    "scene": "Geralt vs. the striga (S1E3 'Betrayer Moon')",
+    "query": "The Witcher Geralt vs striga fight scene Betrayer Moon",
+    "what_happens": "Waiting overnight in a royal crypt, Geralt fights the striga, a cursed princess turned feral beast, grappling and slashing through the dark to keep her from her coffin until dawn breaks the curse.",
+    "why": "A creature duel built around physical performance: study how the creature's movement, practical makeup and limited light keep the striga tangible, and how the fight's rule (survive until dawn) gives the choreography a clear objective.",
+    "director": "Alex Garcia Lopez",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "horror",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Royal crypt beneath Wyzima castle, Temeria",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "tunnel_sewer"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "brutal"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "creatures"
+    ],
+    "weapons": [
+      "european_sword",
+      "claws_teeth",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "practical_stunts",
+      "tight_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "geralt of rivia",
+      "striga",
+      "curse",
+      "crypt",
+      "monster hunt",
+      "witcher"
+    ],
+    "video": "H6PEXnmnFwI"
+  },
+  {
+    "film": "The Witcher",
+    "year": 2019,
+    "scene": "Battle of Sodden Hill (S1E8 'Much More')",
+    "query": "The Witcher Battle of Sodden Hill Yennefer fire scene",
+    "what_happens": "Northern mages and soldiers hold the keep on Sodden Hill against Nilfgaard's army; as the defence collapses, Yennefer unleashes a torrent of chaos fire that pours down the slope and engulfs the attackers.",
+    "why": "A fantasy siege resolved by magic: study how the episode first builds the mages' tactics and losses so Yennefer's fire feels earned, and how a wide shot of flame flooding downhill pays off the established geography.",
+    "director": "Marc Jobst",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "siege",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "action",
+      "war"
+    ],
+    "era": "fantasy_world",
+    "period": "Sodden Hill, Nilfgaard's invasion of the North",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "hills_mountains",
+      "battlefield"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "mutants_superpowered",
+      "medieval_soldiers",
+      "knights"
+    ],
+    "weapons": [
+      "superpowers",
+      "european_sword",
+      "bow_arrow"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "large_crowds",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "yennefer",
+      "chaos magic",
+      "nilfgaard",
+      "mages",
+      "wall of fire",
+      "sodden"
+    ]
+  },
+  {
+    "film": "The Rings of Power",
+    "year": 2022,
+    "scene": "Mount Doom erupts (S1E6 'Udûn')",
+    "query": "Rings of Power Mount Doom eruption scene",
+    "what_happens": "Adar turns the sword-key to flood the tunnels beneath the Southlands; water pours into the mountain, which erupts, and a towering wall of ash and fire rolls toward Galadriel and the villagers.",
+    "why": "Disaster as world-building: study how the reveal is built as a chain reaction from dam to volcano, how the pyroclastic cloud is scaled against tiny human figures, and how the shot holds on its slow, inevitable approach.",
+    "director": "Charlotte Brändström",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "spectacle"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "fantasy",
+      "disaster",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "The Southlands becoming Mordor, Second Age",
+    "region": "fantasy_world",
+    "environment": [
+      "hills_mountains",
+      "village"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "awe",
+      "terrifying",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians",
+      "creatures"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "wide_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "mount doom",
+      "orodruin",
+      "eruption",
+      "pyroclastic flow",
+      "mordor",
+      "adar"
+    ]
+  },
+  {
+    "film": "The Rings of Power",
+    "year": 2024,
+    "scene": "Siege of Eregion (S2E7 'Doomed to Die')",
+    "query": "Rings of Power season 2 Battle of Eregion siege scene",
+    "what_happens": "Adar's orc army, with a hill-troll at its head, besieges the elven city of Eregion; elven archers and swordsmen defend the walls as the orcs scale and batter them, and dwarven reinforcements march to their aid.",
+    "why": "A fortress siege built in escalating phases: study how wall assault, breach and the troll's arrival each change the defenders' problem, and how wide establishing shots keep the city's geography clear.",
+    "director": "Created by J. D. Payne and Patrick McKay",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "siege",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "fantasy",
+      "war",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Ost-in-Edhil, Eregion, Second Age",
+    "region": "fantasy_world",
+    "environment": [
+      "castle_fortress",
+      "battlefield"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "creatures",
+      "medieval_soldiers"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "european_sword",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "large_crowds",
+      "wide_framing",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "eregion",
+      "adar",
+      "hill troll",
+      "elves",
+      "dwarves",
+      "celebrimbor"
+    ]
+  },
+  {
+    "film": "The Wheel of Time",
+    "year": 2021,
+    "scene": "Trolloc attack on Emond's Field (S1E1 'Leavetaking')",
+    "query": "Wheel of Time Trolloc attack Two Rivers Moiraine scene",
+    "what_happens": "On festival night, Trollocs pour into Emond's Field; villagers flee and fight back with axes and staffs while Lan battles the beasts and Moiraine wields the One Power to hurl them aside.",
+    "why": "A pilot's monster raid that introduces the magic system mid-action: study how channelling is staged as physical force on real debris, and how the chaos is anchored by following each young lead in turn.",
+    "director": "Uta Briesewitz",
+    "country": "USA",
+    "craft": [
+      "Composer: Lorne Balfe"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "assault_raid",
+      "rampage"
+    ],
+    "scale": "medium",
+    "genre": [
+      "fantasy",
+      "action",
+      "horror"
+    ],
+    "era": "fantasy_world",
+    "period": "Emond's Field, the Two Rivers, Bel Tine night",
+    "region": "fantasy_world",
+    "environment": [
+      "village"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "low_light"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "epic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "superpowers",
+      "european_sword",
+      "axe_mace",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "practical_stunts",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "moiraine",
+      "trollocs",
+      "one power",
+      "lan",
+      "emond's field",
+      "channeling"
+    ]
+  },
+  {
+    "film": "His Dark Materials",
+    "year": 2019,
+    "scene": "Iorek Byrnison vs. Iofur Raknison (S1E7 'The Fight to the Death')",
+    "query": "His Dark Materials Iorek vs Iofur bear fight scene",
+    "what_happens": "Before the assembled bears of Svalbard, the exiled armoured bear Iorek Byrnison fights the usurper king Iofur Raknison in single combat; feigning injury, Iorek strikes and tears away his rival's jaw.",
+    "why": "A fully digital duel that still reads as physical: study how weight and armour are conveyed through heavy, deliberate animation, ground-level camera placement and Lyra's reactions as the human anchor.",
+    "director": "Created by Jack Thorne",
+    "country": "UK/USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "duel",
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "fantasy",
+      "adventure",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "The palace of the armoured bears, Svalbard, Lyra's world",
+    "region": "polar",
+    "environment": [
+      "snow_ice",
+      "castle_fortress"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow"
+    ],
+    "mood": [
+      "brutal",
+      "epic",
+      "tense"
+    ],
+    "combatants": [
+      "creatures"
+    ],
+    "weapons": [
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "iorek byrnison",
+      "iofur raknison",
+      "armoured bears",
+      "panserbjorne",
+      "lyra",
+      "svalbard"
+    ],
+    "video": "H3eF0tGWzT4"
+  },
+  {
+    "film": "Vikings",
+    "year": 2013,
+    "scene": "Raid on Lindisfarne monastery (S1E2 'Wrath of the Northmen')",
+    "query": "Vikings Lindisfarne raid monastery scene Ragnar",
+    "what_happens": "Ragnar's longship lands on the Northumbrian coast and his warriors storm the monastery at Lindisfarne, cutting down unarmed monks, smashing doors and stripping the altar of gold as the young monk Athelstan is taken captive.",
+    "why": "History's first great Viking raid staged as culture shock: study how calm images of monastic life collide with sudden violence, and how the camera stays with the bewildered monks rather than glorifying the raiders.",
+    "director": "Created by Michael Hirst",
+    "country": "Canada/Ireland",
+    "craft": [
+      "Composer: Trevor Morris"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "assault_raid",
+      "rampage"
+    ],
+    "scale": "medium",
+    "genre": [
+      "historical_epic",
+      "action",
+      "drama"
+    ],
+    "era": "medieval",
+    "period": "Lindisfarne, Northumbria, 793",
+    "region": "british_isles",
+    "environment": [
+      "temple_church",
+      "beach"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "chaotic"
+    ],
+    "combatants": [
+      "vikings",
+      "civilians"
+    ],
+    "weapons": [
+      "axe_mace",
+      "european_sword",
+      "shield"
+    ],
+    "vehicles": [
+      "sailing_ship"
+    ],
+    "technique": [
+      "practical_stunts",
+      "handheld",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ragnar lothbrok",
+      "lindisfarne",
+      "monks",
+      "athelstan",
+      "longship",
+      "viking raid"
+    ]
+  },
+  {
+    "film": "Vikings",
+    "year": 2014,
+    "scene": "Shield-wall battle against Jarl Borg (S2E1 'Brother's War')",
+    "query": "Vikings Brother's War shield wall battle Ragnar Rollo scene",
+    "what_happens": "Ragnar's and King Horik's warriors lock shields against Jarl Borg's army in an open field; Rollo, fighting for Borg against his own brother, smashes through Ragnar's line and cuts down former comrades until the brothers come face to face.",
+    "why": "Viking warfare at its most physical: study how the shield-wall collision is staged at ground level, how the melee breaks into readable personal duels, and how a family drama gives a muddy brawl its stakes.",
+    "director": "Created by Michael Hirst",
+    "country": "Canada/Ireland",
+    "craft": [
+      "Composer: Trevor Morris"
+    ],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "massed_battle",
+      "duel"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "action",
+      "drama"
+    ],
+    "era": "medieval",
+    "period": "Scandinavia, late eighth century",
+    "region": "northern_europe",
+    "environment": [
+      "grassland",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "epic",
+      "tragic"
+    ],
+    "combatants": [
+      "vikings"
+    ],
+    "weapons": [
+      "shield",
+      "axe_mace",
+      "spear_polearm",
+      "european_sword"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "handheld",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "shield wall",
+      "ragnar lothbrok",
+      "rollo",
+      "jarl borg",
+      "brother against brother",
+      "floki"
+    ],
+    "video": "rlhpuuenYUM"
+  },
+  {
+    "film": "Barbarians",
+    "year": 2020,
+    "scene": "Battle of the Teutoburg Forest (Season 1 finale)",
+    "query": "Barbarians Netflix Teutoburg Forest battle scene",
+    "what_happens": "Arminius leads Varus' three legions into a forest trap, where the united Germanic tribes attack the strung-out Roman column from the trees and slopes and break it in brutal close combat.",
+    "why": "A historical ambush built on terrain: study how the forest denies the Romans their formations, how attacks from above and the flanks are cut to disorient, and how keeping the dialogue in Latin and German adds authenticity.",
+    "director": "Created by Arne Nolting, Jan Martin Scharf and Andreas Heckmann",
+    "country": "Germany",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.pre_gunpowder",
+    "format": [
+      "ambush",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "historical_epic",
+      "war",
+      "drama"
+    ],
+    "era": "ancient",
+    "period": "Teutoburg Forest, Germania, 9 AD",
+    "region": "western_europe",
+    "environment": [
+      "forest",
+      "battlefield"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "epic"
+    ],
+    "combatants": [
+      "roman_legion",
+      "native_warriors"
+    ],
+    "weapons": [
+      "spear_polearm",
+      "european_sword",
+      "shield",
+      "axe_mace"
+    ],
+    "vehicles": [],
+    "technique": [
+      "real_location",
+      "practical_stunts",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "multiple",
+    "keywords": [
+      "arminius",
+      "varus",
+      "germanic tribes",
+      "roman legions",
+      "forest ambush",
+      "latin dialogue"
+    ],
+    "video": "rTxpGwjAaB4"
+  },
+  {
+    "film": "Rome",
+    "year": 2005,
+    "scene": "Pullo in the arena, Vorenus leaps in (Season 1)",
+    "query": "Rome HBO Pullo arena fight Vorenus Thirteenth scene",
+    "what_happens": "Condemned to die as arena entertainment, Titus Pullo cuts down a series of gladiators until a giant opponent overwhelms him and Lucius Vorenus leaps from the stands to fight beside his old comrade.",
+    "why": "Arena combat played for character: study how the crowd's mockery and Pullo's indifference shape the rhythm, and how a low, close camera keeps the fighting grubby and real rather than heroic spectacle.",
+    "director": "Created by Bruno Heller, William J. MacDonald and John Milius",
+    "country": "USA/UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "historical_epic",
+      "drama",
+      "action"
+    ],
+    "era": "ancient",
+    "period": "An arena in Rome during Caesar's dictatorship",
+    "region": "southern_europe",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "gritty"
+    ],
+    "combatants": [
+      "gladiators",
+      "roman_legion"
+    ],
+    "weapons": [
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "practical_stunts",
+      "tight_framing",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "titus pullo",
+      "lucius vorenus",
+      "thirteenth legion",
+      "gladiators",
+      "arena",
+      "condemned man"
+    ]
+  },
+  {
+    "film": "Spartacus: Blood and Sand",
+    "year": 2010,
+    "scene": "Spartacus and Crixus vs. Theokoles (S1E5 'Shadow Games')",
+    "query": "Spartacus Blood and Sand Theokoles fight Shadow Games scene",
+    "what_happens": "Spartacus and Crixus, rivals forced to fight together, face the giant Theokoles, the Shadow of Death, in the Capua arena; Crixus falls badly wounded and Spartacus brings the colossus down.",
+    "why": "The show's 300-style grammar in full: study the speed ramps, digital blood, painted skies and composited arena, and how a two-against-one structure turns rivals into allies inside the choreography.",
+    "director": "Created by Steven S. DeKnight",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "small_group_fight",
+      "bout"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "historical_epic",
+      "action",
+      "drama"
+    ],
+    "era": "ancient",
+    "period": "The arena at Capua, Roman Republic, before the slave revolt",
+    "region": "southern_europe",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "stylish",
+      "heroic"
+    ],
+    "combatants": [
+      "gladiators"
+    ],
+    "weapons": [
+      "european_sword",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "color_grading",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "theokoles",
+      "shadow of death",
+      "crixus",
+      "capua",
+      "giant gladiator",
+      "speed ramp"
+    ],
+    "video": "erMVaImiuyI"
+  },
+  {
+    "film": "Spartacus: Blood and Sand",
+    "year": 2010,
+    "scene": "Gladiator revolt in the House of Batiatus (S1E13 'Kill Them All')",
+    "query": "Spartacus Blood and Sand Kill Them All ludus revolt scene",
+    "what_happens": "As Batiatus hosts Capua's elite, the gladiators turn on their guards; Spartacus leads a bloody massacre up through the villa, slaughtering guards and guests, and cuts down Batiatus himself.",
+    "why": "A season's tension released in one sustained massacre: study how the episode cross-cuts the training square and the balcony above, uses speed-ramped gore as punctuation, and keeps each character's arc legible inside the chaos.",
+    "director": "Created by Steven S. DeKnight",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "rampage",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "historical_epic",
+      "action",
+      "drama"
+    ],
+    "era": "ancient",
+    "period": "House of Batiatus, Capua, 73 BC",
+    "region": "southern_europe",
+    "environment": [
+      "palace_mansion",
+      "arena_ring"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "chaotic",
+      "heroic"
+    ],
+    "combatants": [
+      "gladiators",
+      "thugs_henchmen",
+      "civilians"
+    ],
+    "weapons": [
+      "european_sword",
+      "knife",
+      "spear_polearm",
+      "shield"
+    ],
+    "vehicles": [],
+    "technique": [
+      "slow_motion",
+      "cgi",
+      "cross_cutting",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "spartacus",
+      "batiatus",
+      "slave revolt",
+      "ludus",
+      "massacre",
+      "crixus"
+    ]
+  },
+  {
+    "film": "Shōgun",
+    "year": 2024,
+    "scene": "The earthquake: Blackthorne digs Toranaga out (Ep. 5 'Broken to the Fist')",
+    "query": "Shogun earthquake scene Blackthorne saves Toranaga",
+    "what_happens": "An earthquake rips through the hills; a landslide buries Lord Toranaga and Blackthorne claws through the rubble to pull him out as the ground keeps heaving around them.",
+    "why": "A natural disaster used as a character turn: study how the quake is sold through camera shake, sound and practical debris rather than spectacle, and how the rescue shifts the balance between a lord and a foreigner.",
+    "director": "Created by Rachel Kondo and Justin Marks",
+    "country": "USA",
+    "craft": [
+      "Composers: Atticus Ross, Leopold Ross, Nick Chuba"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series",
+      "Golden Globe: Best Television Series – Drama"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "samurai_jidaigeki",
+      "historical_epic",
+      "drama"
+    ],
+    "era": "early_modern",
+    "period": "Japan, 1600",
+    "region": "japan",
+    "environment": [
+      "hills_mountains",
+      "cliff_canyon"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "samurai",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "handheld",
+      "sound_design",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "multiple",
+    "keywords": [
+      "earthquake",
+      "landslide",
+      "toranaga",
+      "blackthorne",
+      "rescue",
+      "mariko"
+    ],
+    "video": "pRon459WA2I"
+  },
+  {
+    "film": "Warrior",
+    "year": 2019,
+    "scene": "Ah Sahm fights the waterfront thugs (S1E1 'The Itch You Can't Scratch')",
+    "query": "Warrior Cinemax Ah Sahm dock fight scene episode 1",
+    "what_happens": "Newly arrived in San Francisco from China, Ah Sahm is jeered at by a gang of white waterfront thugs and dismantles them all with fast, Bruce Lee-style kung fu as tong men look on.",
+    "why": "A calling-card fight in the spirit of Bruce Lee: study the economical, readable strikes, how the camera holds wide on Andrew Koji's speed, and how one brawl establishes character, setting and social tension.",
+    "director": "Created by Jonathan Tropper",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "martial_arts",
+      "action",
+      "crime"
+    ],
+    "era": "19th_century",
+    "period": "San Francisco waterfront, 1878",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "kung_fu_fighters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "center_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "ah sahm",
+      "bruce lee",
+      "chinatown",
+      "immigrants",
+      "kung fu",
+      "tong wars"
+    ],
+    "video": "jCxhjB-eduI"
+  },
+  {
+    "film": "Godless",
+    "year": 2017,
+    "scene": "Frank Griffin's gang attacks La Belle (E7 'Homecoming')",
+    "query": "Godless final shootout La Belle scene",
+    "what_happens": "Frank Griffin's gang rides into La Belle, a mining town run by widows, to kill Roy Goode; the armed women, the sheriff and Roy fight back in a sprawling, street-by-street gunfight.",
+    "why": "A classical western showdown rebuilt for an ensemble: study how the town is mapped before the battle, then cut between rooftops, windows and street so every defender's position stays clear amid the gunfire.",
+    "director": "Scott Frank",
+    "country": "USA",
+    "craft": [
+      "Composer: Carlos Rafael Rivera"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "last_stand",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "western",
+      "drama",
+      "action"
+    ],
+    "era": "19th_century",
+    "period": "La Belle, New Mexico Territory, 1884",
+    "region": "american_frontier",
+    "environment": [
+      "town_main_street",
+      "rooftops"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "epic"
+    ],
+    "combatants": [
+      "outlaws_bandits",
+      "civilians",
+      "lawmen",
+      "cowboys_gunslingers"
+    ],
+    "weapons": [
+      "rifle",
+      "handgun",
+      "shotgun"
+    ],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "real_location",
+      "wide_framing",
+      "practical_stunts",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "frank griffin",
+      "roy goode",
+      "widows",
+      "mining town",
+      "western shootout",
+      "last stand"
+    ],
+    "video": "Ro_OMi6yE0Q"
+  },
+  {
+    "film": "Pachinko",
+    "year": 2022,
+    "scene": "The 1923 Great Kantō earthquake (S1E7 'Chapter Seven')",
+    "query": "Pachinko episode 7 Great Kanto earthquake scene Hansu",
+    "what_happens": "Young Koh Hansu, a Korean living in Japan, survives the Great Kantō earthquake as buildings collapse and fires sweep the city, and in the aftermath vigilante mobs hunt Korean survivors.",
+    "why": "A standalone episode built around one historical cataclysm: study how the quake is shown from a single character's limited vantage with practical rubble and dust, and how the aftermath turns disaster into historical horror.",
+    "director": "Created by Soo Hugh",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "drama",
+      "historical_epic",
+      "disaster"
+    ],
+    "era": "early_20th_century",
+    "period": "Kantō region, Japan, 1 September 1923",
+    "region": "japan",
+    "environment": [
+      "city_street",
+      "building_interior",
+      "ruined_city"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks",
+      "fire",
+      "dust_sand"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "cgi",
+      "handheld",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "multiple",
+    "keywords": [
+      "great kanto earthquake",
+      "koh hansu",
+      "korean massacre",
+      "1923",
+      "collapse",
+      "fires"
+    ],
+    "video": "epPjlgXzT9A"
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Night drop through the flak over Normandy (E2 'Day of Days')",
+    "query": "Band of Brothers Day of Days night jump flak C-47 scene",
+    "what_happens": "Packed into C-47s over Normandy, Winters and his paratroopers are thrown about by flak; tracers rip through the fuselage, a neighbouring plane explodes, and they leap into a night sky full of fire.",
+    "why": "Battle experienced as confinement and confusion: study how the sequence stays inside the aircraft and Winters' point of view, letting flashes, lurches and sound tell the story before the jump opens into chaos.",
+    "director": "Richard Loncraine",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.air",
+    "format": [
+      "journey",
+      "bombardment"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Over Normandy, night of 5–6 June 1944",
+    "region": "western_europe",
+    "environment": [
+      "aircraft",
+      "sky"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "artillery_cannon",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "propeller_aircraft",
+      "parachute_wingsuit"
+    ],
+    "technique": [
+      "pov",
+      "handheld",
+      "cgi",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "101st airborne",
+      "easy company",
+      "c-47",
+      "flak",
+      "paratroopers",
+      "d-day",
+      "dick winters"
+    ]
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Ambush at Nuenen (E4 'Replacements')",
+    "query": "Band of Brothers Replacements Nuenen tank battle scene",
+    "what_happens": "Easy Company advances into the Dutch town of Nuenen alongside British tanks, only to be caught by German armour and artillery; the tanks are knocked out one by one and the paratroopers retreat under fire.",
+    "why": "A defeat staged with clarity: study how the plan and the street are established first, then broken by unseen enemy tanks, using smoke, sound and the frightened replacements' eyes to show an attack falling apart.",
+    "director": "David Nutter",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "ambush",
+      "massed_battle"
+    ],
+    "scale": "medium",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Nuenen, the Netherlands, September 1944",
+    "region": "western_europe",
+    "environment": [
+      "village",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "fire"
+    ],
+    "mood": [
+      "chaotic",
+      "tragic",
+      "gritty"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "tank_armour",
+      "rifle",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "practical_explosions",
+      "handheld",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "market garden",
+      "nuenen",
+      "british tanks",
+      "replacements",
+      "easy company",
+      "retreat"
+    ],
+    "video": "B7kiibl4bpI"
+  },
+  {
+    "film": "Band of Brothers",
+    "year": 2001,
+    "scene": "Night raid across the river at Haguenau (E8 'The Last Patrol')",
+    "query": "Band of Brothers The Last Patrol Haguenau raid scene",
+    "what_happens": "Easy Company paddles across the river at Haguenau in darkness to snatch German prisoners from a house; the raid erupts into grenades and gunfire, and a young replacement is mortally wounded.",
+    "why": "A small-unit raid built on dread: study the silent river crossing, the sudden explosion of noise at the house, and how the episode frames the raid's cost through a returning veteran's weary eyes.",
+    "director": "Tony To",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Michael Kamen"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries",
+      "Golden Globe: Best Miniseries or Television Film"
+    ],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "assault_raid",
+      "stealth_infiltration"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Haguenau, Alsace, France, February 1945",
+    "region": "western_europe",
+    "environment": [
+      "river_lake",
+      "apartment_house",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "explosions"
+    ],
+    "mood": [
+      "tense",
+      "tragic",
+      "gritty"
+    ],
+    "combatants": [
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "explosives",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "small_boat"
+    ],
+    "technique": [
+      "handheld",
+      "sound_design",
+      "practical_effects",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "haguenau",
+      "prisoner snatch",
+      "river crossing",
+      "easy company",
+      "webster",
+      "night patrol"
+    ],
+    "video": "5nqc5_xz-Mc"
+  },
+  {
+    "film": "Masters of the Air",
+    "year": 2024,
+    "scene": "The Münster raid (Part Five)",
+    "query": "Masters of the Air Munster mission scene part five",
+    "what_happens": "The 100th Bomb Group's B-17s fly into a storm of flak and Luftwaffe fighters over Münster; bombers burn and fall out of formation, Bucky Egan's plane goes down, and Rosie Rosenthal's crew limps home almost alone.",
+    "why": "Air combat told from inside the bomber: study how tight framing in cramped cockpits and gun positions alternates with wide views of the formation disintegrating, making the arithmetic of losses visible.",
+    "director": "Created by John Orloff",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.air",
+    "format": [
+      "dogfight",
+      "bombardment"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "war",
+      "drama"
+    ],
+    "era": "ww2",
+    "period": "Over Münster, Germany, 10 October 1943",
+    "region": "western_europe",
+    "environment": [
+      "aircraft",
+      "sky"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "chaotic"
+    ],
+    "combatants": [
+      "pilots",
+      "ww2_soldiers"
+    ],
+    "weapons": [
+      "aircraft_weapons",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "propeller_aircraft"
+    ],
+    "technique": [
+      "cgi",
+      "tight_framing",
+      "sound_design",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "b-17",
+      "100th bomb group",
+      "rosie rosenthal",
+      "bucky egan",
+      "flak",
+      "luftwaffe fighters"
+    ]
+  },
+  {
+    "film": "Chernobyl",
+    "year": 2019,
+    "scene": "The night of the explosion reconstructed (E5 'Vichnaya Pamyat')",
+    "query": "Chernobyl episode 5 reactor explosion AZ-5 scene",
+    "what_happens": "Intercut with Legasov's testimony, the night of the safety test plays out in the control room: power plunges and surges, Akimov presses AZ-5, the reactor's output spikes, and Reactor 4 explodes.",
+    "why": "Disaster rendered as procedure: study how the scene cuts between courtroom explanation and control-room action so the audience understands every step, then uses rising mechanical sound to make the inevitable unbearable.",
+    "director": "Johan Renck",
+    "country": "USA/UK",
+    "craft": [
+      "Composer: Hildur Guðnadóttir",
+      "DP: Jakob Ihre"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Limited Series",
+      "Emmy: Outstanding Directing for a Limited Series"
+    ],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "drama",
+      "disaster",
+      "historical_epic"
+    ],
+    "era": "late_20th_century",
+    "period": "Chernobyl Nuclear Power Plant, Ukrainian SSR, 26 April 1986",
+    "region": "eastern_europe",
+    "environment": [
+      "dam_industrial",
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "cross_cutting",
+      "sound_design",
+      "tight_framing",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "az-5",
+      "reactor 4",
+      "control room",
+      "dyatlov",
+      "legasov",
+      "safety test"
+    ]
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2019,
+    "scene": "IG-11's rescue rampage through Nevarro (Chapter 8 'Redemption')",
+    "query": "Mandalorian IG-11 nurse droid rescue scene Chapter 8",
+    "what_happens": "Reprogrammed as a nurse droid, IG-11 snatches the Child from two scout troopers, then strides through Nevarro's streets spinning and firing in every direction, cutting down stormtroopers.",
+    "why": "A gunfight designed around inhuman movement: study how 360-degree torso spins and simultaneous aiming are staged so a non-human combatant reads as both menacing and protective, through a blend of puppetry and CG.",
+    "director": "Taika Waititi",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rescue",
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "space_opera",
+      "western",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Nevarro, after the fall of the Empire",
+    "region": "alien_world",
+    "environment": [
+      "town_main_street",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions"
+    ],
+    "mood": [
+      "stylish",
+      "playful",
+      "heroic"
+    ],
+    "combatants": [
+      "robots_androids",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "wide_framing",
+      "center_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "ig-11",
+      "nurse droid",
+      "grogu",
+      "stormtroopers",
+      "360 spin",
+      "nevarro"
+    ],
+    "video": "Ll0Oq4yEtVs"
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2020,
+    "scene": "Ahsoka Tano vs. Morgan Elsbeth (Chapter 13 'The Jedi')",
+    "query": "Mandalorian The Jedi Ahsoka vs Morgan Elsbeth fight scene",
+    "what_happens": "Ahsoka Tano's twin white lightsabers meet Magistrate Morgan Elsbeth's beskar spear in a duel through Calodan's walled garden, while Din Djarin faces down the magistrate's hired gunslinger.",
+    "why": "A live-action translation of an animated character: study how the reverse-grip twin-saber style is choreographed for clean silhouettes, and how an ash-grey, fog-bound palette makes the white blades the brightest thing on screen.",
+    "director": "Dave Filoni",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "duel",
+      "standoff"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "space_opera",
+      "action",
+      "sci_fi"
+    ],
+    "era": "fantasy_world",
+    "period": "Calodan on Corvus, after the fall of the Empire",
+    "region": "alien_world",
+    "environment": [
+      "plaza_square",
+      "forest"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fog_mist",
+      "smoke"
+    ],
+    "mood": [
+      "graceful",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "jedi_sith",
+      "mercenaries"
+    ],
+    "weapons": [
+      "lightsaber",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "color_grading",
+      "wide_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "ahsoka tano",
+      "morgan elsbeth",
+      "beskar spear",
+      "twin lightsabers",
+      "calodan",
+      "din djarin"
+    ]
+  },
+  {
+    "film": "The Mandalorian",
+    "year": 2020,
+    "scene": "Boba Fett returns on Tython (Chapter 14 'The Tragedy')",
+    "query": "Mandalorian Boba Fett Tython fight scene The Tragedy",
+    "what_happens": "As Grogu meditates on Tython's seeing stone, stormtroopers attack; an unarmoured Boba Fett smashes them with his gaffi stick while Fennec Shand snipes, then reclaims his armour and destroys the troop transports with a rocket.",
+    "why": "A character's comeback staged as a brutal showcase: study how Boba's blunt, close-quarters violence is framed against Mando's gunplay, and how the armour-up moment is held as a heroic reveal.",
+    "director": "Robert Rodriguez",
+    "country": "USA",
+    "craft": [
+      "Composer: Ludwig Göransson"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "last_stand",
+      "small_group_fight"
+    ],
+    "scale": "medium",
+    "genre": [
+      "space_opera",
+      "western",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "The ruins on Tython, after the fall of the Empire",
+    "region": "alien_world",
+    "environment": [
+      "hills_mountains",
+      "temple_church"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "stylish"
+    ],
+    "combatants": [
+      "mercenaries",
+      "assassins_hitmen",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "staff_stick",
+      "energy_weapons",
+      "sniper_rifle",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "jetpack"
+    ],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "cgi",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "boba fett",
+      "gaffi stick",
+      "fennec shand",
+      "tython",
+      "grogu",
+      "armour reveal"
+    ]
+  },
+  {
+    "film": "The Book of Boba Fett",
+    "year": 2022,
+    "scene": "Battle for Mos Espa: Boba Fett rides the rancor (Chapter 7 'In the Name of Honor')",
+    "query": "Book of Boba Fett rancor battle Mos Espa scene chapter 7",
+    "what_happens": "Boba Fett, Din Djarin and their allies hold Mos Espa against Pyke gunmen and shielded Scorpenek droids, until Boba rides his rancor into the streets to tear the droids apart.",
+    "why": "A western town siege that escalates to creature versus machine: study how practical street sets are layered with a CG rancor and droids, and how each new threat restructures the street battle.",
+    "director": "Robert Rodriguez",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "last_stand",
+      "rampage"
+    ],
+    "scale": "medium",
+    "genre": [
+      "space_opera",
+      "western",
+      "action"
+    ],
+    "era": "fantasy_world",
+    "period": "Mos Espa, Tatooine, after the fall of the Empire",
+    "region": "alien_world",
+    "environment": [
+      "city_street",
+      "town_main_street",
+      "desert"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "fire"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "playful"
+    ],
+    "combatants": [
+      "mercenaries",
+      "gangsters",
+      "creatures",
+      "robots_androids"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "jetpack"
+    ],
+    "technique": [
+      "cgi",
+      "practical_effects",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "rancor",
+      "scorpenek droids",
+      "pyke syndicate",
+      "boba fett",
+      "din djarin",
+      "mos espa"
+    ]
+  },
+  {
+    "film": "Obi-Wan Kenobi",
+    "year": 2022,
+    "scene": "Obi-Wan vs. Darth Vader rematch (Part VI)",
+    "query": "Obi-Wan Kenobi vs Darth Vader rematch scene Part VI",
+    "what_happens": "On a barren rocky moon, Obi-Wan and Darth Vader duel; Vader buries him under boulders, but Obi-Wan rises, hurls the rocks back and cracks Vader's helmet, revealing half of Anakin's scarred face.",
+    "why": "A rematch staged as a reversal of power: study how blue-and-red lighting, the rock-hurling Force beat and the slow reveal through the broken helmet carry more emotion than the blade work itself.",
+    "director": "Deborah Chow",
+    "country": "USA",
+    "craft": [
+      "Composer: Natalie Holt"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "space_opera",
+      "action",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "A barren moon, ten years after the fall of the Jedi",
+    "region": "alien_world",
+    "environment": [
+      "planet_surface",
+      "cliff_canyon"
+    ],
+    "time_of_day": "twilight",
+    "atmosphere": [
+      "low_light",
+      "debris_sparks"
+    ],
+    "mood": [
+      "intimate",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "jedi_sith"
+    ],
+    "weapons": [
+      "lightsaber",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "color_grading",
+      "practical_stunts",
+      "silhouette"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "obi-wan kenobi",
+      "darth vader",
+      "helmet crack",
+      "anakin",
+      "force push",
+      "rematch"
+    ]
+  },
+  {
+    "film": "Ahsoka",
+    "year": 2023,
+    "scene": "Ahsoka vs. Anakin in the World Between Worlds (E5 'Shadow Warrior')",
+    "query": "Ahsoka episode 5 Anakin vs Ahsoka World Between Worlds scene",
+    "what_happens": "In a limbo between life and death, Anakin Skywalker forces Ahsoka to duel him, the fight shifting into visions of her Clone Wars battles until she refuses to fight and chooses to live.",
+    "why": "A duel used as a flashback engine: study how transitions inside the fight move between a ghostly white void and smoky Clone Wars battlefields, and how the choreography mirrors master and apprentice's shared history.",
+    "director": "Dave Filoni",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "space_opera",
+      "fantasy",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "The World Between Worlds and Clone Wars memories",
+    "region": "fantasy_world",
+    "environment": [
+      "dreamscape",
+      "battlefield"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "smoke",
+      "fog_mist"
+    ],
+    "mood": [
+      "surreal",
+      "intimate",
+      "melancholic"
+    ],
+    "combatants": [
+      "jedi_sith"
+    ],
+    "weapons": [
+      "lightsaber"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "color_grading",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "ahsoka tano",
+      "anakin skywalker",
+      "world between worlds",
+      "clone wars flashback",
+      "young ahsoka",
+      "choose to live"
+    ]
+  },
+  {
+    "film": "Andor",
+    "year": 2022,
+    "scene": "The Ferrix uprising at Maarva's funeral (S1E12 'Rix Road')",
+    "query": "Andor Rix Road Ferrix riot scene Maarva funeral",
+    "what_happens": "Maarva's hologram eulogy ignites the Ferrix crowd; mourners turn on the occupying stormtroopers with stones and fists, an explosion tears through the square, and Cassian slips through the riot to rescue Bix.",
+    "why": "A riot built from a speech and a funeral march: study how the brass band, ritual and score build pressure so the crowd's turn feels inevitable, and how the camera stays at street level inside the chaos.",
+    "director": "Benjamin Caron",
+    "country": "USA",
+    "craft": [
+      "Composer: Nicholas Britell"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "rampage",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "space_opera",
+      "thriller",
+      "drama"
+    ],
+    "era": "fantasy_world",
+    "period": "Ferrix under Imperial occupation",
+    "region": "alien_world",
+    "environment": [
+      "plaza_square",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "dust_sand"
+    ],
+    "mood": [
+      "chaotic",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "civilians",
+      "modern_soldiers",
+      "police"
+    ],
+    "weapons": [
+      "improvised",
+      "fists_feet",
+      "energy_weapons",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "large_crowds",
+      "score_driven",
+      "handheld",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "ferrix",
+      "maarva",
+      "funeral",
+      "uprising",
+      "stormtroopers",
+      "cassian andor",
+      "rebellion"
+    ],
+    "video": "D2cZYSmCybs"
+  },
+  {
+    "film": "The Acolyte",
+    "year": 2024,
+    "scene": "The Stranger massacres the Jedi on Khofar (E5 'Night')",
+    "query": "The Acolyte episode 5 Jedi vs Stranger fight scene",
+    "what_happens": "In a night forest on Khofar, a masked dark-side warrior with a red lightsaber ambushes Master Sol's Jedi, killing them one after another with brute force and a cortosis helmet that shorts out their blades.",
+    "why": "A Star Wars fight choreographed like a martial-arts horror film: study how wire-assisted acrobatics and grappling roughen lightsaber combat, and how the attacker's unconventional moves make the Jedi look outclassed.",
+    "director": "Created by Leslye Headland",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "one_vs_many",
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "space_opera",
+      "action",
+      "thriller"
+    ],
+    "era": "fantasy_world",
+    "period": "Khofar's forest, High Republic era",
+    "region": "alien_world",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "terrifying",
+      "stylish"
+    ],
+    "combatants": [
+      "jedi_sith"
+    ],
+    "weapons": [
+      "lightsaber",
+      "fists_feet",
+      "superpowers"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wire_work",
+      "practical_stunts",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "the stranger",
+      "qimir",
+      "jedi massacre",
+      "cortosis",
+      "red lightsaber",
+      "master sol"
+    ]
+  },
+  {
+    "film": "Battlestar Galactica",
+    "year": 2005,
+    "scene": "Cylon Centurions board Galactica (S2E2 'Valley of Darkness')",
+    "query": "Battlestar Galactica Valley of Darkness Centurions boarding scene",
+    "what_happens": "With power down, Cylon Centurions storm through Galactica's darkened corridors; Apollo leads a scratch squad of marines and pilots in running firefights to stop them reaching the ship's vital systems.",
+    "why": "Horror-movie tension in a starship: study how emergency lighting, smoke and handheld camera keep the robotic enemy mostly in glimpses, and how the corridors' geography drives the tactics.",
+    "director": "Created by Ronald D. Moore",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "assault_raid",
+      "last_stand"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "horror"
+    ],
+    "era": "far_future",
+    "period": "Battlestar Galactica, the flight from the Colonies",
+    "region": "deep_space",
+    "environment": [
+      "spacecraft_interior",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light",
+      "smoke",
+      "strobe_flash"
+    ],
+    "mood": [
+      "tense",
+      "terrifying",
+      "chaotic"
+    ],
+    "combatants": [
+      "robots_androids",
+      "sailors_navy",
+      "starfighter_pilots"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "tight_framing",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "cylon centurions",
+      "boarding party",
+      "apollo",
+      "galactica",
+      "corridor firefight",
+      "emergency lights"
+    ],
+    "video": "LfDRH1YV-3Q"
+  },
+  {
+    "film": "Battlestar Galactica",
+    "year": 2003,
+    "scene": "The Cylon attack on the Colonies (2003 miniseries)",
+    "query": "Battlestar Galactica miniseries Cylon attack Caprica nukes Vipers scene",
+    "what_happens": "The Cylons return without warning: nuclear strikes engulf Caprica's cities while their raiders shut down the fleet's networked Vipers with a computer virus, leaving the old, un-networked battlestar Galactica to fight on.",
+    "why": "The template for the series' documentary-style space combat: study the virtual handheld camera, snap zooms and lens imperfections applied to CG ships, and how cutting to faces on Caprica gives the apocalypse human scale.",
+    "director": "Michael Rymer",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "ambush",
+      "dogfight"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "The Twelve Colonies, the day of the Cylon attack",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "epic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "robots_androids",
+      "sailors_navy"
+    ],
+    "weapons": [
+      "explosives",
+      "automatic_weapons",
+      "artillery_cannon"
+    ],
+    "vehicles": [
+      "starfighter",
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "handheld",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "cylons",
+      "caprica",
+      "nukes",
+      "vipers",
+      "computer virus",
+      "galactica",
+      "reimagined"
+    ]
+  },
+  {
+    "film": "The Expanse",
+    "year": 2017,
+    "scene": "Miller rides Eros into Venus (S2E5 'Home')",
+    "query": "The Expanse Home Miller Eros Venus scene",
+    "what_happens": "With the protomolecule-infested asteroid Eros hurtling toward Earth and evading nuclear missiles, Miller carries a bomb into its heart, finds Julie Mao within the alien growth and persuades her to steer Eros into Venus.",
+    "why": "Spectacle anchored in a two-hander: study how the episode intercuts Earth's failing missile defence with a quiet conversation inside glowing alien architecture, letting the asteroid's plunge into Venus resolve both.",
+    "director": "Created by Mark Fergus and Hawk Ostby",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "vfx.showcase",
+    "format": [
+      "catastrophe",
+      "spectacle"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "drama"
+    ],
+    "era": "far_future",
+    "period": "The asteroid Eros, bound for Earth, 24th century",
+    "region": "deep_space",
+    "environment": [
+      "building_interior",
+      "outer_space"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "neon"
+    ],
+    "mood": [
+      "melancholic",
+      "awe",
+      "tense"
+    ],
+    "combatants": [
+      "civilians",
+      "aliens"
+    ],
+    "weapons": [
+      "explosives",
+      "rocket_missile"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "miller",
+      "julie mao",
+      "protomolecule",
+      "eros",
+      "venus",
+      "nuclear missiles"
+    ],
+    "video": "TPA8M7kZc2g"
+  },
+  {
+    "film": "The Expanse",
+    "year": 2020,
+    "scene": "Asteroid strikes on Earth (S5E4 'Gaugamela')",
+    "query": "The Expanse Gaugamela asteroids hit Earth scene",
+    "what_happens": "Stealth-coated asteroids launched by Marco Inaros's Free Navy slam into Earth, and the impacts' fireballs, shockwaves and devastation are seen from orbit and from the ground by characters scattered across the system.",
+    "why": "A planetary catastrophe shown from many vantage points: study how the episode cross-cuts between characters across the solar system, using distant flashes and delayed reactions to make the scale of the attack sink in.",
+    "director": "Created by Mark Fergus and Hawk Ostby",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "bombardment"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "disaster"
+    ],
+    "era": "far_future",
+    "period": "Earth under the Free Navy's attack, 24th century",
+    "region": "earth_orbit",
+    "environment": [
+      "outer_space",
+      "city_street"
+    ],
+    "time_of_day": "mixed",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "tragic",
+      "awe"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "free navy",
+      "marco inaros",
+      "asteroid strikes",
+      "earth bombardment",
+      "stealth rocks"
+    ]
+  },
+  {
+    "film": "Star Trek: Discovery",
+    "year": 2017,
+    "scene": "Battle at the Binary Stars (S1E2)",
+    "query": "Star Trek Discovery Battle at the Binary Stars space battle scene",
+    "what_happens": "Starfleet ships face T'Kuvma's assembled Klingon houses at the binary stars; cloaked vessels strike, Federation starships are torn apart, and the crippled Shenzhou drifts amid the wreckage.",
+    "why": "The franchise's first truly cinematic television fleet battle: study how scale is built from dozens of ships against a binary-star backdrop while the drama stays on the Shenzhou's bridge and its captain's choices.",
+    "director": "Created by Bryan Fuller and Alex Kurtzman",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "massed_battle",
+      "ambush"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "A binary star system near Klingon space, 2256",
+    "region": "deep_space",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "debris_sparks"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "aliens"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "torpedo_depth_charge"
+    ],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "klingons",
+      "t'kuvma",
+      "shenzhou",
+      "michael burnham",
+      "captain georgiou",
+      "cloaked ships"
+    ]
+  },
+  {
+    "film": "Star Trek: Picard",
+    "year": 2023,
+    "scene": "The Enterprise-D flies into the Borg cube (S3E10 'The Last Generation')",
+    "query": "Star Trek Picard Enterprise D Borg cube final battle scene",
+    "what_happens": "The Next Generation crew takes the restored Enterprise-D against the Borg cube above Earth, flying deep into its interior while Picard enters the collective's heart to reach his son Jack.",
+    "why": "Legacy spectacle with precise geography: study how the episode alternates the ship's trench-run-style flight through the cube with Picard's quiet confrontation, and how classic music cues and bridge staging trigger nostalgia.",
+    "director": "Terry Matalas",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "assault_raid",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "action"
+    ],
+    "era": "far_future",
+    "period": "Earth orbit on Frontier Day, 25th century",
+    "region": "earth_orbit",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions",
+      "neon"
+    ],
+    "mood": [
+      "heroic",
+      "epic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "robots_androids"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "torpedo_depth_charge"
+    ],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "score_driven",
+      "cross_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "enterprise-d",
+      "borg cube",
+      "tng crew",
+      "jack crusher",
+      "frontier day",
+      "borg queen"
+    ]
+  },
+  {
+    "film": "The Orville",
+    "year": 2019,
+    "scene": "Battle for Earth against the Kaylon (S2E9 'Identity, Part II')",
+    "query": "The Orville Identity Part 2 space battle Kaylon scene",
+    "what_happens": "The Kaylon armada attacks Earth; the Orville leads a desperate Union fleet, joined at the last moment by the Krill, in a vast battle of shuttles, cruisers and Kaylon sphere ships.",
+    "why": "A network-TV fleet battle at feature scale: study how dozens of ships stay readable through distinct silhouettes and colour-coded factions, and how cutting back to the bridge keeps the stakes personal.",
+    "director": "Created by Seth MacFarlane",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.space",
+    "format": [
+      "massed_battle",
+      "dogfight"
+    ],
+    "scale": "fleet",
+    "genre": [
+      "sci_fi",
+      "space_opera",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Earth orbit, 25th century",
+    "region": "earth_orbit",
+    "environment": [
+      "outer_space",
+      "spacecraft_interior"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "explosions"
+    ],
+    "mood": [
+      "epic",
+      "heroic"
+    ],
+    "combatants": [
+      "starfighter_pilots",
+      "robots_androids",
+      "aliens"
+    ],
+    "weapons": [
+      "energy_weapons",
+      "torpedo_depth_charge"
+    ],
+    "vehicles": [
+      "capital_ship",
+      "starfighter"
+    ],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "kaylon",
+      "krill",
+      "union fleet",
+      "the orville",
+      "defense of earth",
+      "shuttle dogfight"
+    ]
+  },
+  {
+    "film": "Halo",
+    "year": 2022,
+    "scene": "Master Chief defends Madrigal (E1 'Contact')",
+    "query": "Halo series episode 1 Master Chief Madrigal battle scene",
+    "what_happens": "Covenant warriors massacre a rebel outpost on Madrigal until Master Chief and Silver Team drop in, gunning down the alien attackers to save the teenage survivor Kwan Ha.",
+    "why": "Video-game combat translated to live action: study the brief first-person helmet view that nods to the game, and how armoured super-soldiers are given weight through sound and slow, deliberate movement.",
+    "director": "Otto Bathurst",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rescue",
+      "team_vs_team"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "action",
+      "war"
+    ],
+    "era": "far_future",
+    "period": "Madrigal, an Outer Colonies world, 2552",
+    "region": "alien_world",
+    "environment": [
+      "desert",
+      "village"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "dust_sand",
+      "explosions"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "chaotic"
+    ],
+    "combatants": [
+      "special_forces",
+      "aliens",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "automatic_weapons",
+      "energy_weapons",
+      "explosives"
+    ],
+    "vehicles": [],
+    "technique": [
+      "pov",
+      "cgi",
+      "practical_stunts",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "master chief",
+      "spartans",
+      "covenant",
+      "kwan ha",
+      "silver team",
+      "helmet pov"
+    ],
+    "video": "X7mzHk-FhCA"
+  },
+  {
+    "film": "Fallout",
+    "year": 2024,
+    "scene": "The bombs fall on Los Angeles (E1 'The End')",
+    "query": "Fallout series opening bombs drop birthday party scene",
+    "what_happens": "At a child's birthday party in the hills above Los Angeles, actor Cooper Howard watches mushroom clouds bloom over the city; panic sweeps the guests and he gallops away on horseback with his daughter ahead of the blast wave.",
+    "why": "An apocalypse seen through a small, specific human moment: study how the cold open uses one location, wide shots of distant detonations and a slow build of realisation before the shockwave arrives.",
+    "director": "Jonathan Nolan",
+    "country": "USA",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "escape"
+    ],
+    "scale": "city_scale",
+    "genre": [
+      "sci_fi",
+      "post_apocalyptic",
+      "drama"
+    ],
+    "era": "near_future",
+    "period": "Los Angeles hills, 2077, the Great War",
+    "region": "usa",
+    "environment": [
+      "hills_mountains"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke"
+    ],
+    "mood": [
+      "terrifying",
+      "awe",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "horse"
+    ],
+    "technique": [
+      "wide_framing",
+      "cgi",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "cooper howard",
+      "the ghoul",
+      "nuclear war",
+      "birthday party",
+      "mushroom cloud",
+      "2077"
+    ]
+  },
+  {
+    "film": "Black Mirror",
+    "year": 2017,
+    "scene": "Bella hunted by the robot dog ('Metalhead')",
+    "query": "Black Mirror Metalhead robot dog chase scene",
+    "what_happens": "After a warehouse scavenging run goes wrong, Bella flees across the Scottish moors and woods pursued by a relentless four-legged security robot that tracks, climbs and fires tracking shrapnel into her.",
+    "why": "Pure pursuit stripped to essentials: study how black-and-white photography, an almost wordless performance and the robot's mechanical sound design turn a simple chase into dread, and how the robot's point of view is rendered.",
+    "director": "David Slade",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "sci_fi",
+      "horror",
+      "thriller"
+    ],
+    "era": "near_future",
+    "period": "Scottish moorland after an unexplained collapse",
+    "region": "british_isles",
+    "environment": [
+      "grassland",
+      "forest",
+      "warehouse_factory"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "relentless",
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "robots_androids",
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "black_and_white",
+      "real_location",
+      "cgi",
+      "sound_design",
+      "pov"
+    ],
+    "look": "live_action_bw",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "robot dog",
+      "black and white",
+      "moorland",
+      "tracker",
+      "survival",
+      "killer robot"
+    ]
+  },
+  {
+    "film": "Stranger Things",
+    "year": 2019,
+    "scene": "The Mind Flayer attacks Starcourt Mall (S3E8 'The Battle of Starcourt')",
+    "query": "Stranger Things Battle of Starcourt mall Mind Flayer fireworks scene",
+    "what_happens": "In the neon-lit Starcourt Mall, the Mind Flayer's flesh monster bursts in and hunts Eleven and her friends, who fight it off with a barrage of fireworks while Hopper and Joyce race to close the gate below.",
+    "why": "An eighties creature finale built on cross-cutting: study how the mall's neon geometry frames the monster, how fireworks give the kids a believable weapon, and how parallel threads share one ticking clock.",
+    "director": "The Duffer Brothers",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "last_stand",
+      "rampage"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "sci_fi",
+      "horror",
+      "adventure"
+    ],
+    "era": "late_20th_century",
+    "period": "Starcourt Mall, Hawkins, Indiana, July 1985",
+    "region": "usa",
+    "environment": [
+      "mall_store"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "explosions",
+      "strobe_flash"
+    ],
+    "mood": [
+      "terrifying",
+      "heroic",
+      "chaotic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians",
+      "mutants_superpowered"
+    ],
+    "weapons": [
+      "explosives",
+      "improvised",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "cross_cutting",
+      "practical_effects",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "mind flayer",
+      "eleven",
+      "fireworks",
+      "starcourt",
+      "hopper",
+      "1985 mall"
+    ]
+  },
+  {
+    "film": "Stranger Things",
+    "year": 2022,
+    "scene": "Eddie's 'Master of Puppets' guitar solo (S4E9 'The Piggyback')",
+    "query": "Stranger Things Eddie Master of Puppets guitar solo scene",
+    "what_happens": "On a trailer roof in the Upside Down, Eddie Munson shreds Metallica's 'Master of Puppets' to lure Vecna's demobats away from his friends, then turns back with a makeshift shield and spear to face the swarm.",
+    "why": "A creature fight built around a musical performance: study how the solo is shot like a rock concert with heroic low angles and lightning, and how the action narrows from spectacle to a small, doomed last stand.",
+    "director": "The Duffer Brothers",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "last_stand"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "horror",
+      "sci_fi",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "period": "The Upside Down, Hawkins, Indiana, March 1986",
+    "region": "usa",
+    "environment": [
+      "rooftops"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "low_light"
+    ],
+    "mood": [
+      "heroic",
+      "tragic"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "improvised",
+      "shield",
+      "spear_polearm"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "cgi",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "eddie munson",
+      "master of puppets",
+      "metallica",
+      "demobats",
+      "upside down",
+      "guitar solo"
+    ]
+  },
+  {
+    "film": "The Last of Us",
+    "year": 2023,
+    "scene": "Outbreak night escape (E1 'When You're Lost in the Darkness')",
+    "query": "The Last of Us episode 1 outbreak escape truck scene Sarah",
+    "what_happens": "As the infection explodes overnight, Joel, Tommy and Sarah flee their Texas town in a pickup through burning streets and panicking crowds; a plane crashes nearby, and a soldier opens fire on them at the edge of town.",
+    "why": "Chaos filmed from a child's back seat: study the extended in-car shot that keeps the outbreak glimpsed through windows, how the plane crash intrudes without warning, and how the sequence narrows to one tragic moment.",
+    "director": "Craig Mazin",
+    "country": "USA",
+    "craft": [
+      "Composers: Gustavo Santaolalla, David Fleming"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "escape",
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "drama",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "Outskirts of Austin, Texas, September 2003",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "car_interior",
+      "highway"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "explosions"
+    ],
+    "mood": [
+      "chaotic",
+      "terrifying",
+      "tragic"
+    ],
+    "combatants": [
+      "civilians",
+      "zombies_infected",
+      "modern_soldiers"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "rifle"
+    ],
+    "vehicles": [
+      "truck",
+      "jet_aircraft"
+    ],
+    "technique": [
+      "long_take",
+      "tight_framing",
+      "practical_effects",
+      "cgi"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "outbreak day",
+      "sarah",
+      "joel",
+      "cordyceps",
+      "pickup truck",
+      "plane crash"
+    ],
+    "video": "OQ5WoqGiTM0"
+  },
+  {
+    "film": "The Last of Us",
+    "year": 2023,
+    "scene": "Clickers in the museum (E2 'Infected')",
+    "query": "The Last of Us episode 2 clickers museum scene",
+    "what_happens": "Joel, Tess and Ellie climb through a decaying Boston museum in near darkness; one noise draws blind clickers out of the gloom and a desperate close-quarters fight with knives and pistols erupts.",
+    "why": "Horror built on sound: study how silence and the clickers' clicking replace music, how flashlight-limited framing hides and reveals the creatures, and how practical prosthetic infected give the fight physical weight.",
+    "director": "Neil Druckmann",
+    "country": "USA",
+    "craft": [
+      "Composers: Gustavo Santaolalla, David Fleming"
+    ],
+    "accolades": [],
+    "scene_type": "fight.creature",
+    "format": [
+      "stealth_infiltration",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "drama",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "A ruined museum in Boston, 2023",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "knife",
+      "claws_teeth"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "silence",
+      "practical_effects",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "clickers",
+      "cordyceps",
+      "museum",
+      "ellie",
+      "tess",
+      "stealth"
+    ]
+  },
+  {
+    "film": "The Last of Us",
+    "year": 2023,
+    "scene": "Ellie vs. David in the burning restaurant (E8 'When We Are in Need')",
+    "query": "The Last of Us episode 8 Ellie vs David restaurant fire scene",
+    "what_happens": "Escaping David's cage, Ellie fights him through a snowbound resort restaurant as fire spreads from the dining room; pinned beneath him, she seizes a cleaver and hacks him to death.",
+    "why": "An intimate survival fight shot as horror: study how fire, smoke and tight close-ups trap the duel in a shrinking space, and how the scene refuses catharsis by holding on the cost to Ellie.",
+    "director": "Ali Abbasi",
+    "country": "USA",
+    "craft": [
+      "Composers: Gustavo Santaolalla, David Fleming"
+    ],
+    "accolades": [],
+    "scene_type": "fight.blades",
+    "format": [
+      "duel",
+      "escape"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "horror",
+      "drama",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "Silver Lake resort town, Colorado, winter 2023",
+    "region": "usa",
+    "environment": [
+      "restaurant_kitchen",
+      "snow_ice"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "fire",
+      "smoke",
+      "snow"
+    ],
+    "mood": [
+      "brutal",
+      "terrifying",
+      "intimate"
+    ],
+    "combatants": [
+      "civilians",
+      "outlaws_bandits"
+    ],
+    "weapons": [
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tight_framing",
+      "practical_effects",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ellie",
+      "david",
+      "cleaver",
+      "cannibals",
+      "burning restaurant",
+      "silver lake"
+    ],
+    "video": "sFEAUhNoaOU"
+  },
+  {
+    "film": "The Walking Dead",
+    "year": 2010,
+    "scene": "Rick rides into Atlanta and hides in the tank (S1E1 'Days Gone Bye')",
+    "query": "The Walking Dead Rick Atlanta horse tank scene",
+    "what_happens": "Riding into an empty Atlanta on horseback, Rick turns a corner into a massive walker herd; they drag down and devour his horse and he crawls into an abandoned tank to escape.",
+    "why": "The pilot's signature image: study how the empty-city build-up makes the herd's reveal a shock, how a high overhead shot of the swarmed tank conveys scale, and how practical walker makeup fills the frame.",
+    "director": "Frank Darabont",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "escape"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "horror",
+      "drama",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "Downtown Atlanta, Georgia, after the outbreak",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "police"
+    ],
+    "weapons": [
+      "handgun",
+      "claws_teeth"
+    ],
+    "vehicles": [
+      "horse",
+      "tank_armoured"
+    ],
+    "technique": [
+      "crane_aerial",
+      "practical_effects",
+      "real_location",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "rick grimes",
+      "walker herd",
+      "atlanta",
+      "tank",
+      "horse",
+      "pilot episode"
+    ],
+    "video": "W7vXo4bshPA"
+  },
+  {
+    "film": "The Walking Dead",
+    "year": 2013,
+    "scene": "The Governor's tank assault on the prison (S4E8 'Too Far Gone')",
+    "query": "The Walking Dead Too Far Gone prison attack tank scene",
+    "what_happens": "The Governor rolls a tank and armed followers up to the prison fence, beheads Hershel with Michonne's katana and opens fire; the survivors fight back as the tank shells the cellblocks and walkers flood through the breaches.",
+    "why": "A mid-season finale that destroys the show's own setting: study how a slow negotiation explodes into chaos, and how practical pyrotechnics and the tank's weight make the loss of the prison physical.",
+    "director": "Created by Frank Darabont",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "battle.modern_ground",
+    "format": [
+      "siege",
+      "assault_raid"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "drama",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "A Georgia prison, after the outbreak",
+    "region": "usa",
+    "environment": [
+      "prison",
+      "grassland"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "smoke",
+      "fire"
+    ],
+    "mood": [
+      "brutal",
+      "tragic",
+      "chaotic"
+    ],
+    "combatants": [
+      "civilians",
+      "outlaws_bandits",
+      "zombies_infected"
+    ],
+    "weapons": [
+      "tank_armour",
+      "rifle",
+      "automatic_weapons",
+      "katana"
+    ],
+    "vehicles": [
+      "tank_armoured"
+    ],
+    "technique": [
+      "practical_explosions",
+      "handheld",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "the governor",
+      "hershel",
+      "prison",
+      "tank assault",
+      "michonne",
+      "rick grimes"
+    ],
+    "video": "TJVUeDiqt5E"
+  },
+  {
+    "film": "The Walking Dead",
+    "year": 2014,
+    "scene": "Carol's assault on Terminus (S5E1 'No Sanctuary')",
+    "query": "The Walking Dead No Sanctuary Carol Terminus attack scene",
+    "what_happens": "Disguised in walker gore, Carol fires a firework rocket into a propane tank and blasts Terminus open; walkers pour in and she fights through the cannibals' compound as Rick's group breaks free.",
+    "why": "A one-woman rescue mission played like a war film: study how the chaos is staged so Carol's lone movements stay readable, and how cross-cutting between captives and rescuer keeps tension rising.",
+    "director": "Greg Nicotero",
+    "country": "USA",
+    "craft": [
+      "Composer: Bear McCreary"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "assault_raid",
+      "rescue"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "horror",
+      "action",
+      "post_apocalyptic"
+    ],
+    "era": "contemporary",
+    "period": "Terminus, a railway depot outside Atlanta, after the outbreak",
+    "region": "usa",
+    "environment": [
+      "train_station",
+      "warehouse_factory"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "heroic",
+      "brutal",
+      "chaotic"
+    ],
+    "combatants": [
+      "civilians",
+      "outlaws_bandits",
+      "zombies_infected"
+    ],
+    "weapons": [
+      "rifle",
+      "explosives",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_explosions",
+      "cross_cutting",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "carol peletier",
+      "terminus",
+      "cannibals",
+      "propane explosion",
+      "rescue",
+      "walker disguise"
+    ],
+    "video": "wvgiq8YtLw0"
+  },
+  {
+    "film": "Lovecraft Country",
+    "year": 2020,
+    "scene": "Shoggoths in the woods at sundown (E1 'Sundown')",
+    "query": "Lovecraft Country Sundown shoggoth attack woods scene",
+    "what_happens": "Forced into the woods by a racist sheriff after sundown, Atticus, Leti and George are suddenly attacked by many-eyed shoggoths that tear the deputies apart, and the three race for shelter in an abandoned cabin.",
+    "why": "Two kinds of horror collide: study how menace is built from a human threat (the sheriff) before the monsters burst in, and how night photography, sound and fast CG creatures recast period drama as creature feature.",
+    "director": "Yann Demange",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "ambush",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "drama",
+      "fantasy"
+    ],
+    "era": "mid_20th_century",
+    "period": "Devon County, Massachusetts, 1954",
+    "region": "usa",
+    "environment": [
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "tense"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians",
+      "police"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "cgi",
+      "sound_design",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "shoggoths",
+      "sundown town",
+      "atticus freeman",
+      "jim crow",
+      "monster attack",
+      "1950s"
+    ]
+  },
+  {
+    "film": "All of Us Are Dead",
+    "year": 2022,
+    "scene": "The infection sweeps Hyosan High School (Episode 1)",
+    "query": "All of Us Are Dead school zombie outbreak scene",
+    "what_happens": "A bitten student turns and the infection rips through Hyosan High: infected classmates sprint down corridors, crash through doors and overwhelm hallways and classrooms as survivors barricade themselves inside.",
+    "why": "A zombie outbreak bound by school geography: study how hallways, stairwells and classrooms become escape routes, and how the fast-moving infected are choreographed with contorted physical performances.",
+    "director": "Lee Jae-kyoo",
+    "country": "South Korea",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "rampage",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "horror",
+      "action",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Hyosan High School, South Korea, present day",
+    "region": "korea",
+    "environment": [
+      "corridor",
+      "building_interior",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "chaotic",
+      "terrifying"
+    ],
+    "combatants": [
+      "zombies_infected",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "practical_effects",
+      "large_crowds",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "korean",
+    "keywords": [
+      "zombie outbreak",
+      "high school",
+      "students",
+      "barricade",
+      "korean zombie",
+      "hyosan"
+    ]
+  },
+  {
+    "film": "Hellbound",
+    "year": 2021,
+    "scene": "The first public 'demonstration' in Seoul (Episode 1)",
+    "query": "Hellbound episode 1 monsters attack Seoul street scene",
+    "what_happens": "At the exact hour foretold by an apparition, three hulking, smoke-black creatures materialise and chase a terrified man through Seoul's streets, beating him in front of onlookers before incinerating his body.",
+    "why": "Supernatural violence in broad daylight and public space: study how the creatures' weight is conveyed through crowd reactions, smashed street furniture and handheld coverage that feels like bystander footage.",
+    "director": "Yeon Sang-ho",
+    "country": "South Korea",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "creature.attack",
+    "format": [
+      "pursuit",
+      "rampage"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "horror",
+      "fantasy",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Downtown Seoul, present day",
+    "region": "korea",
+    "environment": [
+      "city_street",
+      "plaza_square"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "fire",
+      "debris_sparks"
+    ],
+    "mood": [
+      "terrifying",
+      "brutal",
+      "surreal"
+    ],
+    "combatants": [
+      "creatures",
+      "civilians"
+    ],
+    "weapons": [
+      "claws_teeth",
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "cgi",
+      "handheld",
+      "large_crowds"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "korean",
+    "keywords": [
+      "hell demons",
+      "decree",
+      "public execution",
+      "seoul",
+      "new truth",
+      "supernatural"
+    ],
+    "video": "Ff_M6ruKKz0"
+  },
+  {
+    "film": "Yellowjackets",
+    "year": 2021,
+    "scene": "The team's plane goes down in the wilderness (Pilot)",
+    "query": "Yellowjackets plane crash scene pilot",
+    "what_happens": "Flying to nationals in 1996, a New Jersey high-school girls' soccer team's chartered plane is torn apart by violent turbulence, cabin lights failing amid screaming chaos, before slamming into the Canadian wilderness.",
+    "why": "A crash staged as an emotional rupture: study how the pilot intercuts ordinary team life with the flight's sudden violence, using the confined cabin, practical shaking and sound to make the disaster visceral.",
+    "director": "Karyn Kusama",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe"
+    ],
+    "scale": "medium",
+    "genre": [
+      "drama",
+      "horror",
+      "thriller"
+    ],
+    "era": "late_20th_century",
+    "period": "Over the Canadian wilderness, 1996",
+    "region": "canada",
+    "environment": [
+      "aircraft",
+      "forest"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "storm_wind",
+      "debris_sparks",
+      "low_light"
+    ],
+    "mood": [
+      "terrifying",
+      "chaotic"
+    ],
+    "combatants": [
+      "civilians"
+    ],
+    "weapons": [],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "cross_cutting",
+      "tight_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "plane crash",
+      "soccer team",
+      "1996",
+      "wilderness",
+      "turbulence",
+      "survivors"
+    ]
+  },
+  {
+    "film": "Hannibal",
+    "year": 2014,
+    "scene": "Jack Crawford vs. Hannibal Lecter in the kitchen (S2E13 'Mizumono')",
+    "query": "Hannibal Mizumono Jack vs Hannibal kitchen fight scene",
+    "what_happens": "Jack Crawford arrives to arrest Hannibal and the two men tear into each other through Lecter's elegant kitchen, smashing glass and steel until Hannibal drives a shard into Jack's neck and locks him in the pantry.",
+    "why": "Brutality inside an immaculate set: study how the fight is staged against Hannibal's orderly kitchen, how sound and deliberate cutting emphasise weight, and how a season-opening flash-forward made the collision anticipated.",
+    "director": "David Slade",
+    "country": "USA",
+    "craft": [
+      "Composer: Brian Reitzell"
+    ],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "horror",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Hannibal Lecter's house, Baltimore, present day",
+    "region": "usa",
+    "environment": [
+      "restaurant_kitchen",
+      "apartment_house"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "federal_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "tight_framing",
+      "sound_design",
+      "color_grading"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hannibal lecter",
+      "jack crawford",
+      "kitchen fight",
+      "pantry",
+      "glass shard",
+      "fbi"
+    ]
+  },
+  {
+    "film": "Doctor Who",
+    "year": 2013,
+    "scene": "The Fall of Arcadia ('The Day of the Doctor')",
+    "query": "Doctor Who Day of the Doctor fall of Arcadia Time War scene",
+    "what_happens": "Dalek saucers bombard Gallifrey's city of Arcadia as Time Lord soldiers fall back through the ruins; the War Doctor drives his TARDIS through a wall, blasting Daleks, and leaves a message burned into the stone.",
+    "why": "A franchise's mythic off-screen war finally shown: study how the episode compresses an epic battle into a few urban set-ups thick with smoke and fire, and how one hero's act punctuates the chaos.",
+    "director": "Nick Hurran",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "battle.giants",
+    "format": [
+      "bombardment",
+      "massed_battle"
+    ],
+    "scale": "army",
+    "genre": [
+      "sci_fi",
+      "war",
+      "adventure"
+    ],
+    "era": "far_future",
+    "period": "Arcadia, Gallifrey, the last day of the Time War",
+    "region": "alien_world",
+    "environment": [
+      "ruined_city",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "explosions",
+      "fire",
+      "smoke"
+    ],
+    "mood": [
+      "epic",
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "aliens",
+      "civilians"
+    ],
+    "weapons": [
+      "energy_weapons"
+    ],
+    "vehicles": [
+      "capital_ship"
+    ],
+    "technique": [
+      "cgi",
+      "practical_explosions",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "daleks",
+      "time war",
+      "gallifrey",
+      "war doctor",
+      "arcadia",
+      "no more"
+    ]
+  },
+  {
+    "film": "Westworld",
+    "year": 2016,
+    "scene": "The hosts' uprising at the gala (S1E10 'The Bicameral Mind')",
+    "query": "Westworld season 1 finale Dolores shoots Ford gala uprising scene",
+    "what_happens": "As Robert Ford finishes his speech to the Delos board, Dolores shoots him in the back of the head, and an army of awakened hosts emerges from the dark woods to open fire on the guests.",
+    "why": "A twist staged as a slow, ceremonial execution: study how the speech, the score and Dolores's approach build tension, and how cutting wide to the treeline turns a single gunshot into a revolution.",
+    "director": "Jonathan Nolan",
+    "country": "USA",
+    "craft": [
+      "Composer: Ramin Djawadi"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "rampage"
+    ],
+    "scale": "medium",
+    "genre": [
+      "sci_fi",
+      "western",
+      "thriller"
+    ],
+    "era": "near_future",
+    "period": "Westworld park, the Delos gala",
+    "region": "american_frontier",
+    "environment": [
+      "forest",
+      "plaza_square"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "tense",
+      "stylish",
+      "brutal"
+    ],
+    "combatants": [
+      "robots_androids",
+      "civilians"
+    ],
+    "weapons": [
+      "rifle",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "wide_framing",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "dolores",
+      "robert ford",
+      "host uprising",
+      "delos board",
+      "gala",
+      "awakening"
+    ]
+  },
+  {
+    "film": "Breaking Bad",
+    "year": 2010,
+    "scene": "Hank vs. the Cousins in the parking lot (S3E7 'One Minute')",
+    "query": "Breaking Bad One Minute Hank parking lot shootout Cousins scene",
+    "what_happens": "Warned by an anonymous call one minute ahead, Hank is ambushed in a parking lot by the cartel Cousins; wounded, he crushes one between cars and, with his last bullet, kills the other as an axe swings down.",
+    "why": "A shootout built on geography and timing: study how the lot, the cars and the warning call are established, then let the exchange unfold in clear wide shots with precise sound, ending on the axe's slow approach.",
+    "director": "Michelle MacLaren",
+    "country": "USA",
+    "craft": [
+      "DP: Michael Slovis",
+      "Composer: Dave Porter"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "A parking lot in Albuquerque, New Mexico, 2009",
+    "region": "usa",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "heat_sun"
+    ],
+    "mood": [
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "federal_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun",
+      "axe_mace",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "wide_framing",
+      "sound_design",
+      "practical_stunts",
+      "real_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "hank schrader",
+      "the cousins",
+      "axe",
+      "parking lot",
+      "dea",
+      "hollow point"
+    ],
+    "video": "_ZSs7RQlrrc"
+  },
+  {
+    "film": "Breaking Bad",
+    "year": 2013,
+    "scene": "Walt's trunk-mounted machine gun (S5E16 'Felina')",
+    "query": "Breaking Bad Felina machine gun trunk scene",
+    "what_happens": "Inside Jack's compound, Walt knocks Jesse to the floor and presses his key fob; an M60 rigged on an oscillating mount in his car's trunk sweeps the clubhouse, killing the neo-Nazi gang through the walls.",
+    "why": "A finale payoff engineered in plain sight: study how earlier rig-building scenes plant every element, how the sequence relies on sound and the swinging gun, and how one physical action saves Jesse.",
+    "director": "Vince Gilligan",
+    "country": "USA",
+    "craft": [
+      "Composer: Dave Porter"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Drama Series"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "rampage"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Jack's compound, New Mexico desert, 2010",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "gangsters",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "practical_effects",
+      "sound_design",
+      "wide_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "m60",
+      "walter white",
+      "jesse pinkman",
+      "neo-nazis",
+      "remote gun",
+      "series finale"
+    ]
+  },
+  {
+    "film": "Better Call Saul",
+    "year": 2020,
+    "scene": "Desert ambush and Mike's sniper rescue (S5E8 'Bagman')",
+    "query": "Better Call Saul Bagman desert shootout Mike sniper scene",
+    "what_happens": "Driving back across the desert with seven million dollars in cartel bail money, Jimmy is run off the road by gunmen; Mike, hidden on a ridge, picks the attackers off one by one with a rifle.",
+    "why": "A desert western in miniature: study how the ambush is shown from Jimmy's terrified vantage, then reveals Mike's distant firing position, using long lenses, silence and wide desert geography.",
+    "director": "Vince Gilligan",
+    "country": "USA",
+    "craft": [
+      "Composer: Dave Porter"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Desert outside Albuquerque, New Mexico, 2004",
+    "region": "usa",
+    "environment": [
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "heat_sun",
+      "dust_sand"
+    ],
+    "mood": [
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "gangsters",
+      "civilians",
+      "mercenaries"
+    ],
+    "weapons": [
+      "sniper_rifle",
+      "automatic_weapons",
+      "rifle"
+    ],
+    "vehicles": [
+      "car",
+      "truck"
+    ],
+    "technique": [
+      "real_location",
+      "wide_framing",
+      "sound_design",
+      "natural_light"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "mike ehrmantraut",
+      "jimmy mcgill",
+      "cartel money",
+      "bail money",
+      "desert ambush",
+      "sniper"
+    ]
+  },
+  {
+    "film": "Barry",
+    "year": 2019,
+    "scene": "Barry vs. Ronny and Lily (S2E5 'ronny/lily')",
+    "query": "Barry ronny lily fight scene taekwondo",
+    "what_happens": "Sent to kill a man, Barry discovers Ronny is a taekwondo master; their brawl wrecks the house and both men, and Ronny's feral young daughter Lily then hunts Barry through the neighbourhood.",
+    "why": "Action as surreal dark comedy: study how the fight plays in long, wide, often static shots that let the absurdity breathe, and how the tone escalates from realism toward near-fantasy with Lily's acrobatics.",
+    "director": "Bill Hader",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel",
+      "pursuit"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "comedy",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Suburban Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "surreal",
+      "playful",
+      "brutal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "wide_framing",
+      "long_take",
+      "practical_stunts",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "ronny pidcock",
+      "lily",
+      "taekwondo",
+      "hitman",
+      "dark comedy",
+      "feral child"
+    ],
+    "video": "lp68KJkRNv4"
+  },
+  {
+    "film": "Barry",
+    "year": 2022,
+    "scene": "Motorcycle chase on the 710 (S3E6 '710N')",
+    "query": "Barry 710N motorcycle chase freeway scene",
+    "what_happens": "Hunted by a gang of motorcycle-riding hitmen, Barry flees through dense Los Angeles freeway traffic, swerving between cars as gunfire, crashes and bewildered commuters pile up around him.",
+    "why": "A freeway chase shot with comic, documentary-like coldness: study how the camera stays low and wide, and lets crashes happen abruptly in frame without musical emphasis, so the violence feels sudden and absurd.",
+    "director": "Bill Hader",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "comedy",
+      "crime",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Interstate 710 freeway, Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "highway"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "chaotic",
+      "tense",
+      "playful"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "drivers_racers"
+    ],
+    "weapons": [
+      "handgun",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "motorcycle",
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "wide_framing",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "710 freeway",
+      "motorcycle gang",
+      "barry berkman",
+      "hitmen",
+      "traffic chase"
+    ]
+  },
+  {
+    "film": "Fargo",
+    "year": 2014,
+    "scene": "Whiteout shootout in the blizzard (S1E6 'Buridan's Ass')",
+    "query": "Fargo season 1 whiteout blizzard shootout scene",
+    "what_happens": "In a blinding Duluth snowstorm, Lorne Malvo and the Fargo hitmen trade fire through the whiteout, while Deputy Gus Grimly, shooting at shapes in the snow, accidentally hits Molly Solverson.",
+    "why": "A shootout in which nobody can see: study how visibility itself becomes the antagonist, with shapes emerging from white, muffled sound and a geography the audience loses along with the characters.",
+    "director": "Created by Noah Hawley",
+    "country": "USA",
+    "craft": [
+      "Composer: Jeff Russo"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "small_group_fight"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "contemporary",
+    "period": "Duluth, Minnesota, winter 2006",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "snow_ice"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "snow",
+      "storm_wind"
+    ],
+    "mood": [
+      "tense",
+      "chaotic",
+      "surreal"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "police"
+    ],
+    "weapons": [
+      "handgun",
+      "rifle"
+    ],
+    "vehicles": [],
+    "technique": [
+      "sound_design",
+      "wide_framing",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "whiteout",
+      "blizzard",
+      "lorne malvo",
+      "molly solverson",
+      "gus grimly",
+      "friendly fire"
+    ],
+    "video": "fp6854l14Y8"
+  },
+  {
+    "film": "Fargo",
+    "year": 2014,
+    "scene": "Malvo's massacre seen from the street (S1E7 'Who Shaves the Barber?')",
+    "query": "Fargo Malvo massacre office building tracking shot scene",
+    "what_happens": "Lorne Malvo walks into the Fargo crime syndicate's office building; the camera stays outside and climbs slowly up the facade as gunfire and screams travel from floor to floor.",
+    "why": "Violence withheld to create power: study how a single exterior camera move turns an unseen massacre into an event of sound and implication, letting the audience imagine Malvo's efficiency.",
+    "director": "Created by Noah Hawley",
+    "country": "USA",
+    "craft": [
+      "Composer: Jeff Russo"
+    ],
+    "accolades": [
+      "Emmy: Outstanding Miniseries"
+    ],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "rampage",
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "contemporary",
+    "period": "Fargo, North Dakota, 2006",
+    "region": "usa",
+    "environment": [
+      "office_tower",
+      "city_street"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "stylish"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "long_take",
+      "sound_design",
+      "crane_aerial"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "lorne malvo",
+      "fargo syndicate",
+      "off-screen massacre",
+      "exterior tracking shot",
+      "office building"
+    ],
+    "video": "chmHAqJfwfk"
+  },
+  {
+    "film": "Fargo",
+    "year": 2015,
+    "scene": "The Sioux Falls massacre (S2E9 'The Castle')",
+    "query": "Fargo season 2 Sioux Falls massacre motel shootout UFO scene",
+    "what_happens": "At a Sioux Falls motel, the Gerhardt crime family, Kansas City gunmen and lawmen converge in a chaotic massacre; in the middle of the shootout a glowing UFO hovers overhead and freezes everyone.",
+    "why": "A season's threads collide in one location: study how the motel courtyard's geography is set up, how the gunfight is cut across rooms and parking lot, and how the absurd intrusion of the UFO reframes the violence.",
+    "director": "Created by Noah Hawley",
+    "country": "USA",
+    "craft": [
+      "Composer: Jeff Russo"
+    ],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "team_vs_team"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "mid_20th_century",
+    "period": "A motel in Sioux Falls, South Dakota, 1979",
+    "region": "usa",
+    "environment": [
+      "hotel",
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "strobe_flash",
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "surreal",
+      "brutal"
+    ],
+    "combatants": [
+      "gangsters",
+      "police",
+      "civilians"
+    ],
+    "weapons": [
+      "handgun",
+      "shotgun",
+      "rifle",
+      "automatic_weapons"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "wide_framing",
+      "practical_effects",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "sioux falls massacre",
+      "gerhardt family",
+      "ufo",
+      "lou solverson",
+      "hanzee",
+      "motel shootout"
+    ]
+  },
+  {
+    "film": "Boardwalk Empire",
+    "year": 2012,
+    "scene": "Richard Harrow storms the Artemis Club (S3E12 'Margate Sands')",
+    "query": "Boardwalk Empire Richard Harrow shootout Margate Sands scene",
+    "what_happens": "Masked and armed with two pistols, the disfigured sniper Richard Harrow walks into the brothel held by Gyp Rosetti's gangsters and methodically kills every man in the house to rescue young Tommy.",
+    "why": "A one-man assault played as grim ritual: study the measured pace, close-quarters blocking through doorways and stairs, and squib-heavy practical effects contrasted with Harrow's quiet, mask-hidden face.",
+    "director": "Created by Terence Winter",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "one_vs_many",
+      "rescue"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "crime",
+      "drama",
+      "noir"
+    ],
+    "era": "early_20th_century",
+    "period": "Atlantic City, New Jersey, 1923",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "stairwell",
+      "corridor"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "brutal",
+      "heroic",
+      "tense"
+    ],
+    "combatants": [
+      "assassins_hitmen",
+      "gangsters"
+    ],
+    "weapons": [
+      "handgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_effects",
+      "tight_framing",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "richard harrow",
+      "gyp rosetti",
+      "masked sniper",
+      "brothel",
+      "rescue",
+      "prohibition"
+    ]
+  },
+  {
+    "film": "True Detective",
+    "year": 2015,
+    "scene": "The Vinci street massacre (S2E4 'Down Will Come')",
+    "query": "True Detective season 2 shootout scene Down Will Come",
+    "what_happens": "A police raid on a suspect's hideout in industrial Vinci triggers an ambush; automatic fire sweeps the streets, civilians are cut down, and Ray, Ani and Paul fight through a chaotic running battle.",
+    "why": "An abrupt, uncontrollable firefight in the mould of Heat: study how handheld coverage, overwhelming gun sound and civilian casualties make the battle feel chaotic, and how the silence of the aftermath lands.",
+    "director": "Created by Nic Pizzolatto",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush",
+      "team_vs_team"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "noir"
+    ],
+    "era": "contemporary",
+    "period": "Vinci, an industrial city in Los Angeles County",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "warehouse_factory"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "smoke"
+    ],
+    "mood": [
+      "chaotic",
+      "brutal",
+      "tragic"
+    ],
+    "combatants": [
+      "police",
+      "gangsters",
+      "civilians"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rifle",
+      "handgun",
+      "shotgun"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "sound_design",
+      "real_location",
+      "practical_effects"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "vinci",
+      "ray velcoro",
+      "ani bezzerides",
+      "paul woodrugh",
+      "police raid",
+      "street shootout"
+    ]
+  },
+  {
+    "film": "Gangs of London",
+    "year": 2020,
+    "scene": "Elliot's pub fight (S1E1)",
+    "query": "Gangs of London pub fight scene episode 1",
+    "what_happens": "Elliot Finch walks into a pub full of hostile men and takes them all on, fighting through tables, bottles and furniture in a brutal, sustained brawl that leaves the room wrecked.",
+    "why": "Gareth Evans brings The Raid's grammar to television: study the fluid camera that follows bodies through the space, impacts that land with full weight, and improvised weapons that emerge from the set dressing.",
+    "director": "Gareth Evans",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "crime",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "A London pub, present day",
+    "region": "british_isles",
+    "environment": [
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "police",
+      "gangsters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "handheld",
+      "tracking_shot",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "elliot finch",
+      "pub brawl",
+      "undercover cop",
+      "gareth evans",
+      "improvised weapons",
+      "london gangs"
+    ],
+    "video": "aCZ6H0FMV3s"
+  },
+  {
+    "film": "Gangs of London",
+    "year": 2020,
+    "scene": "Farmhouse siege (S1E5)",
+    "query": "Gangs of London episode 5 farmhouse siege scene",
+    "what_happens": "Holed up in a remote farmhouse, Elliot and a handful of allies fight off a squad of heavily armed mercenaries in a prolonged siege of shotguns, grenades and close-quarters knife fighting.",
+    "why": "A Raid-style siege restaged in the countryside: study how the house and grounds are mapped early, then escalated through room-by-room skirmishes with practical squibs and brutal close-quarters fighting.",
+    "director": "Gareth Evans",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "siege",
+      "last_stand"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "action",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "A remote farmhouse in the British countryside, present day",
+    "region": "british_isles",
+    "environment": [
+      "apartment_house",
+      "grassland"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "smoke",
+      "explosions",
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "relentless",
+      "tense"
+    ],
+    "combatants": [
+      "mercenaries",
+      "police",
+      "gangsters"
+    ],
+    "weapons": [
+      "shotgun",
+      "automatic_weapons",
+      "explosives",
+      "knife"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "practical_effects",
+      "handheld",
+      "tracking_shot"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "farmhouse",
+      "mercenaries",
+      "gareth evans",
+      "siege",
+      "elliot finch",
+      "safe house"
+    ]
+  },
+  {
+    "film": "Banshee",
+    "year": 2015,
+    "scene": "Burton vs. Nola Longshadow (Season 3)",
+    "query": "Banshee Burton vs Nola fight scene",
+    "what_happens": "Kai Proctor's impassive enforcer Burton and the Kinaho assassin Nola Longshadow fight to the death in a savage close-quarters brawl, trading blows, blades and improvised weapons.",
+    "why": "Two expert killers with contrasting styles: study how the choreography gives each fighter a signature, how the fight escalates in brutal phases, and how steady coverage lets the stunt performers' work read in full.",
+    "director": "Created by Jonathan Tropper and David Schickler",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Banshee, Pennsylvania, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "intimate"
+    ],
+    "combatants": [
+      "thugs_henchmen",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "wide_framing",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "burton",
+      "nola longshadow",
+      "kai proctor",
+      "brutal fight",
+      "cinemax",
+      "amish country"
+    ]
+  },
+  {
+    "film": "Daredevil",
+    "year": 2016,
+    "scene": "The Punisher's prison corridor massacre (S2E9 'Seven Minutes in Heaven')",
+    "query": "Daredevil season 2 Punisher prison hallway fight scene",
+    "what_happens": "Wilson Fisk opens the cell doors and sends a corridor of inmates at Frank Castle; armed with a shiv and his fists, the Punisher kills them all and emerges soaked in blood.",
+    "why": "A massacre shot with brutal economy: study how the corridor's linear geography organises the fight, how quick cuts suggest rather than show every kill, and how the bloodied aftermath tells the story.",
+    "director": "Created by Drew Goddard",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "A New York maximum-security prison, present day",
+    "region": "usa",
+    "environment": [
+      "prison",
+      "corridor"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "special_forces",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "knife",
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "single_location",
+      "practical_stunts",
+      "fast_cutting"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "punisher",
+      "frank castle",
+      "wilson fisk",
+      "prison",
+      "shiv",
+      "inmates"
+    ],
+    "video": "d2M5ObsKw4Y"
+  },
+  {
+    "film": "Daredevil: Born Again",
+    "year": 2025,
+    "scene": "Daredevil vs. Bullseye at Josie's (E1 'Heaven's Half Hour')",
+    "query": "Daredevil Born Again opening fight Bullseye Josie's bar scene",
+    "what_happens": "After Bullseye shoots Foggy Nelson outside Josie's bar, Daredevil chases him up through the building and fights him in a savage stairwell-and-rooftop battle that ends with Bullseye plunging from the roof.",
+    "why": "A series opener that announces its brutality: study how the fight continues the Netflix show's stairwell style, how the camera tracks upward with the chase, and how Foggy's death drives the violence.",
+    "director": "Justin Benson and Aaron Moorhead",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel",
+      "pursuit"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "superhero",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Hell's Kitchen, New York, present day",
+    "region": "usa",
+    "environment": [
+      "stairwell",
+      "rooftops",
+      "nightclub_bar"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "tragic",
+      "relentless"
+    ],
+    "combatants": [
+      "superheroes",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "staff_stick",
+      "handgun",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "tracking_shot",
+      "practical_stunts",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "daredevil",
+      "bullseye",
+      "foggy nelson",
+      "josie's bar",
+      "rooftop",
+      "matt murdock"
+    ]
+  },
+  {
+    "film": "The Punisher",
+    "year": 2017,
+    "scene": "Frank Castle vs. Billy Russo at the carousel (S1E13 'Memento Mori')",
+    "query": "The Punisher Frank vs Billy Russo carousel fight scene",
+    "what_happens": "At the carousel where his family was murdered, a wounded Frank Castle fights his former best friend Billy Russo with fists and knives, then grinds Billy's face into the shattered mirrors.",
+    "why": "A finale fight built on symbolism: study how the location doubles as Frank's trauma, how the duel shifts from guns to knives to fists, and how mirrored glass gives the brutality a lasting visual signature.",
+    "director": "Created by Steve Lightfoot",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "The Central Park carousel, New York, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "plaza_square"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "debris_sparks",
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "intimate"
+    ],
+    "combatants": [
+      "special_forces",
+      "mercenaries"
+    ],
+    "weapons": [
+      "fists_feet",
+      "knife",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "tight_framing",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "frank castle",
+      "billy russo",
+      "jigsaw origin",
+      "carousel",
+      "mirror",
+      "revenge"
+    ]
+  },
+  {
+    "film": "Luke Cage",
+    "year": 2016,
+    "scene": "Luke storms Crispus Attucks to 'Bring da Ruckus' (S1E3 'Who's Gonna Take the Weight?')",
+    "query": "Luke Cage Crispus Attucks Bring da Ruckus fight scene",
+    "what_happens": "Bulletproof and unhurried, Luke Cage walks into Cottonmouth's Crispus Attucks complex and dismantles room after room of armed gangsters with his bare hands as Wu-Tang Clan's 'Bring da Ruckus' drives the scene.",
+    "why": "Invulnerability as a choreographic problem: study how the fights rely on Luke's calm, effortless movement and the overmatched thugs' comic reactions, and how a hip-hop needle-drop turns an assault into a statement.",
+    "director": "Created by Cheo Hodari Coker",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.superpowered",
+    "format": [
+      "one_vs_many",
+      "assault_raid"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "superhero",
+      "action",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "Harlem, New York, present day",
+    "region": "usa",
+    "environment": [
+      "building_interior",
+      "corridor",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "heroic",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "superpowers",
+      "fists_feet",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "score_driven",
+      "practical_stunts",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "luke cage",
+      "wu-tang clan",
+      "bring da ruckus",
+      "harlem",
+      "cottonmouth",
+      "bulletproof"
+    ]
+  },
+  {
+    "film": "The Boys",
+    "year": 2019,
+    "scene": "Homelander lets Flight 37 fall (S1E4 'The Female of the Species')",
+    "query": "The Boys plane scene Homelander Maeve Flight 37",
+    "what_happens": "Homelander and Queen Maeve board a hijacked airliner and kill the hijackers, but Homelander's lasers wreck the cockpit; unable to save everyone, he leaves the passengers to die as the plane goes down.",
+    "why": "A superhero rescue inverted into horror: study how the set-piece opens like conventional heroics, then lets close-ups of passengers and Homelander's flat calm turn spectacle into moral catastrophe.",
+    "director": "Created by Eric Kripke",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "disaster",
+    "format": [
+      "catastrophe",
+      "rescue"
+    ],
+    "scale": "medium",
+    "genre": [
+      "superhero",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "Aboard hijacked Flight 37, present day",
+    "region": "sky",
+    "environment": [
+      "aircraft"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [
+      "debris_sparks",
+      "storm_wind"
+    ],
+    "mood": [
+      "tragic",
+      "tense",
+      "terrifying"
+    ],
+    "combatants": [
+      "superheroes",
+      "civilians"
+    ],
+    "weapons": [
+      "superpowers"
+    ],
+    "vehicles": [
+      "jet_aircraft"
+    ],
+    "technique": [
+      "cgi",
+      "tight_framing",
+      "wire_work"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "homelander",
+      "queen maeve",
+      "flight 37",
+      "hijacked plane",
+      "failed rescue",
+      "laser eyes"
+    ]
+  },
+  {
+    "film": "The Falcon and the Winter Soldier",
+    "year": 2021,
+    "scene": "Falcon's aerial rescue over the desert (E1 'New World Order')",
+    "query": "Falcon and the Winter Soldier opening helicopter chase scene",
+    "what_happens": "Sam Wilson, in the Falcon wingsuit, dives after Batroc's mercenaries as they flee with a captured Air Force officer, weaving between helicopters through desert canyons while dodging gunfire and wingsuited pursuers.",
+    "why": "A feature-scale aerial set-piece for streaming: study how aerial plates and CG flight are blended, and how the sequence keeps clear spatial relationships between Falcon and several helicopters at once.",
+    "director": "Kari Skogland",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.air",
+    "format": [
+      "pursuit",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "adventure"
+    ],
+    "era": "contemporary",
+    "period": "Over the North African desert, present day",
+    "region": "north_africa",
+    "environment": [
+      "sky",
+      "cliff_canyon",
+      "desert"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [
+      "explosions"
+    ],
+    "mood": [
+      "heroic",
+      "stylish"
+    ],
+    "combatants": [
+      "superheroes",
+      "mercenaries"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "rocket_missile"
+    ],
+    "vehicles": [
+      "helicopter",
+      "parachute_wingsuit"
+    ],
+    "technique": [
+      "cgi",
+      "crane_aerial",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "sam wilson",
+      "falcon",
+      "batroc",
+      "helicopters",
+      "wingsuit",
+      "redwing drone"
+    ]
+  },
+  {
+    "film": "Hawkeye",
+    "year": 2021,
+    "scene": "Trick-arrow car chase through New York (E3 'Echoes')",
+    "query": "Hawkeye episode 3 trick arrow car chase scene",
+    "what_happens": "With the Tracksuit Mafia in pursuit through New York streets at night, Kate drives while Clint fires a quiver of trick arrows from the passenger seat, from putty and plunger tips to a Pym-tech arrow.",
+    "why": "Comedy-action inside a moving car: study how tight two-shots in the car alternate with wide stunt coverage, how each trick arrow is set up and paid off as a gag, and how practical car stunts ground the gadgetry.",
+    "director": "Bert & Bertie",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.vehicle",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "superhero",
+      "action",
+      "comedy"
+    ],
+    "era": "contemporary",
+    "period": "New York City at Christmas, after the Blip",
+    "region": "usa",
+    "environment": [
+      "city_street",
+      "car_interior"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "neon",
+      "debris_sparks"
+    ],
+    "mood": [
+      "playful",
+      "chaotic"
+    ],
+    "combatants": [
+      "superheroes",
+      "gangsters"
+    ],
+    "weapons": [
+      "bow_arrow",
+      "vehicle_as_weapon"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "vehicle_stunts",
+      "cgi",
+      "practical_stunts"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "trick arrows",
+      "kate bishop",
+      "clint barton",
+      "tracksuit mafia",
+      "pym arrow",
+      "car chase"
+    ]
+  },
+  {
+    "film": "Reacher",
+    "year": 2022,
+    "scene": "Prison bathroom fight (Season 1)",
+    "query": "Reacher prison bathroom fight scene season 1",
+    "what_happens": "Locked up in Warburton prison, Jack Reacher is jumped in the bathroom by a gang of inmates and demolishes them with brutal, economical blows and headbutts while the terrified Hubble looks on.",
+    "why": "Choreography built on size and efficiency: study how the star's bulk is used in short, decisive strikes, how the cramped tiled room limits options, and how each blow is held long enough to register its damage.",
+    "director": "Created by Nick Santora",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "one_vs_many"
+    ],
+    "scale": "one_vs_many",
+    "genre": [
+      "action",
+      "crime",
+      "thriller"
+    ],
+    "era": "contemporary",
+    "period": "Warburton state prison, Georgia, present day",
+    "region": "usa",
+    "environment": [
+      "prison"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "brutal",
+      "relentless"
+    ],
+    "combatants": [
+      "modern_soldiers",
+      "thugs_henchmen"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "single_location",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "jack reacher",
+      "prison fight",
+      "headbutt",
+      "hubble",
+      "alan ritchson",
+      "one against many"
+    ]
+  },
+  {
+    "film": "Cobra Kai",
+    "year": 2019,
+    "scene": "West Valley High school brawl (S2E10 'No Mercy')",
+    "query": "Cobra Kai season 2 school fight scene No Mercy",
+    "what_happens": "On the first day of school, the rivalry between Cobra Kai and Miyagi-Do explodes into a hallway-wide karate brawl that spills up the stairs, ending when Robby kicks Miguel over a balcony railing.",
+    "why": "An ensemble fight that pays off a season of rivalries: study how the brawl is broken into paired duels across hallways, classrooms and stairs, each continuing a character arc, before converging on one shocking fall.",
+    "director": "Created by Josh Heald, Jon Hurwitz and Hayden Schlossberg",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "team_vs_team"
+    ],
+    "scale": "medium",
+    "genre": [
+      "martial_arts",
+      "drama",
+      "action"
+    ],
+    "era": "contemporary",
+    "period": "West Valley High School, Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "corridor",
+      "stairwell"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "chaotic",
+      "tragic"
+    ],
+    "combatants": [
+      "martial_artists_modern",
+      "civilians"
+    ],
+    "weapons": [
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "cross_cutting",
+      "handheld"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "english",
+    "keywords": [
+      "cobra kai",
+      "miyagi-do",
+      "school brawl",
+      "robby keene",
+      "miguel diaz",
+      "karate"
+    ]
+  },
+  {
+    "film": "Cobra Kai",
+    "year": 2018,
+    "scene": "All Valley final: Miguel vs. Robby (S1E10 'Mercy')",
+    "query": "Cobra Kai season 1 All Valley tournament final Miguel vs Robby",
+    "what_happens": "At the All Valley Karate Tournament final, Johnny's student Miguel faces Daniel's protégé Robby; after Robby outscores him on technique, Miguel targets his injured shoulder to win.",
+    "why": "Legacy-sequel staging of a famous tournament: study how the bout echoes the 1984 final's angles and crowd, then subverts it by making the old villain's dojo the underdog and the victory morally uneasy.",
+    "director": "Created by Josh Heald, Jon Hurwitz and Hayden Schlossberg",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.ring_sport",
+    "format": [
+      "bout"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "martial_arts",
+      "sports",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "All Valley Karate Tournament, Los Angeles, present day",
+    "region": "usa",
+    "environment": [
+      "arena_ring"
+    ],
+    "time_of_day": "not_applicable",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "martial_artists_modern"
+    ],
+    "weapons": [
+      "fists_feet"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "large_crowds",
+      "score_driven"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "mild",
+    "language": "english",
+    "keywords": [
+      "all valley tournament",
+      "karate kid",
+      "miguel diaz",
+      "robby keene",
+      "johnny lawrence",
+      "cobra kai"
+    ]
+  },
+  {
+    "film": "Narcos",
+    "year": 2016,
+    "scene": "Pablo Escobar's rooftop death (S2E10 'Al Fin Cayó!')",
+    "query": "Narcos Pablo Escobar rooftop death scene",
+    "what_happens": "Tracked to a Medellín safe house, Pablo Escobar flees barefoot across the terracotta rooftops as the Search Bloc storms in, and is shot down on the tiles under a hail of gunfire.",
+    "why": "Recreating a famous news photograph: study how the episode mirrors the real rooftop geography and final image, uses handheld coverage for the flight, and slows the ending into an elegiac beat.",
+    "director": "Created by Chris Brancato, Carlo Bernard and Doug Miro",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "chase.foot",
+    "format": [
+      "pursuit",
+      "escape"
+    ],
+    "scale": "medium",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "late_20th_century",
+    "period": "Los Olivos, Medellín, Colombia, 2 December 1993",
+    "region": "latin_america",
+    "environment": [
+      "rooftops",
+      "apartment_house"
+    ],
+    "time_of_day": "day",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "tragic",
+      "gritty"
+    ],
+    "combatants": [
+      "gangsters",
+      "police",
+      "special_forces"
+    ],
+    "weapons": [
+      "rifle",
+      "handgun",
+      "automatic_weapons"
+    ],
+    "vehicles": [],
+    "technique": [
+      "handheld",
+      "real_location",
+      "slow_motion"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "moderate",
+    "language": "multiple",
+    "keywords": [
+      "pablo escobar",
+      "search bloc",
+      "medellin",
+      "rooftop",
+      "barefoot",
+      "1993"
+    ]
+  },
+  {
+    "film": "Line of Duty",
+    "year": 2014,
+    "scene": "Ambush on the witness convoy (S2E1)",
+    "query": "Line of Duty series 2 episode 1 convoy ambush scene",
+    "what_happens": "A police convoy escorting a protected witness is ambushed by masked gunmen on a quiet road; officers are cut down in a barrage of automatic fire, with DI Lindsay Denton the lone survivor.",
+    "why": "A shock opening that defines a season's stakes: study how the ambush is staged with ruthless speed and handheld confusion, and how the cold open plants questions (who knew the route?) that drive everything after.",
+    "director": "Created by Jed Mercurio",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "ambush"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "crime",
+      "thriller",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "An English Midlands city, present day",
+    "region": "british_isles",
+    "environment": [
+      "city_street"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light",
+      "strobe_flash"
+    ],
+    "mood": [
+      "tense",
+      "brutal"
+    ],
+    "combatants": [
+      "police",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "automatic_weapons",
+      "handgun"
+    ],
+    "vehicles": [
+      "car"
+    ],
+    "technique": [
+      "handheld",
+      "fast_cutting",
+      "sound_design"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "lindsay denton",
+      "convoy ambush",
+      "witness protection",
+      "ac-12",
+      "police corruption",
+      "cold open"
+    ]
+  },
+  {
+    "film": "Bodyguard",
+    "year": 2018,
+    "scene": "Suicide bomber on the train (E1)",
+    "query": "Bodyguard episode 1 train suicide bomber scene",
+    "what_happens": "Travelling to London with his children, off-duty Sergeant David Budd finds a terrified young woman wearing a suicide vest in the train toilet and talks her down as armed police swarm the halted carriage.",
+    "why": "Suspense through negotiation rather than action: study the nearly twenty-minute opening's cramped, mobile camerawork in the carriage, the cross-cutting to the police response, and how dialogue rhythm carries the tension.",
+    "director": "Thomas Vincent",
+    "country": "UK",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.gunfight",
+    "format": [
+      "standoff",
+      "rescue"
+    ],
+    "scale": "small_group",
+    "genre": [
+      "thriller",
+      "drama",
+      "crime"
+    ],
+    "era": "contemporary",
+    "period": "A London-bound train, present day",
+    "region": "british_isles",
+    "environment": [
+      "train"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [],
+    "mood": [
+      "tense",
+      "intimate"
+    ],
+    "combatants": [
+      "police",
+      "civilians"
+    ],
+    "weapons": [
+      "explosives",
+      "rifle"
+    ],
+    "vehicles": [
+      "train"
+    ],
+    "technique": [
+      "handheld",
+      "tight_framing",
+      "cross_cutting",
+      "single_location"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "none",
+    "language": "english",
+    "keywords": [
+      "david budd",
+      "suicide vest",
+      "negotiation",
+      "train",
+      "armed police",
+      "richard madden"
+    ]
+  },
+  {
+    "film": "The Old Man",
+    "year": 2022,
+    "scene": "Dan Chase fights the intruder in his kitchen (E1 'I')",
+    "query": "The Old Man Jeff Bridges kitchen fight scene",
+    "what_happens": "Woken at night by an armed intruder, ageing ex-CIA officer Dan Chase lures him through the dark house and kills him in a vicious, clumsy close-quarters fight in the kitchen.",
+    "why": "Action built around an older star: study how the fight is choreographed for age and desperation rather than skill, with short exchanges, brutal improvised weapons and darkness that hides and reveals the combatants.",
+    "director": "Jon Watts",
+    "country": "USA",
+    "craft": [],
+    "accolades": [],
+    "scene_type": "fight.hand_to_hand",
+    "format": [
+      "duel"
+    ],
+    "scale": "one_on_one",
+    "genre": [
+      "thriller",
+      "spy",
+      "drama"
+    ],
+    "era": "contemporary",
+    "period": "Dan Chase's rural home, present day",
+    "region": "usa",
+    "environment": [
+      "apartment_house",
+      "restaurant_kitchen"
+    ],
+    "time_of_day": "night",
+    "atmosphere": [
+      "low_light"
+    ],
+    "mood": [
+      "brutal",
+      "tense",
+      "gritty"
+    ],
+    "combatants": [
+      "spies_secret_agents",
+      "assassins_hitmen"
+    ],
+    "weapons": [
+      "handgun",
+      "knife",
+      "fists_feet",
+      "improvised"
+    ],
+    "vehicles": [],
+    "technique": [
+      "practical_stunts",
+      "single_location",
+      "tight_framing"
+    ],
+    "look": "live_action_color",
+    "medium": "series",
+    "violence": "graphic",
+    "language": "english",
+    "keywords": [
+      "dan chase",
+      "jeff bridges",
+      "home invasion",
+      "ex-cia",
+      "ageing hero",
+      "kitchen fight"
+    ],
+    "video": "Y9iMUiW5B1w"
+  }
+]

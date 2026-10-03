@@ -37,7 +37,7 @@ CLIP = 30
 STOP = {"the", "a", "an", "of", "and", "in", "on", "at", "to", "for", "part", "chapter", "episode",
         "vs", "with", "from", "by", "movie", "film", "scene", "clip", "hd", "4k", "fight", "season"}
 REJECT = re.compile(
-    r"\b(trailers?|teasers?|tv spot|reacts?|reaction|reacting|review|explained|explains|breakdown|"
+    r"\b(trailers?|teasers?|tv spot|reacts?|reactions?|reacting|best moments|moments that|relives|action replay|breaking down|in \d+ minutes|on training|review|explained|explains|breakdown|"
     r"analysis|analy[sz]ing|behind the scenes|making of|bts|how they|recreat\w*|remake|parody|lego|"
     r"minecraft|gta|fortnite|roblox|gameplay|video game|walkthrough|amv|#shorts|shorts|compilation|"
     r"top \d+|ranking|ranked|supercut|cosplay|fan ?film|fan ?made|fanmade|ai generated|concept|"
@@ -95,7 +95,7 @@ def scene_id(scene):
 
 
 # Channels that post real combat footage, documentaries, recaps or animated history, not film scenes.
-BAD_CHANNELS = {"funker530 - veteran community & combat footage", "funker530", "yarnhub", "war&history", "bocah spoiler",
+BAD_CHANNELS = {"vgs - video game sophistication", "funker530 - veteran community & combat footage", "funker530", "yarnhub", "war&history", "bocah spoiler",
                 "simple history", "kings and generals", "epic history tv", "the great war", "mark felton productions"}
 
 
