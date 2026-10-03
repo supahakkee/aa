@@ -3827,67 +3827,6 @@
     ]
   },
   {
-    "film": "Ashita no Joe 2",
-    "year": 1980,
-    "scene": "Joe vs. José Mendoza and the 'white ash' ending",
-    "query": "Ashita no Joe 2 final fight Jose Mendoza",
-    "what_happens": "Battered and fading, Joe Yabuki trades blows with world champion Jose Mendoza across fifteen rounds, shown in painted freeze frames and repeated cuts, until he sits slumped and smiling in his corner, drained white.",
-    "why": "Dezaki's painted 'postcard memory' freeze frames, repeated triple-take cuts and split screens turn a 15-round fight into elegy, ending on one of anime's most famous still images.",
-    "director": "Osamu Dezaki",
-    "country": "Japan",
-    "craft": [],
-    "accolades": [],
-    "scene_type": "fight.ring_sport",
-    "format": [
-      "bout"
-    ],
-    "scale": "one_on_one",
-    "genre": [
-      "sports",
-      "drama"
-    ],
-    "era": "mid_20th_century",
-    "region": "japan",
-    "environment": [
-      "arena_ring"
-    ],
-    "time_of_day": "not_applicable",
-    "atmosphere": [],
-    "mood": [
-      "tragic",
-      "brutal",
-      "melancholic"
-    ],
-    "combatants": [
-      "boxers_fighters"
-    ],
-    "weapons": [
-      "fists_feet"
-    ],
-    "vehicles": [],
-    "technique": [
-      "animation_2d",
-      "slow_motion",
-      "montage",
-      "split_screen"
-    ],
-    "look": "animation_2d",
-    "medium": "series",
-    "violence": "moderate",
-    "language": "japanese",
-    "period": "World bantamweight title fight, Tokyo, 1970s",
-    "keywords": [
-      "white ash",
-      "freeze frame",
-      "postcard memory",
-      "triple take",
-      "bantamweight",
-      "anime boxing",
-      "osamu dezaki"
-    ],
-    "video": "aBJxRfnrSgM"
-  },
-  {
     "film": "Heat",
     "year": 1995,
     "scene": "Downtown LA bank-robbery shootout",
