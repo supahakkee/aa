@@ -488,10 +488,7 @@
         "black_and_white": "Black-and-white photography.",
         "rear_projection": "Rear projection or in-camera compositing.",
         "underwater_filming": "Shot in or under water.",
-        "zero_g_rigs": "Rigs and techniques simulating weightlessness.",
-        "animation_2d": "Hand-drawn or 2D animation.",
-        "animation_3d": "3D or CG animation.",
-        "stylised_animation": "Mixed or stylised animation techniques (painterly, frame-rate play)."
+        "zero_g_rigs": "Rigs and techniques simulating weightlessness."
       }
     },
     "look": {
@@ -501,9 +498,7 @@
       "description": "How the footage is made.",
       "values": {
         "live_action_color": "Live-action in colour.",
-        "live_action_bw": "Live-action in black and white.",
-        "animation_2d": "2D or hand-drawn animation, including anime.",
-        "animation_3d": "3D or CG animation."
+        "live_action_bw": "Live-action in black and white."
       }
     },
     "medium": {
