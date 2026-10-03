@@ -1,6 +1,6 @@
-# Set-Piece Vault, local tools. Also needs ffmpeg (with ffprobe) and, for yt-dlp, node or deno.
+# Set-Piece Vault, local tools. Also needs ffmpeg (with ffprobe) and deno (or node) for yt-dlp.
 requests>=2.31
-yt-dlp>=2025.6.0
+yt-dlp[default]>=2025.10.22   # [default] bundles the YouTube challenge solver
 mcp>=1.2,<2        # 2.x renamed the server API; this code targets 1.x
 numpy>=1.26
 scenedetect>=0.6.4

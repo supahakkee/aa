@@ -56,7 +56,8 @@ def install_hint(tool):
     hints = {
         "ffmpeg": {"Darwin": "brew install ffmpeg", "Linux": "sudo apt install ffmpeg   (or your distro's package)",
                    "Windows": "winget install Gyan.FFmpeg"},
-        "node": {"Darwin": "brew install node", "Linux": "sudo apt install nodejs", "Windows": "winget install OpenJS.NodeJS"},
+        "deno": {"Darwin": "brew install deno", "Linux": "curl -fsSL https://deno.land/install.sh | sh",
+                 "Windows": "winget install DenoLand.Deno"},
     }
     return hints[tool].get(system, f"install {tool}")
 
@@ -75,10 +76,12 @@ def check(args, scene_count):
         else:
             print(f"   ✗ {tool} not found: {install_hint('ffmpeg')}")
             ok = False
-    if shutil.which("deno") or shutil.which("node"):
-        print(f"   ✓ JavaScript runtime for yt-dlp ({'deno' if shutil.which('deno') else 'node'})")
+    if shutil.which("deno"):
+        print("   ✓ deno (JavaScript runtime yt-dlp uses for YouTube)")
+    elif shutil.which("node"):
+        print(f"   ✓ node (works; deno is yt-dlp's preferred runtime: {install_hint('deno')})")
     else:
-        print(f"   ! no node or deno: YouTube downloads may fail. Install one: {install_hint('node')}")
+        print(f"   ! no deno or node: YouTube downloads will mostly fail. Install deno: {install_hint('deno')}")
     need_gb = scene_count * MB_PER_CLIP.get(args.height, 10) / 1000 * 1.3 if not args.skip_download else 0.5
     free_gb = shutil.disk_usage(ROOT).free / 1e9
     mark = "✓" if free_gb > need_gb else "✗"

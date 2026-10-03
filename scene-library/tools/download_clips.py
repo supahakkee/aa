@@ -3,7 +3,7 @@
 
 Run this on your own computer (YouTube refuses downloads from cloud servers):
 
-    pip install -U yt-dlp                 # plus ffmpeg, e.g. brew install ffmpeg / apt install ffmpeg
+    pip install -U "yt-dlp[default]"      # plus ffmpeg and deno (or node): brew install ffmpeg deno
     python3 tools/download_clips.py                        # all scenes
     python3 tools/download_clips.py scene_type=fight.blades region=japan
     python3 tools/download_clips.py genre=western --height 720 --pad 2
@@ -62,6 +62,39 @@ def probe_seconds(path):
         return None
 
 
+def _error(result):
+    lines = [l for l in result.stderr.strip().splitlines() if l.strip()]
+    errors = [l for l in lines if "ERROR" in l]
+    return (errors or lines or ["unknown error"])[-1]
+
+
+def _section(video_id, start, end, tmp, args):
+    """Fetch only the window (fast, but fragile on some networks)."""
+    cmd = ytdlp_base(args) + [
+        "-f", f"bv*[height<={args.height}][vcodec^=avc1]+ba[ext=m4a]/bv*[height<={args.height}]+ba/b[height<={args.height}]/b",
+        "--merge-output-format", "mp4", "--remux-video", "mp4",
+        "--download-sections", f"*{start}-{end}", "--force-keyframes-at-cuts",
+        "-o", str(tmp), f"https://www.youtube.com/watch?v={video_id}",
+    ]
+    return subprocess.run(cmd, capture_output=True, text=True)
+
+
+def _full_then_cut(video_id, start, end, tmp, args):
+    """Fallback: download the whole upload (usually a 2-5 minute scene clip) and cut it locally."""
+    full = tmp.with_name(tmp.stem + ".full.mp4")
+    cmd = ytdlp_base(args) + [
+        "-f", f"bv*[height<={args.height}]+ba/b[height<={args.height}]/b", "--merge-output-format", "mp4",
+        "-o", str(full), f"https://www.youtube.com/watch?v={video_id}",
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode == 0 and full.exists():
+        result = subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(start), "-i", str(full), "-t", str(end - start),
+                                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-c:a", "aac", "-b:a", "160k",
+                                 "-movflags", "+faststart", str(tmp)], capture_output=True, text=True)
+    full.unlink(missing_ok=True)
+    return result
+
+
 def download(scene, args):
     clip = scene["clip"]
     target = args.out / scene["scene_type"] / f"{scene['id']}.mp4"
@@ -76,19 +109,14 @@ def download(scene, args):
     for video_id, start, end, kind in sources:
         start, end = max(0, start - args.pad), end + args.pad
         tmp = target.with_name(f".{target.stem}.part.mp4")
-        cmd = ytdlp_base(args) + [
-            "-f", f"bv*[height<={args.height}][vcodec^=avc1]+ba[ext=m4a]/bv*[height<={args.height}]+ba/b[height<={args.height}]/b",
-            "--merge-output-format", "mp4", "--remux-video", "mp4",
-            "--download-sections", f"*{start}-{end}", "--force-keyframes-at-cuts",
-            "-o", str(tmp), f"https://www.youtube.com/watch?v={video_id}",
-        ]
-        for attempt in range(2):
-            result = subprocess.run(cmd, capture_output=True, text=True)
-            if result.returncode == 0 and tmp.exists():
-                break
-            time.sleep(3 * (attempt + 1))
+        method = "section"
+        result = _section(video_id, start, end, tmp, args)
+        if (result.returncode != 0 or not tmp.exists()) and "Sign in to confirm" not in result.stderr:
+            tmp.unlink(missing_ok=True)
+            method = "full"
+            result = _full_then_cut(video_id, start, end, tmp, args)
         if result.returncode != 0 or not tmp.exists():
-            message = (result.stderr.strip().splitlines() or ["unknown error"])[-1]
+            message = _error(result)
             errors.append(f"{kind} {video_id}: {message}")
             tmp.unlink(missing_ok=True)
             if "Sign in to confirm" in message and not (args.cookies or args.cookies_from_browser):
@@ -100,11 +128,11 @@ def download(scene, args):
         record = dict(scene)
         record["local_file"] = str(target.relative_to(args.out.parent)) if args.out.parent in target.parents else str(target)
         record["download"] = {
-            "youtube_id": video_id, "source": kind, "start": start, "end": end, "seconds": seconds,
+            "youtube_id": video_id, "source": kind, "method": method, "start": start, "end": end, "seconds": seconds,
             "max_height": args.height, "downloaded_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         }
         sidecar.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n")
-        return {"id": scene["id"], "status": "ok", "file": str(target), "source": kind, "seconds": seconds}
+        return {"id": scene["id"], "status": "ok", "file": str(target), "source": kind, "method": method, "seconds": seconds}
     return {"id": scene["id"], "status": "failed", "errors": errors}
 
 

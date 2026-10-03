@@ -18,7 +18,7 @@ every clip on disk, measured and indexed, and an MCP server your agent can call.
 |---|---|---|
 | Python 3.10+ | runs everything | python.org, `brew install python`, or your package manager |
 | ffmpeg (with ffprobe) | cuts and measures clips | macOS `brew install ffmpeg` · Ubuntu `sudo apt install ffmpeg` · Windows `winget install Gyan.FFmpeg` |
-| node (or deno) | yt-dlp needs a JavaScript runtime for YouTube | macOS `brew install node` · Ubuntu `sudo apt install nodejs` · Windows `winget install OpenJS.NodeJS` |
+| deno (or node) | yt-dlp needs a JavaScript runtime to read YouTube | macOS `brew install deno` · Linux `curl -fsSL https://deno.land/install.sh \| sh` · Windows `winget install DenoLand.Deno` |
 | git | gets the repository | |
 | A home or office internet connection | YouTube blocks downloads from cloud servers and data centres | |
 | Disk space | about 10 MB per clip at 1080p, 5 MB at 720p | the setup checks this |
@@ -130,7 +130,7 @@ Downloaded clips play from disk (they show an "On disk" badge); the rest stream 
 | Symptom | Fix |
 |---|---|
 | "Sign in to confirm you're not a bot" | Re-run with `--cookies-from-browser chrome` (or your browser) while signed in to YouTube in that browser. Lower `--workers` to 1 or 2. |
-| "No supported JavaScript runtime" or many formats missing | Install node or deno, then re-run. |
+| "No supported JavaScript runtime", "HTTP Error 403" or many formats missing | Install deno, then re-run (setup upgrades yt-dlp; YouTube changes often, so `.venv/bin/pip install -U "yt-dlp[default]"` fixes most new breakage). |
 | `ffmpeg` / `ffprobe` not found | Install ffmpeg (see the table above) and open a new terminal. |
 | Many "Video unavailable" | The upload is region-locked or removed; the alternates are tried automatically. Report the ids in `clips/report.json` to whoever maintains the catalog. |
 | `pip install` fails building a package | Use Python 3.11 or 3.12; very new Python versions sometimes lack wheels for onnxruntime or opencv. |
