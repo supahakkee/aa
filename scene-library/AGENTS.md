@@ -31,35 +31,35 @@ the files and command-line tools described here.
 
 ```json
 {
-  "id": "seven-samurai-1954-final-battle-in-the-rain",
-  "film": "Seven Samurai", "year": 1954, "scene": "Final battle in the rain",
+  "id": "13-assassins-2010-ochiai-village-battle",
+  "film": "13 Assassins", "year": 2010, "scene": "Ochiai village battle",
   "what_happens": "Literal description of what is on screen.",
   "what_to_study": "The craft lesson: choreography, camera, editing, sound, effects.",
 
   "scene_type": "battle.pre_gunpowder",
-  "format": ["last_stand", "massed_battle"],
-  "scale": "medium",
-  "genre": ["samurai_jidaigeki", "action"],
-  "era": "early_modern",
-  "period": "Sengoku-period Japan, 1586",
+  "format": ["ambush", "massed_battle"],
+  "scale": "army",
+  "genre": ["samurai_jidaigeki", "action", "drama"],
+  "era": "19th_century",
+  "period": "Ochiai post town, Japan, 1844",
   "region": "japan",
-  "environment": ["village", "swamp_mud"],
+  "environment": ["village", "town_main_street"],
   "time_of_day": "day",
-  "atmosphere": ["rain", "mud"],
-  "mood": ["chaotic", "epic"],
-  "combatants": ["samurai", "outlaws_bandits", "civilians"],
-  "weapons": ["katana", "spear_polearm", "bow_arrow"],
-  "vehicles": ["horse"],
-  "technique": ["practical_stunts", "real_location", "black_and_white"],
-  "look": "live_action_bw", "medium": "film", "violence": "moderate", "language": "japanese",
-  "keywords": ["village defense", "horse charge"],
+  "atmosphere": ["fire", "explosions", "smoke"],
+  "mood": ["chaotic", "epic", "brutal"],
+  "combatants": ["samurai", "ronin"],
+  "weapons": ["katana", "explosives", "bow_arrow", "spear_polearm"],
+  "vehicles": [],
+  "technique": ["practical_effects", "practical_explosions", "large_crowds", "fast_cutting"],
+  "look": "live_action_color", "medium": "film", "violence": "graphic", "language": "japanese",
+  "keywords": ["booby-trapped village", "flaming bulls", "barricades", "takashi miike"],
 
-  "director": "Akira Kurosawa", "production_country": "Japan",
-  "crew": ["DP: Asakazu Nakai"], "awards": ["Venice: Silver Lion"],
+  "director": "Takashi Miike", "production_country": "Japan/UK",
+  "crew": [], "awards": [],
   "clip": {
-    "file": "clips/battle.pre_gunpowder/seven-samurai-1954-final-battle-in-the-rain.mp4",
-    "youtube_id": "…", "youtube_url": "https://www.youtube.com/watch?v=…&t=123s",
-    "start": 123, "end": 153, "seconds": 30,
+    "file": "clips/battle.pre_gunpowder/13-assassins-2010-ochiai-village-battle.mp4",
+    "youtube_id": "…", "youtube_url": "https://www.youtube.com/watch?v=…&t=57s",
+    "start": 57, "end": 87, "seconds": 30,
     "window": "most_replayed",
     "source_title": "…", "source_channel": "…", "source_views": 0, "source_duration": 0,
     "replay_heat": "0123…", "alternates": [{"youtube_id": "…", "start": 40, "title": "…", "channel": "…"}]
@@ -90,7 +90,7 @@ Every value is defined in `taxonomy.json`. Lists are ordered: the first value ma
 | `weapons` | 0-5 | Weapons in use (katana, european_sword, handgun, artillery_cannon, superpowers…). |
 | `vehicles` | 0-3 | Vehicles and mounts (car, motorcycle, horse, warship, starfighter…). |
 | `technique` | 2-6 | Craft worth studying (long_take, practical_stunts, wire_work, cgi, imax_large_format…). |
-| `look` | 1 | live_action_color, live_action_bw, animation_2d, animation_3d. |
+| `look` | 1 | live_action_color or live_action_bw (the library is live action only). |
 | `medium` | 1 | film or series. |
 | `violence` | 1 | none, mild, moderate, graphic. |
 | `language` | 1 | Original spoken language. |

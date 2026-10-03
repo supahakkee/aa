@@ -1,7 +1,7 @@
 # Set-Piece Vault
 
-A reference library of great action set-pieces from film and TV, built for filmmakers and for the
-AI agents that help them. Every scene is a **30-second clip** with notes on what happens and what
+A reference library of great action set-pieces from live-action films and series released since
+2000, built for filmmakers and for the AI agents that help them. Every scene is a **30-second clip** with notes on what happens and what
 to study, its crew and awards, and **18 tag facets** from a controlled vocabulary: scene type,
 action format, scale, genre, story era and exact period, region, environment, time of day,
 atmosphere, mood, who is fighting, weapons, vehicles, filmmaking technique, look, release format,

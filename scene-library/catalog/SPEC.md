@@ -6,42 +6,43 @@ film). `tools/resolve.py` finds a YouTube clip for it and picks a 30-second wind
 
 ```json
 {
-  "film": "Seven Samurai",
-  "year": 1954,
-  "scene": "Final battle in the rain",
-  "query": "Seven Samurai final battle rain scene",
-  "what_happens": "Samurai and armed farmers defend their village against mounted bandits in a torrential downpour, fighting hand to hand in the mud.",
+  "film": "13 Assassins",
+  "year": 2010,
+  "scene": "Ochiai village battle",
+  "query": "13 Assassins village battle scene",
+  "what_happens": "Thirteen samurai spring a trap on a cruel lord's 200-man escort inside a fortified village, sealing streets with barricades, blasting them with explosives and arrows, then wading in with swords.",
   "why": "One or two sentences on the craft to study: blocking, choreography, camera, editing, sound, effects.",
-  "director": "Akira Kurosawa",
-  "country": "Japan",
-  "craft": ["DP: Asakazu Nakai"],
-  "accolades": ["Venice: Silver Lion"],
+  "director": "Takashi Miike",
+  "country": "Japan/UK",
+  "craft": [],
+  "accolades": [],
 
   "scene_type": "battle.pre_gunpowder",
-  "format": ["last_stand", "massed_battle"],
-  "scale": "medium",
-  "genre": ["samurai_jidaigeki", "action"],
-  "era": "early_modern",
-  "period": "Sengoku-period Japan, 1586",
+  "format": ["ambush", "massed_battle"],
+  "scale": "army",
+  "genre": ["samurai_jidaigeki", "action", "drama"],
+  "era": "19th_century",
+  "period": "Ochiai post town, Japan, 1844",
   "region": "japan",
-  "environment": ["village", "swamp_mud"],
+  "environment": ["village", "town_main_street"],
   "time_of_day": "day",
-  "atmosphere": ["rain", "mud"],
-  "mood": ["chaotic", "epic"],
-  "combatants": ["samurai", "outlaws_bandits", "civilians"],
-  "weapons": ["katana", "spear_polearm", "bow_arrow", "musket_flintlock"],
-  "vehicles": ["horse"],
-  "technique": ["practical_stunts", "real_location", "black_and_white"],
-  "look": "live_action_bw",
+  "atmosphere": ["fire", "explosions", "smoke"],
+  "mood": ["chaotic", "epic", "brutal"],
+  "combatants": ["samurai", "ronin"],
+  "weapons": ["katana", "explosives", "bow_arrow", "spear_polearm"],
+  "vehicles": [],
+  "technique": ["practical_effects", "practical_explosions", "large_crowds", "fast_cutting"],
+  "look": "live_action_color",
   "medium": "film",
-  "violence": "moderate",
+  "violence": "graphic",
   "language": "japanese",
-  "keywords": ["village defense", "horse charge", "mud"]
+  "keywords": ["booby-trapped village", "flaming bulls", "barricades", "takashi miike"]
 }
 ```
 
 ## Field rules
 
+- **Scope**: live-action films and series released in 2000 or later. No animation or anime.
 - **Facets** (`scene_type` through `language`): only values from `taxonomy.json`, which defines every
   value. Single-value facets are strings; the others are lists ordered by importance, within the
   min/max counts the taxonomy gives.
