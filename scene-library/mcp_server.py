@@ -40,7 +40,7 @@ mcp = FastMCP(
 )
 
 
-TIER_RANK = {"canon": 0, "excellent": 1, "replaceable": 2}
+TIER_RANK = {"canon": 0, "excellent": 1}
 
 
 def _facet_param(facet):

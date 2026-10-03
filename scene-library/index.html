@@ -454,7 +454,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   const ERA_ORDER = Object.keys(TAX.era ? TAX.era.values : {});
   const WINDOW_LABEL = { most_replayed: "Most-replayed window", motion_peak: "Busiest 30 s by motion", hand_picked: "Hand-picked window", estimated: "Estimated window" };
   const LABEL = {
-    canon: "Canon", excellent: "Excellent", replaceable: "Replaceable",
+    canon: "Canon", excellent: "Excellent",
     ww2: "WW2", usa: "USA", "19th_century": "19th century", early_20th_century: "Early 20th century", mid_20th_century: "Mid 20th century",
     late_20th_century: "Late 20th century", cgi: "CGI", pov: "POV", imax_large_format: "IMAX / large format", animation_2d: "2D animation",
     animation_3d: "3D animation", live_action_color: "Live action, colour", live_action_bw: "Live action, black & white",
@@ -585,7 +585,7 @@ dialog.viewer::backdrop { background: rgba(4, 6, 9, 0.82); backdrop-filter: blur
   }
   const selected = (facet) => state.f[facet] || (state.f[facet] = new Set());
   const filterCount = () => Object.values(state.f).reduce((n, set) => n + set.size, 0);
-  const TIER_RANK = { canon: 0, excellent: 1, replaceable: 2 };
+  const TIER_RANK = { canon: 0, excellent: 1 };
   const SORTS = {
     curated: (a, b) => a.order - b.order,
     tier: (a, b) => TIER_RANK[a.tier] - TIER_RANK[b.tier] || a.order - b.order,

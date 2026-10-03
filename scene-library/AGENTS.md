@@ -77,7 +77,7 @@ Every value is defined in `taxonomy.json`. Lists are ordered: the first value ma
 | Facet | Values | Answers |
 |---|---|---|
 | `scene_type` | exactly 1 | What kind of set-piece. `fight.*` = individuals or small groups; `battle.*` = organised forces; `chase.*`, `race`, `stunt.set_piece`, `creature.attack`, `disaster`, `vfx.showcase`, `space.travel`. |
-| `tier` | 1 | How essential: canon (every filmmaker should know it), excellent (among the best of its kind), replaceable (good, not reference-grade). Search results list canon first; ask for `tier=canon` when you want only the essentials. |
+| `tier` | 1 | How essential: canon (every filmmaker should know it) or excellent (among the best of its kind); scenes below that bar were cut. Search results list canon first; ask for `tier=canon` when you want only the essentials. |
 | `format` | 1-2 | How the action is structured: duel, one_vs_many, ambush, siege, standoff, pursuit, dogfight… |
 | `scale` | 1 | How many participants: solo, one_on_one, small_group, one_vs_many, medium, army, fleet, city_scale. |
 | `genre` | 1-3 | Genre of the source film (first = primary). |

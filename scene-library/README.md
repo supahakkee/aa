@@ -3,7 +3,7 @@
 A reference library of great action set-pieces from live-action films and series released since
 2000, built for filmmakers and for the AI agents that help them. Every scene is a **30-second clip**
 with notes on what happens and what to study, its crew and awards, and **19 tag facets** from a
-controlled vocabulary: scene type, tier (canon, excellent, replaceable), action format, scale,
+controlled vocabulary: scene type, tier (canon or excellent), action format, scale,
 genre, story era and exact period, region, environment, time of day, atmosphere, mood, who is
 fighting, weapons, vehicles, filmmaking technique, look, release format, violence level and
 language.
@@ -13,14 +13,14 @@ The tags keep similar-looking scenes apart: a samurai duel in the rain (`fight.b
 `british_isles`, `knights`, `european_sword`).
 
 <!-- counts -->
-**730 scenes** from 462 films and series, 2000-2025, made in 32 countries; 6 h 5 min of clips. 143 canon · 375 excellent · 212 replaceable.
+**518 scenes** from 339 films and series, 2000-2025, made in 31 countries; 4 h 19 min of clips. 143 canon · 375 excellent.
 
 | Family | Scenes | Scene types |
 |---|---|---|
-| Fight | 313 | `fight.hand_to_hand` 90 · `fight.gunfight` 82 · `fight.blades` 69 · `fight.superpowered` 32 · `fight.ring_sport` 22 · `fight.creature` 18 |
-| Battle | 197 | `battle.modern_ground` 61 · `battle.pre_gunpowder` 46 · `battle.giants` 27 · `battle.air` 19 · `battle.space` 17 · `battle.naval` 16 · `battle.black_powder` 11 |
-| Chase & race | 93 | `chase.vehicle` 50 · `chase.foot` 25 · `race` 13 · `chase.air` 5 |
-| Stunts & spectacle | 127 | `disaster` 44 · `creature.attack` 29 · `stunt.set_piece` 24 · `vfx.showcase` 19 · `space.travel` 11 |
+| Fight | 226 | `fight.hand_to_hand` 67 · `fight.gunfight` 61 · `fight.blades` 53 · `fight.superpowered` 21 · `fight.ring_sport` 12 · `fight.creature` 12 |
+| Battle | 133 | `battle.modern_ground` 45 · `battle.pre_gunpowder` 29 · `battle.giants` 18 · `battle.air` 13 · `battle.space` 11 · `battle.naval` 11 · `battle.black_powder` 6 |
+| Chase & race | 66 | `chase.vehicle` 35 · `chase.foot` 20 · `race` 9 · `chase.air` 2 |
+| Stunts & spectacle | 93 | `disaster` 30 · `stunt.set_piece` 19 · `creature.attack` 19 · `vfx.showcase` 16 · `space.travel` 9 |
 <!-- /counts -->
 
 ## Get it running

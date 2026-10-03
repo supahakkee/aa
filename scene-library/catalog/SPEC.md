@@ -51,7 +51,8 @@ film). `tools/resolve.py` finds a YouTube clip for it and picks a 30-second wind
   what dominates the 30-second window. A samurai duel and a medieval army clash differ in
   `scene_type`, `era`, `region`, `combatants` and `weapons`; tag all of them precisely.
 - `tier`: canon only for scenes routinely on greatest-scene lists, award-defining or widely taught;
-  excellent for the best of their kind; replaceable for good scenes a better example already covers.
+  excellent for the best of their kind. A scene that is merely good, or that a better example of the
+  same kind already covers, does not belong in the library.
 - `era`, `region`, `period`: the story setting, not where or when the film was made.
 - `what_happens`: 6-45 words describing what is visibly on screen, in your own words. No dialogue.
 - `why`: the craft lesson, around 45 words at most.
